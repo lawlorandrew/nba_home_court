@@ -1,0 +1,1317 @@
+,attendance,box_score_text,game_date,game_remarks,game_start_time,home_pts,home_team_name,overtimes,visitor_pts,visitor_team_name,playoffs
+0,"21,957",Box Score,"Tue, Oct 27, 2015",,8:00p,97,Chicago Bulls,,95,Cleveland Cavaliers,N
+1,"19,187",Box Score,"Tue, Oct 27, 2015",,8:00p,94,Atlanta Hawks,,106,Detroit Pistons,N
+2,"19,596",Box Score,"Tue, Oct 27, 2015",,10:30p,111,Golden State Warriors,,95,New Orleans Pelicans,N
+3,"18,846",Box Score,"Wed, Oct 28, 2015",,7:00p,87,Orlando Magic,,88,Washington Wizards,N
+4,"18,624",Box Score,"Wed, Oct 28, 2015",,7:30p,112,Boston Celtics,,95,Philadelphia 76ers,N
+5,"17,732",Box Score,"Wed, Oct 28, 2015",,7:30p,100,Brooklyn Nets,,115,Chicago Bulls,N
+6,"18,434",Box Score,"Wed, Oct 28, 2015",,7:30p,92,Detroit Pistons,,87,Utah Jazz,N
+7,"19,800",Box Score,"Wed, Oct 28, 2015",,7:30p,106,Toronto Raptors,,99,Indiana Pacers,N
+8,"19,724",Box Score,"Wed, Oct 28, 2015",,7:30p,104,Miami Heat,,94,Charlotte Hornets,N
+9,"18,717",Box Score,"Wed, Oct 28, 2015",,8:00p,97,Milwaukee Bucks,,122,New York Knicks,N
+10,"18,203",Box Score,"Wed, Oct 28, 2015",,8:00p,112,Oklahoma City Thunder,,106,San Antonio Spurs,N
+11,"18,119",Box Score,"Wed, Oct 28, 2015",,8:00p,76,Memphis Grizzlies,,106,Cleveland Cavaliers,N
+12,"18,240",Box Score,"Wed, Oct 28, 2015",,8:00p,85,Houston Rockets,,105,Denver Nuggets,N
+13,"18,055",Box Score,"Wed, Oct 28, 2015",,10:00p,95,Phoenix Suns,,111,Dallas Mavericks,N
+14,"19,393",Box Score,"Wed, Oct 28, 2015",,10:00p,112,Portland Trail Blazers,,94,New Orleans Pelicans,N
+15,"17,458",Box Score,"Wed, Oct 28, 2015",,10:00p,104,Sacramento Kings,,111,Los Angeles Clippers,N
+16,"18,997",Box Score,"Wed, Oct 28, 2015",,10:30p,111,Los Angeles Lakers,,112,Minnesota Timberwolves,N
+17,"18,165",Box Score,"Thu, Oct 29, 2015",,7:00p,103,Indiana Pacers,,112,Memphis Grizzlies,N
+18,"19,812",Box Score,"Thu, Oct 29, 2015",,8:00p,101,New York Knicks,,112,Atlanta Hawks,N
+19,"19,218",Box Score,"Thu, Oct 29, 2015",,10:30p,104,Los Angeles Clippers,,88,Dallas Mavericks,N
+20,"20,562",Box Score,"Fri, Oct 30, 2015",,7:00p,102,Cleveland Cavaliers,,92,Miami Heat,N
+21,"17,122",Box Score,"Fri, Oct 30, 2015",,7:00p,71,Philadelphia 76ers,,99,Utah Jazz,N
+22,"18,846",Box Score,"Fri, Oct 30, 2015",,7:00p,136,Orlando Magic,2OT,139,Oklahoma City Thunder,N
+23,"16,898",Box Score,"Fri, Oct 30, 2015",,7:30p,103,Boston Celtics,,113,Toronto Raptors,N
+24,"16,035",Box Score,"Fri, Oct 30, 2015",,7:30p,98,Detroit Pistons,OT,94,Chicago Bulls,N
+25,"17,024",Box Score,"Fri, Oct 30, 2015",,8:00p,97,Atlanta Hawks,,94,Charlotte Hornets,N
+26,"13,858",Box Score,"Fri, Oct 30, 2015",,8:00p,113,Milwaukee Bucks,,118,Washington Wizards,N
+27,"18,418",Box Score,"Fri, Oct 30, 2015",,8:30p,102,San Antonio Spurs,,75,Brooklyn Nets,N
+28,"17,660",Box Score,"Fri, Oct 30, 2015",,9:00p,78,Denver Nuggets,,95,Minnesota Timberwolves,N
+29,"18,142",Box Score,"Fri, Oct 30, 2015",,9:30p,92,Houston Rockets,,112,Golden State Warriors,N
+30,"17,391",Box Score,"Fri, Oct 30, 2015",,10:00p,132,Sacramento Kings,,114,Los Angeles Lakers,N
+31,"18,055",Box Score,"Fri, Oct 30, 2015",,10:30p,110,Phoenix Suns,,92,Portland Trail Blazers,N
+32,"14,412",Box Score,"Sat, Oct 31, 2015",,7:00p,76,Indiana Pacers,,97,Utah Jazz,N
+33,"20,356",Box Score,"Sat, Oct 31, 2015",,7:00p,110,Washington Wizards,,117,New York Knicks,N
+34,"18,406",Box Score,"Sat, Oct 31, 2015",,7:30p,120,New Orleans Pelicans,,134,Golden State Warriors,N
+35,"16,013",Box Score,"Sat, Oct 31, 2015",,8:00p,101,Memphis Grizzlies,,91,Brooklyn Nets,N
+36,"17,906",Box Score,"Sat, Oct 31, 2015",,10:00p,90,Portland Trail Blazers,,101,Phoenix Suns,N
+37,"19,060",Box Score,"Sat, Oct 31, 2015",,10:30p,114,Los Angeles Clippers,,109,Sacramento Kings,N
+38,"18,691",Box Score,"Sun, Nov 1, 2015",,2:00p,92,Charlotte Hornets,,94,Atlanta Hawks,N
+39,"17,461",Box Score,"Sun, Nov 1, 2015",,3:30p,87,Boston Celtics,,95,San Antonio Spurs,N
+40,"19,600",Box Score,"Sun, Nov 1, 2015",,6:00p,109,Miami Heat,,89,Houston Rockets,N
+41,"19,800",Box Score,"Sun, Nov 1, 2015",,6:00p,106,Toronto Raptors,,87,Milwaukee Bucks,N
+42,"21,585",Box Score,"Sun, Nov 1, 2015",,7:00p,92,Chicago Bulls,,87,Orlando Magic,N
+43,"18,203",Box Score,"Sun, Nov 1, 2015",,7:00p,117,Oklahoma City Thunder,,93,Denver Nuggets,N
+44,"18,997",Box Score,"Sun, Nov 1, 2015",,9:30p,93,Los Angeles Lakers,,103,Dallas Mavericks,N
+45,"18,094",Box Score,"Mon, Nov 2, 2015",,7:00p,100,Philadelphia 76ers,,107,Cleveland Cavaliers,N
+46,"12,576",Box Score,"Mon, Nov 2, 2015",,7:30p,96,Brooklyn Nets,,103,Milwaukee Bucks,N
+47,"19,812",Box Score,"Mon, Nov 2, 2015",,7:30p,84,New York Knicks,,94,San Antonio Spurs,N
+48,"17,224",Box Score,"Mon, Nov 2, 2015",,8:00p,110,Houston Rockets,,105,Oklahoma City Thunder,N
+49,"18,903",Box Score,"Mon, Nov 2, 2015",,8:00p,101,Minnesota Timberwolves,,106,Portland Trail Blazers,N
+50,"19,596",Box Score,"Mon, Nov 2, 2015",,10:30p,119,Golden State Warriors,,69,Memphis Grizzlies,N
+51,"19,060",Box Score,"Mon, Nov 2, 2015",,10:30p,102,Los Angeles Clippers,,96,Phoenix Suns,N
+52,"15,136",Box Score,"Tue, Nov 3, 2015",,7:00p,130,Charlotte Hornets,,105,Chicago Bulls,N
+53,"13,325",Box Score,"Tue, Nov 3, 2015",,7:30p,82,Detroit Pistons,,94,Indiana Pacers,N
+54,"19,600",Box Score,"Tue, Nov 3, 2015",,7:30p,92,Miami Heat,,98,Atlanta Hawks,N
+55,"16,876",Box Score,"Tue, Nov 3, 2015",,8:00p,94,New Orleans Pelicans,,103,Orlando Magic,N
+56,"20,034",Box Score,"Tue, Nov 3, 2015",,8:30p,91,Dallas Mavericks,,102,Toronto Raptors,N
+57,"17,317",Box Score,"Tue, Nov 3, 2015",,10:00p,89,Sacramento Kings,,103,Memphis Grizzlies,N
+58,"18,997",Box Score,"Tue, Nov 3, 2015",,10:30p,109,Los Angeles Lakers,,120,Denver Nuggets,N
+59,"14,022",Box Score,"Wed, Nov 4, 2015",,7:00p,100,Indiana Pacers,,98,Boston Celtics,N
+60,"17,721",Box Score,"Wed, Nov 4, 2015",,7:00p,102,Washington Wizards,,99,San Antonio Spurs,N
+61,"14,044",Box Score,"Wed, Nov 4, 2015",,8:00p,101,Atlanta Hawks,,87,Brooklyn Nets,N
+62,"20,562",Box Score,"Wed, Nov 4, 2015",,8:00p,96,Cleveland Cavaliers,,86,New York Knicks,N
+63,"16,735",Box Score,"Wed, Nov 4, 2015",,8:00p,119,Houston Rockets,OT,114,Orlando Magic,N
+64,"12,437",Box Score,"Wed, Nov 4, 2015",,8:00p,91,Milwaukee Bucks,,87,Philadelphia 76ers,N
+65,"18,203",Box Score,"Wed, Nov 4, 2015",,8:00p,98,Oklahoma City Thunder,,103,Toronto Raptors,N
+66,"16,497",Box Score,"Wed, Nov 4, 2015",,9:00p,118,Phoenix Suns,,97,Sacramento Kings,N
+67,"19,911",Box Score,"Wed, Nov 4, 2015",,9:00p,92,Utah Jazz,,108,Portland Trail Blazers,N
+68,"19,596",Box Score,"Wed, Nov 4, 2015",,10:30p,112,Golden State Warriors,,108,Los Angeles Clippers,N
+69,"21,861",Box Score,"Thu, Nov 5, 2015",,8:00p,104,Chicago Bulls,,98,Oklahoma City Thunder,N
+70,"11,794",Box Score,"Thu, Nov 5, 2015",,8:00p,84,Minnesota Timberwolves,,96,Miami Heat,N
+71,"19,635",Box Score,"Thu, Nov 5, 2015",,8:30p,94,Dallas Mavericks,,108,Charlotte Hornets,N
+72,"9,906",Box Score,"Thu, Nov 5, 2015",,9:00p,84,Denver Nuggets,,96,Utah Jazz,N
+73,"19,393",Box Score,"Thu, Nov 5, 2015",,10:30p,115,Portland Trail Blazers,,96,Memphis Grizzlies,N
+74,"16,578",Box Score,"Fri, Nov 6, 2015",,7:00p,92,Orlando Magic,,87,Toronto Raptors,N
+75,"18,624",Box Score,"Fri, Nov 6, 2015",,7:30p,118,Boston Celtics,,98,Washington Wizards,N
+76,"17,732",Box Score,"Fri, Nov 6, 2015",,7:30p,98,Brooklyn Nets,,104,Los Angeles Lakers,N
+77,"20,562",Box Score,"Fri, Nov 6, 2015",,7:30p,108,Cleveland Cavaliers,,102,Philadelphia 76ers,N
+78,"19,812",Box Score,"Fri, Nov 6, 2015",,7:30p,92,New York Knicks,,99,Milwaukee Bucks,N
+79,"16,914",Box Score,"Fri, Nov 6, 2015",,8:00p,90,Indiana Pacers,,87,Miami Heat,N
+80,"16,983",Box Score,"Fri, Nov 6, 2015",,8:00p,115,New Orleans Pelicans,,121,Atlanta Hawks,N
+81,"16,676",Box Score,"Fri, Nov 6, 2015",,9:30p,92,Phoenix Suns,,100,Detroit Pistons,N
+82,"19,596",Box Score,"Fri, Nov 6, 2015",,10:30p,119,Golden State Warriors,,104,Denver Nuggets,N
+83,"16,983",Box Score,"Fri, Nov 6, 2015",,10:30p,110,Sacramento Kings,,116,Houston Rockets,N
+84,"21,988",Box Score,"Sat, Nov 7, 2015",,6:00p,93,Chicago Bulls,OT,102,Minnesota Timberwolves,N
+85,"15,207",Box Score,"Sat, Nov 7, 2015",,7:00p,97,Philadelphia 76ers,,105,Orlando Magic,N
+86,"18,047",Box Score,"Sat, Nov 7, 2015",,7:30p,114,Atlanta Hawks,,99,Washington Wizards,N
+87,"20,454",Box Score,"Sat, Nov 7, 2015",,8:30p,107,Dallas Mavericks,,98,New Orleans Pelicans,N
+88,"15,228",Box Score,"Sat, Nov 7, 2015",,8:30p,94,Milwaukee Bucks,,86,Brooklyn Nets,N
+89,"18,418",Box Score,"Sat, Nov 7, 2015",,8:30p,114,San Antonio Spurs,,94,Charlotte Hornets,N
+90,"19,456",Box Score,"Sat, Nov 7, 2015",,9:00p,89,Utah Jazz,,79,Memphis Grizzlies,N
+91,"17,317",Box Score,"Sat, Nov 7, 2015",,10:00p,94,Sacramento Kings,,103,Golden State Warriors,N
+92,"19,361",Box Score,"Sat, Nov 7, 2015",,10:30p,105,Los Angeles Clippers,,109,Houston Rockets,N
+93,"20,562",Box Score,"Sun, Nov 8, 2015",,3:30p,101,Cleveland Cavaliers,,97,Indiana Pacers,N
+94,"19,812",Box Score,"Sun, Nov 8, 2015",,3:30p,99,New York Knicks,,95,Los Angeles Lakers,N
+95,"19,600",Box Score,"Sun, Nov 8, 2015",,6:00p,96,Miami Heat,,76,Toronto Raptors,N
+96,"18,203",Box Score,"Sun, Nov 8, 2015",,7:00p,124,Oklahoma City Thunder,,103,Phoenix Suns,N
+97,"19,393",Box Score,"Sun, Nov 8, 2015",,9:00p,103,Portland Trail Blazers,,120,Detroit Pistons,N
+98,"13,104",Box Score,"Mon, Nov 9, 2015",,7:00p,97,Indiana Pacers,,84,Orlando Magic,N
+99,"13,879",Box Score,"Mon, Nov 9, 2015",,7:00p,88,Philadelphia 76ers,,111,Chicago Bulls,N
+100,"12,016",Box Score,"Mon, Nov 9, 2015",,8:00p,107,Atlanta Hawks,,117,Minnesota Timberwolves,N
+101,"9,153",Box Score,"Mon, Nov 9, 2015",,9:00p,108,Denver Nuggets,,104,Portland Trail Blazers,N
+102,"17,317",Box Score,"Mon, Nov 9, 2015",,10:00p,88,Sacramento Kings,,106,San Antonio Spurs,N
+103,"19,596",Box Score,"Mon, Nov 9, 2015",,10:30p,109,Golden State Warriors,,95,Detroit Pistons,N
+104,"19,060",Box Score,"Mon, Nov 9, 2015",,10:30p,94,Los Angeles Clippers,,92,Memphis Grizzlies,N
+105,"20,562",Box Score,"Tue, Nov 10, 2015",,7:00p,118,Cleveland Cavaliers,,114,Utah Jazz,N
+106,"20,356",Box Score,"Tue, Nov 10, 2015",,7:00p,101,Washington Wizards,,125,Oklahoma City Thunder,N
+107,"19,825",Box Score,"Tue, Nov 10, 2015",,7:30p,101,Miami Heat,,88,Los Angeles Lakers,N
+108,"19,800",Box Score,"Tue, Nov 10, 2015",,7:30p,109,Toronto Raptors,,111,New York Knicks,N
+109,"11,822",Box Score,"Tue, Nov 10, 2015",,8:00p,83,Milwaukee Bucks,,99,Boston Celtics,N
+110,"14,722",Box Score,"Tue, Nov 10, 2015",,8:00p,95,Minnesota Timberwolves,,104,Charlotte Hornets,N
+111,"17,128",Box Score,"Tue, Nov 10, 2015",,8:00p,120,New Orleans Pelicans,,105,Dallas Mavericks,N
+112,"16,643",Box Score,"Wed, Nov 11, 2015",,7:00p,95,Charlotte Hornets,,93,New York Knicks,N
+113,"18,846",Box Score,"Wed, Nov 11, 2015",,7:00p,101,Orlando Magic,,99,Los Angeles Lakers,N
+114,"12,744",Box Score,"Wed, Nov 11, 2015",,7:00p,103,Philadelphia 76ers,,119,Toronto Raptors,N
+115,"17,879",Box Score,"Wed, Nov 11, 2015",,7:30p,91,Boston Celtics,,102,Indiana Pacers,N
+116,"15,597",Box Score,"Wed, Nov 11, 2015",,8:00p,106,Atlanta Hawks,,98,New Orleans Pelicans,N
+117,"19,805",Box Score,"Wed, Nov 11, 2015",,8:00p,118,Dallas Mavericks,,108,Los Angeles Clippers,N
+118,"18,155",Box Score,"Wed, Nov 11, 2015",,8:00p,98,Houston Rockets,,106,Brooklyn Nets,N
+119,"18,119",Box Score,"Wed, Nov 11, 2015",,8:00p,84,Memphis Grizzlies,,100,Golden State Warriors,N
+120,"9,403",Box Score,"Wed, Nov 11, 2015",,9:00p,103,Denver Nuggets,,102,Milwaukee Bucks,N
+121,"17,317",Box Score,"Wed, Nov 11, 2015",,10:00p,101,Sacramento Kings,,92,Detroit Pistons,N
+122,"19,393",Box Score,"Wed, Nov 11, 2015",,10:30p,101,Portland Trail Blazers,,113,San Antonio Spurs,N
+123,"19,600",Box Score,"Thu, Nov 12, 2015",,7:30p,92,Miami Heat,,91,Utah Jazz,N
+124,"16,130",Box Score,"Thu, Nov 12, 2015",,8:00p,116,Minnesota Timberwolves,,129,Golden State Warriors,N
+125,"17,204",Box Score,"Thu, Nov 12, 2015",,10:30p,118,Phoenix Suns,,104,Los Angeles Clippers,N
+126,"16,797",Box Score,"Fri, Nov 13, 2015",,7:00p,107,Indiana Pacers,,103,Minnesota Timberwolves,N
+127,"16,709",Box Score,"Fri, Nov 13, 2015",,7:00p,102,Orlando Magic,,93,Utah Jazz,N
+128,"17,138",Box Score,"Fri, Nov 13, 2015",,7:30p,106,Boston Celtics,,93,Atlanta Hawks,N
+129,"19,812",Box Score,"Fri, Nov 13, 2015",,7:30p,84,New York Knicks,,90,Cleveland Cavaliers,N
+130,"19,800",Box Score,"Fri, Nov 13, 2015",,7:30p,100,Toronto Raptors,,81,New Orleans Pelicans,N
+131,"21,749",Box Score,"Fri, Nov 13, 2015",,8:00p,102,Chicago Bulls,,97,Charlotte Hornets,N
+132,"16,919",Box Score,"Fri, Nov 13, 2015",,8:00p,101,Memphis Grizzlies,,100,Portland Trail Blazers,N
+133,"18,203",Box Score,"Fri, Nov 13, 2015",,8:00p,102,Oklahoma City Thunder,,85,Philadelphia 76ers,N
+134,"20,260",Box Score,"Fri, Nov 13, 2015",,8:30p,90,Dallas Mavericks,,82,Los Angeles Lakers,N
+135,"16,113",Box Score,"Fri, Nov 13, 2015",,9:00p,107,Denver Nuggets,,98,Houston Rockets,N
+136,"17,131",Box Score,"Fri, Nov 13, 2015",,10:00p,111,Sacramento Kings,,109,Brooklyn Nets,N
+137,"19,060",Box Score,"Sat, Nov 14, 2015",,3:30p,101,Los Angeles Clippers,,96,Detroit Pistons,N
+138,"18,311",Box Score,"Sat, Nov 14, 2015",,7:00p,108,Washington Wizards,,99,Orlando Magic,N
+139,"18,231",Box Score,"Sat, Nov 14, 2015",,8:00p,98,Houston Rockets,,110,Dallas Mavericks,N
+140,"18,717",Box Score,"Sat, Nov 14, 2015",,8:30p,108,Milwaukee Bucks,2OT,105,Cleveland Cavaliers,N
+141,"18,418",Box Score,"Sat, Nov 14, 2015",,8:30p,92,San Antonio Spurs,,83,Philadelphia 76ers,N
+142,"16,722",Box Score,"Sat, Nov 14, 2015",,9:00p,105,Phoenix Suns,,81,Denver Nuggets,N
+143,"19,596",Box Score,"Sat, Nov 14, 2015",,10:30p,107,Golden State Warriors,OT,99,Brooklyn Nets,N
+144,"19,812",Box Score,"Sun, Nov 15, 2015",,12:00p,95,New York Knicks,,87,New Orleans Pelicans,N
+145,"12,086",Box Score,"Sun, Nov 15, 2015",,3:30p,106,Minnesota Timberwolves,,114,Memphis Grizzlies,N
+146,"15,317",Box Score,"Sun, Nov 15, 2015",,5:00p,106,Charlotte Hornets,,94,Portland Trail Blazers,N
+147,"14,436",Box Score,"Sun, Nov 15, 2015",,6:00p,96,Atlanta Hawks,,97,Utah Jazz,N
+148,"18,203",Box Score,"Sun, Nov 15, 2015",,7:00p,85,Oklahoma City Thunder,,100,Boston Celtics,N
+149,"17,006",Box Score,"Sun, Nov 15, 2015",,9:00p,107,Sacramento Kings,,101,Toronto Raptors,N
+150,"18,997",Box Score,"Sun, Nov 15, 2015",,9:30p,97,Los Angeles Lakers,,85,Detroit Pistons,N
+151,"11,555",Box Score,"Mon, Nov 16, 2015",,7:00p,86,Philadelphia 76ers,,92,Dallas Mavericks,N
+152,"21,660",Box Score,"Mon, Nov 16, 2015",,8:00p,96,Chicago Bulls,,95,Indiana Pacers,N
+153,"17,005",Box Score,"Mon, Nov 16, 2015",,8:00p,95,Houston Rockets,,111,Boston Celtics,N
+154,"17,270",Box Score,"Mon, Nov 16, 2015",,8:00p,122,Memphis Grizzlies,,114,Oklahoma City Thunder,N
+155,"18,418",Box Score,"Mon, Nov 16, 2015",,8:30p,93,San Antonio Spurs,,80,Portland Trail Blazers,N
+156,"18,055",Box Score,"Mon, Nov 16, 2015",,9:00p,120,Phoenix Suns,,101,Los Angeles Lakers,N
+157,"15,485",Box Score,"Tue, Nov 17, 2015",,7:00p,115,Washington Wizards,,86,Milwaukee Bucks,N
+158,"12,241",Box Score,"Tue, Nov 17, 2015",,7:30p,90,Brooklyn Nets,,88,Atlanta Hawks,N
+159,"18,442",Box Score,"Tue, Nov 17, 2015",,7:30p,104,Detroit Pistons,,99,Cleveland Cavaliers,N
+160,"19,600",Box Score,"Tue, Nov 17, 2015",,7:30p,91,Miami Heat,,103,Minnesota Timberwolves,N
+161,"19,812",Box Score,"Tue, Nov 17, 2015",,7:30p,102,New York Knicks,,94,Charlotte Hornets,N
+162,"17,269",Box Score,"Tue, Nov 17, 2015",,8:00p,98,New Orleans Pelicans,,115,Denver Nuggets,N
+163,"19,596",Box Score,"Tue, Nov 17, 2015",,10:30p,115,Golden State Warriors,,110,Toronto Raptors,N
+164,"14,040",Box Score,"Wed, Nov 18, 2015",,7:00p,116,Charlotte Hornets,,111,Brooklyn Nets,N
+165,"16,048",Box Score,"Wed, Nov 18, 2015",,7:00p,104,Orlando Magic,OT,101,Minnesota Timberwolves,N
+166,"11,080",Box Score,"Wed, Nov 18, 2015",,7:00p,85,Philadelphia 76ers,,112,Indiana Pacers,N
+167,"17,262",Box Score,"Wed, Nov 18, 2015",,7:30p,102,Boston Celtics,,106,Dallas Mavericks,N
+168,"13,008",Box Score,"Wed, Nov 18, 2015",,8:00p,103,Atlanta Hawks,,97,Sacramento Kings,N
+169,"17,107",Box Score,"Wed, Nov 18, 2015",,8:00p,108,Houston Rockets,OT,103,Portland Trail Blazers,N
+170,"18,203",Box Score,"Wed, Nov 18, 2015",,8:00p,110,Oklahoma City Thunder,,103,New Orleans Pelicans,N
+171,"18,418",Box Score,"Wed, Nov 18, 2015",,8:30p,109,San Antonio Spurs,,98,Denver Nuggets,N
+172,"18,741",Box Score,"Wed, Nov 18, 2015",,9:00p,93,Utah Jazz,,89,Toronto Raptors,N
+173,"17,377",Box Score,"Wed, Nov 18, 2015",,10:30p,97,Phoenix Suns,,103,Chicago Bulls,N
+174,"19,600",Box Score,"Thu, Nov 19, 2015",,7:30p,116,Miami Heat,,109,Sacramento Kings,N
+175,"20,562",Box Score,"Thu, Nov 19, 2015",,8:00p,115,Cleveland Cavaliers,,100,Milwaukee Bucks,N
+176,"19,528",Box Score,"Thu, Nov 19, 2015",,10:30p,117,Los Angeles Clippers,,124,Golden State Warriors,N
+177,"17,926",Box Score,"Fri, Nov 20, 2015",,7:00p,113,Charlotte Hornets,,88,Philadelphia 76ers,N
+178,"18,361",Box Score,"Fri, Nov 20, 2015",,7:30p,120,Boston Celtics,,95,Brooklyn Nets,N
+179,"17,555",Box Score,"Fri, Nov 20, 2015",,8:00p,96,Memphis Grizzlies,,84,Houston Rockets,N
+180,"13,445",Box Score,"Fri, Nov 20, 2015",,8:00p,86,Minnesota Timberwolves,,96,Detroit Pistons,N
+181,"16,698",Box Score,"Fri, Nov 20, 2015",,8:00p,104,New Orleans Pelicans,,90,San Antonio Spurs,N
+182,"18,203",Box Score,"Fri, Nov 20, 2015",,8:00p,90,Oklahoma City Thunder,,93,New York Knicks,N
+183,"20,028",Box Score,"Fri, Nov 20, 2015",,8:30p,102,Dallas Mavericks,,93,Utah Jazz,N
+184,"12,264",Box Score,"Fri, Nov 20, 2015",,9:00p,107,Denver Nuggets,,114,Phoenix Suns,N
+185,"19,393",Box Score,"Fri, Nov 20, 2015",,10:00p,102,Portland Trail Blazers,,91,Los Angeles Clippers,N
+186,"19,596",Box Score,"Fri, Nov 20, 2015",,10:30p,106,Golden State Warriors,,94,Chicago Bulls,N
+187,"18,997",Box Score,"Fri, Nov 20, 2015",,10:30p,91,Los Angeles Lakers,,102,Toronto Raptors,N
+188,"16,104",Box Score,"Sat, Nov 21, 2015",,5:00p,91,Orlando Magic,,97,Sacramento Kings,N
+189,"17,137",Box Score,"Sat, Nov 21, 2015",,7:00p,123,Indiana Pacers,,86,Milwaukee Bucks,N
+190,"20,562",Box Score,"Sat, Nov 21, 2015",,7:30p,109,Cleveland Cavaliers,,97,Atlanta Hawks,N
+191,"15,890",Box Score,"Sat, Nov 21, 2015",,7:30p,95,Detroit Pistons,,97,Washington Wizards,N
+192,"18,226",Box Score,"Sat, Nov 21, 2015",,8:00p,102,Houston Rockets,,107,New York Knicks,N
+193,"19,673",Box Score,"Sat, Nov 21, 2015",,8:00p,96,Miami Heat,,91,Philadelphia 76ers,N
+194,"18,418",Box Score,"Sat, Nov 21, 2015",,8:30p,92,San Antonio Spurs,,82,Memphis Grizzlies,N
+195,"19,060",Box Score,"Sun, Nov 22, 2015",,3:30p,80,Los Angeles Clippers,,91,Toronto Raptors,N
+196,"14,866",Box Score,"Sun, Nov 22, 2015",,6:00p,111,Brooklyn Nets,,101,Boston Celtics,N
+197,"16,680",Box Score,"Sun, Nov 22, 2015",,6:00p,122,New Orleans Pelicans,,116,Phoenix Suns,N
+198,"18,203",Box Score,"Sun, Nov 22, 2015",,7:00p,117,Oklahoma City Thunder,,114,Dallas Mavericks,N
+199,"17,689",Box Score,"Sun, Nov 22, 2015",,8:00p,105,Denver Nuggets,,118,Golden State Warriors,N
+200,"18,997",Box Score,"Sun, Nov 22, 2015",,9:30p,93,Los Angeles Lakers,,107,Portland Trail Blazers,N
+201,"14,163",Box Score,"Mon, Nov 23, 2015",,7:00p,127,Charlotte Hornets,OT,122,Sacramento Kings,N
+202,"20,562",Box Score,"Mon, Nov 23, 2015",,7:00p,117,Cleveland Cavaliers,,103,Orlando Magic,N
+203,"19,777",Box Score,"Mon, Nov 23, 2015",,7:30p,95,Miami Heat,,78,New York Knicks,N
+204,"12,319",Box Score,"Mon, Nov 23, 2015",,8:00p,109,Milwaukee Bucks,,88,Detroit Pistons,N
+205,"11,382",Box Score,"Mon, Nov 23, 2015",,8:00p,100,Minnesota Timberwolves,,95,Philadelphia 76ers,N
+206,"18,418",Box Score,"Mon, Nov 23, 2015",,8:30p,98,San Antonio Spurs,,84,Phoenix Suns,N
+207,"19,911",Box Score,"Mon, Nov 23, 2015",,9:00p,89,Utah Jazz,,111,Oklahoma City Thunder,N
+208,"15,486",Box Score,"Tue, Nov 24, 2015",,7:00p,106,Washington Wizards,,123,Indiana Pacers,N
+209,"18,968",Box Score,"Tue, Nov 24, 2015",,8:00p,121,Atlanta Hawks,,97,Boston Celtics,N
+210,"17,381",Box Score,"Tue, Nov 24, 2015",,8:00p,110,Memphis Grizzlies,,96,Dallas Mavericks,N
+211,"13,257",Box Score,"Tue, Nov 24, 2015",,9:00p,94,Denver Nuggets,,111,Los Angeles Clippers,N
+212,"19,393",Box Score,"Tue, Nov 24, 2015",,10:00p,88,Portland Trail Blazers,,93,Chicago Bulls,N
+213,"19,596",Box Score,"Tue, Nov 24, 2015",,10:30p,111,Golden State Warriors,,77,Los Angeles Lakers,N
+214,"17,064",Box Score,"Wed, Nov 25, 2015",,7:00p,101,Charlotte Hornets,,87,Washington Wizards,N
+215,"18,846",Box Score,"Wed, Nov 25, 2015",,7:00p,100,Orlando Magic,,91,New York Knicks,N
+216,"17,588",Box Score,"Wed, Nov 25, 2015",,7:30p,84,Boston Celtics,,80,Philadelphia 76ers,N
+217,"15,119",Box Score,"Wed, Nov 25, 2015",,7:30p,104,Detroit Pistons,,81,Miami Heat,N
+218,"20,140",Box Score,"Wed, Nov 25, 2015",,7:30p,103,Toronto Raptors,,99,Cleveland Cavaliers,N
+219,"18,143",Box Score,"Wed, Nov 25, 2015",,8:00p,93,Houston Rockets,,102,Memphis Grizzlies,N
+220,"14,120",Box Score,"Wed, Nov 25, 2015",,8:00p,118,Milwaukee Bucks,,129,Sacramento Kings,N
+221,"14,289",Box Score,"Wed, Nov 25, 2015",,8:00p,99,Minnesota Timberwolves,,95,Atlanta Hawks,N
+222,"18,203",Box Score,"Wed, Nov 25, 2015",,8:00p,110,Oklahoma City Thunder,,99,Brooklyn Nets,N
+223,"18,418",Box Score,"Wed, Nov 25, 2015",,8:30p,88,San Antonio Spurs,,83,Dallas Mavericks,N
+224,"16,338",Box Score,"Wed, Nov 25, 2015",,9:00p,114,Phoenix Suns,,120,New Orleans Pelicans,N
+225,"19,060",Box Score,"Wed, Nov 25, 2015",,10:30p,91,Los Angeles Clippers,,102,Utah Jazz,N
+226,"19,093",Box Score,"Fri, Nov 27, 2015",,7:00p,90,Charlotte Hornets,,95,Cleveland Cavaliers,N
+227,"16,317",Box Score,"Fri, Nov 27, 2015",,7:00p,114,Orlando Magic,,90,Milwaukee Bucks,N
+228,"18,624",Box Score,"Fri, Nov 27, 2015",,7:30p,111,Boston Celtics,,78,Washington Wizards,N
+229,"19,812",Box Score,"Fri, Nov 27, 2015",,7:30p,78,New York Knicks,,97,Miami Heat,N
+230,"17,306",Box Score,"Fri, Nov 27, 2015",,8:00p,116,Houston Rockets,,114,Philadelphia 76ers,N
+231,"18,165",Box Score,"Fri, Nov 27, 2015",,8:00p,104,Indiana Pacers,,92,Chicago Bulls,N
+232,"17,684",Box Score,"Fri, Nov 27, 2015",,8:00p,101,Memphis Grizzlies,,116,Atlanta Hawks,N
+233,"18,203",Box Score,"Fri, Nov 27, 2015",,8:00p,103,Oklahoma City Thunder,,87,Detroit Pistons,N
+234,"17,121",Box Score,"Fri, Nov 27, 2015",,9:00p,80,Denver Nuggets,,91,San Antonio Spurs,N
+235,"18,055",Box Score,"Fri, Nov 27, 2015",,9:30p,116,Phoenix Suns,,135,Golden State Warriors,N
+236,"17,317",Box Score,"Fri, Nov 27, 2015",,10:00p,91,Sacramento Kings,,101,Minnesota Timberwolves,N
+237,"19,162",Box Score,"Fri, Nov 27, 2015",,10:30p,111,Los Angeles Clippers,,90,New Orleans Pelicans,N
+238,"16,841",Box Score,"Sat, Nov 28, 2015",,7:00p,82,Washington Wizards,,84,Toronto Raptors,N
+239,"20,562",Box Score,"Sat, Nov 28, 2015",,7:30p,90,Cleveland Cavaliers,,88,Brooklyn Nets,N
+240,"20,339",Box Score,"Sat, Nov 28, 2015",,8:30p,92,Dallas Mavericks,,81,Denver Nuggets,N
+241,"18,418",Box Score,"Sat, Nov 28, 2015",,8:30p,108,San Antonio Spurs,,88,Atlanta Hawks,N
+242,"19,911",Box Score,"Sat, Nov 28, 2015",,9:00p,101,Utah Jazz,,87,New Orleans Pelicans,N
+243,"20,019",Box Score,"Sat, Nov 28, 2015",,10:00p,108,Portland Trail Blazers,,96,Los Angeles Lakers,N
+244,"19,596",Box Score,"Sat, Nov 28, 2015",,10:30p,120,Golden State Warriors,,101,Sacramento Kings,N
+245,"14,224",Box Score,"Sun, Nov 29, 2015",,2:00p,87,Charlotte Hornets,,82,Milwaukee Bucks,N
+246,"19,060",Box Score,"Sun, Nov 29, 2015",,3:30p,107,Los Angeles Clippers,,99,Minnesota Timberwolves,N
+247,"12,823",Box Score,"Sun, Nov 29, 2015",,6:00p,87,Brooklyn Nets,,83,Detroit Pistons,N
+248,"15,322",Box Score,"Sun, Nov 29, 2015",,6:00p,92,Memphis Grizzlies,,84,Philadelphia 76ers,N
+249,"16,209",Box Score,"Sun, Nov 29, 2015",,6:00p,110,Orlando Magic,,91,Boston Celtics,N
+250,"19,800",Box Score,"Sun, Nov 29, 2015",,6:00p,102,Toronto Raptors,,107,Phoenix Suns,N
+251,"19,812",Box Score,"Sun, Nov 29, 2015",,7:30p,111,New York Knicks,OT,116,Houston Rockets,N
+252,"18,997",Box Score,"Sun, Nov 29, 2015",,9:30p,103,Los Angeles Lakers,,107,Indiana Pacers,N
+253,"14,818",Box Score,"Mon, Nov 30, 2015",,7:30p,116,Detroit Pistons,,105,Houston Rockets,N
+254,"19,600",Box Score,"Mon, Nov 30, 2015",,7:30p,95,Miami Heat,,105,Boston Celtics,N
+255,"17,768",Box Score,"Mon, Nov 30, 2015",,8:00p,106,Atlanta Hawks,,100,Oklahoma City Thunder,N
+256,"21,909",Box Score,"Mon, Nov 30, 2015",,8:00p,92,Chicago Bulls,,89,San Antonio Spurs,N
+257,"10,187",Box Score,"Mon, Nov 30, 2015",,8:00p,92,Milwaukee Bucks,,74,Denver Nuggets,N
+258,"19,911",Box Score,"Mon, Nov 30, 2015",,9:00p,103,Utah Jazz,,106,Golden State Warriors,N
+259,"16,937",Box Score,"Mon, Nov 30, 2015",,10:00p,112,Sacramento Kings,,98,Dallas Mavericks,N
+260,"19,060",Box Score,"Mon, Nov 30, 2015",,10:30p,102,Los Angeles Clippers,,87,Portland Trail Blazers,N
+261,"20,562",Box Score,"Tue, Dec 1, 2015",,7:00p,85,Cleveland Cavaliers,,97,Washington Wizards,N
+262,"20,510",Box Score,"Tue, Dec 1, 2015",,7:00p,103,Philadelphia 76ers,,91,Los Angeles Lakers,N
+263,"12,787",Box Score,"Tue, Dec 1, 2015",,7:30p,94,Brooklyn Nets,,91,Phoenix Suns,N
+264,"10,694",Box Score,"Tue, Dec 1, 2015",,8:00p,93,Minnesota Timberwolves,,96,Orlando Magic,N
+265,"16,020",Box Score,"Tue, Dec 1, 2015",,8:00p,104,New Orleans Pelicans,,113,Memphis Grizzlies,N
+266,"19,393",Box Score,"Tue, Dec 1, 2015",,10:00p,112,Portland Trail Blazers,OT,115,Dallas Mavericks,N
+267,"19,542",Box Score,"Wed, Dec 2, 2015",,7:00p,99,Charlotte Hornets,,116,Golden State Warriors,N
+268,"20,356",Box Score,"Wed, Dec 2, 2015",,7:00p,104,Washington Wizards,,108,Los Angeles Lakers,N
+269,"13,985",Box Score,"Wed, Dec 2, 2015",,7:30p,127,Detroit Pistons,OT,122,Phoenix Suns,N
+270,"19,812",Box Score,"Wed, Dec 2, 2015",,7:30p,99,New York Knicks,,87,Philadelphia 76ers,N
+271,"12,559",Box Score,"Wed, Dec 2, 2015",,8:00p,86,Atlanta Hawks,,96,Toronto Raptors,N
+272,"21,349",Box Score,"Wed, Dec 2, 2015",,8:00p,99,Chicago Bulls,,90,Denver Nuggets,N
+273,"17,339",Box Score,"Wed, Dec 2, 2015",,8:00p,108,Houston Rockets,,101,New Orleans Pelicans,N
+274,"18,418",Box Score,"Wed, Dec 2, 2015",,8:30p,95,San Antonio Spurs,,70,Milwaukee Bucks,N
+275,"19,060",Box Score,"Wed, Dec 2, 2015",,10:30p,91,Los Angeles Clippers,,103,Indiana Pacers,N
+276,"19,600",Box Score,"Thu, Dec 3, 2015",,7:00p,97,Miami Heat,,95,Oklahoma City Thunder,N
+277,"19,800",Box Score,"Thu, Dec 3, 2015",,7:30p,105,Toronto Raptors,,106,Denver Nuggets,N
+278,"19,247",Box Score,"Thu, Dec 3, 2015",,9:00p,94,Utah Jazz,,103,Orlando Magic,N
+279,"17,013",Box Score,"Thu, Dec 3, 2015",,9:30p,83,Memphis Grizzlies,,103,San Antonio Spurs,N
+280,"19,206",Box Score,"Thu, Dec 3, 2015",,10:00p,123,Portland Trail Blazers,,111,Indiana Pacers,N
+281,"18,660",Box Score,"Thu, Dec 3, 2015","at Mexico City, Mexico",10:00p,97,Sacramento Kings,,114,Boston Celtics,N
+282,"19,812",Box Score,"Fri, Dec 4, 2015",,7:00p,108,New York Knicks,,91,Brooklyn Nets,N
+283,"17,255",Box Score,"Fri, Dec 4, 2015",,7:00p,109,Washington Wizards,,106,Phoenix Suns,N
+284,"16,963",Box Score,"Fri, Dec 4, 2015",,7:30p,102,Detroit Pistons,,95,Milwaukee Bucks,N
+285,"19,051",Box Score,"Fri, Dec 4, 2015",,8:00p,100,Atlanta Hawks,,87,Los Angeles Lakers,N
+286,"20,339",Box Score,"Fri, Dec 4, 2015",,8:30p,96,Dallas Mavericks,,100,Houston Rockets,N
+287,"17,906",Box Score,"Fri, Dec 4, 2015",,9:30p,114,New Orleans Pelicans,OT,108,Cleveland Cavaliers,N
+288,"15,677",Box Score,"Sat, Dec 5, 2015",,1:00p,105,Philadelphia 76ers,,108,Denver Nuggets,N
+289,"20,160",Box Score,"Sat, Dec 5, 2015",,5:00p,109,Toronto Raptors,,112,Golden State Warriors,N
+290,"21,770",Box Score,"Sat, Dec 5, 2015",,8:00p,96,Chicago Bulls,,102,Charlotte Hornets,N
+291,"17,318",Box Score,"Sat, Dec 5, 2015",,8:00p,120,Houston Rockets,,113,Sacramento Kings,N
+292,"19,600",Box Score,"Sat, Dec 5, 2015",,8:00p,99,Miami Heat,,84,Cleveland Cavaliers,N
+293,"16,203",Box Score,"Sat, Dec 5, 2015",,8:00p,103,Minnesota Timberwolves,,109,Portland Trail Blazers,N
+294,"16,223",Box Score,"Sat, Dec 5, 2015",,8:30p,106,Milwaukee Bucks,,91,New York Knicks,N
+295,"18,418",Box Score,"Sat, Dec 5, 2015",,8:30p,108,San Antonio Spurs,,105,Boston Celtics,N
+296,"19,500",Box Score,"Sat, Dec 5, 2015",,9:00p,122,Utah Jazz,OT,119,Indiana Pacers,N
+297,"19,146",Box Score,"Sat, Dec 5, 2015",,10:30p,103,Los Angeles Clippers,,101,Orlando Magic,N
+298,"16,022",Box Score,"Sun, Dec 6, 2015",,3:30p,95,Memphis Grizzlies,,93,Phoenix Suns,N
+299,"17,732",Box Score,"Sun, Dec 6, 2015",,6:00p,98,Brooklyn Nets,,114,Golden State Warriors,N
+300,"20,228",Box Score,"Sun, Dec 6, 2015",,6:00p,111,Detroit Pistons,,91,Los Angeles Lakers,N
+301,"16,394",Box Score,"Sun, Dec 6, 2015",,6:00p,104,Washington Wizards,,116,Dallas Mavericks,N
+302,"18,203",Box Score,"Sun, Dec 6, 2015",,7:00p,98,Oklahoma City Thunder,,95,Sacramento Kings,N
+303,"15,481",Box Score,"Mon, Dec 7, 2015",,7:00p,104,Charlotte Hornets,,84,Detroit Pistons,N
+304,"14,449",Box Score,"Mon, Dec 7, 2015",,7:00p,68,Philadelphia 76ers,,119,San Antonio Spurs,N
+305,"19,600",Box Score,"Mon, Dec 7, 2015",,7:30p,103,Miami Heat,,114,Washington Wizards,N
+306,"19,812",Box Score,"Mon, Dec 7, 2015",,7:30p,97,New York Knicks,,104,Dallas Mavericks,N
+307,"20,163",Box Score,"Mon, Dec 7, 2015",,7:30p,102,Toronto Raptors,,93,Los Angeles Lakers,N
+308,"21,337",Box Score,"Mon, Dec 7, 2015",,8:00p,101,Chicago Bulls,,103,Phoenix Suns,N
+309,"14,389",Box Score,"Mon, Dec 7, 2015",,8:00p,90,Milwaukee Bucks,,88,Portland Trail Blazers,N
+310,"11,467",Box Score,"Mon, Dec 7, 2015",,8:00p,106,Minnesota Timberwolves,,110,Los Angeles Clippers,N
+311,"15,715",Box Score,"Mon, Dec 7, 2015",,8:00p,93,New Orleans Pelicans,,111,Boston Celtics,N
+312,"20,562",Box Score,"Tue, Dec 8, 2015",,7:00p,105,Cleveland Cavaliers,,100,Portland Trail Blazers,N
+313,"18,165",Box Score,"Tue, Dec 8, 2015",,7:00p,123,Indiana Pacers,,131,Golden State Warriors,N
+314,"13,319",Box Score,"Tue, Dec 8, 2015",,7:30p,110,Brooklyn Nets,,105,Houston Rockets,N
+315,"16,415",Box Score,"Tue, Dec 8, 2015",,8:00p,88,Memphis Grizzlies,,125,Oklahoma City Thunder,N
+316,"13,925",Box Score,"Tue, Dec 8, 2015",,9:00p,74,Denver Nuggets,,85,Orlando Magic,N
+317,"16,505",Box Score,"Tue, Dec 8, 2015",,10:00p,114,Sacramento Kings,,106,Utah Jazz,N
+318,"17,318",Box Score,"Wed, Dec 9, 2015",,7:00p,105,Boston Celtics,,100,Chicago Bulls,N
+319,"17,404",Box Score,"Wed, Dec 9, 2015",,7:00p,99,Charlotte Hornets,,81,Miami Heat,N
+320,"16,041",Box Score,"Wed, Dec 9, 2015",,7:00p,103,Washington Wizards,,109,Houston Rockets,N
+321,"13,411",Box Score,"Wed, Dec 9, 2015",,7:30p,92,Detroit Pistons,,93,Memphis Grizzlies,N
+322,"19,800",Box Score,"Wed, Dec 9, 2015",,7:30p,97,Toronto Raptors,,94,San Antonio Spurs,N
+323,"14,224",Box Score,"Wed, Dec 9, 2015",,8:00p,95,Milwaukee Bucks,,109,Los Angeles Clippers,N
+324,"18,076",Box Score,"Wed, Dec 9, 2015",,8:00p,123,Minnesota Timberwolves,OT,122,Los Angeles Lakers,N
+325,"17,637",Box Score,"Wed, Dec 9, 2015",,9:00p,107,Phoenix Suns,,104,Orlando Magic,N
+326,"18,586",Box Score,"Wed, Dec 9, 2015",,9:00p,106,Utah Jazz,,85,New York Knicks,N
+327,"19,936",Box Score,"Wed, Dec 9, 2015",,9:30p,95,Dallas Mavericks,,98,Atlanta Hawks,N
+328,"13,266",Box Score,"Thu, Dec 10, 2015",,7:30p,100,Brooklyn Nets,,91,Philadelphia 76ers,N
+329,"21,491",Box Score,"Thu, Dec 10, 2015",,8:00p,83,Chicago Bulls,,80,Los Angeles Clippers,N
+330,"18,203",Box Score,"Thu, Dec 10, 2015",,8:00p,107,Oklahoma City Thunder,,94,Atlanta Hawks,N
+331,"17,317",Box Score,"Thu, Dec 10, 2015",,10:30p,99,Sacramento Kings,,97,New York Knicks,N
+332,"16,184",Box Score,"Fri, Dec 11, 2015",,7:00p,96,Indiana Pacers,,83,Miami Heat,N
+333,"17,239",Box Score,"Fri, Dec 11, 2015",,7:00p,76,Orlando Magic,,111,Cleveland Cavaliers,N
+334,"17,239",Box Score,"Fri, Dec 11, 2015",,7:00p,95,Philadelphia 76ers,,107,Detroit Pistons,N
+335,"18,624",Box Score,"Fri, Dec 11, 2015",,7:30p,119,Boston Celtics,2OT,124,Golden State Warriors,N
+336,"19,800",Box Score,"Fri, Dec 11, 2015",,7:30p,90,Toronto Raptors,,83,Milwaukee Bucks,N
+337,"17,111",Box Score,"Fri, Dec 11, 2015",,8:00p,99,Memphis Grizzlies,,123,Charlotte Hornets,N
+338,"16,875",Box Score,"Fri, Dec 11, 2015",,8:00p,107,New Orleans Pelicans,,105,Washington Wizards,N
+339,"12,533",Box Score,"Fri, Dec 11, 2015",,9:00p,111,Denver Nuggets,OT,108,Minnesota Timberwolves,N
+340,"19,911",Box Score,"Fri, Dec 11, 2015",,9:00p,90,Utah Jazz,,94,Oklahoma City Thunder,N
+341,"17,028",Box Score,"Fri, Dec 11, 2015",,9:30p,96,Phoenix Suns,,106,Portland Trail Blazers,N
+342,"18,418",Box Score,"Fri, Dec 11, 2015",,9:30p,109,San Antonio Spurs,,87,Los Angeles Lakers,N
+343,"15,689",Box Score,"Sat, Dec 12, 2015",,5:00p,100,Brooklyn Nets,,105,Los Angeles Clippers,N
+344,"18,490",Box Score,"Sat, Dec 12, 2015",,7:00p,93,Charlotte Hornets,,98,Boston Celtics,N
+345,"14,858",Box Score,"Sat, Dec 12, 2015",,7:30p,118,Detroit Pistons,,96,Indiana Pacers,N
+346,"17,752",Box Score,"Sat, Dec 12, 2015",,8:00p,78,Atlanta Hawks,,103,San Antonio Spurs,N
+347,"21,605",Box Score,"Sat, Dec 12, 2015",,8:00p,98,Chicago Bulls,,94,New Orleans Pelicans,N
+348,"18,456",Box Score,"Sat, Dec 12, 2015",,8:00p,126,Houston Rockets,,97,Los Angeles Lakers,N
+349,"20,088",Box Score,"Sat, Dec 12, 2015",,8:30p,111,Dallas Mavericks,,114,Washington Wizards,N
+350,"18,717",Box Score,"Sat, Dec 12, 2015",,8:30p,108,Milwaukee Bucks,,95,Golden State Warriors,N
+351,"19,511",Box Score,"Sat, Dec 12, 2015",,10:00p,110,Portland Trail Blazers,,112,New York Knicks,N
+352,"16,919",Box Score,"Sun, Dec 13, 2015",,3:30p,108,Phoenix Suns,,101,Minnesota Timberwolves,N
+353,"19,813",Box Score,"Sun, Dec 13, 2015",,6:00p,100,Miami Heat,,97,Memphis Grizzlies,N
+354,"19,800",Box Score,"Sun, Dec 13, 2015",,6:00p,96,Toronto Raptors,,76,Philadelphia 76ers,N
+355,"18,203",Box Score,"Sun, Dec 13, 2015",,7:00p,104,Oklahoma City Thunder,OT,98,Utah Jazz,N
+356,"16,598",Box Score,"Mon, Dec 14, 2015",,7:00p,106,Indiana Pacers,,90,Toronto Raptors,N
+357,"12,946",Box Score,"Mon, Dec 14, 2015",,7:30p,82,Brooklyn Nets,,105,Orlando Magic,N
+358,"13,525",Box Score,"Mon, Dec 14, 2015",,7:30p,103,Detroit Pistons,OT,105,Los Angeles Clippers,N
+359,"15,039",Box Score,"Mon, Dec 14, 2015",,8:00p,88,Atlanta Hawks,,100,Miami Heat,N
+360,"21,166",Box Score,"Mon, Dec 14, 2015",,8:00p,115,Chicago Bulls,,96,Philadelphia 76ers,N
+361,"15,397",Box Score,"Mon, Dec 14, 2015",,8:00p,112,Memphis Grizzlies,,95,Washington Wizards,N
+362,"19,822",Box Score,"Mon, Dec 14, 2015",,8:30p,104,Dallas Mavericks,,94,Phoenix Suns,N
+363,"18,418",Box Score,"Mon, Dec 14, 2015",,8:30p,118,San Antonio Spurs,,81,Utah Jazz,N
+364,"12,022",Box Score,"Mon, Dec 14, 2015",,9:00p,114,Denver Nuggets,,108,Houston Rockets,N
+365,"19,231",Box Score,"Mon, Dec 14, 2015",,10:00p,105,Portland Trail Blazers,,101,New Orleans Pelicans,N
+366,"18,624",Box Score,"Tue, Dec 15, 2015",,7:30p,77,Boston Celtics,,89,Cleveland Cavaliers,N
+367,"11,323",Box Score,"Tue, Dec 15, 2015",,8:00p,100,Minnesota Timberwolves,,112,Denver Nuggets,N
+368,"17,317",Box Score,"Tue, Dec 15, 2015",,10:00p,107,Sacramento Kings,,97,Houston Rockets,N
+369,"18,997",Box Score,"Tue, Dec 15, 2015",,10:30p,113,Los Angeles Lakers,,95,Milwaukee Bucks,N
+370,"14,824",Box Score,"Wed, Dec 16, 2015",,7:00p,107,Indiana Pacers,,81,Dallas Mavericks,N
+371,"16,019",Box Score,"Wed, Dec 16, 2015",,7:00p,113,Orlando Magic,,98,Charlotte Hornets,N
+372,"15,113",Box Score,"Wed, Dec 16, 2015",,7:30p,98,Brooklyn Nets,,104,Miami Heat,N
+373,"13,120",Box Score,"Wed, Dec 16, 2015",,7:30p,119,Detroit Pistons,,116,Boston Celtics,N
+374,"19,812",Box Score,"Wed, Dec 16, 2015",,7:30p,107,New York Knicks,,102,Minnesota Timberwolves,N
+375,"14,827",Box Score,"Wed, Dec 16, 2015",,8:00p,127,Atlanta Hawks,,106,Philadelphia 76ers,N
+376,"21,032",Box Score,"Wed, Dec 16, 2015",,8:00p,98,Chicago Bulls,,85,Memphis Grizzlies,N
+377,"18,203",Box Score,"Wed, Dec 16, 2015",,8:00p,106,Oklahoma City Thunder,,90,Portland Trail Blazers,N
+378,"18,418",Box Score,"Wed, Dec 16, 2015",,8:30p,114,San Antonio Spurs,,95,Washington Wizards,N
+379,"17,899",Box Score,"Wed, Dec 16, 2015",,9:00p,94,Utah Jazz,,104,New Orleans Pelicans,N
+380,"19,596",Box Score,"Wed, Dec 16, 2015",,10:30p,128,Golden State Warriors,,103,Phoenix Suns,N
+381,"19,060",Box Score,"Wed, Dec 16, 2015",,10:30p,103,Los Angeles Clippers,,90,Milwaukee Bucks,N
+382,"15,817",Box Score,"Thu, Dec 17, 2015",,7:00p,109,Charlotte Hornets,OT,99,Toronto Raptors,N
+383,"20,562",Box Score,"Thu, Dec 17, 2015",,8:00p,104,Cleveland Cavaliers,,100,Oklahoma City Thunder,N
+384,"18,997",Box Score,"Thu, Dec 17, 2015",,10:30p,87,Los Angeles Lakers,,107,Houston Rockets,N
+385,"16,548",Box Score,"Fri, Dec 18, 2015",,7:00p,104,Indiana Pacers,,97,Brooklyn Nets,N
+386,"17,156",Box Score,"Fri, Dec 18, 2015",,7:00p,102,Orlando Magic,,94,Portland Trail Blazers,N
+387,"17,880",Box Score,"Fri, Dec 18, 2015",,7:00p,97,Philadelphia 76ers,,107,New York Knicks,N
+388,"18,624",Box Score,"Fri, Dec 18, 2015",,7:30p,101,Boston Celtics,,109,Atlanta Hawks,N
+389,"21,534",Box Score,"Fri, Dec 18, 2015",,8:00p,144,Chicago Bulls,4OT,147,Detroit Pistons,N
+390,"19,600",Box Score,"Fri, Dec 18, 2015",,8:00p,94,Miami Heat,,108,Toronto Raptors,N
+391,"12,770",Box Score,"Fri, Dec 18, 2015",,8:00p,99,Minnesota Timberwolves,,95,Sacramento Kings,N
+392,"18,418",Box Score,"Fri, Dec 18, 2015",,8:00p,115,San Antonio Spurs,,107,Los Angeles Clippers,N
+393,"20,199",Box Score,"Fri, Dec 18, 2015",,8:30p,97,Dallas Mavericks,,88,Memphis Grizzlies,N
+394,"19,169",Box Score,"Fri, Dec 18, 2015",,9:00p,97,Utah Jazz,,88,Denver Nuggets,N
+395,"19,596",Box Score,"Fri, Dec 18, 2015",,10:30p,121,Golden State Warriors,,112,Milwaukee Bucks,N
+396,"17,227",Box Score,"Fri, Dec 18, 2015",,10:30p,104,Phoenix Suns,,88,New Orleans Pelicans,N
+397,"18,203",Box Score,"Sat, Dec 19, 2015",,5:00p,118,Oklahoma City Thunder,,78,Los Angeles Lakers,N
+398,"16,987",Box Score,"Sat, Dec 19, 2015",,7:00p,109,Washington Wizards,,101,Charlotte Hornets,N
+399,"19,812",Box Score,"Sat, Dec 19, 2015",,7:30p,107,New York Knicks,,91,Chicago Bulls,N
+400,"18,212",Box Score,"Sat, Dec 19, 2015",,8:00p,107,Houston Rockets,,97,Los Angeles Clippers,N
+401,"18,119",Box Score,"Sat, Dec 19, 2015",,8:00p,96,Memphis Grizzlies,,84,Indiana Pacers,N
+402,"14,552",Box Score,"Sun, Dec 20, 2015",,1:00p,85,Brooklyn Nets,,100,Minnesota Timberwolves,N
+403,"19,600",Box Score,"Sun, Dec 20, 2015",,1:00p,116,Miami Heat,,109,Portland Trail Blazers,N
+404,"20,562",Box Score,"Sun, Dec 20, 2015",,3:30p,108,Cleveland Cavaliers,,86,Philadelphia 76ers,N
+405,"16,859",Box Score,"Sun, Dec 20, 2015",,5:00p,95,Phoenix Suns,,101,Milwaukee Bucks,N
+406,"16,982",Box Score,"Sun, Dec 20, 2015",,6:00p,100,Orlando Magic,,103,Atlanta Hawks,N
+407,"19,800",Box Score,"Sun, Dec 20, 2015",,6:00p,94,Toronto Raptors,,104,Sacramento Kings,N
+408,"13,857",Box Score,"Sun, Dec 20, 2015",,8:00p,125,Denver Nuggets,,130,New Orleans Pelicans,N
+409,"15,124",Box Score,"Mon, Dec 21, 2015",,7:00p,113,Washington Wizards,,99,Sacramento Kings,N
+410,"18,624",Box Score,"Mon, Dec 21, 2015",,7:30p,113,Boston Celtics,,99,Minnesota Timberwolves,N
+411,"19,812",Box Score,"Mon, Dec 21, 2015",,7:30p,99,New York Knicks,,107,Orlando Magic,N
+412,"18,373",Box Score,"Mon, Dec 21, 2015",,8:00p,106,Atlanta Hawks,,97,Portland Trail Blazers,N
+413,"21,825",Box Score,"Mon, Dec 21, 2015",,8:00p,102,Chicago Bulls,,105,Brooklyn Nets,N
+414,"18,236",Box Score,"Mon, Dec 21, 2015",,8:00p,102,Houston Rockets,,95,Charlotte Hornets,N
+415,"18,418",Box Score,"Mon, Dec 21, 2015",,8:30p,106,San Antonio Spurs,,92,Indiana Pacers,N
+416,"19,911",Box Score,"Mon, Dec 21, 2015",,9:00p,110,Utah Jazz,,89,Phoenix Suns,N
+417,"19,415",Box Score,"Mon, Dec 21, 2015",,10:30p,99,Los Angeles Clippers,,100,Oklahoma City Thunder,N
+418,"15,552",Box Score,"Tue, Dec 22, 2015",,7:00p,90,Philadelphia 76ers,,104,Memphis Grizzlies,N
+419,"19,901",Box Score,"Tue, Dec 22, 2015",,7:30p,92,Miami Heat,,93,Detroit Pistons,N
+420,"19,800",Box Score,"Tue, Dec 22, 2015",,7:30p,103,Toronto Raptors,,99,Dallas Mavericks,N
+421,"19,124",Box Score,"Tue, Dec 22, 2015",,9:00p,107,Denver Nuggets,,111,Los Angeles Lakers,N
+422,"19,082",Box Score,"Wed, Dec 23, 2015",,7:00p,89,Charlotte Hornets,,102,Boston Celtics,N
+423,"20,562",Box Score,"Wed, Dec 23, 2015",,7:00p,91,Cleveland Cavaliers,,84,New York Knicks,N
+424,"18,165",Box Score,"Wed, Dec 23, 2015",,7:00p,106,Indiana Pacers,,108,Sacramento Kings,N
+425,"17,061",Box Score,"Wed, Dec 23, 2015",,7:00p,104,Orlando Magic,,101,Houston Rockets,N
+426,"15,879",Box Score,"Wed, Dec 23, 2015",,7:00p,100,Washington Wizards,,91,Memphis Grizzlies,N
+427,"15,994",Box Score,"Wed, Dec 23, 2015",,7:30p,118,Brooklyn Nets,OT,119,Dallas Mavericks,N
+428,"17,575",Box Score,"Wed, Dec 23, 2015",,8:00p,107,Atlanta Hawks,,100,Detroit Pistons,N
+429,"15,754",Box Score,"Wed, Dec 23, 2015",,8:00p,113,Milwaukee Bucks,,100,Philadelphia 76ers,N
+430,"16,788",Box Score,"Wed, Dec 23, 2015",,8:00p,83,Minnesota Timberwolves,,108,San Antonio Spurs,N
+431,"16,686",Box Score,"Wed, Dec 23, 2015",,8:00p,115,New Orleans Pelicans,,89,Portland Trail Blazers,N
+432,"17,034",Box Score,"Wed, Dec 23, 2015",,9:00p,96,Phoenix Suns,,104,Denver Nuggets,N
+433,"19,596",Box Score,"Wed, Dec 23, 2015",,10:30p,103,Golden State Warriors,,85,Utah Jazz,N
+434,"18,997",Box Score,"Wed, Dec 23, 2015",,10:30p,85,Los Angeles Lakers,,120,Oklahoma City Thunder,N
+435,"19,845",Box Score,"Fri, Dec 25, 2015",,12:00p,94,Miami Heat,OT,88,New Orleans Pelicans,N
+436,"18,203",Box Score,"Fri, Dec 25, 2015",,2:30p,96,Oklahoma City Thunder,,105,Chicago Bulls,N
+437,"19,596",Box Score,"Fri, Dec 25, 2015",,5:00p,89,Golden State Warriors,,83,Cleveland Cavaliers,N
+438,"18,319",Box Score,"Fri, Dec 25, 2015",,8:00p,88,Houston Rockets,,84,San Antonio Spurs,N
+439,"18,997",Box Score,"Fri, Dec 25, 2015",,10:30p,84,Los Angeles Lakers,,94,Los Angeles Clippers,N
+440,"17,732",Box Score,"Sat, Dec 26, 2015",,4:00p,96,Brooklyn Nets,,111,Washington Wizards,N
+441,"16,329",Box Score,"Sat, Dec 26, 2015",,5:00p,90,Milwaukee Bucks,,111,Toronto Raptors,N
+442,"19,091",Box Score,"Sat, Dec 26, 2015",,7:00p,98,Charlotte Hornets,,92,Memphis Grizzlies,N
+443,"18,248",Box Score,"Sat, Dec 26, 2015",,7:00p,110,New Orleans Pelicans,,108,Houston Rockets,N
+444,"18,846",Box Score,"Sat, Dec 26, 2015",,7:00p,101,Orlando Magic,,108,Miami Heat,N
+445,"19,015",Box Score,"Sat, Dec 26, 2015",,7:30p,117,Atlanta Hawks,,98,New York Knicks,N
+446,"18,288",Box Score,"Sat, Dec 26, 2015",,7:30p,93,Detroit Pistons,,99,Boston Celtics,N
+447,"15,076",Box Score,"Sat, Dec 26, 2015",,8:00p,88,Minnesota Timberwolves,,102,Indiana Pacers,N
+448,"20,392",Box Score,"Sat, Dec 26, 2015",,8:30p,118,Dallas Mavericks,,111,Chicago Bulls,N
+449,"18,420",Box Score,"Sat, Dec 26, 2015",,8:30p,101,San Antonio Spurs,,86,Denver Nuggets,N
+450,"17,548",Box Score,"Sat, Dec 26, 2015",,9:00p,104,Phoenix Suns,,111,Philadelphia 76ers,N
+451,"19,911",Box Score,"Sat, Dec 26, 2015",,9:00p,104,Utah Jazz,,109,Los Angeles Clippers,N
+452,"19,393",Box Score,"Sat, Dec 26, 2015",,10:00p,105,Portland Trail Blazers,,76,Cleveland Cavaliers,N
+453,"18,119",Box Score,"Sun, Dec 27, 2015",,6:00p,112,Memphis Grizzlies,,96,Los Angeles Lakers,N
+454,"18,624",Box Score,"Sun, Dec 27, 2015",,7:00p,100,Boston Celtics,,91,New York Knicks,N
+455,"18,203",Box Score,"Sun, Dec 27, 2015",,7:00p,122,Oklahoma City Thunder,,112,Denver Nuggets,N
+456,"17,317",Box Score,"Sun, Dec 27, 2015",,9:00p,94,Sacramento Kings,,98,Portland Trail Blazers,N
+457,"19,632",Box Score,"Mon, Dec 28, 2015",,7:00p,108,Charlotte Hornets,,98,Los Angeles Lakers,N
+458,"18,165",Box Score,"Mon, Dec 28, 2015",,7:00p,93,Indiana Pacers,,87,Atlanta Hawks,N
+459,"17,606",Box Score,"Mon, Dec 28, 2015",,7:00p,104,Orlando Magic,,89,New Orleans Pelicans,N
+460,"20,356",Box Score,"Mon, Dec 28, 2015",,7:00p,91,Washington Wizards,,108,Los Angeles Clippers,N
+461,"19,975",Box Score,"Mon, Dec 28, 2015",,7:30p,105,Miami Heat,,111,Brooklyn Nets,N
+462,"21,898",Box Score,"Mon, Dec 28, 2015",,8:00p,104,Chicago Bulls,,97,Toronto Raptors,N
+463,"20,300",Box Score,"Mon, Dec 28, 2015",,8:30p,103,Dallas Mavericks,,93,Milwaukee Bucks,N
+464,"18,493",Box Score,"Mon, Dec 28, 2015",,8:30p,101,San Antonio Spurs,,95,Minnesota Timberwolves,N
+465,"18,319",Box Score,"Mon, Dec 28, 2015",,9:00p,97,Phoenix Suns,,101,Cleveland Cavaliers,N
+466,"19,911",Box Score,"Mon, Dec 28, 2015",,9:00p,95,Utah Jazz,,91,Philadelphia 76ers,N
+467,"19,596",Box Score,"Mon, Dec 28, 2015",,10:30p,122,Golden State Warriors,,103,Sacramento Kings,N
+468,"19,812",Box Score,"Tue, Dec 29, 2015",,7:30p,108,New York Knicks,,96,Detroit Pistons,N
+469,"18,211",Box Score,"Tue, Dec 29, 2015",,8:00p,115,Houston Rockets,,121,Atlanta Hawks,N
+470,"18,119",Box Score,"Tue, Dec 29, 2015",,8:00p,99,Memphis Grizzlies,OT,90,Miami Heat,N
+471,"18,203",Box Score,"Tue, Dec 29, 2015",,8:00p,131,Oklahoma City Thunder,,123,Milwaukee Bucks,N
+472,"17,523",Box Score,"Tue, Dec 29, 2015",,9:00p,87,Denver Nuggets,,93,Cleveland Cavaliers,N
+473,"19,145",Box Score,"Wed, Dec 30, 2015",,7:00p,117,Charlotte Hornets,,122,Los Angeles Clippers,N
+474,"18,397",Box Score,"Wed, Dec 30, 2015",,7:00p,100,Orlando Magic,,93,Brooklyn Nets,N
+475,"18,624",Box Score,"Wed, Dec 30, 2015",,7:30p,104,Boston Celtics,,112,Los Angeles Lakers,N
+476,"19,800",Box Score,"Wed, Dec 30, 2015",,7:30p,94,Toronto Raptors,,91,Washington Wizards,N
+477,"22,206",Box Score,"Wed, Dec 30, 2015",,8:00p,102,Chicago Bulls,OT,100,Indiana Pacers,N
+478,"14,326",Box Score,"Wed, Dec 30, 2015",,8:00p,94,Minnesota Timberwolves,,80,Utah Jazz,N
+479,"20,494",Box Score,"Wed, Dec 30, 2015",,8:30p,114,Dallas Mavericks,,91,Golden State Warriors,N
+480,"18,418",Box Score,"Wed, Dec 30, 2015",,8:30p,112,San Antonio Spurs,,79,Phoenix Suns,N
+481,"19,393",Box Score,"Wed, Dec 30, 2015",,10:00p,110,Portland Trail Blazers,,103,Denver Nuggets,N
+482,"17,317",Box Score,"Wed, Dec 30, 2015",,10:00p,105,Sacramento Kings,,110,Philadelphia 76ers,N
+483,"15,475",Box Score,"Thu, Dec 31, 2015",,6:00p,115,Detroit Pistons,,90,Minnesota Timberwolves,N
+484,"16,348",Box Score,"Thu, Dec 31, 2015",,6:00p,116,Indiana Pacers,,120,Milwaukee Bucks,N
+485,"18,313",Box Score,"Thu, Dec 31, 2015",,7:00p,110,Houston Rockets,,114,Golden State Warriors,N
+486,"16,920",Box Score,"Thu, Dec 31, 2015",,8:00p,89,New Orleans Pelicans,,95,Los Angeles Clippers,N
+487,"18,203",Box Score,"Thu, Dec 31, 2015",,8:00p,110,Oklahoma City Thunder,,106,Phoenix Suns,N
+488,"19,380",Box Score,"Thu, Dec 31, 2015",,9:00p,109,Utah Jazz,,96,Portland Trail Blazers,N
+489,"16,986",Box Score,"Fri, Jan 1, 2016",,7:00p,103,Washington Wizards,,91,Orlando Magic,N
+490,"19,748",Box Score,"Fri, Jan 1, 2016",,7:30p,106,Miami Heat,,82,Dallas Mavericks,N
+491,"19,800",Box Score,"Fri, Jan 1, 2016",,7:30p,104,Toronto Raptors,,94,Charlotte Hornets,N
+492,"22,443",Box Score,"Fri, Jan 1, 2016",,8:00p,108,Chicago Bulls,,81,New York Knicks,N
+493,"18,997",Box Score,"Fri, Jan 1, 2016",,10:30p,93,Los Angeles Lakers,,84,Philadelphia 76ers,N
+494,"18,624",Box Score,"Sat, Jan 2, 2016",,3:00p,97,Boston Celtics,,100,Brooklyn Nets,N
+495,"17,317",Box Score,"Sat, Jan 2, 2016",,5:00p,142,Sacramento Kings,,119,Phoenix Suns,N
+496,"19,387",Box Score,"Sat, Jan 2, 2016",,7:00p,90,Charlotte Hornets,,109,Oklahoma City Thunder,N
+497,"18,165",Box Score,"Sat, Jan 2, 2016",,7:00p,94,Indiana Pacers,,82,Detroit Pistons,N
+498,"20,562",Box Score,"Sat, Jan 2, 2016",,7:30p,104,Cleveland Cavaliers,,79,Orlando Magic,N
+499,"14,107",Box Score,"Sat, Jan 2, 2016",,8:00p,85,Minnesota Timberwolves,,95,Milwaukee Bucks,N
+500,"20,152",Box Score,"Sat, Jan 2, 2016",,8:30p,98,Dallas Mavericks,,105,New Orleans Pelicans,N
+501,"18,652",Box Score,"Sat, Jan 2, 2016",,8:30p,121,San Antonio Spurs,,103,Houston Rockets,N
+502,"18,455",Box Score,"Sat, Jan 2, 2016",,9:00p,92,Utah Jazz,OT,87,Memphis Grizzlies,N
+503,"19,596",Box Score,"Sat, Jan 2, 2016",,10:30p,111,Golden State Warriors,OT,108,Denver Nuggets,N
+504,"19,212",Box Score,"Sat, Jan 2, 2016",,10:30p,130,Los Angeles Clippers,,99,Philadelphia 76ers,N
+505,"19,812",Box Score,"Sun, Jan 3, 2016",,3:30p,111,New York Knicks,,97,Atlanta Hawks,N
+506,"19,800",Box Score,"Sun, Jan 3, 2016",,3:30p,113,Toronto Raptors,,115,Chicago Bulls,N
+507,"17,793",Box Score,"Sun, Jan 3, 2016",,6:00p,75,Washington Wizards,,97,Miami Heat,N
+508,"11,883",Box Score,"Sun, Jan 3, 2016",,9:00p,106,Denver Nuggets,,112,Portland Trail Blazers,N
+509,"18,997",Box Score,"Sun, Jan 3, 2016",,9:30p,97,Los Angeles Lakers,,77,Phoenix Suns,N
+510,"20,562",Box Score,"Mon, Jan 4, 2016",,7:00p,122,Cleveland Cavaliers,,100,Toronto Raptors,N
+511,"14,013",Box Score,"Mon, Jan 4, 2016",,7:00p,109,Philadelphia 76ers,,99,Minnesota Timberwolves,N
+512,"15,448",Box Score,"Mon, Jan 4, 2016",,7:30p,94,Brooklyn Nets,,103,Boston Celtics,N
+513,"14,301",Box Score,"Mon, Jan 4, 2016",,7:30p,115,Detroit Pistons,,89,Orlando Magic,N
+514,"19,874",Box Score,"Mon, Jan 4, 2016",,7:30p,103,Miami Heat,OT,100,Indiana Pacers,N
+515,"14,718",Box Score,"Mon, Jan 4, 2016",,8:00p,98,Milwaukee Bucks,,123,San Antonio Spurs,N
+516,"18,203",Box Score,"Mon, Jan 4, 2016",,8:00p,104,Oklahoma City Thunder,,116,Sacramento Kings,N
+517,"17,912",Box Score,"Mon, Jan 4, 2016",,9:00p,91,Utah Jazz,,93,Houston Rockets,N
+518,"18,832",Box Score,"Mon, Jan 4, 2016",,10:00p,78,Portland Trail Blazers,,91,Memphis Grizzlies,N
+519,"19,596",Box Score,"Mon, Jan 4, 2016",,10:30p,111,Golden State Warriors,,101,Charlotte Hornets,N
+520,"15,082",Box Score,"Tue, Jan 5, 2016",,8:00p,101,Atlanta Hawks,,107,New York Knicks,N
+521,"21,686",Box Score,"Tue, Jan 5, 2016",,8:00p,117,Chicago Bulls,,106,Milwaukee Bucks,N
+522,"20,059",Box Score,"Tue, Jan 5, 2016",,8:30p,117,Dallas Mavericks,2OT,116,Sacramento Kings,N
+523,"18,997",Box Score,"Tue, Jan 5, 2016",,10:30p,88,Los Angeles Lakers,,109,Golden State Warriors,N
+524,"19,987",Box Score,"Wed, Jan 6, 2016",,7:00p,90,Miami Heat,,98,New York Knicks,N
+525,"18,846",Box Score,"Wed, Jan 6, 2016",,7:00p,86,Orlando Magic,,95,Indiana Pacers,N
+526,"20,356",Box Score,"Wed, Jan 6, 2016",,7:00p,115,Washington Wizards,,121,Cleveland Cavaliers,N
+527,"18,624",Box Score,"Wed, Jan 6, 2016",,7:30p,94,Boston Celtics,,99,Detroit Pistons,N
+528,"14,544",Box Score,"Wed, Jan 6, 2016",,7:30p,74,Brooklyn Nets,,91,Toronto Raptors,N
+529,"12,059",Box Score,"Wed, Jan 6, 2016",,8:00p,74,Minnesota Timberwolves,,78,Denver Nuggets,N
+530,"15,255",Box Score,"Wed, Jan 6, 2016",,8:00p,91,New Orleans Pelicans,,100,Dallas Mavericks,N
+531,"18,418",Box Score,"Wed, Jan 6, 2016",,8:30p,123,San Antonio Spurs,,98,Utah Jazz,N
+532,"16,910",Box Score,"Wed, Jan 6, 2016",,9:00p,111,Phoenix Suns,,102,Charlotte Hornets,N
+533,"18,203",Box Score,"Wed, Jan 6, 2016",,9:30p,112,Oklahoma City Thunder,,94,Memphis Grizzlies,N
+534,"18,598",Box Score,"Wed, Jan 6, 2016",,10:00p,98,Portland Trail Blazers,,109,Los Angeles Clippers,N
+535,"12,611",Box Score,"Thu, Jan 7, 2016",,7:00p,98,Philadelphia 76ers,,126,Atlanta Hawks,N
+536,"21,497",Box Score,"Thu, Jan 7, 2016",,8:00p,101,Chicago Bulls,,92,Boston Celtics,N
+537,"18,155",Box Score,"Thu, Jan 7, 2016",,8:00p,103,Houston Rockets,,94,Utah Jazz,N
+538,"17,386",Box Score,"Thu, Jan 7, 2016",,10:30p,118,Sacramento Kings,,115,Los Angeles Lakers,N
+539,"17,064",Box Score,"Fri, Jan 8, 2016",,7:00p,88,Washington Wizards,,97,Toronto Raptors,N
+540,"13,907",Box Score,"Fri, Jan 8, 2016",,7:30p,77,Brooklyn Nets,,83,Orlando Magic,N
+541,"17,499",Box Score,"Fri, Jan 8, 2016",,8:00p,91,Memphis Grizzlies,,84,Denver Nuggets,N
+542,"16,409",Box Score,"Fri, Jan 8, 2016",,8:00p,96,Milwaukee Bucks,,95,Dallas Mavericks,N
+543,"16,768",Box Score,"Fri, Jan 8, 2016",,8:00p,99,Minnesota Timberwolves,,125,Cleveland Cavaliers,N
+544,"16,895",Box Score,"Fri, Jan 8, 2016",,8:00p,86,New Orleans Pelicans,,91,Indiana Pacers,N
+545,"18,420",Box Score,"Fri, Jan 8, 2016",,8:30p,100,San Antonio Spurs,,99,New York Knicks,N
+546,"16,866",Box Score,"Fri, Jan 8, 2016",,9:30p,95,Phoenix Suns,,103,Miami Heat,N
+547,"20,035",Box Score,"Fri, Jan 8, 2016",,10:00p,108,Portland Trail Blazers,,128,Golden State Warriors,N
+548,"18,997",Box Score,"Fri, Jan 8, 2016",,10:30p,113,Los Angeles Lakers,,117,Oklahoma City Thunder,N
+549,"19,060",Box Score,"Sat, Jan 9, 2016",,3:30p,97,Los Angeles Clippers,,83,Charlotte Hornets,N
+550,"19,010",Box Score,"Sat, Jan 9, 2016",,5:00p,120,Atlanta Hawks,,105,Chicago Bulls,N
+551,"18,058",Box Score,"Sat, Jan 9, 2016",,7:00p,99,Orlando Magic,,105,Washington Wizards,N
+552,"16,406",Box Score,"Sat, Jan 9, 2016",,7:30p,103,Detroit Pistons,,89,Brooklyn Nets,N
+553,"14,100",Box Score,"Sat, Jan 9, 2016",,7:30p,95,Philadelphia 76ers,,108,Toronto Raptors,N
+554,"19,911",Box Score,"Sat, Jan 9, 2016",,9:00p,98,Utah Jazz,,83,Miami Heat,N
+555,"17,317",Box Score,"Sat, Jan 9, 2016",,10:00p,116,Sacramento Kings,,128,Golden State Warriors,N
+556,"19,060",Box Score,"Sun, Jan 10, 2016",,3:30p,114,Los Angeles Clippers,OT,111,New Orleans Pelicans,N
+557,"14,363",Box Score,"Sun, Jan 10, 2016",,5:00p,87,Minnesota Timberwolves,,93,Dallas Mavericks,N
+558,"17,112",Box Score,"Sun, Jan 10, 2016",,6:00p,101,Memphis Grizzlies,,98,Boston Celtics,N
+559,"19,226",Box Score,"Sun, Jan 10, 2016",,6:00p,85,Philadelphia 76ers,,95,Cleveland Cavaliers,N
+560,"18,133",Box Score,"Sun, Jan 10, 2016",,7:00p,107,Houston Rockets,OT,103,Indiana Pacers,N
+561,"19,812",Box Score,"Sun, Jan 10, 2016",,7:30p,100,New York Knicks,,88,Milwaukee Bucks,N
+562,"11,343",Box Score,"Sun, Jan 10, 2016",,8:00p,95,Denver Nuggets,,92,Charlotte Hornets,N
+563,"19,393",Box Score,"Sun, Jan 10, 2016",,9:00p,115,Portland Trail Blazers,,110,Oklahoma City Thunder,N
+564,"18,997",Box Score,"Sun, Jan 10, 2016",,9:30p,74,Los Angeles Lakers,,86,Utah Jazz,N
+565,"15,214",Box Score,"Mon, Jan 11, 2016",,7:30p,79,Brooklyn Nets,,106,San Antonio Spurs,N
+566,"21,409",Box Score,"Mon, Jan 11, 2016",,8:00p,100,Chicago Bulls,,114,Washington Wizards,N
+567,"19,596",Box Score,"Mon, Jan 11, 2016",,10:30p,111,Golden State Warriors,,103,Miami Heat,N
+568,"15,284",Box Score,"Tue, Jan 12, 2016",,7:00p,116,Indiana Pacers,,97,Phoenix Suns,N
+569,"14,273",Box Score,"Tue, Jan 12, 2016",,7:30p,99,Detroit Pistons,,109,San Antonio Spurs,N
+570,"19,812",Box Score,"Tue, Jan 12, 2016",,7:30p,120,New York Knicks,,114,Boston Celtics,N
+571,"16,044",Box Score,"Tue, Jan 12, 2016",,8:00p,91,Memphis Grizzlies,,107,Houston Rockets,N
+572,"16,867",Box Score,"Tue, Jan 12, 2016",,8:00p,106,Milwaukee Bucks,,101,Chicago Bulls,N
+573,"14,791",Box Score,"Tue, Jan 12, 2016",,8:00p,96,Minnesota Timberwolves,,101,Oklahoma City Thunder,N
+574,"20,347",Box Score,"Tue, Jan 12, 2016",,8:30p,107,Dallas Mavericks,OT,110,Cleveland Cavaliers,N
+575,"18,997",Box Score,"Tue, Jan 12, 2016",,10:30p,95,Los Angeles Lakers,,91,New Orleans Pelicans,N
+576,"15,334",Box Score,"Wed, Jan 13, 2016",,7:00p,107,Charlotte Hornets,,84,Atlanta Hawks,N
+577,"16,248",Box Score,"Wed, Jan 13, 2016",,7:00p,106,Washington Wizards,,101,Milwaukee Bucks,N
+578,"17,732",Box Score,"Wed, Jan 13, 2016",,7:30p,110,Brooklyn Nets,,104,New York Knicks,N
+579,"18,624",Box Score,"Wed, Jan 13, 2016",,8:00p,103,Boston Celtics,,94,Indiana Pacers,N
+580,"17,115",Box Score,"Wed, Jan 13, 2016",,8:00p,107,Houston Rockets,,104,Minnesota Timberwolves,N
+581,"18,203",Box Score,"Wed, Jan 13, 2016",,8:00p,108,Oklahoma City Thunder,,89,Dallas Mavericks,N
+582,"18,004",Box Score,"Wed, Jan 13, 2016",,9:00p,112,Denver Nuggets,,110,Golden State Warriors,N
+583,"19,393",Box Score,"Wed, Jan 13, 2016",,10:00p,99,Portland Trail Blazers,,85,Utah Jazz,N
+584,"17,317",Box Score,"Wed, Jan 13, 2016",,10:00p,97,Sacramento Kings,,109,New Orleans Pelicans,N
+585,"19,194",Box Score,"Wed, Jan 13, 2016",,10:30p,104,Los Angeles Clippers,,90,Miami Heat,N
+586,"18,689",Box Score,"Thu, Jan 14, 2016","at London, England",3:00p,103,Orlando Magic,OT,106,Toronto Raptors,N
+587,"14,063",Box Score,"Thu, Jan 14, 2016",,7:00p,111,Philadelphia 76ers,OT,115,Chicago Bulls,N
+588,"15,977",Box Score,"Thu, Jan 14, 2016",,8:00p,103,Memphis Grizzlies,,101,Detroit Pistons,N
+589,"18,418",Box Score,"Thu, Jan 14, 2016",,8:00p,99,San Antonio Spurs,,95,Cleveland Cavaliers,N
+590,"17,894",Box Score,"Thu, Jan 14, 2016",,9:00p,101,Utah Jazz,,103,Sacramento Kings,N
+591,"19,596",Box Score,"Thu, Jan 14, 2016",,10:30p,116,Golden State Warriors,,98,Los Angeles Lakers,N
+592,"18,165",Box Score,"Fri, Jan 15, 2016",,7:00p,104,Indiana Pacers,,118,Washington Wizards,N
+593,"18,203",Box Score,"Fri, Jan 15, 2016",,7:00p,113,Oklahoma City Thunder,,93,Minnesota Timberwolves,N
+594,"18,624",Box Score,"Fri, Jan 15, 2016",,7:30p,117,Boston Celtics,,103,Phoenix Suns,N
+595,"14,749",Box Score,"Fri, Jan 15, 2016",,7:30p,104,Brooklyn Nets,,116,Portland Trail Blazers,N
+596,"22,056",Box Score,"Fri, Jan 15, 2016",,8:00p,77,Chicago Bulls,,83,Dallas Mavericks,N
+597,"15,144",Box Score,"Fri, Jan 15, 2016",,8:00p,108,Milwaukee Bucks,OT,101,Atlanta Hawks,N
+598,"16,876",Box Score,"Fri, Jan 15, 2016",,8:00p,109,New Orleans Pelicans,,107,Charlotte Hornets,N
+599,"15,406",Box Score,"Fri, Jan 15, 2016",,9:00p,95,Denver Nuggets,,98,Miami Heat,N
+600,"18,320",Box Score,"Fri, Jan 15, 2016",,9:30p,77,Houston Rockets,,91,Cleveland Cavaliers,N
+601,"18,288",Box Score,"Sat, Jan 16, 2016",,7:00p,92,Charlotte Hornets,,105,Milwaukee Bucks,N
+602,"17,052",Box Score,"Sat, Jan 16, 2016",,7:30p,114,Atlanta Hawks,,86,Brooklyn Nets,N
+603,"21,584",Box Score,"Sat, Jan 16, 2016",,7:30p,113,Detroit Pistons,,95,Golden State Warriors,N
+604,"15,698",Box Score,"Sat, Jan 16, 2016",,7:30p,114,Philadelphia 76ers,,89,Portland Trail Blazers,N
+605,"20,356",Box Score,"Sat, Jan 16, 2016",,7:30p,117,Washington Wizards,,119,Boston Celtics,N
+606,"18,119",Box Score,"Sat, Jan 16, 2016",,8:00p,103,Memphis Grizzlies,,95,New York Knicks,N
+607,"19,911",Box Score,"Sat, Jan 16, 2016",,9:00p,109,Utah Jazz,,82,Los Angeles Lakers,N
+608,"19,191",Box Score,"Sat, Jan 16, 2016",,10:30p,103,Los Angeles Clippers,,110,Sacramento Kings,N
+609,"14,330",Box Score,"Sun, Jan 17, 2016",,3:30p,117,Minnesota Timberwolves,,87,Phoenix Suns,N
+610,"18,203",Box Score,"Sun, Jan 17, 2016",,7:00p,99,Oklahoma City Thunder,,74,Miami Heat,N
+611,"18,418",Box Score,"Sun, Jan 17, 2016",,7:00p,112,San Antonio Spurs,,83,Dallas Mavericks,N
+612,"11,104",Box Score,"Sun, Jan 17, 2016",,8:00p,129,Denver Nuggets,,126,Indiana Pacers,N
+613,"18,997",Box Score,"Sun, Jan 17, 2016",,9:30p,95,Los Angeles Lakers,,112,Houston Rockets,N
+614,"19,812",Box Score,"Mon, Jan 18, 2016",,1:00p,119,New York Knicks,2OT,113,Philadelphia 76ers,N
+615,"17,459",Box Score,"Mon, Jan 18, 2016",,2:00p,124,Charlotte Hornets,2OT,119,Utah Jazz,N
+616,"17,236",Box Score,"Mon, Jan 18, 2016",,2:00p,98,Washington Wizards,,108,Portland Trail Blazers,N
+617,"18,119",Box Score,"Mon, Jan 18, 2016",,2:30p,101,Memphis Grizzlies,,99,New Orleans Pelicans,N
+618,"18,935",Box Score,"Mon, Jan 18, 2016",,3:30p,101,Detroit Pistons,,111,Chicago Bulls,N
+619,"17,460",Box Score,"Mon, Jan 18, 2016",,5:00p,98,Atlanta Hawks,,81,Orlando Magic,N
+620,"19,800",Box Score,"Mon, Jan 18, 2016",,7:30p,112,Toronto Raptors,,100,Brooklyn Nets,N
+621,"20,562",Box Score,"Mon, Jan 18, 2016",,8:00p,98,Cleveland Cavaliers,,132,Golden State Warriors,N
+622,"19,866",Box Score,"Mon, Jan 18, 2016",,8:30p,118,Dallas Mavericks,OT,113,Boston Celtics,N
+623,"19,060",Box Score,"Mon, Jan 18, 2016",,10:30p,140,Los Angeles Clippers,OT,132,Houston Rockets,N
+624,"19,886",Box Score,"Tue, Jan 19, 2016",,7:30p,79,Miami Heat,,91,Milwaukee Bucks,N
+625,"14,255",Box Score,"Tue, Jan 19, 2016",,8:00p,114,New Orleans Pelicans,,99,Minnesota Timberwolves,N
+626,"12,844",Box Score,"Tue, Jan 19, 2016",,9:00p,104,Denver Nuggets,,110,Oklahoma City Thunder,N
+627,"16,802",Box Score,"Tue, Jan 19, 2016",,9:00p,94,Phoenix Suns,,97,Indiana Pacers,N
+628,"17,746",Box Score,"Wed, Jan 20, 2016",,7:00p,87,Orlando Magic,,96,Philadelphia 76ers,N
+629,"17,008",Box Score,"Wed, Jan 20, 2016",,7:00p,106,Washington Wizards,,87,Miami Heat,N
+630,"17,732",Box Score,"Wed, Jan 20, 2016",,7:30p,78,Brooklyn Nets,,91,Cleveland Cavaliers,N
+631,"19,812",Box Score,"Wed, Jan 20, 2016",,7:30p,118,New York Knicks,OT,111,Utah Jazz,N
+632,"19,800",Box Score,"Wed, Jan 20, 2016",,7:30p,115,Toronto Raptors,,109,Boston Celtics,N
+633,"23,152",Box Score,"Wed, Jan 20, 2016",,8:00p,94,Chicago Bulls,,125,Golden State Warriors,N
+634,"17,203",Box Score,"Wed, Jan 20, 2016",,8:00p,114,Houston Rockets,,123,Detroit Pistons,N
+635,"18,203",Box Score,"Wed, Jan 20, 2016",,8:00p,109,Oklahoma City Thunder,,95,Charlotte Hornets,N
+636,"19,621",Box Score,"Wed, Jan 20, 2016",,8:30p,106,Dallas Mavericks,OT,94,Minnesota Timberwolves,N
+637,"18,997",Box Score,"Wed, Jan 20, 2016",,10:30p,93,Los Angeles Lakers,,112,Sacramento Kings,N
+638,"18,783",Box Score,"Wed, Jan 20, 2016",,10:30p,98,Portland Trail Blazers,,104,Atlanta Hawks,N
+639,"20,562",Box Score,"Thu, Jan 21, 2016",,8:00p,115,Cleveland Cavaliers,,102,Los Angeles Clippers,N
+640,"15,281",Box Score,"Thu, Jan 21, 2016",,8:00p,115,New Orleans Pelicans,,99,Detroit Pistons,N
+641,"16,140",Box Score,"Thu, Jan 21, 2016",,9:00p,101,Denver Nuggets,,102,Memphis Grizzlies,N
+642,"17,019",Box Score,"Thu, Jan 21, 2016",,10:00p,91,Sacramento Kings,,88,Atlanta Hawks,N
+643,"16,779",Box Score,"Thu, Jan 21, 2016",,10:30p,89,Phoenix Suns,,117,San Antonio Spurs,N
+644,"18,083",Box Score,"Fri, Jan 22, 2016",,7:00p,116,Orlando Magic,OT,120,Charlotte Hornets,N
+645,"18,624",Box Score,"Fri, Jan 22, 2016",,7:30p,110,Boston Celtics,,101,Chicago Bulls,N
+646,"12,809",Box Score,"Fri, Jan 22, 2016",,7:30p,86,Brooklyn Nets,,108,Utah Jazz,N
+647,"19,812",Box Score,"Fri, Jan 22, 2016",,7:30p,88,New York Knicks,,116,Los Angeles Clippers,N
+648,"17,196",Box Score,"Fri, Jan 22, 2016",,8:00p,102,Houston Rockets,,98,Milwaukee Bucks,N
+649,"19,800",Box Score,"Fri, Jan 22, 2016",,8:00p,101,Toronto Raptors,,81,Miami Heat,N
+650,"20,284",Box Score,"Fri, Jan 22, 2016",,8:30p,106,Dallas Mavericks,,109,Oklahoma City Thunder,N
+651,"19,596",Box Score,"Fri, Jan 22, 2016",,10:30p,122,Golden State Warriors,,110,Indiana Pacers,N
+652,"18,997",Box Score,"Fri, Jan 22, 2016",,10:30p,95,Los Angeles Lakers,,108,San Antonio Spurs,N
+653,"17,768",Box Score,"Sat, Jan 23, 2016",,7:00p,97,Charlotte Hornets,,84,New York Knicks,N
+654,"16,980",Box Score,"Sat, Jan 23, 2016",,7:00p,116,New Orleans Pelicans,,99,Milwaukee Bucks,N
+655,"15,608",Box Score,"Sat, Jan 23, 2016",,8:00p,106,Minnesota Timberwolves,,101,Memphis Grizzlies,N
+656,"20,562",Box Score,"Sat, Jan 23, 2016",,8:30p,83,Cleveland Cavaliers,,96,Chicago Bulls,N
+657,"17,034",Box Score,"Sat, Jan 23, 2016",,9:00p,98,Phoenix Suns,,95,Atlanta Hawks,N
+658,"14,646",Box Score,"Sat, Jan 23, 2016",,9:30p,104,Denver Nuggets,,101,Detroit Pistons,N
+659,"19,728",Box Score,"Sat, Jan 23, 2016",,10:30p,121,Portland Trail Blazers,,103,Los Angeles Lakers,N
+660,"17,419",Box Score,"Sat, Jan 23, 2016",,10:30p,108,Sacramento Kings,,97,Indiana Pacers,N
+661,"18,142",Box Score,"Sun, Jan 24, 2016",,3:30p,115,Houston Rockets,,104,Dallas Mavericks,N
+662,"19,800",Box Score,"Sun, Jan 24, 2016",,6:00p,112,Toronto Raptors,,94,Los Angeles Clippers,N
+663,"9,722",Box Score,"Sun, Jan 24, 2016",,7:00p,92,Philadelphia 76ers,,112,Boston Celtics,N
+664,"16,019",Box Score,"Sun, Jan 24, 2016",,7:30p,116,Brooklyn Nets,,106,Oklahoma City Thunder,N
+665,"20,562",Box Score,"Mon, Jan 25, 2016",,7:00p,114,Cleveland Cavaliers,,107,Minnesota Timberwolves,N
+666,"11,753",Box Score,"Mon, Jan 25, 2016",,7:00p,91,Washington Wizards,,116,Boston Celtics,N
+667,"21,720",Box Score,"Mon, Jan 25, 2016",,8:00p,84,Chicago Bulls,,89,Miami Heat,N
+668,"15,779",Box Score,"Mon, Jan 25, 2016",,8:00p,108,Memphis Grizzlies,OT,102,Orlando Magic,N
+669,"15,688",Box Score,"Mon, Jan 25, 2016",,8:00p,111,New Orleans Pelicans,,112,Houston Rockets,N
+670,"10,280",Box Score,"Mon, Jan 25, 2016",,9:00p,105,Denver Nuggets,,119,Atlanta Hawks,N
+671,"18,783",Box Score,"Mon, Jan 25, 2016",,9:00p,92,Utah Jazz,,95,Detroit Pistons,N
+672,"16,991",Box Score,"Mon, Jan 25, 2016",,10:00p,128,Sacramento Kings,2OT,129,Charlotte Hornets,N
+673,"19,596",Box Score,"Mon, Jan 25, 2016",,10:30p,120,Golden State Warriors,,90,San Antonio Spurs,N
+674,"15,448",Box Score,"Tue, Jan 26, 2016",,7:00p,89,Indiana Pacers,,91,Los Angeles Clippers,N
+675,"10,851",Box Score,"Tue, Jan 26, 2016",,7:00p,113,Philadelphia 76ers,,103,Phoenix Suns,N
+676,"15,267",Box Score,"Tue, Jan 26, 2016",,7:30p,98,Brooklyn Nets,,102,Miami Heat,N
+677,"19,812",Box Score,"Tue, Jan 26, 2016",,7:30p,122,New York Knicks,OT,128,Oklahoma City Thunder,N
+678,"19,800",Box Score,"Tue, Jan 26, 2016",,7:30p,106,Toronto Raptors,,89,Washington Wizards,N
+679,"11,884",Box Score,"Tue, Jan 26, 2016",,8:00p,107,Milwaukee Bucks,,100,Orlando Magic,N
+680,"19,393",Box Score,"Tue, Jan 26, 2016",,10:00p,112,Portland Trail Blazers,,97,Sacramento Kings,N
+681,"18,997",Box Score,"Tue, Jan 26, 2016",,10:30p,90,Los Angeles Lakers,,92,Dallas Mavericks,N
+682,"20,562",Box Score,"Wed, Jan 27, 2016",,7:00p,115,Cleveland Cavaliers,,93,Phoenix Suns,N
+683,"18,108",Box Score,"Wed, Jan 27, 2016",,7:30p,111,Boston Celtics,,103,Denver Nuggets,N
+684,"13,712",Box Score,"Wed, Jan 27, 2016",,7:30p,110,Detroit Pistons,,97,Philadelphia 76ers,N
+685,"17,664",Box Score,"Wed, Jan 27, 2016",,8:00p,83,Atlanta Hawks,,85,Los Angeles Clippers,N
+686,"13,337",Box Score,"Wed, Jan 27, 2016",,8:00p,123,Minnesota Timberwolves,,126,Oklahoma City Thunder,N
+687,"18,418",Box Score,"Wed, Jan 27, 2016",,8:00p,130,San Antonio Spurs,,99,Houston Rockets,N
+688,"16,683",Box Score,"Wed, Jan 27, 2016",,9:00p,102,Utah Jazz,,73,Charlotte Hornets,N
+689,"19,596",Box Score,"Wed, Jan 27, 2016",,10:30p,127,Golden State Warriors,,107,Dallas Mavericks,N
+690,"15,196",Box Score,"Thu, Jan 28, 2016",,7:00p,111,Indiana Pacers,,92,Atlanta Hawks,N
+691,"15,146",Box Score,"Thu, Jan 28, 2016",,7:00p,113,Washington Wizards,,117,Denver Nuggets,N
+692,"15,244",Box Score,"Thu, Jan 28, 2016",,8:00p,103,Memphis Grizzlies,,83,Milwaukee Bucks,N
+693,"15,636",Box Score,"Thu, Jan 28, 2016",,8:00p,114,New Orleans Pelicans,,105,Sacramento Kings,N
+694,"19,800",Box Score,"Thu, Jan 28, 2016",,8:00p,103,Toronto Raptors,,93,New York Knicks,N
+695,"18,997",Box Score,"Thu, Jan 28, 2016",,10:30p,91,Los Angeles Lakers,,114,Chicago Bulls,N
+696,"17,729",Box Score,"Fri, Jan 29, 2016",,7:30p,113,Boston Celtics,,94,Orlando Magic,N
+697,"21,012",Box Score,"Fri, Jan 29, 2016",,7:30p,106,Detroit Pistons,,114,Cleveland Cavaliers,N
+698,"19,812",Box Score,"Fri, Jan 29, 2016",,7:30p,102,New York Knicks,,84,Phoenix Suns,N
+699,"17,846",Box Score,"Fri, Jan 29, 2016",,8:00p,103,Milwaukee Bucks,,107,Miami Heat,N
+700,"18,203",Box Score,"Fri, Jan 29, 2016",,8:00p,116,Oklahoma City Thunder,,108,Houston Rockets,N
+701,"20,409",Box Score,"Fri, Jan 29, 2016",,8:30p,91,Dallas Mavericks,,79,Brooklyn Nets,N
+702,"18,850",Box Score,"Fri, Jan 29, 2016",,9:00p,103,Utah Jazz,,90,Minnesota Timberwolves,N
+703,"19,393",Box Score,"Fri, Jan 29, 2016",,10:00p,109,Portland Trail Blazers,,91,Charlotte Hornets,N
+704,"19,495",Box Score,"Fri, Jan 29, 2016",,10:30p,105,Los Angeles Clippers,,93,Los Angeles Lakers,N
+705,"20,798",Box Score,"Sat, Jan 30, 2016",,5:00p,105,Philadelphia 76ers,,108,Golden State Warriors,N
+706,"19,800",Box Score,"Sat, Jan 30, 2016",,6:30p,111,Toronto Raptors,,107,Detroit Pistons,N
+707,"18,165",Box Score,"Sat, Jan 30, 2016",,7:00p,109,Indiana Pacers,OT,105,Denver Nuggets,N
+708,"18,037",Box Score,"Sat, Jan 30, 2016",,7:00p,105,New Orleans Pelicans,,103,Brooklyn Nets,N
+709,"18,320",Box Score,"Sat, Jan 30, 2016",,8:00p,122,Houston Rockets,,123,Washington Wizards,N
+710,"18,119",Box Score,"Sat, Jan 30, 2016",,8:00p,121,Memphis Grizzlies,,117,Sacramento Kings,N
+711,"20,562",Box Score,"Sat, Jan 30, 2016",,8:30p,117,Cleveland Cavaliers,,103,San Antonio Spurs,N
+712,"19,325",Box Score,"Sun, Jan 31, 2016",,3:30p,120,Los Angeles Clippers,,93,Chicago Bulls,N
+713,"19,937",Box Score,"Sun, Jan 31, 2016",,6:00p,105,Miami Heat,,87,Atlanta Hawks,N
+714,"18,846",Box Score,"Sun, Jan 31, 2016",,6:00p,119,Orlando Magic,,114,Boston Celtics,N
+715,"20,137",Box Score,"Sun, Jan 31, 2016",,7:00p,91,Dallas Mavericks,,78,Phoenix Suns,N
+716,"19,812",Box Score,"Sun, Jan 31, 2016",,7:30p,95,New York Knicks,,116,Golden State Warriors,N
+717,"19,393",Box Score,"Sun, Jan 31, 2016",,9:00p,96,Portland Trail Blazers,,93,Minnesota Timberwolves,N
+718,"18,997",Box Score,"Sun, Jan 31, 2016",,9:30p,82,Los Angeles Lakers,,101,Charlotte Hornets,N
+719,"17,283",Box Score,"Mon, Feb 1, 2016",,7:00p,106,Indiana Pacers,OT,111,Cleveland Cavaliers,N
+720,"13,290",Box Score,"Mon, Feb 1, 2016",,7:30p,100,Brooklyn Nets,,105,Detroit Pistons,N
+721,"15,455",Box Score,"Mon, Feb 1, 2016",,8:00p,112,Atlanta Hawks,,97,Dallas Mavericks,N
+722,"15,210",Box Score,"Mon, Feb 1, 2016",,8:00p,95,New Orleans Pelicans,,110,Memphis Grizzlies,N
+723,"18,203",Box Score,"Mon, Feb 1, 2016",,8:00p,114,Oklahoma City Thunder,,98,Washington Wizards,N
+724,"18,418",Box Score,"Mon, Feb 1, 2016",,8:30p,107,San Antonio Spurs,,92,Orlando Magic,N
+725,"10,007",Box Score,"Mon, Feb 1, 2016",,9:00p,112,Denver Nuggets,,93,Toronto Raptors,N
+726,"18,811",Box Score,"Mon, Feb 1, 2016",,9:00p,105,Utah Jazz,OT,96,Chicago Bulls,N
+727,"16,827",Box Score,"Mon, Feb 1, 2016",,10:00p,111,Sacramento Kings,,104,Milwaukee Bucks,N
+728,"19,812",Box Score,"Tue, Feb 2, 2016",,7:30p,89,New York Knicks,,97,Boston Celtics,N
+729,"18,229",Box Score,"Tue, Feb 2, 2016",,8:00p,115,Houston Rockets,,102,Miami Heat,N
+730,"15,897",Box Score,"Tue, Feb 2, 2016",,9:00p,97,Phoenix Suns,,104,Toronto Raptors,N
+731,"18,306",Box Score,"Tue, Feb 2, 2016",,10:00p,107,Portland Trail Blazers,,95,Milwaukee Bucks,N
+732,"18,997",Box Score,"Tue, Feb 2, 2016",,10:30p,119,Los Angeles Lakers,,115,Minnesota Timberwolves,N
+733,"19,189",Box Score,"Wed, Feb 3, 2016",,7:00p,106,Charlotte Hornets,,97,Cleveland Cavaliers,N
+734,"10,429",Box Score,"Wed, Feb 3, 2016",,7:00p,86,Philadelphia 76ers,,124,Atlanta Hawks,N
+735,"17,297",Box Score,"Wed, Feb 3, 2016",,7:30p,102,Boston Celtics,,95,Detroit Pistons,N
+736,"13,311",Box Score,"Wed, Feb 3, 2016",,7:30p,100,Brooklyn Nets,,114,Indiana Pacers,N
+737,"18,203",Box Score,"Wed, Feb 3, 2016",,8:00p,117,Oklahoma City Thunder,,114,Orlando Magic,N
+738,"20,356",Box Score,"Wed, Feb 3, 2016",,8:00p,121,Washington Wizards,,134,Golden State Warriors,N
+739,"20,385",Box Score,"Wed, Feb 3, 2016",,8:30p,90,Dallas Mavericks,,93,Miami Heat,N
+740,"18,418",Box Score,"Wed, Feb 3, 2016",,8:30p,110,San Antonio Spurs,,97,New Orleans Pelicans,N
+741,"19,461",Box Score,"Wed, Feb 3, 2016",,9:00p,85,Utah Jazz,,81,Denver Nuggets,N
+742,"17,317",Box Score,"Wed, Feb 3, 2016",,10:00p,102,Sacramento Kings,,107,Chicago Bulls,N
+743,"19,060",Box Score,"Wed, Feb 3, 2016",,10:30p,102,Los Angeles Clippers,,108,Minnesota Timberwolves,N
+744,"17,095",Box Score,"Thu, Feb 4, 2016",,7:00p,111,Detroit Pistons,,105,New York Knicks,N
+745,"15,723",Box Score,"Thu, Feb 4, 2016",,9:00p,105,Phoenix Suns,,111,Houston Rockets,N
+746,"18,420",Box Score,"Thu, Feb 4, 2016",,9:30p,96,New Orleans Pelicans,,99,Los Angeles Lakers,N
+747,"19,393",Box Score,"Thu, Feb 4, 2016",,10:00p,103,Portland Trail Blazers,,110,Toronto Raptors,N
+748,"17,225",Box Score,"Fri, Feb 5, 2016",,7:00p,102,Atlanta Hawks,,96,Indiana Pacers,N
+749,"19,147",Box Score,"Fri, Feb 5, 2016",,7:00p,95,Charlotte Hornets,,98,Miami Heat,N
+750,"16,647",Box Score,"Fri, Feb 5, 2016",,7:00p,93,Orlando Magic,,107,Los Angeles Clippers,N
+751,"17,305",Box Score,"Fri, Feb 5, 2016",,7:00p,106,Washington Wizards,,94,Philadelphia 76ers,N
+752,"14,432",Box Score,"Fri, Feb 5, 2016",,7:30p,128,Brooklyn Nets,,119,Sacramento Kings,N
+753,"20,562",Box Score,"Fri, Feb 5, 2016",,7:30p,103,Cleveland Cavaliers,,104,Boston Celtics,N
+754,"19,812",Box Score,"Fri, Feb 5, 2016",,7:30p,85,New York Knicks,,91,Memphis Grizzlies,N
+755,"19,155",Box Score,"Fri, Feb 5, 2016",,9:00p,115,Denver Nuggets,,110,Chicago Bulls,N
+756,"19,911",Box Score,"Fri, Feb 5, 2016",,9:00p,84,Utah Jazz,,81,Milwaukee Bucks,N
+757,"20,404",Box Score,"Fri, Feb 5, 2016",,9:30p,90,Dallas Mavericks,,116,San Antonio Spurs,N
+758,"18,308",Box Score,"Sat, Feb 6, 2016",,5:00p,79,Houston Rockets,,96,Portland Trail Blazers,N
+759,"18,450",Box Score,"Sat, Feb 6, 2016",,7:00p,108,Charlotte Hornets,,104,Washington Wizards,N
+760,"18,165",Box Score,"Sat, Feb 6, 2016",,7:00p,112,Indiana Pacers,,104,Detroit Pistons,N
+761,"20,562",Box Score,"Sat, Feb 6, 2016",,7:30p,99,Cleveland Cavaliers,,84,New Orleans Pelicans,N
+762,"18,847",Box Score,"Sat, Feb 6, 2016",,7:30p,103,Philadelphia 76ers,,98,Brooklyn Nets,N
+763,"18,119",Box Score,"Sat, Feb 6, 2016",,8:00p,110,Memphis Grizzlies,OT,114,Dallas Mavericks,N
+764,"17,876",Box Score,"Sat, Feb 6, 2016",,8:00p,112,Minnesota Timberwolves,,105,Chicago Bulls,N
+765,"18,418",Box Score,"Sat, Feb 6, 2016",,8:30p,106,San Antonio Spurs,,102,Los Angeles Lakers,N
+766,"19,596",Box Score,"Sat, Feb 6, 2016",,9:00p,116,Golden State Warriors,,108,Oklahoma City Thunder,N
+767,"16,180",Box Score,"Sat, Feb 6, 2016",,9:00p,89,Phoenix Suns,,98,Utah Jazz,N
+768,"18,624",Box Score,"Sun, Feb 7, 2016",,1:00p,128,Boston Celtics,,119,Sacramento Kings,N
+769,"19,812",Box Score,"Sun, Feb 7, 2016",,1:00p,96,New York Knicks,,101,Denver Nuggets,N
+770,"16,021",Box Score,"Sun, Feb 7, 2016",,1:00p,96,Orlando Magic,,94,Atlanta Hawks,N
+771,"19,624",Box Score,"Sun, Feb 7, 2016",,2:00p,93,Miami Heat,,100,Los Angeles Clippers,N
+772,"15,886",Box Score,"Mon, Feb 8, 2016",,7:00p,108,Charlotte Hornets,,91,Chicago Bulls,N
+773,"20,562",Box Score,"Mon, Feb 8, 2016",,7:00p,120,Cleveland Cavaliers,,100,Sacramento Kings,N
+774,"18,165",Box Score,"Mon, Feb 8, 2016",,7:00p,89,Indiana Pacers,,87,Los Angeles Lakers,N
+775,"13,310",Box Score,"Mon, Feb 8, 2016",,7:00p,92,Philadelphia 76ers,OT,98,Los Angeles Clippers,N
+776,"13,043",Box Score,"Mon, Feb 8, 2016",,7:30p,105,Brooklyn Nets,,104,Denver Nuggets,N
+777,"14,103",Box Score,"Mon, Feb 8, 2016",,7:30p,89,Detroit Pistons,,103,Toronto Raptors,N
+778,"13,057",Box Score,"Mon, Feb 8, 2016",,8:00p,110,Atlanta Hawks,OT,117,Orlando Magic,N
+779,"15,892",Box Score,"Mon, Feb 8, 2016",,8:00p,106,Memphis Grizzlies,OT,112,Portland Trail Blazers,N
+780,"11,926",Box Score,"Mon, Feb 8, 2016",,8:00p,102,Minnesota Timberwolves,,116,New Orleans Pelicans,N
+781,"16,316",Box Score,"Mon, Feb 8, 2016",,9:00p,106,Phoenix Suns,,122,Oklahoma City Thunder,N
+782,"19,723",Box Score,"Tue, Feb 9, 2016",,8:00p,101,Miami Heat,,119,San Antonio Spurs,N
+783,"13,215",Box Score,"Tue, Feb 9, 2016",,8:00p,112,Milwaukee Bucks,,111,Boston Celtics,N
+784,"19,812",Box Score,"Tue, Feb 9, 2016",,8:00p,108,New York Knicks,,111,Washington Wizards,N
+785,"19,394",Box Score,"Tue, Feb 9, 2016",,8:30p,119,Dallas Mavericks,OT,121,Utah Jazz,N
+786,"19,596",Box Score,"Tue, Feb 9, 2016",,10:30p,123,Golden State Warriors,,110,Houston Rockets,N
+787,"15,653",Box Score,"Wed, Feb 10, 2016",,7:00p,95,Indiana Pacers,,117,Charlotte Hornets,N
+788,"17,467",Box Score,"Wed, Feb 10, 2016",,7:00p,96,Orlando Magic,,98,San Antonio Spurs,N
+789,"12,501",Box Score,"Wed, Feb 10, 2016",,7:00p,110,Philadelphia 76ers,,114,Sacramento Kings,N
+790,"18,186",Box Score,"Wed, Feb 10, 2016",,7:30p,139,Boston Celtics,OT,134,Los Angeles Clippers,N
+791,"14,262",Box Score,"Wed, Feb 10, 2016",,7:30p,90,Brooklyn Nets,,109,Memphis Grizzlies,N
+792,"19,971",Box Score,"Wed, Feb 10, 2016",,7:30p,92,Detroit Pistons,,103,Denver Nuggets,N
+793,"21,709",Box Score,"Wed, Feb 10, 2016",,8:00p,90,Chicago Bulls,,113,Atlanta Hawks,N
+794,"20,562",Box Score,"Wed, Feb 10, 2016",,8:00p,120,Cleveland Cavaliers,,111,Los Angeles Lakers,N
+795,"11,171",Box Score,"Wed, Feb 10, 2016",,8:00p,117,Minnesota Timberwolves,,112,Toronto Raptors,N
+796,"15,256",Box Score,"Wed, Feb 10, 2016",,8:00p,100,New Orleans Pelicans,,96,Utah Jazz,N
+797,"18,055",Box Score,"Wed, Feb 10, 2016",,9:00p,104,Phoenix Suns,,112,Golden State Warriors,N
+798,"19,393",Box Score,"Wed, Feb 10, 2016",,10:30p,116,Portland Trail Blazers,,103,Houston Rockets,N
+799,"14,172",Box Score,"Thu, Feb 11, 2016",,8:00p,99,Milwaukee Bucks,,92,Washington Wizards,N
+800,"18,203",Box Score,"Thu, Feb 11, 2016",,8:00p,121,Oklahoma City Thunder,,95,New Orleans Pelicans,N
+801,"12,415",Box Score,"Thu, Feb 18, 2016",,7:00p,103,Washington Wizards,,89,Utah Jazz,N
+802,"20,562",Box Score,"Thu, Feb 18, 2016",,8:00p,106,Cleveland Cavaliers,,95,Chicago Bulls,N
+803,"19,410",Box Score,"Thu, Feb 18, 2016",,10:30p,105,Los Angeles Clippers,,86,San Antonio Spurs,N
+804,"17,764",Box Score,"Fri, Feb 19, 2016",,7:00p,110,Orlando Magic,OT,104,Dallas Mavericks,N
+805,"20,356",Box Score,"Fri, Feb 19, 2016",,7:00p,98,Washington Wizards,,86,Detroit Pistons,N
+806,"17,732",Box Score,"Fri, Feb 19, 2016",,7:30p,109,Brooklyn Nets,,98,New York Knicks,N
+807,"19,043",Box Score,"Fri, Feb 19, 2016",,8:00p,111,Atlanta Hawks,,115,Miami Heat,N
+808,"21,849",Box Score,"Fri, Feb 19, 2016",,8:00p,116,Chicago Bulls,,106,Toronto Raptors,N
+809,"18,119",Box Score,"Fri, Feb 19, 2016",,8:00p,109,Memphis Grizzlies,,104,Minnesota Timberwolves,N
+810,"16,370",Box Score,"Fri, Feb 19, 2016",,8:00p,95,Milwaukee Bucks,,98,Charlotte Hornets,N
+811,"16,953",Box Score,"Fri, Feb 19, 2016",,8:00p,121,New Orleans Pelicans,,114,Philadelphia 76ers,N
+812,"18,203",Box Score,"Fri, Feb 19, 2016",,8:00p,98,Oklahoma City Thunder,,101,Indiana Pacers,N
+813,"17,102",Box Score,"Fri, Feb 19, 2016",,9:30p,100,Phoenix Suns,,116,Houston Rockets,N
+814,"20,100",Box Score,"Fri, Feb 19, 2016",,10:00p,137,Portland Trail Blazers,,105,Golden State Warriors,N
+815,"17,317",Box Score,"Fri, Feb 19, 2016",,10:00p,116,Sacramento Kings,,110,Denver Nuggets,N
+816,"18,997",Box Score,"Fri, Feb 19, 2016",,10:30p,113,Los Angeles Lakers,,119,San Antonio Spurs,N
+817,"19,911",Box Score,"Fri, Feb 19, 2016",,10:30p,111,Utah Jazz,,93,Boston Celtics,N
+818,"18,653",Box Score,"Sat, Feb 20, 2016",,7:30p,109,Atlanta Hawks,2OT,117,Milwaukee Bucks,N
+819,"19,710",Box Score,"Sat, Feb 20, 2016",,7:30p,114,Miami Heat,,94,Washington Wizards,N
+820,"16,663",Box Score,"Sat, Feb 20, 2016",,8:00p,95,Minnesota Timberwolves,,103,New York Knicks,N
+821,"19,585",Box Score,"Sat, Feb 20, 2016",,8:30p,112,Los Angeles Clippers,,115,Golden State Warriors,N
+822,"17,886",Box Score,"Sun, Feb 21, 2016",,3:30p,106,Detroit Pistons,,111,New Orleans Pelicans,N
+823,"18,203",Box Score,"Sun, Feb 21, 2016",,3:30p,92,Oklahoma City Thunder,,115,Cleveland Cavaliers,N
+824,"16,065",Box Score,"Sun, Feb 21, 2016",,5:00p,101,Denver Nuggets,,121,Boston Celtics,N
+825,"16,224",Box Score,"Sun, Feb 21, 2016",,5:00p,111,Phoenix Suns,,118,San Antonio Spurs,N
+826,"16,155",Box Score,"Sun, Feb 21, 2016",,6:00p,96,Brooklyn Nets,,104,Charlotte Hornets,N
+827,"17,242",Box Score,"Sun, Feb 21, 2016",,6:00p,102,Orlando Magic,,105,Indiana Pacers,N
+828,"19,800",Box Score,"Sun, Feb 21, 2016",,6:00p,98,Toronto Raptors,,85,Memphis Grizzlies,N
+829,"20,194",Box Score,"Sun, Feb 21, 2016",,7:00p,129,Dallas Mavericks,,103,Philadelphia 76ers,N
+830,"23,143",Box Score,"Sun, Feb 21, 2016",,8:00p,126,Chicago Bulls,,115,Los Angeles Lakers,N
+831,"19,470",Box Score,"Sun, Feb 21, 2016",,9:00p,115,Portland Trail Blazers,,111,Utah Jazz,N
+832,"20,562",Box Score,"Mon, Feb 22, 2016",,7:00p,88,Cleveland Cavaliers,,96,Detroit Pistons,N
+833,"19,600",Box Score,"Mon, Feb 22, 2016",,7:30p,101,Miami Heat,OT,93,Indiana Pacers,N
+834,"19,812",Box Score,"Mon, Feb 22, 2016",,7:30p,95,New York Knicks,,122,Toronto Raptors,N
+835,"19,330",Box Score,"Mon, Feb 22, 2016",,8:00p,92,Atlanta Hawks,,102,Golden State Warriors,N
+836,"18,717",Box Score,"Mon, Feb 22, 2016",,8:00p,108,Milwaukee Bucks,,101,Los Angeles Lakers,N
+837,"11,639",Box Score,"Mon, Feb 22, 2016",,8:00p,124,Minnesota Timberwolves,,122,Boston Celtics,N
+838,"19,060",Box Score,"Mon, Feb 22, 2016",,10:30p,124,Los Angeles Clippers,,84,Phoenix Suns,N
+839,"13,745",Box Score,"Tue, Feb 23, 2016",,7:00p,115,Philadelphia 76ers,,124,Orlando Magic,N
+840,"15,743",Box Score,"Tue, Feb 23, 2016",,7:00p,109,Washington Wizards,,89,New Orleans Pelicans,N
+841,"15,721",Box Score,"Tue, Feb 23, 2016",,9:00p,110,Denver Nuggets,,114,Sacramento Kings,N
+842,"18,132",Box Score,"Tue, Feb 23, 2016",,9:00p,117,Utah Jazz,OT,114,Houston Rockets,N
+843,"19,393",Box Score,"Tue, Feb 23, 2016",,10:00p,112,Portland Trail Blazers,,104,Brooklyn Nets,N
+844,"20,562",Box Score,"Wed, Feb 24, 2016",,7:00p,114,Cleveland Cavaliers,,103,Charlotte Hornets,N
+845,"16,018",Box Score,"Wed, Feb 24, 2016",,7:00p,108,Indiana Pacers,,105,New York Knicks,N
+846,"13,429",Box Score,"Wed, Feb 24, 2016",,7:30p,111,Detroit Pistons,,91,Philadelphia 76ers,N
+847,"19,899",Box Score,"Wed, Feb 24, 2016",,7:30p,112,Miami Heat,,118,Golden State Warriors,N
+848,"19,800",Box Score,"Wed, Feb 24, 2016",,7:30p,114,Toronto Raptors,,105,Minnesota Timberwolves,N
+849,"21,560",Box Score,"Wed, Feb 24, 2016",,8:00p,109,Chicago Bulls,,104,Washington Wizards,N
+850,"18,119",Box Score,"Wed, Feb 24, 2016",,8:00p,128,Memphis Grizzlies,,119,Los Angeles Lakers,N
+851,"19,805",Box Score,"Wed, Feb 24, 2016",,8:30p,103,Dallas Mavericks,,116,Oklahoma City Thunder,N
+852,"19,060",Box Score,"Wed, Feb 24, 2016",,10:30p,81,Los Angeles Clippers,,87,Denver Nuggets,N
+853,"17,317",Box Score,"Wed, Feb 24, 2016",,10:30p,92,Sacramento Kings,,108,San Antonio Spurs,N
+854,"19,189",Box Score,"Thu, Feb 25, 2016",,7:00p,114,Orlando Magic,,130,Golden State Warriors,N
+855,"18,157",Box Score,"Thu, Feb 25, 2016",,7:30p,112,Boston Celtics,,107,Milwaukee Bucks,N
+856,"16,974",Box Score,"Thu, Feb 25, 2016",,8:00p,123,New Orleans Pelicans,,119,Oklahoma City Thunder,N
+857,"16,145",Box Score,"Thu, Feb 25, 2016",,9:00p,106,Phoenix Suns,,116,Brooklyn Nets,N
+858,"19,393",Box Score,"Thu, Feb 25, 2016",,10:30p,105,Portland Trail Blazers,,119,Houston Rockets,N
+859,"19,911",Box Score,"Thu, Feb 25, 2016",,10:30p,78,Utah Jazz,,96,San Antonio Spurs,N
+860,"18,165",Box Score,"Fri, Feb 26, 2016",,7:00p,95,Indiana Pacers,,96,Charlotte Hornets,N
+861,"16,511",Box Score,"Fri, Feb 26, 2016",,7:00p,94,Philadelphia 76ers,,103,Washington Wizards,N
+862,"19,812",Box Score,"Fri, Feb 26, 2016",,7:30p,108,New York Knicks,,95,Orlando Magic,N
+863,"19,800",Box Score,"Fri, Feb 26, 2016",,7:30p,99,Toronto Raptors,,97,Cleveland Cavaliers,N
+864,"18,123",Box Score,"Fri, Feb 26, 2016",,8:00p,103,Atlanta Hawks,,88,Chicago Bulls,N
+865,"20,298",Box Score,"Fri, Feb 26, 2016",,8:30p,122,Dallas Mavericks,OT,116,Denver Nuggets,N
+866,"17,317",Box Score,"Fri, Feb 26, 2016",,10:00p,107,Sacramento Kings,,117,Los Angeles Clippers,N
+867,"18,997",Box Score,"Fri, Feb 26, 2016",,10:30p,95,Los Angeles Lakers,,112,Memphis Grizzlies,N
+868,"18,624",Box Score,"Sat, Feb 27, 2016",,3:00p,101,Boston Celtics,,89,Miami Heat,N
+869,"17,338",Box Score,"Sat, Feb 27, 2016",,7:00p,110,New Orleans Pelicans,,112,Minnesota Timberwolves,N
+870,"21,962",Box Score,"Sat, Feb 27, 2016",,8:00p,95,Chicago Bulls,,103,Portland Trail Blazers,N
+871,"18,240",Box Score,"Sat, Feb 27, 2016",,8:00p,94,Houston Rockets,,104,San Antonio Spurs,N
+872,"17,165",Box Score,"Sat, Feb 27, 2016",,8:30p,91,Milwaukee Bucks,,102,Detroit Pistons,N
+873,"18,203",Box Score,"Sat, Feb 27, 2016",,8:30p,118,Oklahoma City Thunder,OT,121,Golden State Warriors,N
+874,"17,101",Box Score,"Sat, Feb 27, 2016",,9:30p,111,Phoenix Suns,,106,Memphis Grizzlies,N
+875,"18,863",Box Score,"Sat, Feb 27, 2016",,9:30p,96,Utah Jazz,,98,Brooklyn Nets,N
+876,"20,356",Box Score,"Sun, Feb 28, 2016",,1:00p,113,Washington Wizards,,99,Cleveland Cavaliers,N
+877,"17,156",Box Score,"Sun, Feb 28, 2016",,3:30p,87,Atlanta Hawks,,76,Charlotte Hornets,N
+878,"17,201",Box Score,"Sun, Feb 28, 2016",,6:00p,114,Detroit Pistons,,101,Toronto Raptors,N
+879,"16,662",Box Score,"Sun, Feb 28, 2016",,6:00p,102,Indiana Pacers,,111,Portland Trail Blazers,N
+880,"16,168",Box Score,"Sun, Feb 28, 2016",,6:00p,130,Orlando Magic,,116,Philadelphia 76ers,N
+881,"20,289",Box Score,"Sun, Feb 28, 2016",,7:00p,128,Dallas Mavericks,,101,Minnesota Timberwolves,N
+882,"19,812",Box Score,"Sun, Feb 28, 2016",,7:30p,81,New York Knicks,,98,Miami Heat,N
+883,"20,562",Box Score,"Mon, Feb 29, 2016",,7:00p,100,Cleveland Cavaliers,,96,Indiana Pacers,N
+884,"15,096",Box Score,"Mon, Feb 29, 2016",,7:00p,116,Washington Wizards,,108,Philadelphia 76ers,N
+885,"17,680",Box Score,"Mon, Feb 29, 2016",,7:30p,100,Boston Celtics,,95,Utah Jazz,N
+886,"13,214",Box Score,"Mon, Feb 29, 2016",,8:00p,128,Milwaukee Bucks,,121,Houston Rockets,N
+887,"10,324",Box Score,"Mon, Feb 29, 2016",,9:00p,96,Denver Nuggets,,103,Memphis Grizzlies,N
+888,"17,317",Box Score,"Mon, Feb 29, 2016",,10:00p,116,Sacramento Kings,,131,Oklahoma City Thunder,N
+889,"19,060",Box Score,"Mon, Feb 29, 2016",,10:30p,105,Los Angeles Clippers,,95,Brooklyn Nets,N
+890,"16,849",Box Score,"Tue, Mar 1, 2016",,7:00p,126,Charlotte Hornets,,92,Phoenix Suns,N
+891,"19,654",Box Score,"Tue, Mar 1, 2016",,7:30p,129,Miami Heat,,111,Chicago Bulls,N
+892,"19,812",Box Score,"Tue, Mar 1, 2016",,7:30p,85,New York Knicks,,104,Portland Trail Blazers,N
+893,"19,546",Box Score,"Tue, Mar 1, 2016",,8:30p,121,Dallas Mavericks,,108,Orlando Magic,N
+894,"19,596",Box Score,"Tue, Mar 1, 2016",,10:30p,109,Golden State Warriors,OT,105,Atlanta Hawks,N
+895,"18,997",Box Score,"Tue, Mar 1, 2016",,10:30p,107,Los Angeles Lakers,,101,Brooklyn Nets,N
+896,"16,072",Box Score,"Wed, Mar 2, 2016",,7:00p,102,Orlando Magic,,89,Chicago Bulls,N
+897,"11,143",Box Score,"Wed, Mar 2, 2016",,7:00p,99,Philadelphia 76ers,,119,Charlotte Hornets,N
+898,"18,624",Box Score,"Wed, Mar 2, 2016",,7:30p,116,Boston Celtics,,93,Portland Trail Blazers,N
+899,"19,800",Box Score,"Wed, Mar 2, 2016",,7:30p,104,Toronto Raptors,,94,Utah Jazz,N
+900,"18,226",Box Score,"Wed, Mar 2, 2016",,8:00p,100,Houston Rockets,,95,New Orleans Pelicans,N
+901,"15,310",Box Score,"Wed, Mar 2, 2016",,8:00p,104,Memphis Grizzlies,,98,Sacramento Kings,N
+902,"14,263",Box Score,"Wed, Mar 2, 2016",,8:00p,99,Milwaukee Bucks,,104,Indiana Pacers,N
+903,"11,307",Box Score,"Wed, Mar 2, 2016",,8:00p,98,Minnesota Timberwolves,,104,Washington Wizards,N
+904,"18,418",Box Score,"Wed, Mar 2, 2016",,8:00p,97,San Antonio Spurs,,81,Detroit Pistons,N
+905,"20,096",Box Score,"Wed, Mar 2, 2016",,9:00p,117,Denver Nuggets,,107,Los Angeles Lakers,N
+906,"19,304",Box Score,"Wed, Mar 2, 2016",,10:30p,103,Los Angeles Clippers,,98,Oklahoma City Thunder,N
+907,"19,600",Box Score,"Thu, Mar 3, 2016",,7:30p,108,Miami Heat,,92,Phoenix Suns,N
+908,"17,781",Box Score,"Thu, Mar 3, 2016",,8:00p,86,New Orleans Pelicans,,94,San Antonio Spurs,N
+909,"19,910",Box Score,"Thu, Mar 3, 2016",,8:30p,101,Dallas Mavericks,,104,Sacramento Kings,N
+910,"19,596",Box Score,"Thu, Mar 3, 2016",,10:30p,121,Golden State Warriors,,106,Oklahoma City Thunder,N
+911,"19,099",Box Score,"Fri, Mar 4, 2016",,7:00p,108,Charlotte Hornets,,101,Indiana Pacers,N
+912,"17,546",Box Score,"Fri, Mar 4, 2016",,7:00p,84,Orlando Magic,,102,Phoenix Suns,N
+913,"17,610",Box Score,"Fri, Mar 4, 2016",,7:00p,102,Philadelphia 76ers,,112,Miami Heat,N
+914,"18,624",Box Score,"Fri, Mar 4, 2016",,7:30p,105,Boston Celtics,,104,New York Knicks,N
+915,"19,800",Box Score,"Fri, Mar 4, 2016",,7:30p,117,Toronto Raptors,,115,Portland Trail Blazers,N
+916,"20,562",Box Score,"Fri, Mar 4, 2016",,8:00p,108,Cleveland Cavaliers,,83,Washington Wizards,N
+917,"17,188",Box Score,"Fri, Mar 4, 2016",,8:00p,94,Memphis Grizzlies,,88,Utah Jazz,N
+918,"16,366",Box Score,"Fri, Mar 4, 2016",,8:00p,116,Milwaukee Bucks,,101,Minnesota Timberwolves,N
+919,"14,163",Box Score,"Fri, Mar 4, 2016",,9:00p,120,Denver Nuggets,OT,121,Brooklyn Nets,N
+920,"18,997",Box Score,"Fri, Mar 4, 2016",,10:30p,77,Los Angeles Lakers,,106,Atlanta Hawks,N
+921,"20,562",Box Score,"Sat, Mar 5, 2016",,7:00p,120,Cleveland Cavaliers,,103,Boston Celtics,N
+922,"16,680",Box Score,"Sat, Mar 5, 2016",,7:00p,94,New Orleans Pelicans,,106,Utah Jazz,N
+923,"19,812",Box Score,"Sat, Mar 5, 2016",,7:00p,102,New York Knicks,,89,Detroit Pistons,N
+924,"20,356",Box Score,"Sat, Mar 5, 2016",,7:00p,99,Washington Wizards,,100,Indiana Pacers,N
+925,"15,987",Box Score,"Sat, Mar 5, 2016",,8:00p,132,Minnesota Timberwolves,,118,Brooklyn Nets,N
+926,"22,203",Box Score,"Sat, Mar 5, 2016",,8:30p,108,Chicago Bulls,,100,Houston Rockets,N
+927,"18,418",Box Score,"Sat, Mar 5, 2016",,8:30p,104,San Antonio Spurs,,94,Sacramento Kings,N
+928,"19,236",Box Score,"Sat, Mar 5, 2016",,10:30p,97,Los Angeles Clippers,,107,Atlanta Hawks,N
+929,"18,997",Box Score,"Sun, Mar 6, 2016",,3:30p,112,Los Angeles Lakers,,95,Golden State Warriors,N
+930,"16,565",Box Score,"Sun, Mar 6, 2016",,3:30p,96,Milwaukee Bucks,,104,Oklahoma City Thunder,N
+931,"17,291",Box Score,"Sun, Mar 6, 2016",,4:00p,100,Memphis Grizzlies,,109,Phoenix Suns,N
+932,"14,802",Box Score,"Sun, Mar 6, 2016",,5:00p,116,Denver Nuggets,OT,114,Dallas Mavericks,N
+933,"18,386",Box Score,"Sun, Mar 6, 2016",,6:00p,123,Detroit Pistons,,103,Portland Trail Blazers,N
+934,"19,820",Box Score,"Sun, Mar 6, 2016",,6:00p,103,Miami Heat,,98,Philadelphia 76ers,N
+935,"19,800",Box Score,"Sun, Mar 6, 2016",,6:30p,107,Toronto Raptors,,113,Houston Rockets,N
+936,"15,912",Box Score,"Mon, Mar 7, 2016",,7:00p,108,Charlotte Hornets,,103,Minnesota Timberwolves,N
+937,"20,562",Box Score,"Mon, Mar 7, 2016",,7:00p,103,Cleveland Cavaliers,,106,Memphis Grizzlies,N
+938,"16,742",Box Score,"Mon, Mar 7, 2016",,7:00p,99,Indiana Pacers,,91,San Antonio Spurs,N
+939,"21,672",Box Score,"Mon, Mar 7, 2016",,8:00p,100,Chicago Bulls,,90,Milwaukee Bucks,N
+940,"16,403",Box Score,"Mon, Mar 7, 2016",,8:00p,115,New Orleans Pelicans,,112,Sacramento Kings,N
+941,"20,002",Box Score,"Mon, Mar 7, 2016",,8:30p,90,Dallas Mavericks,,109,Los Angeles Clippers,N
+942,"19,596",Box Score,"Mon, Mar 7, 2016",,10:30p,119,Golden State Warriors,,113,Orlando Magic,N
+943,"19,800",Box Score,"Tue, Mar 8, 2016",,7:30p,104,Toronto Raptors,,99,Brooklyn Nets,N
+944,"14,093",Box Score,"Tue, Mar 8, 2016",,8:00p,91,Minnesota Timberwolves,,116,San Antonio Spurs,N
+945,"13,305",Box Score,"Tue, Mar 8, 2016",,9:00p,110,Denver Nuggets,,94,New York Knicks,N
+946,"19,282",Box Score,"Tue, Mar 8, 2016",,9:00p,84,Utah Jazz,,91,Atlanta Hawks,N
+947,"19,393",Box Score,"Tue, Mar 8, 2016",,10:00p,116,Portland Trail Blazers,OT,109,Washington Wizards,N
+948,"18,997",Box Score,"Tue, Mar 8, 2016",,10:30p,107,Los Angeles Lakers,,98,Orlando Magic,N
+949,"17,790",Box Score,"Wed, Mar 9, 2016",,7:00p,116,Boston Celtics,,96,Memphis Grizzlies,N
+950,"16,335",Box Score,"Wed, Mar 9, 2016",,7:00p,122,Charlotte Hornets,,113,New Orleans Pelicans,N
+951,"15,237",Box Score,"Wed, Mar 9, 2016",,7:00p,104,Philadelphia 76ers,,118,Houston Rockets,N
+952,"15,005",Box Score,"Wed, Mar 9, 2016",,8:00p,114,Milwaukee Bucks,,108,Miami Heat,N
+953,"20,249",Box Score,"Wed, Mar 9, 2016",,8:30p,96,Dallas Mavericks,,102,Detroit Pistons,N
+954,"17,105",Box Score,"Wed, Mar 9, 2016",,9:00p,97,Phoenix Suns,,128,New York Knicks,N
+955,"18,203",Box Score,"Wed, Mar 9, 2016",,9:30p,120,Oklahoma City Thunder,,108,Los Angeles Clippers,N
+956,"17,317",Box Score,"Wed, Mar 9, 2016",,10:00p,111,Sacramento Kings,,120,Cleveland Cavaliers,N
+957,"19,596",Box Score,"Wed, Mar 9, 2016",,10:30p,115,Golden State Warriors,,94,Utah Jazz,N
+958,"19,800",Box Score,"Thu, Mar 10, 2016",,7:30p,104,Toronto Raptors,,96,Atlanta Hawks,N
+959,"18,418",Box Score,"Thu, Mar 10, 2016",,8:00p,109,San Antonio Spurs,,101,Chicago Bulls,N
+960,"11,582",Box Score,"Thu, Mar 10, 2016",,9:00p,116,Denver Nuggets,,98,Phoenix Suns,N
+961,"18,997",Box Score,"Thu, Mar 10, 2016",,10:30p,108,Los Angeles Lakers,,120,Cleveland Cavaliers,N
+962,"18,189",Box Score,"Fri, Mar 11, 2016",,7:00p,118,Charlotte Hornets,,103,Detroit Pistons,N
+963,"14,128",Box Score,"Fri, Mar 11, 2016",,7:00p,95,Philadelphia 76ers,,89,Brooklyn Nets,N
+964,"18,624",Box Score,"Fri, Mar 11, 2016",,7:30p,98,Boston Celtics,,102,Houston Rockets,N
+965,"22,067",Box Score,"Fri, Mar 11, 2016",,8:00p,96,Chicago Bulls,,118,Miami Heat,N
+966,"18,119",Box Score,"Fri, Mar 11, 2016",,8:00p,121,Memphis Grizzlies,OT,114,New Orleans Pelicans,N
+967,"18,203",Box Score,"Fri, Mar 11, 2016",,8:00p,96,Oklahoma City Thunder,,99,Minnesota Timberwolves,N
+968,"19,911",Box Score,"Fri, Mar 11, 2016",,9:00p,114,Utah Jazz,,93,Washington Wizards,N
+969,"17,081",Box Score,"Fri, Mar 11, 2016",,10:00p,100,Sacramento Kings,,107,Orlando Magic,N
+970,"19,596",Box Score,"Fri, Mar 11, 2016",,10:30p,128,Golden State Warriors,,112,Portland Trail Blazers,N
+971,"19,175",Box Score,"Fri, Mar 11, 2016",,10:30p,101,Los Angeles Clippers,,94,New York Knicks,N
+972,"20,459",Box Score,"Sat, Mar 12, 2016",,2:00p,105,Dallas Mavericks,,112,Indiana Pacers,N
+973,"19,303",Box Score,"Sat, Mar 12, 2016",,7:00p,125,Charlotte Hornets,,109,Houston Rockets,N
+974,"16,087",Box Score,"Sat, Mar 12, 2016",,7:00p,111,Philadelphia 76ers,,125,Detroit Pistons,N
+975,"19,800",Box Score,"Sat, Mar 12, 2016",,7:00p,112,Toronto Raptors,OT,104,Miami Heat,N
+976,"17,515",Box Score,"Sat, Mar 12, 2016",,7:30p,95,Atlanta Hawks,,83,Memphis Grizzlies,N
+977,"16,518",Box Score,"Sat, Mar 12, 2016",,7:30p,103,Milwaukee Bucks,,92,New Orleans Pelicans,N
+978,"18,418",Box Score,"Sat, Mar 12, 2016",,8:30p,93,San Antonio Spurs,,85,Oklahoma City Thunder,N
+979,"13,213",Box Score,"Sat, Mar 12, 2016",,9:30p,116,Denver Nuggets,,100,Washington Wizards,N
+980,"19,596",Box Score,"Sat, Mar 12, 2016",,10:30p,123,Golden State Warriors,,116,Phoenix Suns,N
+981,"19,452",Box Score,"Sat, Mar 12, 2016",,10:30p,121,Portland Trail Blazers,,84,Orlando Magic,N
+982,"19,342",Box Score,"Sun, Mar 13, 2016",,3:30p,90,Los Angeles Clippers,,114,Cleveland Cavaliers,N
+983,"17,066",Box Score,"Sun, Mar 13, 2016",,6:00p,104,Atlanta Hawks,,75,Indiana Pacers,N
+984,"17,023",Box Score,"Sun, Mar 13, 2016",,6:00p,99,Sacramento Kings,,108,Utah Jazz,N
+985,"15,241",Box Score,"Sun, Mar 13, 2016",,8:00p,100,Brooklyn Nets,,109,Milwaukee Bucks,N
+986,"18,997",Box Score,"Sun, Mar 13, 2016",,9:30p,87,Los Angeles Lakers,,90,New York Knicks,N
+987,"15,686",Box Score,"Mon, Mar 14, 2016",,7:00p,96,Charlotte Hornets,,107,Dallas Mavericks,N
+988,"19,744",Box Score,"Mon, Mar 14, 2016",,7:30p,124,Miami Heat,,119,Denver Nuggets,N
+989,"19,800",Box Score,"Mon, Mar 14, 2016",,7:30p,107,Toronto Raptors,,109,Chicago Bulls,N
+990,"18,226",Box Score,"Mon, Mar 14, 2016",,8:00p,130,Houston Rockets,,81,Memphis Grizzlies,N
+991,"18,203",Box Score,"Mon, Mar 14, 2016",,8:00p,128,Oklahoma City Thunder,,94,Portland Trail Blazers,N
+992,"18,042",Box Score,"Mon, Mar 14, 2016",,8:00p,124,Washington Wizards,,81,Detroit Pistons,N
+993,"17,480",Box Score,"Mon, Mar 14, 2016",,10:00p,107,Phoenix Suns,,104,Minnesota Timberwolves,N
+994,"19,596",Box Score,"Mon, Mar 14, 2016",,10:30p,125,Golden State Warriors,,107,New Orleans Pelicans,N
+995,"19,911",Box Score,"Mon, Mar 14, 2016",,10:30p,94,Utah Jazz,,85,Cleveland Cavaliers,N
+996,"17,118",Box Score,"Tue, Mar 15, 2016",,7:00p,103,Indiana Pacers,,98,Boston Celtics,N
+997,"16,988",Box Score,"Tue, Mar 15, 2016",,7:00p,116,Orlando Magic,,110,Denver Nuggets,N
+998,"14,560",Box Score,"Tue, Mar 15, 2016",,7:30p,131,Brooklyn Nets,,114,Philadelphia 76ers,N
+999,"13,522",Box Score,"Tue, Mar 15, 2016",,8:00p,89,Milwaukee Bucks,,107,Toronto Raptors,N
+1000,"18,418",Box Score,"Tue, Mar 15, 2016",,8:30p,108,San Antonio Spurs,,87,Los Angeles Clippers,N
+1001,"18,997",Box Score,"Tue, Mar 15, 2016",,10:30p,98,Los Angeles Lakers,,106,Sacramento Kings,N
+1002,"18,624",Box Score,"Wed, Mar 16, 2016",,7:00p,109,Boston Celtics,,130,Oklahoma City Thunder,N
+1003,"16,148",Box Score,"Wed, Mar 16, 2016",,7:00p,107,Charlotte Hornets,,99,Orlando Magic,N
+1004,"20,562",Box Score,"Wed, Mar 16, 2016",,7:00p,99,Cleveland Cavaliers,,98,Dallas Mavericks,N
+1005,"19,556",Box Score,"Wed, Mar 16, 2016",,7:00p,117,Washington Wizards,,96,Chicago Bulls,N
+1006,"14,121",Box Score,"Wed, Mar 16, 2016",,7:30p,114,Detroit Pistons,,118,Atlanta Hawks,N
+1007,"16,588",Box Score,"Wed, Mar 16, 2016",,8:00p,108,Memphis Grizzlies,,114,Minnesota Timberwolves,N
+1008,"18,304",Box Score,"Wed, Mar 16, 2016",,9:30p,106,Houston Rockets,,122,Los Angeles Clippers,N
+1009,"17,086",Box Score,"Wed, Mar 16, 2016",,10:00p,108,Sacramento Kings,,123,New Orleans Pelicans,N
+1010,"19,596",Box Score,"Wed, Mar 16, 2016",,10:30p,121,Golden State Warriors,,85,New York Knicks,N
+1011,"15,104",Box Score,"Thu, Mar 17, 2016",,7:00p,94,Indiana Pacers,OT,101,Toronto Raptors,N
+1012,"10,521",Box Score,"Thu, Mar 17, 2016",,7:00p,94,Philadelphia 76ers,,99,Washington Wizards,N
+1013,"19,848",Box Score,"Thu, Mar 17, 2016",,7:30p,106,Miami Heat,,109,Charlotte Hornets,N
+1014,"14,383",Box Score,"Thu, Mar 17, 2016",,8:00p,116,Atlanta Hawks,,98,Denver Nuggets,N
+1015,"21,513",Box Score,"Thu, Mar 17, 2016",,8:00p,118,Chicago Bulls,,102,Brooklyn Nets,N
+1016,"11,740",Box Score,"Thu, Mar 17, 2016",,8:00p,96,Milwaukee Bucks,,86,Memphis Grizzlies,N
+1017,"18,418",Box Score,"Thu, Mar 17, 2016",,8:30p,118,San Antonio Spurs,,110,Portland Trail Blazers,N
+1018,"18,784",Box Score,"Thu, Mar 17, 2016",,9:00p,103,Utah Jazz,,69,Phoenix Suns,N
+1019,"18,046",Box Score,"Fri, Mar 18, 2016",,7:00p,103,Orlando Magic,,109,Cleveland Cavaliers,N
+1020,"20,388",Box Score,"Fri, Mar 18, 2016",,7:00p,97,Philadelphia 76ers,,111,Oklahoma City Thunder,N
+1021,"15,982",Box Score,"Fri, Mar 18, 2016",,7:30p,115,Detroit Pistons,,108,Sacramento Kings,N
+1022,"19,800",Box Score,"Fri, Mar 18, 2016",,7:30p,105,Toronto Raptors,,91,Boston Celtics,N
+1023,"18,142",Box Score,"Fri, Mar 18, 2016",,8:00p,116,Houston Rockets,,111,Minnesota Timberwolves,N
+1024,"17,263",Box Score,"Fri, Mar 18, 2016",,8:00p,112,New Orleans Pelicans,,117,Portland Trail Blazers,N
+1025,"20,515",Box Score,"Fri, Mar 18, 2016",,8:30p,112,Dallas Mavericks,,130,Golden State Warriors,N
+1026,"18,997",Box Score,"Fri, Mar 18, 2016",,10:30p,90,Los Angeles Lakers,,95,Phoenix Suns,N
+1027,"19,271",Box Score,"Sat, Mar 19, 2016",,6:00p,93,Charlotte Hornets,,101,Denver Nuggets,N
+1028,"17,559",Box Score,"Sat, Mar 19, 2016",,7:00p,115,Detroit Pistons,,103,Brooklyn Nets,N
+1029,"18,165",Box Score,"Sat, Mar 19, 2016",,7:00p,111,Indiana Pacers,,115,Oklahoma City Thunder,N
+1030,"20,356",Box Score,"Sat, Mar 19, 2016",,7:00p,99,Washington Wizards,,89,New York Knicks,N
+1031,"18,067",Box Score,"Sat, Mar 19, 2016",,7:30p,109,Atlanta Hawks,,97,Houston Rockets,N
+1032,"19,737",Box Score,"Sat, Mar 19, 2016",,7:30p,122,Miami Heat,,101,Cleveland Cavaliers,N
+1033,"21,856",Box Score,"Sat, Mar 19, 2016",,8:00p,92,Chicago Bulls,,85,Utah Jazz,N
+1034,"18,119",Box Score,"Sat, Mar 19, 2016",,8:00p,113,Memphis Grizzlies,,102,Los Angeles Clippers,N
+1035,"18,825",Box Score,"Sat, Mar 19, 2016",,8:30p,87,San Antonio Spurs,,79,Golden State Warriors,N
+1036,"20,351",Box Score,"Sun, Mar 20, 2016",,4:00p,132,Dallas Mavericks,OT,120,Portland Trail Blazers,N
+1037,"19,800",Box Score,"Sun, Mar 20, 2016",,4:30p,105,Toronto Raptors,,100,Orlando Magic,N
+1038,"17,407",Box Score,"Sun, Mar 20, 2016",,6:00p,109,New Orleans Pelicans,,105,Los Angeles Clippers,N
+1039,"15,103",Box Score,"Sun, Mar 20, 2016",,6:00p,105,Philadelphia 76ers,,120,Boston Celtics,N
+1040,"14,124",Box Score,"Sun, Mar 20, 2016",,7:00p,85,Milwaukee Bucks,,94,Utah Jazz,N
+1041,"19,812",Box Score,"Sun, Mar 20, 2016",,7:30p,80,New York Knicks,,88,Sacramento Kings,N
+1042,"18,260",Box Score,"Mon, Mar 21, 2016",,7:00p,91,Charlotte Hornets,,88,San Antonio Spurs,N
+1043,"20,562",Box Score,"Mon, Mar 21, 2016",,7:00p,124,Cleveland Cavaliers,,91,Denver Nuggets,N
+1044,"16,155",Box Score,"Mon, Mar 21, 2016",,7:00p,91,Indiana Pacers,,75,Philadelphia 76ers,N
+1045,"18,624",Box Score,"Mon, Mar 21, 2016",,7:30p,107,Boston Celtics,,96,Orlando Magic,N
+1046,"13,577",Box Score,"Mon, Mar 21, 2016",,7:30p,92,Detroit Pistons,,91,Milwaukee Bucks,N
+1047,"15,729",Box Score,"Mon, Mar 21, 2016",,8:00p,102,Atlanta Hawks,,117,Washington Wizards,N
+1048,"21,531",Box Score,"Mon, Mar 21, 2016",,8:00p,109,Chicago Bulls,,102,Sacramento Kings,N
+1049,"19,452",Box Score,"Mon, Mar 21, 2016",,8:00p,104,Minnesota Timberwolves,,109,Golden State Warriors,N
+1050,"15,868",Box Score,"Mon, Mar 21, 2016",,10:00p,97,Phoenix Suns,,103,Memphis Grizzlies,N
+1051,"15,739",Box Score,"Tue, Mar 22, 2016",,7:30p,100,Brooklyn Nets,,105,Charlotte Hornets,N
+1052,"16,867",Box Score,"Tue, Mar 22, 2016",,8:00p,99,New Orleans Pelicans,,113,Miami Heat,N
+1053,"18,203",Box Score,"Tue, Mar 22, 2016",,8:00p,111,Oklahoma City Thunder,,107,Houston Rockets,N
+1054,"18,997",Box Score,"Tue, Mar 22, 2016",,10:30p,107,Los Angeles Lakers,,100,Memphis Grizzlies,N
+1055,"20,562",Box Score,"Wed, Mar 23, 2016",,7:00p,113,Cleveland Cavaliers,,104,Milwaukee Bucks,N
+1056,"18,807",Box Score,"Wed, Mar 23, 2016",,7:00p,101,Washington Wizards,,122,Atlanta Hawks,N
+1057,"18,624",Box Score,"Wed, Mar 23, 2016",,7:30p,91,Boston Celtics,,79,Toronto Raptors,N
+1058,"16,609",Box Score,"Wed, Mar 23, 2016",,7:30p,118,Detroit Pistons,,102,Orlando Magic,N
+1059,"21,788",Box Score,"Wed, Mar 23, 2016",,8:00p,107,Chicago Bulls,,115,New York Knicks,N
+1060,"18,151",Box Score,"Wed, Mar 23, 2016",,8:00p,87,Houston Rockets,,89,Utah Jazz,N
+1061,"12,151",Box Score,"Wed, Mar 23, 2016",,8:00p,113,Minnesota Timberwolves,,104,Sacramento Kings,N
+1062,"18,418",Box Score,"Wed, Mar 23, 2016",,8:30p,112,San Antonio Spurs,,88,Miami Heat,N
+1063,"10,684",Box Score,"Wed, Mar 23, 2016",,9:00p,104,Denver Nuggets,,103,Philadelphia 76ers,N
+1064,"18,191",Box Score,"Wed, Mar 23, 2016",,10:00p,119,Phoenix Suns,,107,Los Angeles Lakers,N
+1065,"19,819",Box Score,"Wed, Mar 23, 2016",,10:00p,109,Portland Trail Blazers,,103,Dallas Mavericks,N
+1066,"19,596",Box Score,"Wed, Mar 23, 2016",,10:30p,114,Golden State Warriors,,98,Los Angeles Clippers,N
+1067,"17,517",Box Score,"Thu, Mar 24, 2016",,7:00p,92,Indiana Pacers,,84,New Orleans Pelicans,N
+1068,"17,732",Box Score,"Thu, Mar 24, 2016",,7:30p,104,Brooklyn Nets,,95,Cleveland Cavaliers,N
+1069,"19,812",Box Score,"Thu, Mar 24, 2016",,7:30p,106,New York Knicks,,94,Chicago Bulls,N
+1070,"18,203",Box Score,"Thu, Mar 24, 2016",,8:00p,113,Oklahoma City Thunder,,91,Utah Jazz,N
+1071,"19,359",Box Score,"Thu, Mar 24, 2016",,10:30p,96,Los Angeles Clippers,,94,Portland Trail Blazers,N
+1072,"20,356",Box Score,"Fri, Mar 25, 2016",,7:00p,129,Washington Wizards,2OT,132,Minnesota Timberwolves,N
+1073,"17,209",Box Score,"Fri, Mar 25, 2016",,7:30p,112,Detroit Pistons,,105,Charlotte Hornets,N
+1074,"17,070",Box Score,"Fri, Mar 25, 2016",,8:00p,101,Atlanta Hawks,,90,Milwaukee Bucks,N
+1075,"18,230",Box Score,"Fri, Mar 25, 2016",,8:00p,112,Houston Rockets,,109,Toronto Raptors,N
+1076,"19,918",Box Score,"Fri, Mar 25, 2016",,8:00p,108,Miami Heat,,97,Orlando Magic,N
+1077,"18,418",Box Score,"Fri, Mar 25, 2016",,8:30p,110,San Antonio Spurs,,104,Memphis Grizzlies,N
+1078,"17,317",Box Score,"Fri, Mar 25, 2016",,10:00p,116,Sacramento Kings,,94,Phoenix Suns,N
+1079,"19,596",Box Score,"Fri, Mar 25, 2016",,10:30p,128,Golden State Warriors,,120,Dallas Mavericks,N
+1080,"18,997",Box Score,"Fri, Mar 25, 2016",,10:30p,105,Los Angeles Lakers,,116,Denver Nuggets,N
+1081,"16,625",Box Score,"Sat, Mar 26, 2016",,6:00p,120,Brooklyn Nets,,110,Indiana Pacers,N
+1082,"17,009",Box Score,"Sat, Mar 26, 2016",,7:00p,91,New Orleans Pelicans,,115,Toronto Raptors,N
+1083,"18,846",Box Score,"Sat, Mar 26, 2016",,7:00p,111,Orlando Magic,,89,Chicago Bulls,N
+1084,"17,857",Box Score,"Sat, Mar 26, 2016",,7:30p,95,Detroit Pistons,,112,Atlanta Hawks,N
+1085,"19,812",Box Score,"Sat, Mar 26, 2016",,7:30p,93,New York Knicks,,107,Cleveland Cavaliers,N
+1086,"14,694",Box Score,"Sat, Mar 26, 2016",,8:00p,84,Minnesota Timberwolves,,93,Utah Jazz,N
+1087,"18,203",Box Score,"Sat, Mar 26, 2016",,8:00p,111,Oklahoma City Thunder,,92,San Antonio Spurs,N
+1088,"15,544",Box Score,"Sat, Mar 26, 2016",,8:30p,91,Milwaukee Bucks,,115,Charlotte Hornets,N
+1089,"18,055",Box Score,"Sat, Mar 26, 2016",,10:00p,99,Phoenix Suns,,102,Boston Celtics,N
+1090,"19,506",Box Score,"Sat, Mar 26, 2016",,10:00p,108,Portland Trail Blazers,,105,Philadelphia 76ers,N
+1091,"19,060",Box Score,"Sun, Mar 27, 2016",,3:30p,105,Los Angeles Clippers,,90,Denver Nuggets,N
+1092,"17,165",Box Score,"Sun, Mar 27, 2016",,6:00p,104,Indiana Pacers,,101,Houston Rockets,N
+1093,"17,147",Box Score,"Sun, Mar 27, 2016",,6:00p,133,Sacramento Kings,,111,Dallas Mavericks,N
+1094,"19,596",Box Score,"Sun, Mar 27, 2016",,8:00p,117,Golden State Warriors,,105,Philadelphia 76ers,N
+1095,"18,997",Box Score,"Sun, Mar 27, 2016",,9:30p,88,Los Angeles Lakers,,101,Washington Wizards,N
+1096,"20,003",Box Score,"Mon, Mar 28, 2016",,7:30p,110,Miami Heat,,99,Brooklyn Nets,N
+1097,"19,800",Box Score,"Mon, Mar 28, 2016",,7:30p,100,Toronto Raptors,,119,Oklahoma City Thunder,N
+1098,"21,761",Box Score,"Mon, Mar 28, 2016",,8:00p,100,Chicago Bulls,,102,Atlanta Hawks,N
+1099,"17,133",Box Score,"Mon, Mar 28, 2016",,8:00p,87,Memphis Grizzlies,,101,San Antonio Spurs,N
+1100,"11,141",Box Score,"Mon, Mar 28, 2016",,8:00p,121,Minnesota Timberwolves,,116,Phoenix Suns,N
+1101,"17,000",Box Score,"Mon, Mar 28, 2016",,8:00p,99,New Orleans Pelicans,,91,New York Knicks,N
+1102,"14,844",Box Score,"Mon, Mar 28, 2016",,9:00p,88,Denver Nuggets,,97,Dallas Mavericks,N
+1103,"19,911",Box Score,"Mon, Mar 28, 2016",,9:00p,123,Utah Jazz,,75,Los Angeles Lakers,N
+1104,"19,393",Box Score,"Mon, Mar 28, 2016",,10:00p,105,Portland Trail Blazers,,93,Sacramento Kings,N
+1105,"19,258",Box Score,"Mon, Mar 28, 2016",,10:30p,114,Los Angeles Clippers,,90,Boston Celtics,N
+1106,"17,050",Box Score,"Tue, Mar 29, 2016",,7:00p,96,Indiana Pacers,,98,Chicago Bulls,N
+1107,"17,536",Box Score,"Tue, Mar 29, 2016",,7:00p,139,Orlando Magic,,105,Brooklyn Nets,N
+1108,"14,486",Box Score,"Tue, Mar 29, 2016",,7:00p,85,Philadelphia 76ers,,100,Charlotte Hornets,N
+1109,"18,201",Box Score,"Tue, Mar 29, 2016",,7:30p,88,Detroit Pistons,,82,Oklahoma City Thunder,N
+1110,"20,562",Box Score,"Tue, Mar 29, 2016",,8:00p,100,Cleveland Cavaliers,,106,Houston Rockets,N
+1111,"19,596",Box Score,"Tue, Mar 29, 2016",,10:30p,102,Golden State Warriors,,94,Washington Wizards,N
+1112,"19,800",Box Score,"Wed, Mar 30, 2016",,7:30p,105,Toronto Raptors,,97,Atlanta Hawks,N
+1113,"16,401",Box Score,"Wed, Mar 30, 2016",,8:00p,105,Memphis Grizzlies,,109,Denver Nuggets,N
+1114,"15,733",Box Score,"Wed, Mar 30, 2016",,8:00p,105,Milwaukee Bucks,,94,Phoenix Suns,N
+1115,"12,252",Box Score,"Wed, Mar 30, 2016",,8:00p,79,Minnesota Timberwolves,,99,Los Angeles Clippers,N
+1116,"20,435",Box Score,"Wed, Mar 30, 2016",,8:30p,91,Dallas Mavericks,,89,New York Knicks,N
+1117,"18,418",Box Score,"Wed, Mar 30, 2016",,8:30p,100,San Antonio Spurs,,92,New Orleans Pelicans,N
+1118,"19,911",Box Score,"Wed, Mar 30, 2016",,9:00p,96,Utah Jazz,OT,103,Golden State Warriors,N
+1119,"17,185",Box Score,"Wed, Mar 30, 2016",,10:00p,120,Sacramento Kings,,111,Washington Wizards,N
+1120,"18,997",Box Score,"Wed, Mar 30, 2016",,10:30p,102,Los Angeles Lakers,OT,100,Miami Heat,N
+1121,"20,562",Box Score,"Thu, Mar 31, 2016",,7:00p,107,Cleveland Cavaliers,,87,Brooklyn Nets,N
+1122,"18,244",Box Score,"Thu, Mar 31, 2016",,7:00p,100,Houston Rockets,,103,Chicago Bulls,N
+1123,"17,234",Box Score,"Thu, Mar 31, 2016",,7:00p,94,Indiana Pacers,,114,Orlando Magic,N
+1124,"16,269",Box Score,"Thu, Mar 31, 2016",,8:00p,101,New Orleans Pelicans,,95,Denver Nuggets,N
+1125,"18,203",Box Score,"Thu, Mar 31, 2016",,9:30p,119,Oklahoma City Thunder,,117,Los Angeles Clippers,N
+1126,"19,393",Box Score,"Thu, Mar 31, 2016",,10:00p,116,Portland Trail Blazers,,109,Boston Celtics,N
+1127,"19,244",Box Score,"Fri, Apr 1, 2016",,7:00p,100,Charlotte Hornets,,91,Philadelphia 76ers,N
+1128,"19,031",Box Score,"Fri, Apr 1, 2016",,7:30p,89,Detroit Pistons,,98,Dallas Mavericks,N
+1129,"19,812",Box Score,"Fri, Apr 1, 2016",,7:30p,105,New York Knicks,,91,Brooklyn Nets,N
+1130,"19,427",Box Score,"Fri, Apr 1, 2016",,8:00p,108,Atlanta Hawks,OT,110,Cleveland Cavaliers,N
+1131,"17,077",Box Score,"Fri, Apr 1, 2016",,8:00p,95,Memphis Grizzlies,,99,Toronto Raptors,N
+1132,"16,268",Box Score,"Fri, Apr 1, 2016",,8:00p,113,Milwaukee Bucks,,110,Orlando Magic,N
+1133,"19,911",Box Score,"Fri, Apr 1, 2016",,9:00p,98,Utah Jazz,,85,Minnesota Timberwolves,N
+1134,"17,317",Box Score,"Fri, Apr 1, 2016",,10:00p,106,Sacramento Kings,,112,Miami Heat,N
+1135,"19,596",Box Score,"Fri, Apr 1, 2016",,10:30p,106,Golden State Warriors,,109,Boston Celtics,N
+1136,"17,345",Box Score,"Fri, Apr 1, 2016",,10:30p,99,Phoenix Suns,,106,Washington Wizards,N
+1137,"19,213",Box Score,"Sat, Apr 2, 2016",,7:30p,102,Philadelphia 76ers,,115,Indiana Pacers,N
+1138,"22,197",Box Score,"Sat, Apr 2, 2016",,8:00p,90,Chicago Bulls,,94,Detroit Pistons,N
+1139,"18,418",Box Score,"Sat, Apr 2, 2016",,8:30p,102,San Antonio Spurs,,95,Toronto Raptors,N
+1140,"15,607",Box Score,"Sat, Apr 2, 2016",,9:00p,106,Denver Nuggets,,115,Sacramento Kings,N
+1141,"19,633",Box Score,"Sat, Apr 2, 2016",,10:00p,110,Portland Trail Blazers,,93,Miami Heat,N
+1142,"16,329",Box Score,"Sun, Apr 3, 2016",,1:00p,87,Brooklyn Nets,,106,New Orleans Pelicans,N
+1143,"20,562",Box Score,"Sun, Apr 3, 2016",,3:30p,112,Cleveland Cavaliers,,103,Charlotte Hornets,N
+1144,"18,462",Box Score,"Sun, Apr 3, 2016",,3:30p,118,Houston Rockets,,110,Oklahoma City Thunder,N
+1145,"19,060",Box Score,"Sun, Apr 3, 2016",,3:30p,114,Los Angeles Clippers,,109,Washington Wizards,N
+1146,"16,117",Box Score,"Sun, Apr 3, 2016",,3:30p,78,Minnesota Timberwolves,,88,Dallas Mavericks,N
+1147,"17,741",Box Score,"Sun, Apr 3, 2016",,6:00p,119,Orlando Magic,,107,Memphis Grizzlies,N
+1148,"17,279",Box Score,"Sun, Apr 3, 2016",,6:00p,86,Phoenix Suns,,101,Utah Jazz,N
+1149,"15,768",Box Score,"Sun, Apr 3, 2016",,7:00p,98,Milwaukee Bucks,,102,Chicago Bulls,N
+1150,"19,812",Box Score,"Sun, Apr 3, 2016",,7:30p,87,New York Knicks,,92,Indiana Pacers,N
+1151,"19,596",Box Score,"Sun, Apr 3, 2016",,8:00p,136,Golden State Warriors,,111,Portland Trail Blazers,N
+1152,"18,997",Box Score,"Sun, Apr 3, 2016",,9:30p,100,Los Angeles Lakers,,107,Boston Celtics,N
+1153,"10,978",Box Score,"Tue, Apr 5, 2016",,7:00p,107,Philadelphia 76ers,,93,New Orleans Pelicans,N
+1154,"19,800",Box Score,"Tue, Apr 5, 2016",,7:30p,96,Toronto Raptors,,90,Charlotte Hornets,N
+1155,"15,176",Box Score,"Tue, Apr 5, 2016",,8:00p,103,Atlanta Hawks,,90,Phoenix Suns,N
+1156,"17,591",Box Score,"Tue, Apr 5, 2016",,8:00p,108,Memphis Grizzlies,,92,Chicago Bulls,N
+1157,"19,621",Box Score,"Tue, Apr 5, 2016",,8:00p,107,Miami Heat,,89,Detroit Pistons,N
+1158,"15,061",Box Score,"Tue, Apr 5, 2016",,8:00p,80,Milwaukee Bucks,,109,Cleveland Cavaliers,N
+1159,"12,611",Box Score,"Tue, Apr 5, 2016",,9:00p,102,Denver Nuggets,,124,Oklahoma City Thunder,N
+1160,"19,381",Box Score,"Tue, Apr 5, 2016",,9:00p,86,Utah Jazz,,88,San Antonio Spurs,N
+1161,"17,317",Box Score,"Tue, Apr 5, 2016",,10:00p,107,Sacramento Kings,,115,Portland Trail Blazers,N
+1162,"19,596",Box Score,"Tue, Apr 5, 2016",,10:30p,117,Golden State Warriors,OT,124,Minnesota Timberwolves,N
+1163,"19,537",Box Score,"Tue, Apr 5, 2016",,10:30p,103,Los Angeles Clippers,,81,Los Angeles Lakers,N
+1164,"18,165",Box Score,"Wed, Apr 6, 2016",,7:00p,123,Indiana Pacers,,109,Cleveland Cavaliers,N
+1165,"16,553",Box Score,"Wed, Apr 6, 2016",,7:00p,104,Orlando Magic,,108,Detroit Pistons,N
+1166,"16,846",Box Score,"Wed, Apr 6, 2016",,7:00p,121,Washington Wizards,,103,Brooklyn Nets,N
+1167,"18,624",Box Score,"Wed, Apr 6, 2016",,7:30p,104,Boston Celtics,,97,New Orleans Pelicans,N
+1168,"19,812",Box Score,"Wed, Apr 6, 2016",,7:30p,97,New York Knicks,,111,Charlotte Hornets,N
+1169,"20,108",Box Score,"Wed, Apr 6, 2016",,9:30p,88,Dallas Mavericks,,86,Houston Rockets,N
+1170,"19,393",Box Score,"Wed, Apr 6, 2016",,10:00p,120,Portland Trail Blazers,,115,Oklahoma City Thunder,N
+1171,"18,997",Box Score,"Wed, Apr 6, 2016",,10:30p,81,Los Angeles Lakers,,91,Los Angeles Clippers,N
+1172,"17,864",Box Score,"Thu, Apr 7, 2016",,8:00p,95,Atlanta Hawks,,87,Toronto Raptors,N
+1173,"18,227",Box Score,"Thu, Apr 7, 2016",,8:00p,115,Houston Rockets,,124,Phoenix Suns,N
+1174,"19,771",Box Score,"Thu, Apr 7, 2016",,8:00p,106,Miami Heat,,98,Chicago Bulls,N
+1175,"17,317",Box Score,"Thu, Apr 7, 2016",,10:00p,97,Sacramento Kings,,105,Minnesota Timberwolves,N
+1176,"19,596",Box Score,"Thu, Apr 7, 2016",,10:30p,112,Golden State Warriors,,101,San Antonio Spurs,N
+1177,"18,337",Box Score,"Fri, Apr 8, 2016",,7:00p,113,Charlotte Hornets,,99,Brooklyn Nets,N
+1178,"18,152",Box Score,"Fri, Apr 8, 2016",,7:00p,112,Orlando Magic,,109,Miami Heat,N
+1179,"16,076",Box Score,"Fri, Apr 8, 2016",,7:00p,102,Philadelphia 76ers,,109,New York Knicks,N
+1180,"18,624",Box Score,"Fri, Apr 8, 2016",,7:30p,124,Boston Celtics,,109,Milwaukee Bucks,N
+1181,"18,207",Box Score,"Fri, Apr 8, 2016",,7:30p,112,Detroit Pistons,,99,Washington Wizards,N
+1182,"19,800",Box Score,"Fri, Apr 8, 2016",,7:30p,111,Toronto Raptors,,98,Indiana Pacers,N
+1183,"18,607",Box Score,"Fri, Apr 8, 2016",,8:00p,110,New Orleans Pelicans,,102,Los Angeles Lakers,N
+1184,"20,211",Box Score,"Fri, Apr 8, 2016",,8:30p,103,Dallas Mavericks,,93,Memphis Grizzlies,N
+1185,"16,347",Box Score,"Fri, Apr 8, 2016",,9:00p,102,Denver Nuggets,,98,San Antonio Spurs,N
+1186,"19,911",Box Score,"Fri, Apr 8, 2016",,9:00p,99,Utah Jazz,OT,102,Los Angeles Clippers,N
+1187,"16,932",Box Score,"Sat, Apr 9, 2016",,7:00p,100,New Orleans Pelicans,,121,Phoenix Suns,N
+1188,"19,257",Box Score,"Sat, Apr 9, 2016",,7:30p,118,Atlanta Hawks,,107,Boston Celtics,N
+1189,"18,119",Box Score,"Sat, Apr 9, 2016",,8:00p,99,Memphis Grizzlies,,100,Golden State Warriors,N
+1190,"22,186",Box Score,"Sat, Apr 9, 2016",,8:30p,105,Chicago Bulls,,102,Cleveland Cavaliers,N
+1191,"19,733",Box Score,"Sat, Apr 9, 2016",,10:30p,105,Portland Trail Blazers,,106,Minnesota Timberwolves,N
+1192,"17,317",Box Score,"Sat, Apr 9, 2016",,10:30p,114,Sacramento Kings,,112,Oklahoma City Thunder,N
+1193,"19,187",Box Score,"Sun, Apr 10, 2016",,12:00p,113,Washington Wizards,,98,Charlotte Hornets,N
+1194,"18,442",Box Score,"Sun, Apr 10, 2016",,3:30p,130,Houston Rockets,,110,Los Angeles Lakers,N
+1195,"19,170",Box Score,"Sun, Apr 10, 2016",,3:30p,98,Los Angeles Clippers,,91,Dallas Mavericks,N
+1196,"16,172",Box Score,"Sun, Apr 10, 2016",,5:00p,84,Denver Nuggets,,100,Utah Jazz,N
+1197,"16,267",Box Score,"Sun, Apr 10, 2016",,5:00p,108,Philadelphia 76ers,OT,109,Milwaukee Bucks,N
+1198,"18,165",Box Score,"Sun, Apr 10, 2016",,6:00p,129,Indiana Pacers,,105,Brooklyn Nets,N
+1199,"19,913",Box Score,"Sun, Apr 10, 2016",,6:00p,118,Miami Heat,,96,Orlando Magic,N
+1200,"18,658",Box Score,"Sun, Apr 10, 2016",,7:00p,86,San Antonio Spurs,,92,Golden State Warriors,N
+1201,"19,812",Box Score,"Sun, Apr 10, 2016",,7:30p,89,New York Knicks,,93,Toronto Raptors,N
+1202,"20,562",Box Score,"Mon, Apr 11, 2016",,7:00p,109,Cleveland Cavaliers,,94,Atlanta Hawks,N
+1203,"18,374",Box Score,"Mon, Apr 11, 2016",,7:00p,107,Orlando Magic,,98,Milwaukee Bucks,N
+1204,"18,624",Box Score,"Mon, Apr 11, 2016",,7:30p,100,Boston Celtics,,114,Charlotte Hornets,N
+1205,"14,653",Box Score,"Mon, Apr 11, 2016",,7:30p,111,Brooklyn Nets,,120,Washington Wizards,N
+1206,"14,983",Box Score,"Mon, Apr 11, 2016",,8:00p,105,Minnesota Timberwolves,,129,Houston Rockets,N
+1207,"16,867",Box Score,"Mon, Apr 11, 2016",,8:00p,116,New Orleans Pelicans,,121,Chicago Bulls,N
+1208,"18,203",Box Score,"Mon, Apr 11, 2016",,8:00p,112,Oklahoma City Thunder,,79,Los Angeles Lakers,N
+1209,"19,911",Box Score,"Mon, Apr 11, 2016",,9:00p,92,Utah Jazz,,101,Dallas Mavericks,N
+1210,"17,288",Box Score,"Mon, Apr 11, 2016",,10:00p,101,Phoenix Suns,,105,Sacramento Kings,N
+1211,"17,906",Box Score,"Tue, Apr 12, 2016",,7:00p,102,Indiana Pacers,,90,New York Knicks,N
+1212,"18,575",Box Score,"Tue, Apr 12, 2016",,7:30p,93,Detroit Pistons,,99,Miami Heat,N
+1213,"19,800",Box Score,"Tue, Apr 12, 2016",,7:30p,122,Toronto Raptors,,98,Philadelphia 76ers,N
+1214,"18,765",Box Score,"Tue, Apr 12, 2016",,8:00p,102,San Antonio Spurs,OT,98,Oklahoma City Thunder,N
+1215,"19,147",Box Score,"Tue, Apr 12, 2016",,10:30p,110,Los Angeles Clippers,,84,Memphis Grizzlies,N
+1216,"18,624",Box Score,"Wed, Apr 13, 2016",,8:00p,98,Boston Celtics,,88,Miami Heat,N
+1217,"16,517",Box Score,"Wed, Apr 13, 2016",,8:00p,96,Brooklyn Nets,,103,Toronto Raptors,N
+1218,"21,777",Box Score,"Wed, Apr 13, 2016",,8:00p,115,Chicago Bulls,,105,Philadelphia 76ers,N
+1219,"17,372",Box Score,"Wed, Apr 13, 2016",,8:00p,117,Charlotte Hornets,,103,Orlando Magic,N
+1220,"20,562",Box Score,"Wed, Apr 13, 2016",,8:00p,110,Cleveland Cavaliers,OT,112,Detroit Pistons,N
+1221,"20,346",Box Score,"Wed, Apr 13, 2016",,8:00p,91,Dallas Mavericks,,96,San Antonio Spurs,N
+1222,"18,311",Box Score,"Wed, Apr 13, 2016",,8:00p,116,Houston Rockets,,81,Sacramento Kings,N
+1223,"16,569",Box Score,"Wed, Apr 13, 2016",,8:00p,92,Milwaukee Bucks,,97,Indiana Pacers,N
+1224,"14,889",Box Score,"Wed, Apr 13, 2016",,8:00p,144,Minnesota Timberwolves,,109,New Orleans Pelicans,N
+1225,"17,399",Box Score,"Wed, Apr 13, 2016",,8:00p,109,Washington Wizards,,98,Atlanta Hawks,N
+1226,"19,596",Box Score,"Wed, Apr 13, 2016",,10:30p,125,Golden State Warriors,,104,Memphis Grizzlies,N
+1227,"18,997",Box Score,"Wed, Apr 13, 2016",,10:30p,101,Los Angeles Lakers,,96,Utah Jazz,N
+1228,"18,055",Box Score,"Wed, Apr 13, 2016",,10:30p,114,Phoenix Suns,,105,Los Angeles Clippers,N
+1229,"19,571",Box Score,"Wed, Apr 13, 2016",,10:30p,107,Portland Trail Blazers,,99,Denver Nuggets,N
+1230,"19,800",Box Score,"Sat, Apr 16, 2016",,12:30p,90,Toronto Raptors,,100,Indiana Pacers,N
+1231,"19,596",Box Score,"Sat, Apr 16, 2016",,3:30p,104,Golden State Warriors,,78,Houston Rockets,Y
+1232,"18,980",Box Score,"Sat, Apr 16, 2016",,7:00p,102,Atlanta Hawks,,101,Boston Celtics,Y
+1233,"18,203",Box Score,"Sat, Apr 16, 2016",,9:30p,108,Oklahoma City Thunder,,70,Dallas Mavericks,Y
+1234,"20,562",Box Score,"Sun, Apr 17, 2016",,3:00p,106,Cleveland Cavaliers,,101,Detroit Pistons,Y
+1235,"19,600",Box Score,"Sun, Apr 17, 2016",,5:30p,123,Miami Heat,,91,Charlotte Hornets,Y
+1236,"18,418",Box Score,"Sun, Apr 17, 2016",,8:00p,106,San Antonio Spurs,,74,Memphis Grizzlies,Y
+1237,"19,122",Box Score,"Sun, Apr 17, 2016",,10:30p,115,Los Angeles Clippers,,95,Portland Trail Blazers,Y
+1238,"19,800",Box Score,"Mon, Apr 18, 2016",,7:00p,98,Toronto Raptors,,87,Indiana Pacers,Y
+1239,"18,203",Box Score,"Mon, Apr 18, 2016",,8:00p,84,Oklahoma City Thunder,,85,Dallas Mavericks,Y
+1240,"19,596",Box Score,"Mon, Apr 18, 2016",,10:30p,115,Golden State Warriors,,106,Houston Rockets,Y
+1241,"18,972",Box Score,"Tue, Apr 19, 2016",,7:00p,89,Atlanta Hawks,,72,Boston Celtics,Y
+1242,"18,418",Box Score,"Tue, Apr 19, 2016",,9:30p,94,San Antonio Spurs,,68,Memphis Grizzlies,Y
+1243,"19,650",Box Score,"Wed, Apr 20, 2016",,7:00p,115,Miami Heat,,103,Charlotte Hornets,Y
+1244,"20,562",Box Score,"Wed, Apr 20, 2016",,8:00p,107,Cleveland Cavaliers,,90,Detroit Pistons,Y
+1245,"19,127",Box Score,"Wed, Apr 20, 2016",,10:30p,102,Los Angeles Clippers,,81,Portland Trail Blazers,Y
+1246,"20,150",Box Score,"Thu, Apr 21, 2016",,7:00p,102,Dallas Mavericks,,131,Oklahoma City Thunder,Y
+1247,"18,165",Box Score,"Thu, Apr 21, 2016",,7:30p,85,Indiana Pacers,,101,Toronto Raptors,Y
+1248,"18,200",Box Score,"Thu, Apr 21, 2016",,9:30p,97,Houston Rockets,,96,Golden State Warriors,Y
+1249,"21,584",Box Score,"Fri, Apr 22, 2016",,7:00p,91,Detroit Pistons,,101,Cleveland Cavaliers,Y
+1250,"18,624",Box Score,"Fri, Apr 22, 2016",,8:00p,111,Boston Celtics,,103,Atlanta Hawks,Y
+1251,"18,119",Box Score,"Fri, Apr 22, 2016",,9:30p,87,Memphis Grizzlies,,96,San Antonio Spurs,Y
+1252,"18,165",Box Score,"Sat, Apr 23, 2016",,3:00p,100,Indiana Pacers,,83,Toronto Raptors,Y
+1253,"19,604",Box Score,"Sat, Apr 23, 2016",,5:30p,96,Charlotte Hornets,,80,Miami Heat,Y
+1254,"20,516",Box Score,"Sat, Apr 23, 2016",,8:00p,108,Dallas Mavericks,,119,Oklahoma City Thunder,Y
+1255,"19,761",Box Score,"Sat, Apr 23, 2016",,10:30p,96,Portland Trail Blazers,,88,Los Angeles Clippers,Y
+1256,"18,119",Box Score,"Sun, Apr 24, 2016",,1:00p,95,Memphis Grizzlies,,116,San Antonio Spurs,Y
+1257,"18,200",Box Score,"Sun, Apr 24, 2016",,3:30p,94,Houston Rockets,,121,Golden State Warriors,Y
+1258,"18,624",Box Score,"Sun, Apr 24, 2016",,6:00p,104,Boston Celtics,OT,95,Atlanta Hawks,Y
+1259,"21,584",Box Score,"Sun, Apr 24, 2016",,8:30p,98,Detroit Pistons,,100,Cleveland Cavaliers,Y
+1260,"19,156",Box Score,"Mon, Apr 25, 2016",,7:00p,89,Charlotte Hornets,,85,Miami Heat,Y
+1261,"18,203",Box Score,"Mon, Apr 25, 2016",,8:00p,118,Oklahoma City Thunder,,104,Dallas Mavericks,Y
+1262,"19,607",Box Score,"Mon, Apr 25, 2016",,10:30p,98,Portland Trail Blazers,,84,Los Angeles Clippers,Y
+1263,"19,800",Box Score,"Tue, Apr 26, 2016",,6:00p,102,Toronto Raptors,,99,Indiana Pacers,Y
+1264,"18,987",Box Score,"Tue, Apr 26, 2016",,8:30p,110,Atlanta Hawks,,83,Boston Celtics,Y
+1265,"19,685",Box Score,"Wed, Apr 27, 2016",,8:00p,88,Miami Heat,,90,Charlotte Hornets,Y
+1266,"19,060",Box Score,"Wed, Apr 27, 2016",,10:00p,98,Los Angeles Clippers,,108,Portland Trail Blazers,Y
+1267,"19,596",Box Score,"Wed, Apr 27, 2016",,10:30p,114,Golden State Warriors,,81,Houston Rockets,Y
+1268,"18,624",Box Score,"Thu, Apr 28, 2016",,8:00p,92,Boston Celtics,,104,Atlanta Hawks,Y
+1269,"18,165",Box Score,"Fri, Apr 29, 2016",,7:30p,101,Indiana Pacers,,83,Toronto Raptors,Y
+1270,"19,636",Box Score,"Fri, Apr 29, 2016",,8:00p,90,Charlotte Hornets,,97,Miami Heat,Y
+1271,"19,768",Box Score,"Fri, Apr 29, 2016",,10:30p,106,Portland Trail Blazers,,103,Los Angeles Clippers,Y
+1272,"18,418",Box Score,"Sat, Apr 30, 2016",,8:30p,124,San Antonio Spurs,,92,Oklahoma City Thunder,Y
+1273,"19,868",Box Score,"Sun, May 1, 2016",,1:00p,106,Miami Heat,,73,Charlotte Hornets,Y
+1274,"19,596",Box Score,"Sun, May 1, 2016",,3:30p,118,Golden State Warriors,,106,Portland Trail Blazers,Y
+1275,"20,669",Box Score,"Sun, May 1, 2016",,8:00p,89,Toronto Raptors,,84,Indiana Pacers,Y
+1276,"20,562",Box Score,"Mon, May 2, 2016",,7:00p,104,Cleveland Cavaliers,,93,Atlanta Hawks,Y
+1277,"18,418",Box Score,"Mon, May 2, 2016",,9:30p,97,San Antonio Spurs,,98,Oklahoma City Thunder,Y
+1278,"19,800",Box Score,"Tue, May 3, 2016",,8:00p,96,Toronto Raptors,OT,102,Miami Heat,Y
+1279,"19,596",Box Score,"Tue, May 3, 2016",,10:30p,110,Golden State Warriors,,99,Portland Trail Blazers,Y
+1280,"20,562",Box Score,"Wed, May 4, 2016",,8:00p,123,Cleveland Cavaliers,,98,Atlanta Hawks,Y
+1281,"20,906",Box Score,"Thu, May 5, 2016",,8:00p,96,Toronto Raptors,OT,92,Miami Heat,Y
+1282,"19,089",Box Score,"Fri, May 6, 2016",,7:00p,108,Atlanta Hawks,,121,Cleveland Cavaliers,Y
+1283,"18,203",Box Score,"Fri, May 6, 2016",,9:30p,96,Oklahoma City Thunder,,100,San Antonio Spurs,Y
+1284,"19,675",Box Score,"Sat, May 7, 2016",,5:00p,91,Miami Heat,,95,Toronto Raptors,Y
+1285,"19,673",Box Score,"Sat, May 7, 2016",,8:30p,120,Portland Trail Blazers,,108,Golden State Warriors,Y
+1286,"19,031",Box Score,"Sun, May 8, 2016",,3:30p,99,Atlanta Hawks,,100,Cleveland Cavaliers,Y
+1287,"18,203",Box Score,"Sun, May 8, 2016",,8:00p,111,Oklahoma City Thunder,,97,San Antonio Spurs,Y
+1288,"19,600",Box Score,"Mon, May 9, 2016",,8:00p,94,Miami Heat,OT,87,Toronto Raptors,Y
+1289,"19,583",Box Score,"Mon, May 9, 2016",,10:30p,125,Portland Trail Blazers,OT,132,Golden State Warriors,Y
+1290,"18,418",Box Score,"Tue, May 10, 2016",,8:00p,91,San Antonio Spurs,,95,Oklahoma City Thunder,Y
+1291,"20,155",Box Score,"Wed, May 11, 2016",,8:00p,99,Toronto Raptors,,91,Miami Heat,Y
+1292,"19,596",Box Score,"Wed, May 11, 2016",,10:30p,125,Golden State Warriors,,121,Portland Trail Blazers,Y
+1293,"18,203",Box Score,"Thu, May 12, 2016",,8:30p,113,Oklahoma City Thunder,,99,San Antonio Spurs,Y
+1294,"19,757",Box Score,"Fri, May 13, 2016",,8:00p,103,Miami Heat,,91,Toronto Raptors,Y
+1295,"20,257",Box Score,"Sun, May 15, 2016",,3:30p,116,Toronto Raptors,,89,Miami Heat,Y
+1296,"19,596",Box Score,"Mon, May 16, 2016",,9:00p,102,Golden State Warriors,,108,Oklahoma City Thunder,Y
+1297,"20,562",Box Score,"Tue, May 17, 2016",,8:30p,115,Cleveland Cavaliers,,84,Toronto Raptors,Y
+1298,"19,596",Box Score,"Wed, May 18, 2016",,9:00p,118,Golden State Warriors,,91,Oklahoma City Thunder,Y
+1299,"20,562",Box Score,"Thu, May 19, 2016",,8:30p,108,Cleveland Cavaliers,,89,Toronto Raptors,Y
+1300,"20,207",Box Score,"Sat, May 21, 2016",,8:30p,99,Toronto Raptors,,84,Cleveland Cavaliers,Y
+1301,"18,203",Box Score,"Sun, May 22, 2016",,8:00p,133,Oklahoma City Thunder,,105,Golden State Warriors,Y
+1302,"20,367",Box Score,"Mon, May 23, 2016",,8:30p,105,Toronto Raptors,,99,Cleveland Cavaliers,Y
+1303,"18,203",Box Score,"Tue, May 24, 2016",,9:00p,118,Oklahoma City Thunder,,94,Golden State Warriors,Y
+1304,"20,562",Box Score,"Wed, May 25, 2016",,8:30p,116,Cleveland Cavaliers,,78,Toronto Raptors,Y
+1305,"19,596",Box Score,"Thu, May 26, 2016",,9:00p,120,Golden State Warriors,,111,Oklahoma City Thunder,Y
+1306,"20,605",Box Score,"Fri, May 27, 2016",,8:30p,87,Toronto Raptors,,113,Cleveland Cavaliers,Y
+1307,"18,203",Box Score,"Sat, May 28, 2016",,9:00p,101,Oklahoma City Thunder,,108,Golden State Warriors,Y
+1308,"19,596",Box Score,"Mon, May 30, 2016",,9:00p,96,Golden State Warriors,,88,Oklahoma City Thunder,Y
+1309,"19,596",Box Score,"Thu, Jun 2, 2016",,9:00p,104,Golden State Warriors,,89,Cleveland Cavaliers,Y
+1310,"19,596",Box Score,"Sun, Jun 5, 2016",,8:00p,110,Golden State Warriors,,77,Cleveland Cavaliers,Y
+1311,"20,562",Box Score,"Wed, Jun 8, 2016",,9:00p,120,Cleveland Cavaliers,,90,Golden State Warriors,Y
+1312,"20,562",Box Score,"Fri, Jun 10, 2016",,9:00p,97,Cleveland Cavaliers,,108,Golden State Warriors,Y
+1313,"19,596",Box Score,"Mon, Jun 13, 2016",,9:00p,97,Golden State Warriors,,112,Cleveland Cavaliers,Y
+1314,"20,562",Box Score,"Thu, Jun 16, 2016",,9:00p,115,Cleveland Cavaliers,,101,Golden State Warriors,Y
+1315,"19,596",Box Score,"Sun, Jun 19, 2016",,8:00p,89,Golden State Warriors,,93,Cleveland Cavaliers,Y

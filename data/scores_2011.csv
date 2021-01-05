@@ -1,0 +1,1312 @@
+,attendance,box_score_text,game_date,game_remarks,game_start_time,home_pts,home_team_name,overtimes,visitor_pts,visitor_team_name,playoffs
+0,"18,624",Box Score,"Tue, Oct 26, 2010",,7:30p,88,Boston Celtics,,80,Miami Heat,N
+1,"20,603",Box Score,"Tue, Oct 26, 2010",,10:00p,106,Portland Trail Blazers,,92,Phoenix Suns,N
+2,"18,997",Box Score,"Tue, Oct 26, 2010",,10:30p,112,Los Angeles Lakers,,110,Houston Rockets,N
+3,"20,562",Box Score,"Wed, Oct 27, 2010",,7:00p,95,Cleveland Cavaliers,,87,Boston Celtics,N
+4,"18,722",Box Score,"Wed, Oct 27, 2010",,7:00p,93,Toronto Raptors,,98,New York Knicks,N
+5,"20,389",Box Score,"Wed, Oct 27, 2010",,7:00p,87,Philadelphia 76ers,,97,Miami Heat,N
+6,"15,178",Box Score,"Wed, Oct 27, 2010",,7:00p,101,New Jersey Nets,,98,Detroit Pistons,N
+7,"18,203",Box Score,"Wed, Oct 27, 2010",,8:00p,106,Oklahoma City Thunder,,95,Chicago Bulls,N
+8,"15,039",Box Score,"Wed, Oct 27, 2010",,8:00p,95,New Orleans Hornets,,91,Milwaukee Bucks,N
+9,"17,067",Box Score,"Wed, Oct 27, 2010",,8:00p,116,Minnesota Timberwolves,,117,Sacramento Kings,N
+10,"17,519",Box Score,"Wed, Oct 27, 2010",,8:00p,104,Memphis Grizzlies,,119,Atlanta Hawks,N
+11,"18,581",Box Score,"Wed, Oct 27, 2010",,8:30p,122,San Antonio Spurs,,109,Indiana Pacers,N
+12,"19,440",Box Score,"Wed, Oct 27, 2010",,8:30p,101,Dallas Mavericks,,86,Charlotte Bobcats,N
+13,"19,155",Box Score,"Wed, Oct 27, 2010",,9:00p,110,Denver Nuggets,,88,Utah Jazz,N
+14,"18,382",Box Score,"Wed, Oct 27, 2010",,10:30p,88,Los Angeles Clippers,,98,Portland Trail Blazers,N
+15,"18,428",Box Score,"Wed, Oct 27, 2010",,10:30p,132,Golden State Warriors,,128,Houston Rockets,N
+16,"18,918",Box Score,"Thu, Oct 28, 2010",,8:00p,112,Orlando Magic,,83,Washington Wizards,N
+17,"19,911",Box Score,"Thu, Oct 28, 2010",,10:30p,94,Utah Jazz,,110,Phoenix Suns,N
+18,"18,351",Box Score,"Fri, Oct 29, 2010",,7:00p,101,Charlotte Bobcats,,104,Indiana Pacers,N
+19,"15,711",Box Score,"Fri, Oct 29, 2010",,7:00p,101,Toronto Raptors,,81,Cleveland Cavaliers,N
+20,"10,960",Box Score,"Fri, Oct 29, 2010",,7:00p,101,Philadelphia 76ers,,104,Atlanta Hawks,N
+21,"13,482",Box Score,"Fri, Oct 29, 2010",,7:00p,106,New Jersey Nets,,100,Sacramento Kings,N
+22,"18,624",Box Score,"Fri, Oct 29, 2010",,7:30p,105,Boston Celtics,,101,New York Knicks,N
+23,"22,076",Box Score,"Fri, Oct 29, 2010",,8:00p,104,Detroit Pistons,,105,Oklahoma City Thunder,N
+24,"12,474",Box Score,"Fri, Oct 29, 2010",,8:00p,101,New Orleans Hornets,,95,Denver Nuggets,N
+25,"19,600",Box Score,"Fri, Oct 29, 2010",,8:00p,96,Miami Heat,,70,Orlando Magic,N
+26,"17,197",Box Score,"Fri, Oct 29, 2010",,8:00p,96,Minnesota Timberwolves,,85,Milwaukee Bucks,N
+27,"20,060",Box Score,"Fri, Oct 29, 2010",,8:30p,90,Dallas Mavericks,,91,Memphis Grizzlies,N
+28,"17,408",Box Score,"Fri, Oct 29, 2010",,10:30p,109,Golden State Warriors,,91,Los Angeles Clippers,N
+29,"18,422",Box Score,"Fri, Oct 29, 2010",,10:30p,106,Phoenix Suns,,114,Los Angeles Lakers,N
+30,"18,729",Box Score,"Sat, Oct 30, 2010",,7:00p,99,Atlanta Hawks,,95,Washington Wizards,N
+31,"19,763",Box Score,"Sat, Oct 30, 2010",,7:30p,95,New York Knicks,,100,Portland Trail Blazers,N
+32,"20,562",Box Score,"Sat, Oct 30, 2010",,7:30p,104,Cleveland Cavaliers,,107,Sacramento Kings,N
+33,"18,165",Box Score,"Sat, Oct 30, 2010",,8:00p,99,Indiana Pacers,,86,Philadelphia 76ers,N
+34,"12,753",Box Score,"Sat, Oct 30, 2010",,8:00p,109,Memphis Grizzlies,,89,Minnesota Timberwolves,N
+35,"21,038",Box Score,"Sat, Oct 30, 2010",,8:00p,101,Chicago Bulls,,91,Detroit Pistons,N
+36,"18,161",Box Score,"Sat, Oct 30, 2010",,8:30p,94,Houston Rockets,,107,Denver Nuggets,N
+37,"16,519",Box Score,"Sat, Oct 30, 2010",,8:30p,98,Milwaukee Bucks,,88,Charlotte Bobcats,N
+38,"18,581",Box Score,"Sat, Oct 30, 2010",,8:30p,90,San Antonio Spurs,,99,New Orleans Hornets,N
+39,"17,086",Box Score,"Sun, Oct 31, 2010",,1:00p,78,New Jersey Nets,,101,Miami Heat,N
+40,"13,718",Box Score,"Sun, Oct 31, 2010",,3:30p,83,Los Angeles Clippers,,99,Dallas Mavericks,N
+41,"18,203",Box Score,"Sun, Oct 31, 2010",,7:00p,99,Oklahoma City Thunder,,120,Utah Jazz,N
+42,"18,997",Box Score,"Sun, Oct 31, 2010",,9:30p,107,Los Angeles Lakers,,83,Golden State Warriors,N
+43,"21,057",Box Score,"Mon, Nov 1, 2010",,8:00p,110,Chicago Bulls,,98,Portland Trail Blazers,N
+44,"17,317",Box Score,"Mon, Nov 1, 2010",,10:00p,111,Sacramento Kings,,108,Toronto Raptors,N
+45,"14,964",Box Score,"Mon, Nov 1, 2010",,10:30p,88,Los Angeles Clippers,,97,San Antonio Spurs,N
+46,"20,562",Box Score,"Tue, Nov 2, 2010",,7:00p,88,Cleveland Cavaliers,,100,Atlanta Hawks,N
+47,"17,803",Box Score,"Tue, Nov 2, 2010",,7:00p,116,Washington Wizards,OT,115,Philadelphia 76ers,N
+48,"15,313",Box Score,"Tue, Nov 2, 2010",,7:30p,86,Detroit Pistons,,109,Boston Celtics,N
+49,"19,600",Box Score,"Tue, Nov 2, 2010",,7:30p,129,Miami Heat,,97,Minnesota Timberwolves,N
+50,"13,087",Box Score,"Tue, Nov 2, 2010",,8:00p,76,Milwaukee Bucks,,90,Portland Trail Blazers,N
+51,"18,997",Box Score,"Tue, Nov 2, 2010",,10:30p,124,Los Angeles Lakers,,105,Memphis Grizzlies,N
+52,"13,003",Box Score,"Wed, Nov 3, 2010",,7:00p,94,Atlanta Hawks,,85,Detroit Pistons,N
+53,"11,778",Box Score,"Wed, Nov 3, 2010",,7:00p,83,New Jersey Nets,,85,Charlotte Bobcats,N
+54,"18,846",Box Score,"Wed, Nov 3, 2010",,7:00p,128,Orlando Magic,,86,Minnesota Timberwolves,N
+55,"12,277",Box Score,"Wed, Nov 3, 2010",,7:00p,101,Philadelphia 76ers,,75,Indiana Pacers,N
+56,"18,624",Box Score,"Wed, Nov 3, 2010",,8:00p,105,Boston Celtics,OT,102,Milwaukee Bucks,N
+57,"13,484",Box Score,"Wed, Nov 3, 2010",,8:30p,99,Houston Rockets,,107,New Orleans Hornets,N
+58,"14,159",Box Score,"Wed, Nov 3, 2010",,9:00p,101,Denver Nuggets,,102,Dallas Mavericks,N
+59,"17,802",Box Score,"Wed, Nov 3, 2010",,9:00p,125,Utah Jazz,,108,Toronto Raptors,N
+60,"17,060",Box Score,"Wed, Nov 3, 2010",,10:00p,110,Phoenix Suns,,112,San Antonio Spurs,N
+61,"16,607",Box Score,"Wed, Nov 3, 2010",,10:30p,115,Golden State Warriors,,109,Memphis Grizzlies,N
+62,"18,414",Box Score,"Wed, Nov 3, 2010",,10:30p,107,Los Angeles Clippers,,92,Oklahoma City Thunder,N
+63,"16,113",Box Score,"Wed, Nov 3, 2010",,10:30p,100,Sacramento Kings,,112,Los Angeles Lakers,N
+64,"21,203",Box Score,"Thu, Nov 4, 2010",,8:00p,112,Chicago Bulls,,120,New York Knicks,N
+65,"20,611",Box Score,"Thu, Nov 4, 2010",,10:30p,106,Portland Trail Blazers,OT,107,Oklahoma City Thunder,N
+66,"14,115",Box Score,"Fri, Nov 5, 2010",,7:00p,90,Indiana Pacers,,94,Milwaukee Bucks,N
+67,"18,846",Box Score,"Fri, Nov 5, 2010",,7:00p,105,Orlando Magic,,90,New Jersey Nets,N
+68,"10,589",Box Score,"Fri, Nov 5, 2010",,7:00p,116,Philadelphia 76ers,,123,Cleveland Cavaliers,N
+69,"13,291",Box Score,"Fri, Nov 5, 2010",,7:30p,97,Detroit Pistons,,90,Charlotte Bobcats,N
+70,"19,763",Box Score,"Fri, Nov 5, 2010",,7:30p,112,New York Knicks,,91,Washington Wizards,N
+71,"18,624",Box Score,"Fri, Nov 5, 2010",,8:00p,110,Boston Celtics,OT,105,Chicago Bulls,N
+72,"17,222",Box Score,"Fri, Nov 5, 2010",,8:00p,103,Minnesota Timberwolves,,113,Atlanta Hawks,N
+73,"17,988",Box Score,"Fri, Nov 5, 2010",,8:00p,96,New Orleans Hornets,,93,Miami Heat,N
+74,"16,470",Box Score,"Fri, Nov 5, 2010",,10:00p,123,Phoenix Suns,2OT,118,Memphis Grizzlies,N
+75,"15,559",Box Score,"Fri, Nov 5, 2010",,10:30p,111,Denver Nuggets,,104,Los Angeles Clippers,N
+76,"17,902",Box Score,"Fri, Nov 5, 2010",,10:30p,85,Golden State Warriors,,78,Utah Jazz,N
+77,"18,997",Box Score,"Fri, Nov 5, 2010",,10:30p,108,Los Angeles Lakers,,103,Toronto Raptors,N
+78,"18,136",Box Score,"Sat, Nov 6, 2010",,7:00p,88,Charlotte Bobcats,,91,Orlando Magic,N
+79,"14,442",Box Score,"Sat, Nov 6, 2010",,7:00p,102,Washington Wizards,,107,Cleveland Cavaliers,N
+80,"19,600",Box Score,"Sat, Nov 6, 2010",,7:30p,101,Miami Heat,,89,New Jersey Nets,N
+81,"16,731",Box Score,"Sat, Nov 6, 2010",,8:30p,81,Milwaukee Bucks,,87,New Orleans Hornets,N
+82,"17,740",Box Score,"Sat, Nov 6, 2010",,8:30p,124,San Antonio Spurs,OT,121,Houston Rockets,N
+83,"19,948",Box Score,"Sat, Nov 6, 2010",,9:00p,92,Dallas Mavericks,,103,Denver Nuggets,N
+84,"19,911",Box Score,"Sat, Nov 6, 2010",,9:00p,109,Utah Jazz,2OT,107,Los Angeles Clippers,N
+85,"20,363",Box Score,"Sat, Nov 6, 2010",,10:00p,97,Portland Trail Blazers,,84,Toronto Raptors,N
+86,"14,085",Box Score,"Sat, Nov 6, 2010",,10:00p,91,Sacramento Kings,,100,Memphis Grizzlies,N
+87,"18,735",Box Score,"Sun, Nov 7, 2010",,12:00p,96,New York Knicks,,106,Philadelphia 76ers,N
+88,"13,395",Box Score,"Sun, Nov 7, 2010",,5:00p,114,Atlanta Hawks,,118,Phoenix Suns,N
+89,"12,813",Box Score,"Sun, Nov 7, 2010",,6:00p,102,Detroit Pistons,,97,Golden State Warriors,N
+90,"15,058",Box Score,"Sun, Nov 7, 2010",,7:00p,120,Houston Rockets,,94,Minnesota Timberwolves,N
+91,"18,203",Box Score,"Sun, Nov 7, 2010",,7:00p,83,Oklahoma City Thunder,,92,Boston Celtics,N
+92,"18,997",Box Score,"Sun, Nov 7, 2010",,9:30p,121,Los Angeles Lakers,,96,Portland Trail Blazers,N
+93,"14,152",Box Score,"Mon, Nov 8, 2010",,7:00p,91,Charlotte Bobcats,,95,San Antonio Spurs,N
+94,"18,846",Box Score,"Mon, Nov 8, 2010",,7:00p,93,Orlando Magic,,89,Atlanta Hawks,N
+95,"14,127",Box Score,"Mon, Nov 8, 2010",,7:00p,102,Toronto Raptors,,109,Golden State Warriors,N
+96,"21,355",Box Score,"Mon, Nov 8, 2010",,8:00p,94,Chicago Bulls,,92,Denver Nuggets,N
+97,"10,786",Box Score,"Mon, Nov 8, 2010",,8:00p,109,Memphis Grizzlies,,99,Phoenix Suns,N
+98,"20,194",Box Score,"Mon, Nov 8, 2010",,8:30p,89,Dallas Mavericks,,87,Boston Celtics,N
+99,"11,122",Box Score,"Tue, Nov 9, 2010",,7:00p,144,Indiana Pacers,,113,Denver Nuggets,N
+100,"10,188",Box Score,"Tue, Nov 9, 2010",,7:00p,91,New Jersey Nets,,93,Cleveland Cavaliers,N
+101,"19,600",Box Score,"Tue, Nov 9, 2010",,7:30p,114,Miami Heat,OT,116,Utah Jazz,N
+102,"13,286",Box Score,"Tue, Nov 9, 2010",,8:00p,107,Milwaukee Bucks,,80,New York Knicks,N
+103,"12,479",Box Score,"Tue, Nov 9, 2010",,8:00p,101,New Orleans Hornets,,82,Los Angeles Clippers,N
+104,"20,556",Box Score,"Tue, Nov 9, 2010",,10:00p,100,Portland Trail Blazers,,78,Detroit Pistons,N
+105,"18,997",Box Score,"Tue, Nov 9, 2010",,10:30p,99,Los Angeles Lakers,,94,Minnesota Timberwolves,N
+106,"11,211",Box Score,"Wed, Nov 10, 2010",,7:00p,91,Atlanta Hawks,,108,Milwaukee Bucks,N
+107,"18,846",Box Score,"Wed, Nov 10, 2010",,7:00p,94,Orlando Magic,,104,Utah Jazz,N
+108,"14,309",Box Score,"Wed, Nov 10, 2010",,7:00p,96,Toronto Raptors,,101,Charlotte Bobcats,N
+109,"13,665",Box Score,"Wed, Nov 10, 2010",,7:00p,98,Washington Wizards,,91,Houston Rockets,N
+110,"20,562",Box Score,"Wed, Nov 10, 2010",,7:30p,87,Cleveland Cavaliers,,95,New Jersey Nets,N
+111,"19,763",Box Score,"Wed, Nov 10, 2010",,7:30p,117,New York Knicks,,122,Golden State Warriors,N
+112,"10,767",Box Score,"Wed, Nov 10, 2010",,8:00p,91,Memphis Grizzlies,,106,Dallas Mavericks,N
+113,"18,203",Box Score,"Wed, Nov 10, 2010",,8:00p,109,Oklahoma City Thunder,,103,Philadelphia 76ers,N
+114,"17,309",Box Score,"Wed, Nov 10, 2010",,9:30p,107,San Antonio Spurs,,95,Los Angeles Clippers,N
+115,"12,433",Box Score,"Wed, Nov 10, 2010",,10:00p,89,Sacramento Kings,,98,Minnesota Timberwolves,N
+116,"21,140",Box Score,"Thu, Nov 11, 2010",,8:00p,120,Chicago Bulls,,90,Golden State Warriors,N
+117,"19,650",Box Score,"Thu, Nov 11, 2010",,8:00p,107,Miami Heat,,112,Boston Celtics,N
+118,"19,155",Box Score,"Thu, Nov 11, 2010",,10:30p,118,Denver Nuggets,,112,Los Angeles Lakers,N
+119,"17,069",Box Score,"Fri, Nov 12, 2010",,7:00p,86,Atlanta Hawks,,90,Utah Jazz,N
+120,"14,414",Box Score,"Fri, Nov 12, 2010",,7:00p,99,Indiana Pacers,,102,Houston Rockets,N
+121,"18,846",Box Score,"Fri, Nov 12, 2010",,7:00p,106,Orlando Magic,,110,Toronto Raptors,N
+122,"14,855",Box Score,"Fri, Nov 12, 2010",,7:00p,85,Washington Wizards,,93,Charlotte Bobcats,N
+123,"15,232",Box Score,"Fri, Nov 12, 2010",,8:00p,112,Minnesota Timberwolves,,103,New York Knicks,N
+124,"19,989",Box Score,"Fri, Nov 12, 2010",,8:30p,99,Dallas Mavericks,,90,Philadelphia 76ers,N
+125,"18,029",Box Score,"Fri, Nov 12, 2010",,9:00p,103,Phoenix Suns,,89,Sacramento Kings,N
+126,"18,203",Box Score,"Fri, Nov 12, 2010",,9:30p,110,Oklahoma City Thunder,,108,Portland Trail Blazers,N
+127,"16,960",Box Score,"Fri, Nov 12, 2010",,10:30p,107,Los Angeles Clippers,OT,113,Detroit Pistons,N
+128,"15,486",Box Score,"Sat, Nov 13, 2010",,7:00p,95,Charlotte Bobcats,,96,Utah Jazz,N
+129,"15,086",Box Score,"Sat, Nov 13, 2010",,7:00p,90,New Jersey Nets,,91,Orlando Magic,N
+130,"20,562",Box Score,"Sat, Nov 13, 2010",,7:30p,85,Cleveland Cavaliers,,99,Indiana Pacers,N
+131,"19,600",Box Score,"Sat, Nov 13, 2010",,7:30p,109,Miami Heat,,100,Toronto Raptors,N
+132,"21,610",Box Score,"Sat, Nov 13, 2010",,8:00p,103,Chicago Bulls,,96,Washington Wizards,N
+133,"18,119",Box Score,"Sat, Nov 13, 2010",,8:00p,110,Memphis Grizzlies,OT,116,Boston Celtics,N
+134,"14,706",Box Score,"Sat, Nov 13, 2010",,8:00p,107,New Orleans Hornets,,87,Portland Trail Blazers,N
+135,"17,049",Box Score,"Sat, Nov 13, 2010",,8:30p,79,Milwaukee Bucks,,72,Golden State Warriors,N
+136,"17,627",Box Score,"Sat, Nov 13, 2010",,8:30p,116,San Antonio Spurs,,93,Philadelphia 76ers,N
+137,"12,027",Box Score,"Sun, Nov 14, 2010",,2:00p,111,Atlanta Hawks,,105,Minnesota Timberwolves,N
+138,"12,377",Box Score,"Sun, Nov 14, 2010",,6:00p,94,Sacramento Kings,,100,Detroit Pistons,N
+139,"18,203",Box Score,"Sun, Nov 14, 2010",,7:00p,104,Oklahoma City Thunder,,117,San Antonio Spurs,N
+140,"19,763",Box Score,"Sun, Nov 14, 2010",,7:30p,96,New York Knicks,,104,Houston Rockets,N
+141,"18,997",Box Score,"Sun, Nov 14, 2010",,9:30p,116,Los Angeles Lakers,,121,Phoenix Suns,N
+142,"11,211",Box Score,"Mon, Nov 15, 2010",,7:00p,113,Charlotte Bobcats,,110,Minnesota Timberwolves,N
+143,"18,846",Box Score,"Mon, Nov 15, 2010",,7:00p,89,Orlando Magic,,72,Memphis Grizzlies,N
+144,"19,712",Box Score,"Mon, Nov 15, 2010",,8:30p,98,Dallas Mavericks,,95,New Orleans Hornets,N
+145,"17,744",Box Score,"Mon, Nov 15, 2010",,9:00p,100,Phoenix Suns,,94,Denver Nuggets,N
+146,"19,911",Box Score,"Mon, Nov 15, 2010",,9:00p,108,Utah Jazz,,115,Oklahoma City Thunder,N
+147,"19,123",Box Score,"Mon, Nov 15, 2010",,10:30p,101,Golden State Warriors,,97,Detroit Pistons,N
+148,"14,516",Box Score,"Mon, Nov 15, 2010",,10:30p,96,Los Angeles Clippers,,110,New Jersey Nets,N
+149,"20,562",Box Score,"Tue, Nov 16, 2010",,7:00p,101,Cleveland Cavaliers,,93,Philadelphia 76ers,N
+150,"11,133",Box Score,"Tue, Nov 16, 2010",,7:00p,92,Indiana Pacers,,102,Atlanta Hawks,N
+151,"11,513",Box Score,"Tue, Nov 16, 2010",,7:00p,109,Washington Wizards,,94,Toronto Raptors,N
+152,"10,827",Box Score,"Tue, Nov 16, 2010",,8:00p,99,Memphis Grizzlies,,100,Portland Trail Blazers,N
+153,"18,059",Box Score,"Tue, Nov 16, 2010",,8:00p,107,Milwaukee Bucks,,118,Los Angeles Lakers,N
+154,"18,158",Box Score,"Tue, Nov 16, 2010",,8:30p,92,Houston Rockets,,95,Chicago Bulls,N
+155,"15,190",Box Score,"Tue, Nov 16, 2010",,9:00p,120,Denver Nuggets,,118,New York Knicks,N
+156,"19,600",Box Score,"Wed, Nov 17, 2010",,7:00p,123,Miami Heat,,96,Phoenix Suns,N
+157,"12,164",Box Score,"Wed, Nov 17, 2010",,7:00p,86,Philadelphia 76ers,,94,Toronto Raptors,N
+158,"18,624",Box Score,"Wed, Nov 17, 2010",,7:30p,114,Boston Celtics,,83,Washington Wizards,N
+159,"20,284",Box Score,"Wed, Nov 17, 2010",,7:30p,90,Detroit Pistons,,103,Los Angeles Lakers,N
+160,"12,909",Box Score,"Wed, Nov 17, 2010",,8:00p,113,Minnesota Timberwolves,,111,Los Angeles Clippers,N
+161,"13,828",Box Score,"Wed, Nov 17, 2010",,8:00p,99,New Orleans Hornets,,97,Dallas Mavericks,N
+162,"17,509",Box Score,"Wed, Nov 17, 2010",,8:00p,116,Oklahoma City Thunder,,99,Houston Rockets,N
+163,"19,314",Box Score,"Wed, Nov 17, 2010",,9:00p,98,Utah Jazz,,88,New Jersey Nets,N
+164,"18,581",Box Score,"Wed, Nov 17, 2010",,9:30p,103,San Antonio Spurs,,94,Chicago Bulls,N
+165,"12,817",Box Score,"Wed, Nov 17, 2010",,10:00p,106,Sacramento Kings,,113,New York Knicks,N
+166,"12,459",Box Score,"Thu, Nov 18, 2010",,7:00p,107,Indiana Pacers,,80,Los Angeles Clippers,N
+167,"18,846",Box Score,"Thu, Nov 18, 2010",,8:00p,105,Orlando Magic,,89,Phoenix Suns,N
+168,"20,532",Box Score,"Thu, Nov 18, 2010",,10:30p,86,Portland Trail Blazers,,83,Denver Nuggets,N
+169,"18,624",Box Score,"Fri, Nov 19, 2010",,7:00p,84,Boston Celtics,,89,Oklahoma City Thunder,N
+170,"14,557",Box Score,"Fri, Nov 19, 2010",,7:00p,90,Philadelphia 76ers,,79,Milwaukee Bucks,N
+171,"17,369",Box Score,"Fri, Nov 19, 2010",,7:00p,106,Toronto Raptors,,96,Houston Rockets,N
+172,"13,504",Box Score,"Fri, Nov 19, 2010",,7:00p,89,Washington Wizards,,86,Memphis Grizzlies,N
+173,"19,600",Box Score,"Fri, Nov 19, 2010",,7:30p,95,Miami Heat,,87,Charlotte Bobcats,N
+174,"19,356",Box Score,"Fri, Nov 19, 2010",,8:00p,95,Minnesota Timberwolves,,112,Los Angeles Lakers,N
+175,"14,755",Box Score,"Fri, Nov 19, 2010",,8:00p,108,New Orleans Hornets,,101,Cleveland Cavaliers,N
+176,"19,332",Box Score,"Fri, Nov 19, 2010",,9:00p,82,Utah Jazz,,94,San Antonio Spurs,N
+177,"20,133",Box Score,"Fri, Nov 19, 2010",,9:30p,83,Dallas Mavericks,,88,Chicago Bulls,N
+178,"11,766",Box Score,"Fri, Nov 19, 2010",,10:00p,86,Sacramento Kings,,81,New Jersey Nets,N
+179,"19,808",Box Score,"Fri, Nov 19, 2010",,10:30p,119,Golden State Warriors,,125,New York Knicks,N
+180,"16,428",Box Score,"Sat, Nov 20, 2010",,7:00p,123,Charlotte Bobcats,,105,Phoenix Suns,N
+181,"14,583",Box Score,"Sat, Nov 20, 2010",,7:00p,86,Indiana Pacers,,90,Orlando Magic,N
+182,"14,143",Box Score,"Sat, Nov 20, 2010",,8:00p,93,Atlanta Hawks,,98,Dallas Mavericks,N
+183,"18,119",Box Score,"Sat, Nov 20, 2010",,8:00p,97,Memphis Grizzlies,,95,Miami Heat,N
+184,"16,975",Box Score,"Sat, Nov 20, 2010",,8:30p,81,Milwaukee Bucks,,82,Oklahoma City Thunder,N
+185,"16,982",Box Score,"Sat, Nov 20, 2010",,8:30p,116,San Antonio Spurs,,92,Cleveland Cavaliers,N
+186,"16,396",Box Score,"Sat, Nov 20, 2010",,9:00p,107,Denver Nuggets,,103,New Jersey Nets,N
+187,"20,533",Box Score,"Sat, Nov 20, 2010",,10:00p,94,Portland Trail Blazers,,103,Utah Jazz,N
+188,"18,325",Box Score,"Sat, Nov 20, 2010",,10:30p,115,Los Angeles Clippers,,124,New York Knicks,N
+189,"17,707",Box Score,"Sun, Nov 21, 2010",,1:00p,102,Toronto Raptors,,101,Boston Celtics,N
+190,"13,241",Box Score,"Sun, Nov 21, 2010",,6:00p,115,Detroit Pistons,OT,110,Washington Wizards,N
+191,"12,003",Box Score,"Sun, Nov 21, 2010",,6:00p,71,Sacramento Kings,,75,New Orleans Hornets,N
+192,"18,997",Box Score,"Sun, Nov 21, 2010",,9:30p,117,Los Angeles Lakers,,89,Golden State Warriors,N
+193,"14,476",Box Score,"Mon, Nov 22, 2010",,7:00p,76,Atlanta Hawks,,99,Boston Celtics,N
+194,"19,600",Box Score,"Mon, Nov 22, 2010",,7:30p,77,Miami Heat,,93,Indiana Pacers,N
+195,"17,653",Box Score,"Mon, Nov 22, 2010",,8:00p,117,Oklahoma City Thunder,,107,Minnesota Timberwolves,N
+196,"15,080",Box Score,"Mon, Nov 22, 2010",,8:30p,116,Houston Rockets,,123,Phoenix Suns,N
+197,"17,627",Box Score,"Mon, Nov 22, 2010",,8:30p,106,San Antonio Spurs,,97,Orlando Magic,N
+198,"18,698",Box Score,"Mon, Nov 22, 2010",,9:00p,94,Utah Jazz,,83,Sacramento Kings,N
+199,"18,023",Box Score,"Mon, Nov 22, 2010",,10:30p,89,Golden State Warriors,,106,Denver Nuggets,N
+200,"17,787",Box Score,"Mon, Nov 22, 2010",,10:30p,99,Los Angeles Clippers,,95,New Orleans Hornets,N
+201,"12,629",Box Score,"Tue, Nov 23, 2010",,7:00p,100,Indiana Pacers,,89,Cleveland Cavaliers,N
+202,"13,010",Box Score,"Tue, Nov 23, 2010",,7:00p,107,New Jersey Nets,OT,101,Atlanta Hawks,N
+203,"16,197",Box Score,"Tue, Nov 23, 2010",,7:00p,116,Washington Wizards,OT,114,Philadelphia 76ers,N
+204,"19,763",Box Score,"Tue, Nov 23, 2010",,7:30p,110,New York Knicks,,107,Charlotte Bobcats,N
+205,"19,734",Box Score,"Tue, Nov 23, 2010",,8:30p,88,Dallas Mavericks,,84,Detroit Pistons,N
+206,"18,997",Box Score,"Tue, Nov 23, 2010",,10:30p,98,Los Angeles Lakers,,91,Chicago Bulls,N
+207,"15,588",Box Score,"Wed, Nov 24, 2010",,7:00p,95,Charlotte Bobcats,,99,New York Knicks,N
+208,"20,562",Box Score,"Wed, Nov 24, 2010",,7:00p,83,Cleveland Cavaliers,,81,Milwaukee Bucks,N
+209,"15,012",Box Score,"Wed, Nov 24, 2010",,7:00p,106,Toronto Raptors,,90,Philadelphia 76ers,N
+210,"18,624",Box Score,"Wed, Nov 24, 2010",,7:30p,89,Boston Celtics,,83,New Jersey Nets,N
+211,"18,936",Box Score,"Wed, Nov 24, 2010",,7:30p,104,Orlando Magic,,95,Miami Heat,N
+212,"11,283",Box Score,"Wed, Nov 24, 2010",,8:00p,105,Memphis Grizzlies,,84,Detroit Pistons,N
+213,"13,117",Box Score,"Wed, Nov 24, 2010",,8:00p,109,Minnesota Timberwolves,OT,113,San Antonio Spurs,N
+214,"18,203",Box Score,"Wed, Nov 24, 2010",,8:00p,103,Oklahoma City Thunder,,111,Dallas Mavericks,N
+215,"13,847",Box Score,"Wed, Nov 24, 2010",,8:30p,111,Houston Rockets,,101,Golden State Warriors,N
+216,"18,422",Box Score,"Wed, Nov 24, 2010",,9:00p,115,Phoenix Suns,2OT,123,Chicago Bulls,N
+217,"19,237",Box Score,"Wed, Nov 24, 2010",,9:00p,105,Utah Jazz,,87,New Orleans Hornets,N
+218,"15,042",Box Score,"Thu, Nov 25, 2010",,8:00p,116,Atlanta Hawks,,96,Washington Wizards,N
+219,"11,504",Box Score,"Thu, Nov 25, 2010",,10:30p,100,Los Angeles Clippers,,82,Sacramento Kings,N
+220,"16,473",Box Score,"Fri, Nov 26, 2010",,7:00p,99,Charlotte Bobcats,,89,Houston Rockets,N
+221,"18,846",Box Score,"Fri, Nov 26, 2010",,7:00p,111,Orlando Magic,,100,Cleveland Cavaliers,N
+222,"18,624",Box Score,"Fri, Nov 26, 2010",,7:30p,110,Boston Celtics,,101,Toronto Raptors,N
+223,"17,133",Box Score,"Fri, Nov 26, 2010",,7:30p,103,Detroit Pistons,,89,Milwaukee Bucks,N
+224,"19,800",Box Score,"Fri, Nov 26, 2010",,7:30p,99,Miami Heat,,90,Philadelphia 76ers,N
+225,"17,155",Box Score,"Fri, Nov 26, 2010",,8:00p,106,Indiana Pacers,OT,110,Oklahoma City Thunder,N
+226,"18,581",Box Score,"Fri, Nov 26, 2010",,8:30p,94,San Antonio Spurs,,103,Dallas Mavericks,N
+227,"19,155",Box Score,"Fri, Nov 26, 2010",,9:00p,98,Denver Nuggets,,97,Chicago Bulls,N
+228,"17,486",Box Score,"Fri, Nov 26, 2010",,9:00p,116,Phoenix Suns,,108,Los Angeles Clippers,N
+229,"19,911",Box Score,"Fri, Nov 26, 2010",,9:00p,102,Utah Jazz,,96,Los Angeles Lakers,N
+230,"14,753",Box Score,"Fri, Nov 26, 2010",,9:30p,116,Memphis Grizzlies,,111,Golden State Warriors,N
+231,"20,452",Box Score,"Fri, Nov 26, 2010",,10:00p,78,Portland Trail Blazers,,97,New Orleans Hornets,N
+232,"19,763",Box Score,"Sat, Nov 27, 2010",,1:00p,90,New York Knicks,,99,Atlanta Hawks,N
+233,"16,435",Box Score,"Sat, Nov 27, 2010",,7:00p,99,Washington Wizards,,100,Orlando Magic,N
+234,"20,562",Box Score,"Sat, Nov 27, 2010",,7:30p,92,Cleveland Cavaliers,,86,Memphis Grizzlies,N
+235,"14,150",Box Score,"Sat, Nov 27, 2010",,7:30p,102,Philadelphia 76ers,,86,New Jersey Nets,N
+236,"14,440",Box Score,"Sat, Nov 27, 2010",,8:00p,94,Minnesota Timberwolves,,104,Golden State Warriors,N
+237,"20,536",Box Score,"Sat, Nov 27, 2010",,8:30p,106,Dallas Mavericks,,95,Miami Heat,N
+238,"15,213",Box Score,"Sat, Nov 27, 2010",,9:00p,104,Milwaukee Bucks,,101,Charlotte Bobcats,N
+239,"13,504",Box Score,"Sat, Nov 27, 2010",,10:00p,85,Sacramento Kings,,96,Chicago Bulls,N
+240,"17,302",Box Score,"Sun, Nov 28, 2010",,1:00p,78,Toronto Raptors,,96,Atlanta Hawks,N
+241,"16,015",Box Score,"Sun, Nov 28, 2010",,1:30p,116,Detroit Pistons,2OT,125,New York Knicks,N
+242,"12,449",Box Score,"Sun, Nov 28, 2010",,3:00p,95,New Orleans Hornets,,109,San Antonio Spurs,N
+243,"17,085",Box Score,"Sun, Nov 28, 2010",,3:30p,97,Los Angeles Clippers,,109,Utah Jazz,N
+244,"15,316",Box Score,"Sun, Nov 28, 2010",,7:00p,99,Houston Rockets,,98,Oklahoma City Thunder,N
+245,"11,448",Box Score,"Sun, Nov 28, 2010",,7:00p,98,New Jersey Nets,,96,Portland Trail Blazers,N
+246,"15,482",Box Score,"Sun, Nov 28, 2010",,8:00p,138,Denver Nuggets,,133,Phoenix Suns,N
+247,"18,997",Box Score,"Sun, Nov 28, 2010",,9:30p,92,Los Angeles Lakers,,95,Indiana Pacers,N
+248,"19,600",Box Score,"Mon, Nov 29, 2010",,7:30p,105,Miami Heat,,94,Washington Wizards,N
+249,"18,203",Box Score,"Mon, Nov 29, 2010",,8:00p,95,Oklahoma City Thunder,,89,New Orleans Hornets,N
+250,"19,435",Box Score,"Mon, Nov 29, 2010",,8:30p,101,Dallas Mavericks,,91,Houston Rockets,N
+251,"18,497",Box Score,"Mon, Nov 29, 2010",,9:00p,109,Utah Jazz,,88,Milwaukee Bucks,N
+252,"20,562",Box Score,"Tue, Nov 30, 2010",,7:00p,87,Cleveland Cavaliers,,106,Boston Celtics,N
+253,"18,846",Box Score,"Tue, Nov 30, 2010",,7:00p,90,Orlando Magic,,79,Detroit Pistons,N
+254,"13,556",Box Score,"Tue, Nov 30, 2010",,7:00p,88,Philadelphia 76ers,,79,Portland Trail Blazers,N
+255,"19,763",Box Score,"Tue, Nov 30, 2010",,7:30p,111,New York Knicks,,100,New Jersey Nets,N
+256,"17,638",Box Score,"Tue, Nov 30, 2010",,8:00p,98,Memphis Grizzlies,,96,Los Angeles Lakers,N
+257,"10,927",Box Score,"Tue, Nov 30, 2010",,10:00p,98,Sacramento Kings,,107,Indiana Pacers,N
+258,"17,877",Box Score,"Tue, Nov 30, 2010",,10:30p,98,Golden State Warriors,,118,San Antonio Spurs,N
+259,"11,513",Box Score,"Wed, Dec 1, 2010",,7:00p,112,Atlanta Hawks,,109,Memphis Grizzlies,N
+260,"13,108",Box Score,"Wed, Dec 1, 2010",,7:00p,120,New Jersey Nets,3OT,123,Oklahoma City Thunder,N
+261,"15,209",Box Score,"Wed, Dec 1, 2010",,7:00p,127,Toronto Raptors,,108,Washington Wizards,N
+262,"18,624",Box Score,"Wed, Dec 1, 2010",,7:30p,99,Boston Celtics,,95,Portland Trail Blazers,N
+263,"19,600",Box Score,"Wed, Dec 1, 2010",,7:30p,97,Miami Heat,,72,Detroit Pistons,N
+264,"21,435",Box Score,"Wed, Dec 1, 2010",,8:00p,78,Chicago Bulls,,107,Orlando Magic,N
+265,"10,866",Box Score,"Wed, Dec 1, 2010",,8:00p,89,New Orleans Hornets,,73,Charlotte Bobcats,N
+266,"19,567",Box Score,"Wed, Dec 1, 2010",,8:30p,100,Dallas Mavericks,,86,Minnesota Timberwolves,N
+267,"18,116",Box Score,"Wed, Dec 1, 2010",,8:30p,109,Houston Rockets,,99,Los Angeles Lakers,N
+268,"14,221",Box Score,"Wed, Dec 1, 2010",,9:00p,105,Denver Nuggets,,94,Milwaukee Bucks,N
+269,"18,732",Box Score,"Wed, Dec 1, 2010",,9:00p,110,Utah Jazz,,88,Indiana Pacers,N
+270,"16,584",Box Score,"Wed, Dec 1, 2010",,10:30p,90,Los Angeles Clippers,,85,San Antonio Spurs,N
+271,"20,562",Box Score,"Thu, Dec 2, 2010",,8:00p,90,Cleveland Cavaliers,,118,Miami Heat,N
+272,"18,328",Box Score,"Thu, Dec 2, 2010",,10:30p,101,Golden State Warriors,,107,Phoenix Suns,N
+273,"12,183",Box Score,"Fri, Dec 3, 2010",,7:00p,91,Charlotte Bobcats,OT,84,New Jersey Nets,N
+274,"16,774",Box Score,"Fri, Dec 3, 2010",,7:00p,111,Toronto Raptors,,99,Oklahoma City Thunder,N
+275,"13,408",Box Score,"Fri, Dec 3, 2010",,7:00p,83,Washington Wizards,,79,Portland Trail Blazers,N
+276,"12,140",Box Score,"Fri, Dec 3, 2010",,7:30p,93,Atlanta Hawks,,88,Philadelphia 76ers,N
+277,"18,433",Box Score,"Fri, Dec 3, 2010",,7:30p,91,Detroit Pistons,,104,Orlando Magic,N
+278,"18,624",Box Score,"Fri, Dec 3, 2010",,8:00p,104,Boston Celtics,,92,Chicago Bulls,N
+279,"14,577",Box Score,"Fri, Dec 3, 2010",,8:00p,111,Memphis Grizzlies,,127,Houston Rockets,N
+280,"14,020",Box Score,"Fri, Dec 3, 2010",,8:00p,92,New Orleans Hornets,,100,New York Knicks,N
+281,"18,581",Box Score,"Fri, Dec 3, 2010",,8:30p,107,San Antonio Spurs,,101,Minnesota Timberwolves,N
+282,"15,829",Box Score,"Fri, Dec 3, 2010",,9:00p,109,Denver Nuggets,,104,Los Angeles Clippers,N
+283,"16,991",Box Score,"Fri, Dec 3, 2010",,9:00p,105,Phoenix Suns,,97,Indiana Pacers,N
+284,"18,997",Box Score,"Fri, Dec 3, 2010",,10:30p,113,Los Angeles Lakers,,80,Sacramento Kings,N
+285,"19,623",Box Score,"Fri, Dec 3, 2010",,10:30p,81,Utah Jazz,,93,Dallas Mavericks,N
+286,"19,600",Box Score,"Sat, Dec 4, 2010",,7:30p,89,Miami Heat,,77,Atlanta Hawks,N
+287,"14,611",Box Score,"Sat, Dec 4, 2010",,7:30p,109,Philadelphia 76ers,,91,Charlotte Bobcats,N
+288,"21,232",Box Score,"Sat, Dec 4, 2010",,8:00p,119,Chicago Bulls,OT,116,Houston Rockets,N
+289,"14,422",Box Score,"Sat, Dec 4, 2010",,8:00p,129,Minnesota Timberwolves,,95,Cleveland Cavaliers,N
+290,"16,218",Box Score,"Sat, Dec 4, 2010",,8:30p,96,Milwaukee Bucks,,85,Orlando Magic,N
+291,"12,900",Box Score,"Sat, Dec 4, 2010",,10:00p,103,Sacramento Kings,,105,Dallas Mavericks,N
+292,"16,196",Box Score,"Sun, Dec 5, 2010",,1:00p,75,New Jersey Nets,,100,Boston Celtics,N
+293,"16,891",Box Score,"Sun, Dec 5, 2010",,1:00p,99,Toronto Raptors,,116,New York Knicks,N
+294,"13,081",Box Score,"Sun, Dec 5, 2010",,6:00p,102,Detroit Pistons,,92,Cleveland Cavaliers,N
+295,"18,203",Box Score,"Sun, Dec 5, 2010",,7:00p,114,Oklahoma City Thunder,,109,Golden State Warriors,N
+296,"17,571",Box Score,"Sun, Dec 5, 2010",,7:00p,109,San Antonio Spurs,,84,New Orleans Hornets,N
+297,"15,017",Box Score,"Sun, Dec 5, 2010",,8:00p,108,Denver Nuggets,,107,Memphis Grizzlies,N
+298,"17,430",Box Score,"Sun, Dec 5, 2010",,8:00p,125,Phoenix Suns,,108,Washington Wizards,N
+299,"20,139",Box Score,"Sun, Dec 5, 2010",,9:00p,100,Portland Trail Blazers,,91,Los Angeles Clippers,N
+300,"11,930",Box Score,"Mon, Dec 6, 2010",,7:00p,124,Indiana Pacers,,100,Toronto Raptors,N
+301,"18,846",Box Score,"Mon, Dec 6, 2010",,7:00p,74,Orlando Magic,,80,Atlanta Hawks,N
+302,"19,763",Box Score,"Mon, Dec 6, 2010",,7:30p,121,New York Knicks,,114,Minnesota Timberwolves,N
+303,"21,184",Box Score,"Mon, Dec 6, 2010",,8:00p,99,Chicago Bulls,,90,Oklahoma City Thunder,N
+304,"17,167",Box Score,"Mon, Dec 6, 2010",,8:00p,78,Milwaukee Bucks,,88,Miami Heat,N
+305,"19,131",Box Score,"Mon, Dec 6, 2010",,9:00p,94,Utah Jazz,,85,Memphis Grizzlies,N
+306,"14,964",Box Score,"Mon, Dec 6, 2010",,10:30p,98,Los Angeles Clippers,,91,Sacramento Kings,N
+307,"14,273",Box Score,"Tue, Dec 7, 2010",,7:00p,116,Atlanta Hawks,,101,New Jersey Nets,N
+308,"15,737",Box Score,"Tue, Dec 7, 2010",,7:00p,100,Charlotte Bobcats,,98,Denver Nuggets,N
+309,"10,662",Box Score,"Tue, Dec 7, 2010",,7:00p,117,Philadelphia 76ers,,97,Cleveland Cavaliers,N
+310,"19,593",Box Score,"Tue, Dec 7, 2010",,8:30p,105,Dallas Mavericks,,100,Golden State Warriors,N
+311,"14,798",Box Score,"Tue, Dec 7, 2010",,8:30p,97,Houston Rockets,,83,Detroit Pistons,N
+312,"20,151",Box Score,"Tue, Dec 7, 2010",,10:00p,106,Portland Trail Blazers,,99,Phoenix Suns,N
+313,"18,997",Box Score,"Tue, Dec 7, 2010",,10:30p,115,Los Angeles Lakers,,108,Washington Wizards,N
+314,"18,624",Box Score,"Wed, Dec 8, 2010",,7:00p,105,Boston Celtics,,89,Denver Nuggets,N
+315,"20,562",Box Score,"Wed, Dec 8, 2010",,7:00p,83,Cleveland Cavaliers,,88,Chicago Bulls,N
+316,"19,763",Box Score,"Wed, Dec 8, 2010",,7:30p,113,New York Knicks,,110,Toronto Raptors,N
+317,"12,789",Box Score,"Wed, Dec 8, 2010",,8:00p,97,Milwaukee Bucks,,95,Indiana Pacers,N
+318,"13,907",Box Score,"Wed, Dec 8, 2010",,8:00p,103,Minnesota Timberwolves,,111,Oklahoma City Thunder,N
+319,"10,823",Box Score,"Wed, Dec 8, 2010",,8:00p,93,New Orleans Hornets,,74,Detroit Pistons,N
+320,"16,913",Box Score,"Wed, Dec 8, 2010",,8:30p,111,San Antonio Spurs,,94,Golden State Warriors,N
+321,"16,288",Box Score,"Wed, Dec 8, 2010",,9:00p,98,Phoenix Suns,OT,104,Memphis Grizzlies,N
+322,"19,911",Box Score,"Wed, Dec 8, 2010",,9:00p,98,Utah Jazz,,111,Miami Heat,N
+323,"12,308",Box Score,"Wed, Dec 8, 2010",,10:00p,116,Sacramento Kings,,91,Washington Wizards,N
+324,"19,614",Box Score,"Wed, Dec 8, 2010",,10:30p,86,Los Angeles Clippers,,87,Los Angeles Lakers,N
+325,"17,948",Box Score,"Thu, Dec 9, 2010",,8:00p,101,Philadelphia 76ers,,102,Boston Celtics,N
+326,"19,666",Box Score,"Thu, Dec 9, 2010",,8:30p,102,Dallas Mavericks,,89,New Jersey Nets,N
+327,"20,219",Box Score,"Thu, Dec 9, 2010",,10:30p,97,Portland Trail Blazers,,83,Orlando Magic,N
+328,"13,128",Box Score,"Fri, Dec 10, 2010",,7:00p,100,Indiana Pacers,,92,Charlotte Bobcats,N
+329,"14,714",Box Score,"Fri, Dec 10, 2010",,7:00p,116,Toronto Raptors,,123,Denver Nuggets,N
+330,"18,542",Box Score,"Fri, Dec 10, 2010",,7:00p,95,Washington Wizards,,101,New York Knicks,N
+331,"22,760",Box Score,"Fri, Dec 10, 2010",,8:00p,88,Chicago Bulls,,84,Los Angeles Lakers,N
+332,"13,988",Box Score,"Fri, Dec 10, 2010",,8:00p,109,Minnesota Timberwolves,,99,Detroit Pistons,N
+333,"14,428",Box Score,"Fri, Dec 10, 2010",,8:00p,92,New Orleans Hornets,,97,Oklahoma City Thunder,N
+334,"14,526",Box Score,"Fri, Dec 10, 2010",,8:30p,97,Milwaukee Bucks,,91,Houston Rockets,N
+335,"17,576",Box Score,"Fri, Dec 10, 2010",,8:30p,108,San Antonio Spurs,,92,Atlanta Hawks,N
+336,"17,284",Box Score,"Fri, Dec 10, 2010",,9:00p,94,Phoenix Suns,,101,Portland Trail Blazers,N
+337,"18,765",Box Score,"Fri, Dec 10, 2010",,9:00p,117,Utah Jazz,,105,Orlando Magic,N
+338,"20,036",Box Score,"Fri, Dec 10, 2010",,10:30p,84,Golden State Warriors,,106,Miami Heat,N
+339,"14,970",Box Score,"Sat, Dec 11, 2010",,3:30p,83,Los Angeles Clippers,,84,Memphis Grizzlies,N
+340,"14,131",Box Score,"Sat, Dec 11, 2010",,7:00p,97,Atlanta Hawks,,83,Indiana Pacers,N
+341,"19,603",Box Score,"Sat, Dec 11, 2010",,7:00p,62,Charlotte Bobcats,,93,Boston Celtics,N
+342,"13,343",Box Score,"Sat, Dec 11, 2010",,7:30p,116,Detroit Pistons,,120,Toronto Raptors,N
+343,"21,102",Box Score,"Sat, Dec 11, 2010",,8:00p,113,Chicago Bulls,,82,Minnesota Timberwolves,N
+344,"20,074",Box Score,"Sat, Dec 11, 2010",,8:30p,103,Dallas Mavericks,,97,Utah Jazz,N
+345,"15,532",Box Score,"Sat, Dec 11, 2010",,8:30p,110,Houston Rockets,,95,Cleveland Cavaliers,N
+346,"16,396",Box Score,"Sat, Dec 11, 2010",,10:00p,83,Sacramento Kings,,104,Miami Heat,N
+347,"19,387",Box Score,"Sun, Dec 12, 2010",,12:00p,129,New York Knicks,,125,Denver Nuggets,N
+348,"13,884",Box Score,"Sun, Dec 12, 2010",,12:00p,88,Philadelphia 76ers,,70,New Orleans Hornets,N
+349,"16,561",Box Score,"Sun, Dec 12, 2010",,1:00p,92,New Jersey Nets,,99,Los Angeles Lakers,N
+350,"16,743",Box Score,"Sun, Dec 12, 2010",,3:30p,95,San Antonio Spurs,,78,Portland Trail Blazers,N
+351,"18,203",Box Score,"Sun, Dec 12, 2010",,7:00p,106,Oklahoma City Thunder,,77,Cleveland Cavaliers,N
+352,"18,278",Box Score,"Sun, Dec 12, 2010",,9:30p,85,Los Angeles Clippers,,94,Orlando Magic,N
+353,"19,600",Box Score,"Mon, Dec 13, 2010",,7:30p,96,Miami Heat,,84,New Orleans Hornets,N
+354,"21,287",Box Score,"Mon, Dec 13, 2010",,8:00p,92,Chicago Bulls,,73,Indiana Pacers,N
+355,"10,467",Box Score,"Mon, Dec 13, 2010",,8:00p,86,Memphis Grizzlies,,73,Portland Trail Blazers,N
+356,"19,720",Box Score,"Mon, Dec 13, 2010",,8:30p,99,Dallas Mavericks,,103,Milwaukee Bucks,N
+357,"19,176",Box Score,"Mon, Dec 13, 2010",,9:00p,108,Utah Jazz,,95,Golden State Warriors,N
+358,"12,482",Box Score,"Tue, Dec 14, 2010",,7:00p,97,Charlotte Bobcats,,91,Toronto Raptors,N
+359,"10,151",Box Score,"Tue, Dec 14, 2010",,7:00p,77,New Jersey Nets,,82,Philadelphia 76ers,N
+360,"16,513",Box Score,"Tue, Dec 14, 2010",,7:00p,89,Washington Wizards,,103,Los Angeles Lakers,N
+361,"12,526",Box Score,"Tue, Dec 14, 2010",,7:30p,103,Detroit Pistons,,80,Atlanta Hawks,N
+362,"13,414",Box Score,"Tue, Dec 14, 2010",,8:30p,118,Houston Rockets,,105,Sacramento Kings,N
+363,"16,247",Box Score,"Tue, Dec 14, 2010",,9:00p,111,Denver Nuggets,,94,Orlando Magic,N
+364,"17,615",Box Score,"Tue, Dec 14, 2010",,10:30p,108,Golden State Warriors,,99,Minnesota Timberwolves,N
+365,"18,165",Box Score,"Wed, Dec 15, 2010",,7:00p,94,Indiana Pacers,,109,Los Angeles Lakers,N
+366,"19,763",Box Score,"Wed, Dec 15, 2010",,7:00p,116,New York Knicks,,118,Boston Celtics,N
+367,"11,775",Box Score,"Wed, Dec 15, 2010",,7:00p,105,Philadelphia 76ers,,91,Los Angeles Clippers,N
+368,"17,750",Box Score,"Wed, Dec 15, 2010",,7:00p,93,Toronto Raptors,,110,Chicago Bulls,N
+369,"19,899",Box Score,"Wed, Dec 15, 2010",,7:30p,101,Miami Heat,,95,Cleveland Cavaliers,N
+370,"12,219",Box Score,"Wed, Dec 15, 2010",,8:00p,113,Memphis Grizzlies,,80,Charlotte Bobcats,N
+371,"13,325",Box Score,"Wed, Dec 15, 2010",,8:00p,94,New Orleans Hornets,,91,Sacramento Kings,N
+372,"17,997",Box Score,"Wed, Dec 15, 2010",,8:00p,117,Oklahoma City Thunder,,105,Houston Rockets,N
+373,"17,644",Box Score,"Wed, Dec 15, 2010",,8:30p,92,San Antonio Spurs,,90,Milwaukee Bucks,N
+374,"16,977",Box Score,"Wed, Dec 15, 2010",,9:00p,128,Phoenix Suns,,122,Minnesota Timberwolves,N
+375,"19,531",Box Score,"Wed, Dec 15, 2010",,9:30p,103,Dallas Mavericks,,98,Portland Trail Blazers,N
+376,"10,764",Box Score,"Thu, Dec 16, 2010",,7:00p,97,New Jersey Nets,,89,Washington Wizards,N
+377,"18,624",Box Score,"Thu, Dec 16, 2010",,8:00p,102,Boston Celtics,,90,Atlanta Hawks,N
+378,"16,190",Box Score,"Thu, Dec 16, 2010",,10:30p,112,Denver Nuggets,,113,San Antonio Spurs,N
+379,"12,021",Box Score,"Fri, Dec 17, 2010",,7:00p,108,Indiana Pacers,,99,Cleveland Cavaliers,N
+380,"19,763",Box Score,"Fri, Dec 17, 2010",,7:00p,91,New York Knicks,,113,Miami Heat,N
+381,"20,366",Box Score,"Fri, Dec 17, 2010",,7:00p,81,Philadelphia 76ers,,93,Los Angeles Lakers,N
+382,"14,623",Box Score,"Fri, Dec 17, 2010",,7:00p,98,Toronto Raptors,,92,New Jersey Nets,N
+383,"15,006",Box Score,"Fri, Dec 17, 2010",,7:30p,90,Atlanta Hawks,,85,Charlotte Bobcats,N
+384,"16,046",Box Score,"Fri, Dec 17, 2010",,7:30p,88,Detroit Pistons,,109,Los Angeles Clippers,N
+385,"14,414",Box Score,"Fri, Dec 17, 2010",,8:00p,100,New Orleans Hornets,,71,Utah Jazz,N
+386,"18,203",Box Score,"Fri, Dec 17, 2010",,8:00p,102,Oklahoma City Thunder,,87,Sacramento Kings,N
+387,"14,534",Box Score,"Fri, Dec 17, 2010",,8:30p,103,Houston Rockets,,87,Memphis Grizzlies,N
+388,"20,406",Box Score,"Fri, Dec 17, 2010",,9:30p,106,Dallas Mavericks,,91,Phoenix Suns,N
+389,"20,310",Box Score,"Fri, Dec 17, 2010",,10:00p,107,Portland Trail Blazers,,102,Minnesota Timberwolves,N
+390,"18,846",Box Score,"Sat, Dec 18, 2010",,7:00p,89,Orlando Magic,,97,Philadelphia 76ers,N
+391,"20,278",Box Score,"Sat, Dec 18, 2010",,7:00p,94,Washington Wizards,,95,Miami Heat,N
+392,"20,562",Box Score,"Sat, Dec 18, 2010",,7:30p,109,Cleveland Cavaliers,OT,102,New York Knicks,N
+393,"21,760",Box Score,"Sat, Dec 18, 2010",,8:00p,99,Chicago Bulls,,100,Los Angeles Clippers,N
+394,"16,004",Box Score,"Sat, Dec 18, 2010",,8:30p,86,Milwaukee Bucks,,95,Utah Jazz,N
+395,"18,581",Box Score,"Sat, Dec 18, 2010",,8:30p,112,San Antonio Spurs,OT,106,Memphis Grizzlies,N
+396,"15,409",Box Score,"Sat, Dec 18, 2010",,9:00p,115,Denver Nuggets,,113,Minnesota Timberwolves,N
+397,"20,398",Box Score,"Sat, Dec 18, 2010",,10:00p,96,Portland Trail Blazers,,95,Golden State Warriors,N
+398,"18,624",Box Score,"Sun, Dec 19, 2010",,1:00p,99,Boston Celtics,,88,Indiana Pacers,N
+399,"11,295",Box Score,"Sun, Dec 19, 2010",,1:00p,89,New Jersey Nets,,82,Atlanta Hawks,N
+400,"19,935",Box Score,"Sun, Dec 19, 2010",,1:00p,110,Toronto Raptors,,120,Los Angeles Lakers,N
+401,"16,452",Box Score,"Sun, Dec 19, 2010",,6:00p,111,Detroit Pistons,OT,108,New Orleans Hornets,N
+402,"13,599",Box Score,"Sun, Dec 19, 2010",,6:00p,93,Sacramento Kings,,102,Houston Rockets,N
+403,"18,203",Box Score,"Sun, Dec 19, 2010",,7:00p,110,Oklahoma City Thunder,,113,Phoenix Suns,N
+404,"16,275",Box Score,"Mon, Dec 20, 2010",,7:00p,91,Atlanta Hawks,,81,Orlando Magic,N
+405,"20,562",Box Score,"Mon, Dec 20, 2010",,7:00p,90,Cleveland Cavaliers,,101,Utah Jazz,N
+406,"12,271",Box Score,"Mon, Dec 20, 2010",,7:00p,94,Indiana Pacers,,93,New Orleans Hornets,N
+407,"13,825",Box Score,"Mon, Dec 20, 2010",,7:00p,108,Washington Wizards,,75,Charlotte Bobcats,N
+408,"20,178",Box Score,"Mon, Dec 20, 2010",,7:30p,96,Miami Heat,,98,Dallas Mavericks,N
+409,"18,581",Box Score,"Mon, Dec 20, 2010",,8:30p,118,San Antonio Spurs,,110,Phoenix Suns,N
+410,"20,406",Box Score,"Mon, Dec 20, 2010",,10:00p,106,Portland Trail Blazers,,80,Milwaukee Bucks,N
+411,"19,256",Box Score,"Mon, Dec 20, 2010",,10:30p,112,Golden State Warriors,,121,Houston Rockets,N
+412,"16,053",Box Score,"Mon, Dec 20, 2010",,10:30p,113,Los Angeles Clippers,,90,Minnesota Timberwolves,N
+413,"16,876",Box Score,"Tue, Dec 21, 2010",,7:00p,81,Charlotte Bobcats,,99,Oklahoma City Thunder,N
+414,"19,057",Box Score,"Tue, Dec 21, 2010",,7:00p,99,Orlando Magic,,105,Dallas Mavericks,N
+415,"21,521",Box Score,"Tue, Dec 21, 2010",,8:00p,121,Chicago Bulls,,76,Philadelphia 76ers,N
+416,"14,113",Box Score,"Tue, Dec 21, 2010",,8:00p,94,Memphis Grizzlies,,101,New Jersey Nets,N
+417,"13,740",Box Score,"Tue, Dec 21, 2010",,10:00p,109,Sacramento Kings,OT,117,Golden State Warriors,N
+418,"18,997",Box Score,"Tue, Dec 21, 2010",,10:30p,79,Los Angeles Lakers,,98,Milwaukee Bucks,N
+419,"12,610",Box Score,"Wed, Dec 22, 2010",,7:00p,98,Atlanta Hawks,,84,Cleveland Cavaliers,N
+420,"15,303",Box Score,"Wed, Dec 22, 2010",,7:00p,93,Toronto Raptors,,115,Detroit Pistons,N
+421,"18,011",Box Score,"Wed, Dec 22, 2010",,7:00p,80,Washington Wizards,,87,Chicago Bulls,N
+422,"18,624",Box Score,"Wed, Dec 22, 2010",,7:30p,84,Boston Celtics,,80,Philadelphia 76ers,N
+423,"19,763",Box Score,"Wed, Dec 22, 2010",,7:30p,112,New York Knicks,,98,Oklahoma City Thunder,N
+424,"15,809",Box Score,"Wed, Dec 22, 2010",,8:00p,107,Minnesota Timberwolves,,112,Utah Jazz,N
+425,"15,423",Box Score,"Wed, Dec 22, 2010",,8:00p,105,New Orleans Hornets,,91,New Jersey Nets,N
+426,"18,581",Box Score,"Wed, Dec 22, 2010",,8:30p,109,San Antonio Spurs,,103,Denver Nuggets,N
+427,"17,470",Box Score,"Wed, Dec 22, 2010",,10:30p,92,Los Angeles Clippers,,97,Houston Rockets,N
+428,"18,916",Box Score,"Thu, Dec 23, 2010",,8:00p,123,Orlando Magic,,101,San Antonio Spurs,N
+429,"12,360",Box Score,"Thu, Dec 23, 2010",,10:00p,79,Sacramento Kings,,84,Milwaukee Bucks,N
+430,"18,422",Box Score,"Thu, Dec 23, 2010",,10:30p,83,Phoenix Suns,,95,Miami Heat,N
+431,"19,763",Box Score,"Sat, Dec 25, 2010",,12:00p,103,New York Knicks,,95,Chicago Bulls,N
+432,"19,013",Box Score,"Sat, Dec 25, 2010",,2:30p,86,Orlando Magic,,78,Boston Celtics,N
+433,"18,997",Box Score,"Sat, Dec 25, 2010",,5:00p,80,Los Angeles Lakers,,96,Miami Heat,N
+434,"18,203",Box Score,"Sat, Dec 25, 2010",,8:00p,114,Oklahoma City Thunder,,106,Denver Nuggets,N
+435,"19,596",Box Score,"Sat, Dec 25, 2010",,10:30p,109,Golden State Warriors,,102,Portland Trail Blazers,N
+436,"19,060",Box Score,"Sun, Dec 26, 2010",,3:00p,108,Los Angeles Clippers,,103,Phoenix Suns,N
+437,"20,562",Box Score,"Sun, Dec 26, 2010",,6:00p,97,Cleveland Cavaliers,,98,Minnesota Timberwolves,N
+438,"20,765",Box Score,"Sun, Dec 26, 2010",,6:00p,92,Detroit Pistons,OT,95,Chicago Bulls,N
+439,"12,630",Box Score,"Sun, Dec 26, 2010",,7:00p,90,Indiana Pacers,,104,Memphis Grizzlies,N
+440,"15,626",Box Score,"Sun, Dec 26, 2010",,7:00p,93,New Orleans Hornets,,86,Atlanta Hawks,N
+441,"18,581",Box Score,"Sun, Dec 26, 2010",,7:00p,94,San Antonio Spurs,,80,Washington Wizards,N
+442,"19,155",Box Score,"Sun, Dec 26, 2010",,8:00p,89,Denver Nuggets,,95,Philadelphia 76ers,N
+443,"14,418",Box Score,"Mon, Dec 27, 2010",,7:00p,105,Charlotte Bobcats,,100,Detroit Pistons,N
+444,"11,514",Box Score,"Mon, Dec 27, 2010",,7:00p,88,New Jersey Nets,,104,Orlando Magic,N
+445,"14,971",Box Score,"Mon, Dec 27, 2010",,8:00p,96,Memphis Grizzlies,,85,Toronto Raptors,N
+446,"16,751",Box Score,"Mon, Dec 27, 2010",,8:00p,80,Milwaukee Bucks,,95,Atlanta Hawks,N
+447,"11,679",Box Score,"Mon, Dec 27, 2010",,8:00p,113,Minnesota Timberwolves,,98,New Orleans Hornets,N
+448,"18,203",Box Score,"Mon, Dec 27, 2010",,8:00p,93,Oklahoma City Thunder,,103,Dallas Mavericks,N
+449,"18,143",Box Score,"Mon, Dec 27, 2010",,8:30p,100,Houston Rockets,,93,Washington Wizards,N
+450,"19,911",Box Score,"Mon, Dec 27, 2010",,9:00p,91,Utah Jazz,,96,Portland Trail Blazers,N
+451,"14,590",Box Score,"Mon, Dec 27, 2010",,10:00p,99,Sacramento Kings,,100,Los Angeles Clippers,N
+452,"19,208",Box Score,"Mon, Dec 27, 2010",,10:30p,110,Golden State Warriors,,95,Philadelphia 76ers,N
+453,"20,562",Box Score,"Tue, Dec 28, 2010",,7:00p,95,Cleveland Cavaliers,,110,Orlando Magic,N
+454,"18,165",Box Score,"Tue, Dec 28, 2010",,7:00p,83,Indiana Pacers,,95,Boston Celtics,N
+455,"20,288",Box Score,"Tue, Dec 28, 2010",,7:30p,106,Miami Heat,,98,New York Knicks,N
+456,"22,091",Box Score,"Tue, Dec 28, 2010",,8:00p,90,Chicago Bulls,,77,Milwaukee Bucks,N
+457,"20,027",Box Score,"Tue, Dec 28, 2010",,8:30p,76,Dallas Mavericks,,84,Toronto Raptors,N
+458,"18,581",Box Score,"Tue, Dec 28, 2010",,8:30p,97,San Antonio Spurs,,82,Los Angeles Lakers,N
+459,"17,388",Box Score,"Tue, Dec 28, 2010",,9:00p,95,Denver Nuggets,,77,Portland Trail Blazers,N
+460,"15,925",Box Score,"Wed, Dec 29, 2010",,7:00p,103,Atlanta Hawks,,93,Golden State Warriors,N
+461,"15,287",Box Score,"Wed, Dec 29, 2010",,7:00p,101,Charlotte Bobcats,,92,Cleveland Cavaliers,N
+462,"16,108",Box Score,"Wed, Dec 29, 2010",,7:00p,104,Washington Wizards,,90,Indiana Pacers,N
+463,"22,076",Box Score,"Wed, Dec 29, 2010",,7:30p,104,Detroit Pistons,,92,Boston Celtics,N
+464,"17,093",Box Score,"Wed, Dec 29, 2010",,8:00p,113,Minnesota Timberwolves,,119,Denver Nuggets,N
+465,"18,018",Box Score,"Wed, Dec 29, 2010",,8:00p,88,New Orleans Hornets,,103,Los Angeles Lakers,N
+466,"18,203",Box Score,"Wed, Dec 29, 2010",,8:00p,114,Oklahoma City Thunder,,93,New Jersey Nets,N
+467,"18,409",Box Score,"Wed, Dec 29, 2010",,8:30p,119,Houston Rockets,,125,Miami Heat,N
+468,"18,422",Box Score,"Wed, Dec 29, 2010",,9:00p,110,Phoenix Suns,,123,Philadelphia 76ers,N
+469,"12,636",Box Score,"Wed, Dec 29, 2010",,10:00p,100,Sacramento Kings,,98,Memphis Grizzlies,N
+470,"19,060",Box Score,"Wed, Dec 29, 2010",,10:30p,95,Los Angeles Clippers,,103,Utah Jazz,N
+471,"19,090",Box Score,"Thu, Dec 30, 2010",,7:00p,112,Orlando Magic,,103,New York Knicks,N
+472,"20,604",Box Score,"Thu, Dec 30, 2010",,9:30p,93,Dallas Mavericks,,99,San Antonio Spurs,N
+473,"20,652",Box Score,"Thu, Dec 30, 2010",,10:00p,100,Portland Trail Blazers,,89,Utah Jazz,N
+474,"18,624",Box Score,"Fri, Dec 31, 2010",,3:00p,81,Boston Celtics,,83,New Orleans Hornets,N
+475,"16,249",Box Score,"Fri, Dec 31, 2010",,3:00p,95,Charlotte Bobcats,,96,Golden State Warriors,N
+476,"21,792",Box Score,"Fri, Dec 31, 2010",,3:00p,90,Chicago Bulls,,81,New Jersey Nets,N
+477,"13,043",Box Score,"Fri, Dec 31, 2010",,3:00p,95,Indiana Pacers,,86,Washington Wizards,N
+478,"18,121",Box Score,"Fri, Dec 31, 2010",,7:00p,114,Houston Rockets,,105,Toronto Raptors,N
+479,"18,203",Box Score,"Fri, Dec 31, 2010",,8:00p,103,Oklahoma City Thunder,,94,Atlanta Hawks,N
+480,"17,637",Box Score,"Fri, Dec 31, 2010",,9:00p,92,Phoenix Suns,,75,Detroit Pistons,N
+481,"18,997",Box Score,"Fri, Dec 31, 2010",,10:30p,102,Los Angeles Lakers,,98,Philadelphia 76ers,N
+482,"21,416",Box Score,"Sat, Jan 1, 2011",,7:00p,100,Chicago Bulls,,91,Cleveland Cavaliers,N
+483,"16,026",Box Score,"Sat, Jan 1, 2011",,7:00p,81,Washington Wizards,,92,New Orleans Hornets,N
+484,"20,254",Box Score,"Sat, Jan 1, 2011",,7:30p,114,Miami Heat,,107,Golden State Warriors,N
+485,"12,665",Box Score,"Sat, Jan 1, 2011",,8:00p,103,Minnesota Timberwolves,,88,New Jersey Nets,N
+486,"18,581",Box Score,"Sat, Jan 1, 2011",,8:30p,101,San Antonio Spurs,,74,Oklahoma City Thunder,N
+487,"17,466",Box Score,"Sat, Jan 1, 2011",,9:00p,104,Denver Nuggets,,86,Sacramento Kings,N
+488,"13,194",Box Score,"Sat, Jan 1, 2011",,9:00p,99,Milwaukee Bucks,,87,Dallas Mavericks,N
+489,"19,732",Box Score,"Sat, Jan 1, 2011",,9:00p,98,Utah Jazz,,92,Memphis Grizzlies,N
+490,"19,763",Box Score,"Sun, Jan 2, 2011",,1:00p,98,New York Knicks,,92,Indiana Pacers,N
+491,"16,750",Box Score,"Sun, Jan 2, 2011",,3:30p,98,Los Angeles Clippers,,107,Atlanta Hawks,N
+492,"19,986",Box Score,"Sun, Jan 2, 2011",,6:00p,79,Toronto Raptors,,93,Boston Celtics,N
+493,"20,562",Box Score,"Sun, Jan 2, 2011",,7:00p,95,Cleveland Cavaliers,,104,Dallas Mavericks,N
+494,"20,416",Box Score,"Sun, Jan 2, 2011",,9:00p,100,Portland Trail Blazers,,85,Houston Rockets,N
+495,"12,500",Box Score,"Sun, Jan 2, 2011",,9:00p,94,Sacramento Kings,,89,Phoenix Suns,N
+496,"18,997",Box Score,"Sun, Jan 2, 2011",,9:30p,85,Los Angeles Lakers,,104,Memphis Grizzlies,N
+497,"19,233",Box Score,"Mon, Jan 3, 2011",,7:00p,82,Charlotte Bobcats,,96,Miami Heat,N
+498,"18,846",Box Score,"Mon, Jan 3, 2011",,7:00p,110,Orlando Magic,,90,Golden State Warriors,N
+499,"18,624",Box Score,"Mon, Jan 3, 2011",,7:30p,96,Boston Celtics,,93,Minnesota Timberwolves,N
+500,"13,433",Box Score,"Mon, Jan 3, 2011",,8:00p,84,New Orleans Hornets,,77,Philadelphia 76ers,N
+501,"17,136",Box Score,"Mon, Jan 3, 2011",,9:00p,113,Denver Nuggets,,106,Houston Rockets,N
+502,"19,911",Box Score,"Mon, Jan 3, 2011",,9:00p,102,Utah Jazz,,97,Detroit Pistons,N
+503,"20,215",Box Score,"Tue, Jan 4, 2011",,7:30p,101,Miami Heat,,89,Milwaukee Bucks,N
+504,"19,763",Box Score,"Tue, Jan 4, 2011",,7:30p,128,New York Knicks,,115,San Antonio Spurs,N
+505,"21,290",Box Score,"Tue, Jan 4, 2011",,8:00p,111,Chicago Bulls,,91,Toronto Raptors,N
+506,"12,765",Box Score,"Tue, Jan 4, 2011",,8:00p,110,Memphis Grizzlies,,105,Oklahoma City Thunder,N
+507,"19,514",Box Score,"Tue, Jan 4, 2011",,8:30p,84,Dallas Mavericks,,81,Portland Trail Blazers,N
+508,"11,472",Box Score,"Tue, Jan 4, 2011",,10:00p,102,Sacramento Kings,,108,Atlanta Hawks,N
+509,"18,997",Box Score,"Tue, Jan 4, 2011",,10:30p,108,Los Angeles Lakers,,83,Detroit Pistons,N
+510,"20,562",Box Score,"Wed, Jan 5, 2011",,7:00p,105,Cleveland Cavaliers,,120,Toronto Raptors,N
+511,"15,025",Box Score,"Wed, Jan 5, 2011",,7:00p,96,New Jersey Nets,,94,Chicago Bulls,N
+512,"18,846",Box Score,"Wed, Jan 5, 2011",,7:00p,97,Orlando Magic,,87,Milwaukee Bucks,N
+513,"12,434",Box Score,"Wed, Jan 5, 2011",,7:00p,109,Philadelphia 76ers,,97,Washington Wizards,N
+514,"18,624",Box Score,"Wed, Jan 5, 2011",,7:30p,105,Boston Celtics,,103,San Antonio Spurs,N
+515,"14,881",Box Score,"Wed, Jan 5, 2011",,8:00p,105,Minnesota Timberwolves,OT,108,Charlotte Bobcats,N
+516,"13,532",Box Score,"Wed, Jan 5, 2011",,8:00p,103,New Orleans Hornets,,110,Golden State Warriors,N
+517,"14,125",Box Score,"Wed, Jan 5, 2011",,8:30p,100,Houston Rockets,,103,Portland Trail Blazers,N
+518,"19,911",Box Score,"Wed, Jan 5, 2011",,9:00p,87,Utah Jazz,,110,Atlanta Hawks,N
+519,"17,540",Box Score,"Wed, Jan 5, 2011",,10:30p,106,Los Angeles Clippers,,93,Denver Nuggets,N
+520,"18,105",Box Score,"Wed, Jan 5, 2011",,10:30p,95,Phoenix Suns,,99,Los Angeles Lakers,N
+521,"20,282",Box Score,"Thu, Jan 6, 2011",,8:00p,95,Dallas Mavericks,,99,Oklahoma City Thunder,N
+522,"13,184",Box Score,"Thu, Jan 6, 2011",,10:30p,122,Sacramento Kings,,102,Denver Nuggets,N
+523,"14,157",Box Score,"Fri, Jan 7, 2011",,7:00p,87,Indiana Pacers,,90,San Antonio Spurs,N
+524,"15,303",Box Score,"Fri, Jan 7, 2011",,7:00p,105,Philadelphia 76ers,,99,Chicago Bulls,N
+525,"16,017",Box Score,"Fri, Jan 7, 2011",,7:00p,97,Washington Wizards,,77,New Jersey Nets,N
+526,"18,624",Box Score,"Fri, Jan 7, 2011",,7:30p,122,Boston Celtics,,102,Toronto Raptors,N
+527,"14,781",Box Score,"Fri, Jan 7, 2011",,8:00p,110,Memphis Grizzlies,,99,Utah Jazz,N
+528,"12,213",Box Score,"Fri, Jan 7, 2011",,8:00p,98,Minnesota Timberwolves,,108,Portland Trail Blazers,N
+529,"19,107",Box Score,"Fri, Jan 7, 2011",,8:00p,110,Orlando Magic,,95,Houston Rockets,N
+530,"18,717",Box Score,"Fri, Jan 7, 2011",,8:30p,95,Milwaukee Bucks,OT,101,Miami Heat,N
+531,"18,858",Box Score,"Fri, Jan 7, 2011",,10:30p,116,Golden State Warriors,,98,Cleveland Cavaliers,N
+532,"18,997",Box Score,"Fri, Jan 7, 2011",,10:30p,101,Los Angeles Lakers,,97,New Orleans Hornets,N
+533,"17,621",Box Score,"Fri, Jan 7, 2011",,10:30p,96,Phoenix Suns,,121,New York Knicks,N
+534,"13,547",Box Score,"Sat, Jan 8, 2011",,7:00p,108,Atlanta Hawks,,93,Indiana Pacers,N
+535,"16,038",Box Score,"Sat, Jan 8, 2011",,7:00p,104,Charlotte Bobcats,,89,Washington Wizards,N
+536,"12,898",Box Score,"Sat, Jan 8, 2011",,7:00p,92,New Jersey Nets,,115,Milwaukee Bucks,N
+537,"20,038",Box Score,"Sat, Jan 8, 2011",,7:30p,112,Detroit Pistons,OT,109,Philadelphia 76ers,N
+538,"22,663",Box Score,"Sat, Jan 8, 2011",,8:00p,90,Chicago Bulls,,79,Boston Celtics,N
+539,"18,203",Box Score,"Sat, Jan 8, 2011",,8:00p,109,Oklahoma City Thunder,,100,Memphis Grizzlies,N
+540,"20,178",Box Score,"Sat, Jan 8, 2011",,8:30p,107,Dallas Mavericks,,117,Orlando Magic,N
+541,"16,113",Box Score,"Sat, Jan 8, 2011",,8:30p,99,Houston Rockets,OT,103,Utah Jazz,N
+542,"17,206",Box Score,"Sun, Jan 9, 2011",,1:00p,118,Toronto Raptors,,112,Sacramento Kings,N
+543,"17,696",Box Score,"Sun, Jan 9, 2011",,3:30p,105,Los Angeles Clippers,,91,Golden State Warriors,N
+544,"18,581",Box Score,"Sun, Jan 9, 2011",,7:00p,94,San Antonio Spurs,,91,Minnesota Timberwolves,N
+545,"17,031",Box Score,"Sun, Jan 9, 2011",,8:00p,108,Phoenix Suns,,100,Cleveland Cavaliers,N
+546,"16,283",Box Score,"Sun, Jan 9, 2011",,9:00p,87,Denver Nuggets,,96,New Orleans Hornets,N
+547,"20,636",Box Score,"Sun, Jan 9, 2011",,9:00p,100,Portland Trail Blazers,OT,107,Miami Heat,N
+548,"18,997",Box Score,"Sun, Jan 9, 2011",,9:30p,109,Los Angeles Lakers,,87,New York Knicks,N
+549,"10,188",Box Score,"Mon, Jan 10, 2011",,7:00p,96,Charlotte Bobcats,,82,Memphis Grizzlies,N
+550,"18,624",Box Score,"Mon, Jan 10, 2011",,7:30p,102,Boston Celtics,,108,Houston Rockets,N
+551,"21,407",Box Score,"Mon, Jan 10, 2011",,8:00p,95,Chicago Bulls,,82,Detroit Pistons,N
+552,"10,890",Box Score,"Tue, Jan 11, 2011",,7:00p,103,Philadelphia 76ers,,111,Indiana Pacers,N
+553,"16,226",Box Score,"Tue, Jan 11, 2011",,7:00p,136,Washington Wizards,OT,133,Sacramento Kings,N
+554,"11,209",Box Score,"Tue, Jan 11, 2011",,8:00p,96,Minnesota Timberwolves,,107,San Antonio Spurs,N
+555,"14,874",Box Score,"Tue, Jan 11, 2011",,9:00p,132,Denver Nuggets,,98,Phoenix Suns,N
+556,"20,604",Box Score,"Tue, Jan 11, 2011",,10:00p,86,Portland Trail Blazers,,100,New York Knicks,N
+557,"18,997",Box Score,"Tue, Jan 11, 2011",,10:30p,112,Los Angeles Lakers,,57,Cleveland Cavaliers,N
+558,"12,468",Box Score,"Wed, Jan 12, 2011",,7:00p,96,Charlotte Bobcats,,91,Chicago Bulls,N
+559,"11,204",Box Score,"Wed, Jan 12, 2011",,7:00p,102,Indiana Pacers,,89,Dallas Mavericks,N
+560,"14,186",Box Score,"Wed, Jan 12, 2011",,7:00p,101,Toronto Raptors,,104,Atlanta Hawks,N
+561,"18,624",Box Score,"Wed, Jan 12, 2011",,7:30p,119,Boston Celtics,,95,Sacramento Kings,N
+562,"13,068",Box Score,"Wed, Jan 12, 2011",,7:30p,99,Detroit Pistons,,107,Memphis Grizzlies,N
+563,"14,061",Box Score,"Wed, Jan 12, 2011",,8:00p,84,Milwaukee Bucks,,91,San Antonio Spurs,N
+564,"13,688",Box Score,"Wed, Jan 12, 2011",,8:00p,92,New Orleans Hornets,OT,89,Orlando Magic,N
+565,"16,158",Box Score,"Wed, Jan 12, 2011",,8:30p,112,Houston Rockets,,118,Oklahoma City Thunder,N
+566,"16,334",Box Score,"Wed, Jan 12, 2011",,9:00p,118,Phoenix Suns,OT,109,New Jersey Nets,N
+567,"19,911",Box Score,"Wed, Jan 12, 2011",,9:00p,131,Utah Jazz,,125,New York Knicks,N
+568,"19,596",Box Score,"Wed, Jan 12, 2011",,10:30p,110,Golden State Warriors,,115,Los Angeles Lakers,N
+569,"19,803",Box Score,"Wed, Jan 12, 2011",,10:30p,111,Los Angeles Clippers,,105,Miami Heat,N
+570,"11,437",Box Score,"Thu, Jan 13, 2011",,8:00p,109,Minnesota Timberwolves,,97,Washington Wizards,N
+571,"18,203",Box Score,"Thu, Jan 13, 2011",,8:00p,125,Oklahoma City Thunder,,124,Orlando Magic,N
+572,"19,155",Box Score,"Thu, Jan 13, 2011",,10:30p,130,Denver Nuggets,,102,Miami Heat,N
+573,"18,165",Box Score,"Fri, Jan 14, 2011",,7:00p,86,Indiana Pacers,,99,Chicago Bulls,N
+574,"12,650",Box Score,"Fri, Jan 14, 2011",,7:00p,95,Philadelphia 76ers,,94,Milwaukee Bucks,N
+575,"16,924",Box Score,"Fri, Jan 14, 2011",,7:00p,95,Toronto Raptors,,101,Detroit Pistons,N
+576,"18,624",Box Score,"Fri, Jan 14, 2011",,7:30p,99,Boston Celtics,,94,Charlotte Bobcats,N
+577,"19,763",Box Score,"Fri, Jan 14, 2011",,7:30p,83,New York Knicks,,93,Sacramento Kings,N
+578,"18,581",Box Score,"Fri, Jan 14, 2011",,8:00p,101,San Antonio Spurs,,89,Dallas Mavericks,N
+579,"13,616",Box Score,"Fri, Jan 14, 2011",,8:30p,105,Houston Rockets,OT,110,New Orleans Hornets,N
+580,"19,911",Box Score,"Fri, Jan 14, 2011",,9:00p,121,Utah Jazz,,99,Cleveland Cavaliers,N
+581,"19,273",Box Score,"Fri, Jan 14, 2011",,10:30p,122,Golden State Warriors,,112,Los Angeles Clippers,N
+582,"18,997",Box Score,"Fri, Jan 14, 2011",,10:30p,100,Los Angeles Lakers,,88,New Jersey Nets,N
+583,"17,412",Box Score,"Fri, Jan 14, 2011",,10:30p,115,Phoenix Suns,,111,Portland Trail Blazers,N
+584,"13,420",Box Score,"Sat, Jan 15, 2011",,7:00p,106,Atlanta Hawks,,112,Houston Rockets,N
+585,"17,486",Box Score,"Sat, Jan 15, 2011",,7:00p,81,Charlotte Bobcats,,88,New Orleans Hornets,N
+586,"14,652",Box Score,"Sat, Jan 15, 2011",,7:00p,98,Washington Wizards,,95,Toronto Raptors,N
+587,"18,784",Box Score,"Sat, Jan 15, 2011",,7:30p,110,Detroit Pistons,,106,Sacramento Kings,N
+588,"23,017",Box Score,"Sat, Jan 15, 2011",,8:00p,99,Chicago Bulls,,96,Miami Heat,N
+589,"15,812",Box Score,"Sat, Jan 15, 2011",,8:00p,89,Memphis Grizzlies,,70,Dallas Mavericks,N
+590,"17,391",Box Score,"Sat, Jan 15, 2011",,8:00p,99,Minnesota Timberwolves,,108,Orlando Magic,N
+591,"17,668",Box Score,"Sat, Jan 15, 2011",,9:00p,127,Denver Nuggets,,99,Cleveland Cavaliers,N
+592,"20,441",Box Score,"Sat, Jan 15, 2011",,10:00p,96,Portland Trail Blazers,,89,New Jersey Nets,N
+593,"19,905",Box Score,"Sun, Jan 16, 2011",,3:30p,99,Los Angeles Clippers,,92,Los Angeles Lakers,N
+594,"18,581",Box Score,"Sun, Jan 16, 2011",,9:00p,110,San Antonio Spurs,,97,Denver Nuggets,N
+595,"18,119",Box Score,"Mon, Jan 17, 2011",,1:00p,84,Memphis Grizzlies,,96,Chicago Bulls,N
+596,"19,763",Box Score,"Mon, Jan 17, 2011",,1:00p,121,New York Knicks,,129,Phoenix Suns,N
+597,"14,925",Box Score,"Mon, Jan 17, 2011",,1:00p,108,Washington Wizards,,101,Utah Jazz,N
+598,"13,508",Box Score,"Mon, Jan 17, 2011",,2:00p,96,Philadelphia 76ers,OT,92,Charlotte Bobcats,N
+599,"16,186",Box Score,"Mon, Jan 17, 2011",,3:00p,93,Houston Rockets,,84,Milwaukee Bucks,N
+600,"15,155",Box Score,"Mon, Jan 17, 2011",,3:00p,85,New Orleans Hornets,,81,Toronto Raptors,N
+601,"12,660",Box Score,"Mon, Jan 17, 2011",,3:30p,103,Detroit Pistons,,89,Dallas Mavericks,N
+602,"15,863",Box Score,"Mon, Jan 17, 2011",,3:30p,114,Los Angeles Clippers,,107,Indiana Pacers,N
+603,"14,820",Box Score,"Mon, Jan 17, 2011",,4:00p,100,Atlanta Hawks,,98,Sacramento Kings,N
+604,"18,563",Box Score,"Mon, Jan 17, 2011",,4:00p,109,Golden State Warriors,,100,New Jersey Nets,N
+605,"18,624",Box Score,"Mon, Jan 17, 2011",,8:00p,109,Boston Celtics,,106,Orlando Magic,N
+606,"20,239",Box Score,"Mon, Jan 17, 2011",,10:00p,113,Portland Trail Blazers,,102,Minnesota Timberwolves,N
+607,"18,997",Box Score,"Mon, Jan 17, 2011",,10:30p,101,Los Angeles Lakers,,94,Oklahoma City Thunder,N
+608,"19,600",Box Score,"Tue, Jan 18, 2011",,7:30p,89,Miami Heat,OT,93,Atlanta Hawks,N
+609,"21,263",Box Score,"Tue, Jan 18, 2011",,8:00p,82,Chicago Bulls,,83,Charlotte Bobcats,N
+610,"20,562",Box Score,"Wed, Jan 19, 2011",,7:00p,98,Cleveland Cavaliers,,106,Phoenix Suns,N
+611,"13,251",Box Score,"Wed, Jan 19, 2011",,7:00p,103,New Jersey Nets,,95,Utah Jazz,N
+612,"18,846",Box Score,"Wed, Jan 19, 2011",,7:00p,99,Orlando Magic,OT,98,Philadelphia 76ers,N
+613,"18,624",Box Score,"Wed, Jan 19, 2011",,7:30p,86,Boston Celtics,,82,Detroit Pistons,N
+614,"14,007",Box Score,"Wed, Jan 19, 2011",,8:00p,100,Milwaukee Bucks,,87,Washington Wizards,N
+615,"15,951",Box Score,"Wed, Jan 19, 2011",,8:00p,103,New Orleans Hornets,OT,102,Memphis Grizzlies,N
+616,"15,903",Box Score,"Wed, Jan 19, 2011",,8:30p,104,Houston Rockets,,89,New York Knicks,N
+617,"18,581",Box Score,"Wed, Jan 19, 2011",,8:30p,104,San Antonio Spurs,,95,Toronto Raptors,N
+618,"20,365",Box Score,"Wed, Jan 19, 2011",,9:00p,109,Dallas Mavericks,,100,Los Angeles Lakers,N
+619,"16,872",Box Score,"Wed, Jan 19, 2011",,9:00p,112,Denver Nuggets,,107,Oklahoma City Thunder,N
+620,"12,722",Box Score,"Wed, Jan 19, 2011",,10:00p,90,Sacramento Kings,OT,94,Portland Trail Blazers,N
+621,"18,185",Box Score,"Wed, Jan 19, 2011",,10:30p,110,Golden State Warriors,,108,Indiana Pacers,N
+622,"17,793",Box Score,"Wed, Jan 19, 2011",,10:30p,126,Los Angeles Clippers,,111,Minnesota Timberwolves,N
+623,"14,326",Box Score,"Thu, Jan 20, 2011",,7:00p,100,Charlotte Bobcats,,97,Philadelphia 76ers,N
+624,"21,397",Box Score,"Thu, Jan 20, 2011",,8:00p,82,Chicago Bulls,,77,Dallas Mavericks,N
+625,"20,630",Box Score,"Thu, Jan 20, 2011",,10:30p,108,Portland Trail Blazers,,93,Los Angeles Clippers,N
+626,"13,316",Box Score,"Fri, Jan 21, 2011",,7:00p,89,New Jersey Nets,,74,Detroit Pistons,N
+627,"19,047",Box Score,"Fri, Jan 21, 2011",,7:00p,112,Orlando Magic,,72,Toronto Raptors,N
+628,"15,716",Box Score,"Fri, Jan 21, 2011",,7:00p,91,Washington Wizards,,109,Phoenix Suns,N
+629,"14,875",Box Score,"Fri, Jan 21, 2011",,7:30p,59,Atlanta Hawks,,100,New Orleans Hornets,N
+630,"18,624",Box Score,"Fri, Jan 21, 2011",,7:30p,110,Boston Celtics,,86,Utah Jazz,N
+631,"20,562",Box Score,"Fri, Jan 21, 2011",,7:30p,88,Cleveland Cavaliers,,102,Milwaukee Bucks,N
+632,"13,458",Box Score,"Fri, Jan 21, 2011",,8:00p,115,Memphis Grizzlies,,110,Houston Rockets,N
+633,"18,581",Box Score,"Fri, Jan 21, 2011",,8:00p,101,San Antonio Spurs,,92,New York Knicks,N
+634,"19,155",Box Score,"Fri, Jan 21, 2011",,10:30p,97,Denver Nuggets,,107,Los Angeles Lakers,N
+635,"18,428",Box Score,"Fri, Jan 21, 2011",,10:30p,119,Golden State Warriors,OT,112,Sacramento Kings,N
+636,"17,286",Box Score,"Sat, Jan 22, 2011",,7:00p,87,Charlotte Bobcats,,103,Atlanta Hawks,N
+637,"14,051",Box Score,"Sat, Jan 22, 2011",,7:00p,86,New Jersey Nets,,87,Dallas Mavericks,N
+638,"20,278",Box Score,"Sat, Jan 22, 2011",,7:00p,85,Washington Wizards,,83,Boston Celtics,N
+639,"21,326",Box Score,"Sat, Jan 22, 2011",,7:30p,75,Detroit Pistons,,74,Phoenix Suns,N
+640,"20,025",Box Score,"Sat, Jan 22, 2011",,7:30p,120,Miami Heat,,103,Toronto Raptors,N
+641,"14,036",Box Score,"Sat, Jan 22, 2011",,7:30p,96,Philadelphia 76ers,,85,Utah Jazz,N
+642,"21,389",Box Score,"Sat, Jan 22, 2011",,8:00p,92,Chicago Bulls,,79,Cleveland Cavaliers,N
+643,"18,023",Box Score,"Sat, Jan 22, 2011",,8:00p,96,New Orleans Hornets,,72,San Antonio Spurs,N
+644,"18,203",Box Score,"Sat, Jan 22, 2011",,8:00p,101,Oklahoma City Thunder,,98,New York Knicks,N
+645,"18,052",Box Score,"Sat, Jan 22, 2011",,8:30p,104,Houston Rockets,,118,Orlando Magic,N
+646,"16,157",Box Score,"Sat, Jan 22, 2011",,8:30p,81,Milwaukee Bucks,,94,Memphis Grizzlies,N
+647,"20,563",Box Score,"Sat, Jan 22, 2011",,10:00p,97,Portland Trail Blazers,,92,Indiana Pacers,N
+648,"19,373",Box Score,"Sat, Jan 22, 2011",,10:30p,113,Los Angeles Clippers,,109,Golden State Warriors,N
+649,"17,047",Box Score,"Sun, Jan 23, 2011",,8:00p,121,Denver Nuggets,,107,Indiana Pacers,N
+650,"10,197",Box Score,"Mon, Jan 24, 2011",,7:00p,103,New Jersey Nets,,101,Cleveland Cavaliers,N
+651,"19,098",Box Score,"Mon, Jan 24, 2011",,7:00p,96,Orlando Magic,,103,Detroit Pistons,N
+652,"14,881",Box Score,"Mon, Jan 24, 2011",,7:00p,105,Philadelphia 76ers,,95,Phoenix Suns,N
+653,"14,127",Box Score,"Mon, Jan 24, 2011",,7:00p,98,Toronto Raptors,,100,Memphis Grizzlies,N
+654,"19,763",Box Score,"Mon, Jan 24, 2011",,7:30p,115,New York Knicks,,106,Washington Wizards,N
+655,"21,126",Box Score,"Mon, Jan 24, 2011",,8:00p,92,Chicago Bulls,,83,Milwaukee Bucks,N
+656,"11,983",Box Score,"Mon, Jan 24, 2011",,8:00p,125,Minnesota Timberwolves,,129,Houston Rockets,N
+657,"17,233",Box Score,"Mon, Jan 24, 2011",,8:00p,91,New Orleans Hornets,,89,Oklahoma City Thunder,N
+658,"20,488",Box Score,"Mon, Jan 24, 2011",,10:00p,81,Portland Trail Blazers,,96,Sacramento Kings,N
+659,"18,523",Box Score,"Mon, Jan 24, 2011",,10:30p,102,Golden State Warriors,,113,San Antonio Spurs,N
+660,"16,121",Box Score,"Tue, Jan 25, 2011",,7:00p,109,Washington Wizards,,120,Denver Nuggets,N
+661,"18,624",Box Score,"Tue, Jan 25, 2011",,7:30p,112,Boston Celtics,,95,Cleveland Cavaliers,N
+662,"20,335",Box Score,"Tue, Jan 25, 2011",,8:30p,112,Dallas Mavericks,,105,Los Angeles Clippers,N
+663,"13,984",Box Score,"Tue, Jan 25, 2011",,10:00p,89,Sacramento Kings,,94,Charlotte Bobcats,N
+664,"18,997",Box Score,"Tue, Jan 25, 2011",,10:30p,120,Los Angeles Lakers,,91,Utah Jazz,N
+665,"12,164",Box Score,"Wed, Jan 26, 2011",,7:00p,96,Indiana Pacers,,111,Orlando Magic,N
+666,"8,866",Box Score,"Wed, Jan 26, 2011",,7:00p,93,New Jersey Nets,,88,Memphis Grizzlies,N
+667,"14,552",Box Score,"Wed, Jan 26, 2011",,7:00p,94,Toronto Raptors,,107,Philadelphia 76ers,N
+668,"16,212",Box Score,"Wed, Jan 26, 2011",,7:30p,100,Detroit Pistons,,109,Denver Nuggets,N
+669,"13,274",Box Score,"Wed, Jan 26, 2011",,8:00p,98,Milwaukee Bucks,,90,Atlanta Hawks,N
+670,"14,979",Box Score,"Wed, Jan 26, 2011",,8:00p,117,Minnesota Timberwolves,OT,118,Oklahoma City Thunder,N
+671,"18,147",Box Score,"Wed, Jan 26, 2011",,8:30p,96,Houston Rockets,,83,Los Angeles Clippers,N
+672,"16,986",Box Score,"Wed, Jan 26, 2011",,9:00p,107,Phoenix Suns,,114,Charlotte Bobcats,N
+673,"19,911",Box Score,"Wed, Jan 26, 2011",,9:30p,105,Utah Jazz,,112,San Antonio Spurs,N
+674,"18,108",Box Score,"Wed, Jan 26, 2011",,10:30p,103,Golden State Warriors,,112,New Orleans Hornets,N
+675,"19,763",Box Score,"Thu, Jan 27, 2011",,8:00p,93,New York Knicks,,88,Miami Heat,N
+676,"20,088",Box Score,"Thu, Jan 27, 2011",,8:30p,111,Dallas Mavericks,,106,Houston Rockets,N
+677,"20,706",Box Score,"Thu, Jan 27, 2011",,10:30p,78,Portland Trail Blazers,,88,Boston Celtics,N
+678,"11,337",Box Score,"Fri, Jan 28, 2011",,7:00p,124,Indiana Pacers,,92,New Jersey Nets,N
+679,"14,289",Box Score,"Fri, Jan 28, 2011",,7:00p,94,Philadelphia 76ers,,99,Memphis Grizzlies,N
+680,"15,159",Box Score,"Fri, Jan 28, 2011",,7:00p,110,Toronto Raptors,OT,116,Milwaukee Bucks,N
+681,"19,069",Box Score,"Fri, Jan 28, 2011",,7:30p,111,Atlanta Hawks,,102,New York Knicks,N
+682,"19,642",Box Score,"Fri, Jan 28, 2011",,7:30p,103,Cleveland Cavaliers,,117,Denver Nuggets,N
+683,"19,805",Box Score,"Fri, Jan 28, 2011",,7:30p,88,Miami Heat,,87,Detroit Pistons,N
+684,"21,676",Box Score,"Fri, Jan 28, 2011",,8:00p,99,Chicago Bulls,,90,Orlando Magic,N
+685,"18,203",Box Score,"Fri, Jan 28, 2011",,8:00p,124,Oklahoma City Thunder,2OT,117,Washington Wizards,N
+686,"19,911",Box Score,"Fri, Jan 28, 2011",,9:00p,108,Utah Jazz,,100,Minnesota Timberwolves,N
+687,"18,407",Box Score,"Fri, Jan 28, 2011",,10:30p,113,Golden State Warriors,OT,121,Charlotte Bobcats,N
+688,"18,997",Box Score,"Fri, Jan 28, 2011",,10:30p,95,Los Angeles Lakers,,100,Sacramento Kings,N
+689,"18,422",Box Score,"Fri, Jan 28, 2011",,10:30p,88,Phoenix Suns,,71,Boston Celtics,N
+690,"21,611",Box Score,"Sat, Jan 29, 2011",,8:00p,110,Chicago Bulls,,89,Indiana Pacers,N
+691,"14,722",Box Score,"Sat, Jan 29, 2011",,8:00p,107,Memphis Grizzlies,,93,Washington Wizards,N
+692,"14,991",Box Score,"Sat, Jan 29, 2011",,8:00p,103,Minnesota Timberwolves,,87,Toronto Raptors,N
+693,"20,309",Box Score,"Sat, Jan 29, 2011",,8:30p,102,Dallas Mavericks,,91,Atlanta Hawks,N
+694,"17,173",Box Score,"Sat, Jan 29, 2011",,8:30p,91,Milwaukee Bucks,,81,New Jersey Nets,N
+695,"18,581",Box Score,"Sat, Jan 29, 2011",,8:30p,108,San Antonio Spurs,,95,Houston Rockets,N
+696,"14,534",Box Score,"Sat, Jan 29, 2011",,10:00p,102,Sacramento Kings,,96,New Orleans Hornets,N
+697,"18,332",Box Score,"Sat, Jan 29, 2011",,10:30p,103,Los Angeles Clippers,,88,Charlotte Bobcats,N
+698,"18,203",Box Score,"Sun, Jan 30, 2011",,1:00p,103,Oklahoma City Thunder,,108,Miami Heat,N
+699,"18,997",Box Score,"Sun, Jan 30, 2011",,3:30p,96,Los Angeles Lakers,,109,Boston Celtics,N
+700,"18,846",Box Score,"Sun, Jan 30, 2011",,6:00p,103,Orlando Magic,,87,Cleveland Cavaliers,N
+701,"15,612",Box Score,"Sun, Jan 30, 2011",,6:00p,110,Philadelphia 76ers,,99,Denver Nuggets,N
+702,"19,763",Box Score,"Sun, Jan 30, 2011",,7:30p,124,New York Knicks,,106,Detroit Pistons,N
+703,"17,921",Box Score,"Sun, Jan 30, 2011",,8:00p,104,Phoenix Suns,,102,New Orleans Hornets,N
+704,"18,187",Box Score,"Sun, Jan 30, 2011",,10:00p,96,Golden State Warriors,,81,Utah Jazz,N
+705,"10,258",Box Score,"Mon, Jan 31, 2011",,7:00p,104,Indiana Pacers,,93,Toronto Raptors,N
+706,"14,039",Box Score,"Mon, Jan 31, 2011",,7:00p,115,New Jersey Nets,,99,Denver Nuggets,N
+707,"19,600",Box Score,"Mon, Jan 31, 2011",,7:30p,117,Miami Heat,,90,Cleveland Cavaliers,N
+708,"13,513",Box Score,"Mon, Jan 31, 2011",,8:00p,100,Memphis Grizzlies,,97,Orlando Magic,N
+709,"19,724",Box Score,"Mon, Jan 31, 2011",,8:30p,102,Dallas Mavericks,,92,Washington Wizards,N
+710,"19,499",Box Score,"Mon, Jan 31, 2011",,9:00p,83,Utah Jazz,,78,Charlotte Bobcats,N
+711,"17,218",Box Score,"Mon, Jan 31, 2011",,10:30p,105,Los Angeles Clippers,,98,Milwaukee Bucks,N
+712,"13,921",Box Score,"Tue, Feb 1, 2011",,8:00p,97,New Orleans Hornets,,89,Washington Wizards,N
+713,"20,364",Box Score,"Tue, Feb 1, 2011",,10:00p,99,Portland Trail Blazers,,86,San Antonio Spurs,N
+714,"16,482",Box Score,"Tue, Feb 1, 2011",,10:00p,90,Sacramento Kings,,95,Boston Celtics,N
+715,"18,997",Box Score,"Tue, Feb 1, 2011",,10:30p,114,Los Angeles Lakers,OT,106,Houston Rockets,N
+716,"14,025",Box Score,"Wed, Feb 2, 2011",,7:00p,100,Atlanta Hawks,,87,Toronto Raptors,N
+717,"18,877",Box Score,"Wed, Feb 2, 2011",,7:00p,112,Cleveland Cavaliers,,117,Indiana Pacers,N
+718,"10,057",Box Score,"Wed, Feb 2, 2011",,7:00p,92,New Jersey Nets,,106,Philadelphia 76ers,N
+719,"14,376",Box Score,"Wed, Feb 2, 2011",,7:30p,87,Detroit Pistons,,97,Charlotte Bobcats,N
+720,"19,763",Box Score,"Wed, Feb 2, 2011",,7:30p,97,New York Knicks,,113,Dallas Mavericks,N
+721,"12,662",Box Score,"Wed, Feb 2, 2011",,8:00p,84,Minnesota Timberwolves,,102,Memphis Grizzlies,N
+722,"17,849",Box Score,"Wed, Feb 2, 2011",,8:00p,104,Oklahoma City Thunder,,93,New Orleans Hornets,N
+723,"15,258",Box Score,"Wed, Feb 2, 2011",,9:00p,109,Denver Nuggets,,90,Portland Trail Blazers,N
+724,"16,422",Box Score,"Wed, Feb 2, 2011",,9:00p,92,Phoenix Suns,,77,Milwaukee Bucks,N
+725,"19,619",Box Score,"Wed, Feb 2, 2011",,9:00p,96,Utah Jazz,,97,Houston Rockets,N
+726,"19,368",Box Score,"Wed, Feb 2, 2011",,10:30p,88,Los Angeles Clippers,,106,Chicago Bulls,N
+727,"18,945",Box Score,"Thu, Feb 3, 2011",,8:00p,100,Orlando Magic,,104,Miami Heat,N
+728,"18,008",Box Score,"Thu, Feb 3, 2011",,10:30p,100,Golden State Warriors,,94,Milwaukee Bucks,N
+729,"18,997",Box Score,"Thu, Feb 3, 2011",,10:30p,88,Los Angeles Lakers,,89,San Antonio Spurs,N
+730,"19,592",Box Score,"Fri, Feb 4, 2011",,7:00p,97,Charlotte Bobcats,,109,Miami Heat,N
+731,"11,778",Box Score,"Fri, Feb 4, 2011",,7:00p,100,Indiana Pacers,,87,Portland Trail Blazers,N
+732,"18,823",Box Score,"Fri, Feb 4, 2011",,7:00p,100,Philadelphia 76ers,,98,New York Knicks,N
+733,"14,389",Box Score,"Fri, Feb 4, 2011",,7:00p,111,Toronto Raptors,,100,Minnesota Timberwolves,N
+734,"18,940",Box Score,"Fri, Feb 4, 2011",,7:00p,92,Washington Wizards,,110,Orlando Magic,N
+735,"19,363",Box Score,"Fri, Feb 4, 2011",,7:30p,101,Atlanta Hawks,,100,Los Angeles Clippers,N
+736,"17,304",Box Score,"Fri, Feb 4, 2011",,7:30p,92,Detroit Pistons,,82,New Jersey Nets,N
+737,"18,624",Box Score,"Fri, Feb 4, 2011",,8:00p,97,Boston Celtics,,101,Dallas Mavericks,N
+738,"11,932",Box Score,"Fri, Feb 4, 2011",,8:00p,112,Memphis Grizzlies,,105,Cleveland Cavaliers,N
+739,"16,274",Box Score,"Fri, Feb 4, 2011",,9:00p,107,Phoenix Suns,,111,Oklahoma City Thunder,N
+740,"15,772",Box Score,"Fri, Feb 4, 2011",,10:00p,100,Sacramento Kings,,113,San Antonio Spurs,N
+741,"19,155",Box Score,"Fri, Feb 4, 2011",,10:30p,106,Denver Nuggets,,113,Utah Jazz,N
+742,"17,743",Box Score,"Sat, Feb 5, 2011",,7:00p,92,Charlotte Bobcats,,101,Dallas Mavericks,N
+743,"16,256",Box Score,"Sat, Feb 5, 2011",,7:00p,92,Washington Wizards,,99,Atlanta Hawks,N
+744,"19,975",Box Score,"Sat, Feb 5, 2011",,7:30p,105,Cleveland Cavaliers,,111,Portland Trail Blazers,N
+745,"18,426",Box Score,"Sat, Feb 5, 2011",,8:00p,95,New Orleans Hornets,,101,Los Angeles Lakers,N
+746,"18,195",Box Score,"Sat, Feb 5, 2011",,8:30p,95,Houston Rockets,OT,93,Memphis Grizzlies,N
+747,"15,791",Box Score,"Sat, Feb 5, 2011",,8:30p,78,Milwaukee Bucks,,89,Detroit Pistons,N
+748,"15,389",Box Score,"Sat, Feb 5, 2011",,8:30p,100,Minnesota Timberwolves,,113,Denver Nuggets,N
+749,"19,711",Box Score,"Sat, Feb 5, 2011",,9:00p,105,Utah Jazz,,121,Oklahoma City Thunder,N
+750,"19,596",Box Score,"Sat, Feb 5, 2011",,10:30p,101,Golden State Warriors,,90,Chicago Bulls,N
+751,"19,702",Box Score,"Sun, Feb 6, 2011",,12:00p,97,Miami Heat,,79,Los Angeles Clippers,N
+752,"13,167",Box Score,"Sun, Feb 6, 2011",,12:00p,86,New Jersey Nets,,105,Indiana Pacers,N
+753,"19,763",Box Score,"Sun, Feb 6, 2011",,12:00p,117,New York Knicks,,103,Philadelphia 76ers,N
+754,"18,624",Box Score,"Sun, Feb 6, 2011",,2:30p,91,Boston Celtics,,80,Orlando Magic,N
+755,"19,081",Box Score,"Mon, Feb 7, 2011",,7:00p,94,Charlotte Bobcats,,89,Boston Celtics,N
+756,"18,119",Box Score,"Mon, Feb 7, 2011",,8:00p,84,Memphis Grizzlies,,93,Los Angeles Lakers,N
+757,"13,401",Box Score,"Mon, Feb 7, 2011",,8:00p,92,New Orleans Hornets,,104,Minnesota Timberwolves,N
+758,"19,875",Box Score,"Mon, Feb 7, 2011",,8:30p,99,Dallas Mavericks,,96,Cleveland Cavaliers,N
+759,"14,595",Box Score,"Mon, Feb 7, 2011",,9:00p,103,Denver Nuggets,,108,Houston Rockets,N
+760,"20,534",Box Score,"Mon, Feb 7, 2011",,10:00p,109,Portland Trail Blazers,,103,Chicago Bulls,N
+761,"11,509",Box Score,"Mon, Feb 7, 2011",,10:00p,104,Sacramento Kings,,107,Utah Jazz,N
+762,"18,002",Box Score,"Mon, Feb 7, 2011",,10:30p,92,Golden State Warriors,,104,Phoenix Suns,N
+763,"12,903",Box Score,"Tue, Feb 8, 2011",,7:00p,83,Atlanta Hawks,,117,Philadelphia 76ers,N
+764,"18,987",Box Score,"Tue, Feb 8, 2011",,7:00p,101,Orlando Magic,,85,Los Angeles Clippers,N
+765,"16,132",Box Score,"Tue, Feb 8, 2011",,7:30p,89,Detroit Pistons,,100,San Antonio Spurs,N
+766,"19,600",Box Score,"Tue, Feb 8, 2011",,7:30p,117,Miami Heat,,112,Indiana Pacers,N
+767,"11,975",Box Score,"Tue, Feb 8, 2011",,8:00p,92,Milwaukee Bucks,,74,Toronto Raptors,N
+768,"17,868",Box Score,"Tue, Feb 8, 2011",,8:00p,101,Oklahoma City Thunder,OT,105,Memphis Grizzlies,N
+769,"15,679",Box Score,"Tue, Feb 8, 2011",,8:30p,108,Houston Rockets,,112,Minnesota Timberwolves,N
+770,"19,475",Box Score,"Wed, Feb 9, 2011",,7:00p,94,Cleveland Cavaliers,,103,Detroit Pistons,N
+771,"10,268",Box Score,"Wed, Feb 9, 2011",,7:00p,104,Indiana Pacers,,103,Charlotte Bobcats,N
+772,"13,316",Box Score,"Wed, Feb 9, 2011",,7:00p,103,New Jersey Nets,OT,101,New Orleans Hornets,N
+773,"12,091",Box Score,"Wed, Feb 9, 2011",,7:00p,95,Philadelphia 76ers,,99,Orlando Magic,N
+774,"15,867",Box Score,"Wed, Feb 9, 2011",,7:00p,100,Toronto Raptors,,111,San Antonio Spurs,N
+775,"16,108",Box Score,"Wed, Feb 9, 2011",,7:00p,100,Washington Wizards,,85,Milwaukee Bucks,N
+776,"19,763",Box Score,"Wed, Feb 9, 2011",,7:30p,108,New York Knicks,,116,Los Angeles Clippers,N
+777,"19,911",Box Score,"Wed, Feb 9, 2011",,9:00p,86,Utah Jazz,,91,Chicago Bulls,N
+778,"12,310",Box Score,"Wed, Feb 9, 2011",,10:00p,100,Sacramento Kings,,102,Dallas Mavericks,N
+779,"18,430",Box Score,"Wed, Feb 9, 2011",,10:30p,116,Golden State Warriors,,114,Denver Nuggets,N
+780,"18,624",Box Score,"Thu, Feb 10, 2011",,8:00p,86,Boston Celtics,,92,Los Angeles Lakers,N
+781,"16,731",Box Score,"Thu, Feb 10, 2011",,9:00p,112,Phoenix Suns,,88,Golden State Warriors,N
+782,"16,273",Box Score,"Thu, Feb 10, 2011",,10:30p,121,Denver Nuggets,,120,Dallas Mavericks,N
+783,"15,386",Box Score,"Fri, Feb 11, 2011",,7:00p,89,Charlotte Bobcats,,94,New Jersey Nets,N
+784,"12,559",Box Score,"Fri, Feb 11, 2011",,7:00p,116,Indiana Pacers,,105,Minnesota Timberwolves,N
+785,"18,944",Box Score,"Fri, Feb 11, 2011",,7:00p,93,Orlando Magic,,99,New Orleans Hornets,N
+786,"15,501",Box Score,"Fri, Feb 11, 2011",,7:00p,77,Philadelphia 76ers,,71,San Antonio Spurs,N
+787,"15,625",Box Score,"Fri, Feb 11, 2011",,7:00p,96,Toronto Raptors,,102,Portland Trail Blazers,N
+788,"20,562",Box Score,"Fri, Feb 11, 2011",,7:30p,126,Cleveland Cavaliers,OT,119,Los Angeles Clippers,N
+789,"22,076",Box Score,"Fri, Feb 11, 2011",,7:30p,92,Detroit Pistons,,106,Miami Heat,N
+790,"14,749",Box Score,"Fri, Feb 11, 2011",,8:00p,89,Memphis Grizzlies,,86,Milwaukee Bucks,N
+791,"19,763",Box Score,"Fri, Feb 11, 2011",,8:00p,96,New York Knicks,,113,Los Angeles Lakers,N
+792,"19,911",Box Score,"Fri, Feb 11, 2011",,10:30p,83,Utah Jazz,,95,Phoenix Suns,N
+793,"16,948",Box Score,"Sat, Feb 12, 2011",,7:00p,86,Atlanta Hawks,,88,Charlotte Bobcats,N
+794,"18,711",Box Score,"Sat, Feb 12, 2011",,7:00p,95,New Jersey Nets,,105,New York Knicks,N
+795,"17,011",Box Score,"Sat, Feb 12, 2011",,8:00p,87,Minnesota Timberwolves,,107,Philadelphia 76ers,N
+796,"17,831",Box Score,"Sat, Feb 12, 2011",,8:00p,88,New Orleans Hornets,,97,Chicago Bulls,N
+797,"20,435",Box Score,"Sat, Feb 12, 2011",,8:00p,94,Washington Wizards,,118,San Antonio Spurs,N
+798,"17,009",Box Score,"Sat, Feb 12, 2011",,8:30p,102,Houston Rockets,,106,Dallas Mavericks,N
+799,"17,046",Box Score,"Sat, Feb 12, 2011",,8:30p,97,Milwaukee Bucks,,103,Indiana Pacers,N
+800,"14,987",Box Score,"Sat, Feb 12, 2011",,10:00p,97,Sacramento Kings,,99,Oklahoma City Thunder,N
+801,"18,624",Box Score,"Sun, Feb 13, 2011",,1:00p,85,Boston Celtics,,82,Miami Heat,N
+802,"19,193",Box Score,"Sun, Feb 13, 2011",,3:30p,89,Orlando Magic,,75,Los Angeles Lakers,N
+803,"19,154",Box Score,"Sun, Feb 13, 2011",,6:00p,100,Cleveland Cavaliers,,115,Washington Wizards,N
+804,"15,257",Box Score,"Sun, Feb 13, 2011",,6:00p,100,Detroit Pistons,,105,Portland Trail Blazers,N
+805,"15,398",Box Score,"Sun, Feb 13, 2011",,6:00p,116,Memphis Grizzlies,,108,Denver Nuggets,N
+806,"19,800",Box Score,"Sun, Feb 13, 2011",,6:00p,98,Toronto Raptors,,93,Los Angeles Clippers,N
+807,"19,596",Box Score,"Sun, Feb 13, 2011",,8:00p,100,Golden State Warriors,,94,Oklahoma City Thunder,N
+808,"17,798",Box Score,"Sun, Feb 13, 2011",,8:00p,108,Phoenix Suns,,113,Sacramento Kings,N
+809,"19,488",Box Score,"Mon, Feb 14, 2011",,7:00p,109,Charlotte Bobcats,,89,Los Angeles Lakers,N
+810,"13,433",Box Score,"Mon, Feb 14, 2011",,7:00p,85,New Jersey Nets,,102,San Antonio Spurs,N
+811,"11,844",Box Score,"Mon, Feb 14, 2011",,7:30p,79,Detroit Pistons,,94,Atlanta Hawks,N
+812,"13,111",Box Score,"Mon, Feb 14, 2011",,8:00p,102,Milwaukee Bucks,,78,Los Angeles Clippers,N
+813,"11,227",Box Score,"Mon, Feb 14, 2011",,8:00p,81,Minnesota Timberwolves,,95,Portland Trail Blazers,N
+814,"16,450",Box Score,"Mon, Feb 14, 2011",,8:30p,121,Houston Rockets,,102,Denver Nuggets,N
+815,"18,165",Box Score,"Tue, Feb 15, 2011",,7:00p,103,Indiana Pacers,,110,Miami Heat,N
+816,"21,391",Box Score,"Tue, Feb 15, 2011",,8:00p,106,Chicago Bulls,,94,Charlotte Bobcats,N
+817,"11,197",Box Score,"Tue, Feb 15, 2011",,8:00p,102,Memphis Grizzlies,,91,Philadelphia 76ers,N
+818,"18,087",Box Score,"Tue, Feb 15, 2011",,8:00p,126,Oklahoma City Thunder,,96,Sacramento Kings,N
+819,"16,874",Box Score,"Tue, Feb 15, 2011",,9:00p,102,Phoenix Suns,,101,Utah Jazz,N
+820,"18,276",Box Score,"Tue, Feb 15, 2011",,10:30p,102,Golden State Warriors,,89,New Orleans Hornets,N
+821,"19,054",Box Score,"Wed, Feb 16, 2011",,7:00p,101,Orlando Magic,,76,Washington Wizards,N
+822,"20,156",Box Score,"Wed, Feb 16, 2011",,7:00p,95,Toronto Raptors,,103,Miami Heat,N
+823,"18,624",Box Score,"Wed, Feb 16, 2011",,7:30p,94,Boston Celtics,,80,New Jersey Nets,N
+824,"20,562",Box Score,"Wed, Feb 16, 2011",,7:30p,104,Cleveland Cavaliers,,99,Los Angeles Lakers,N
+825,"12,551",Box Score,"Wed, Feb 16, 2011",,7:30p,115,Detroit Pistons,OT,109,Indiana Pacers,N
+826,"19,763",Box Score,"Wed, Feb 16, 2011",,7:30p,102,New York Knicks,,90,Atlanta Hawks,N
+827,"15,227",Box Score,"Wed, Feb 16, 2011",,8:00p,90,Minnesota Timberwolves,,98,Los Angeles Clippers,N
+828,"20,420",Box Score,"Wed, Feb 16, 2011",,8:30p,116,Dallas Mavericks,,100,Sacramento Kings,N
+829,"14,476",Box Score,"Wed, Feb 16, 2011",,8:30p,105,Houston Rockets,,114,Philadelphia 76ers,N
+830,"16,033",Box Score,"Wed, Feb 16, 2011",,9:00p,87,Milwaukee Bucks,,94,Denver Nuggets,N
+831,"19,911",Box Score,"Wed, Feb 16, 2011",,9:00p,100,Utah Jazz,,107,Golden State Warriors,N
+832,"20,650",Box Score,"Wed, Feb 16, 2011",,10:00p,103,Portland Trail Blazers,,96,New Orleans Hornets,N
+833,"22,172",Box Score,"Thu, Feb 17, 2011",,8:00p,109,Chicago Bulls,,99,San Antonio Spurs,N
+834,"17,903",Box Score,"Thu, Feb 17, 2011",,10:30p,106,Phoenix Suns,,112,Dallas Mavericks,N
+835,"12,976",Box Score,"Tue, Feb 22, 2011",,7:00p,114,Charlotte Bobcats,,101,Toronto Raptors,N
+836,"14,328",Box Score,"Tue, Feb 22, 2011",,7:00p,96,Washington Wizards,,113,Indiana Pacers,N
+837,"12,353",Box Score,"Tue, Feb 22, 2011",,7:30p,100,Detroit Pistons,,108,Houston Rockets,N
+838,"19,754",Box Score,"Tue, Feb 22, 2011",,7:30p,117,Miami Heat,,97,Sacramento Kings,N
+839,"13,106",Box Score,"Tue, Feb 22, 2011",,8:00p,94,Milwaukee Bucks,,88,Minnesota Timberwolves,N
+840,"18,203",Box Score,"Tue, Feb 22, 2011",,8:00p,111,Oklahoma City Thunder,,88,Los Angeles Clippers,N
+841,"14,638",Box Score,"Tue, Feb 22, 2011",,9:00p,120,Denver Nuggets,,107,Memphis Grizzlies,N
+842,"19,738",Box Score,"Tue, Feb 22, 2011",,10:30p,93,Golden State Warriors,,115,Boston Celtics,N
+843,"18,997",Box Score,"Tue, Feb 22, 2011",,10:30p,104,Los Angeles Lakers,,80,Atlanta Hawks,N
+844,"18,027",Box Score,"Wed, Feb 23, 2011",,7:00p,119,Cleveland Cavaliers,,124,Houston Rockets,N
+845,"12,214",Box Score,"Wed, Feb 23, 2011",,7:00p,102,Indiana Pacers,,101,Detroit Pistons,N
+846,"19,146",Box Score,"Wed, Feb 23, 2011",,7:00p,105,Orlando Magic,,111,Sacramento Kings,N
+847,"12,704",Box Score,"Wed, Feb 23, 2011",,7:00p,117,Philadelphia 76ers,,94,Washington Wizards,N
+848,"18,581",Box Score,"Wed, Feb 23, 2011",,7:00p,109,San Antonio Spurs,,105,Oklahoma City Thunder,N
+849,"18,105",Box Score,"Wed, Feb 23, 2011",,7:00p,118,Toronto Raptors,,113,Chicago Bulls,N
+850,"19,763",Box Score,"Wed, Feb 23, 2011",,7:30p,114,New York Knicks,,108,Milwaukee Bucks,N
+851,"11,497",Box Score,"Wed, Feb 23, 2011",,8:00p,95,Minnesota Timberwolves,,104,Memphis Grizzlies,N
+852,"20,379",Box Score,"Wed, Feb 23, 2011",,8:30p,118,Dallas Mavericks,,99,Utah Jazz,N
+853,"18,254",Box Score,"Wed, Feb 23, 2011",,9:00p,105,Phoenix Suns,,97,Atlanta Hawks,N
+854,"17,537",Box Score,"Wed, Feb 23, 2011",,9:30p,98,New Orleans Hornets,,87,Los Angeles Clippers,N
+855,"20,643",Box Score,"Wed, Feb 23, 2011",,10:30p,101,Portland Trail Blazers,OT,106,Los Angeles Lakers,N
+856,"23,024",Box Score,"Thu, Feb 24, 2011",,8:00p,93,Chicago Bulls,,89,Miami Heat,N
+857,"18,524",Box Score,"Thu, Feb 24, 2011",,10:30p,89,Denver Nuggets,,75,Boston Celtics,N
+858,"15,782",Box Score,"Fri, Feb 25, 2011",,7:00p,110,Charlotte Bobcats,,98,Sacramento Kings,N
+859,"16,205",Box Score,"Fri, Feb 25, 2011",,7:00p,84,Indiana Pacers,,95,Utah Jazz,N
+860,"15,105",Box Score,"Fri, Feb 25, 2011",,7:00p,110,Philadelphia 76ers,,94,Detroit Pistons,N
+861,"19,004",Box Score,"Fri, Feb 25, 2011",,7:00p,92,Toronto Raptors,,110,Phoenix Suns,N
+862,"20,562",Box Score,"Fri, Feb 25, 2011",,7:30p,115,Cleveland Cavaliers,,109,New York Knicks,N
+863,"19,825",Box Score,"Fri, Feb 25, 2011",,7:30p,121,Miami Heat,,113,Washington Wizards,N
+864,"16,965",Box Score,"Fri, Feb 25, 2011",,8:00p,81,Minnesota Timberwolves,,95,New Orleans Hornets,N
+865,"19,011",Box Score,"Fri, Feb 25, 2011",,8:00p,111,Orlando Magic,,88,Oklahoma City Thunder,N
+866,"18,581",Box Score,"Fri, Feb 25, 2011",,8:30p,106,San Antonio Spurs,,96,New Jersey Nets,N
+867,"19,858",Box Score,"Fri, Feb 25, 2011",,10:30p,79,Golden State Warriors,,95,Atlanta Hawks,N
+868,"18,997",Box Score,"Fri, Feb 25, 2011",,10:30p,108,Los Angeles Lakers,,95,Los Angeles Clippers,N
+869,"20,659",Box Score,"Fri, Feb 25, 2011",,10:30p,107,Portland Trail Blazers,OT,106,Denver Nuggets,N
+870,"18,564",Box Score,"Sat, Feb 26, 2011",,7:30p,120,Detroit Pistons,,116,Utah Jazz,N
+871,"16,028",Box Score,"Sat, Feb 26, 2011",,8:00p,120,Memphis Grizzlies,,92,Sacramento Kings,N
+872,"19,203",Box Score,"Sat, Feb 26, 2011",,8:00p,99,Washington Wizards,,105,Dallas Mavericks,N
+873,"17,209",Box Score,"Sat, Feb 26, 2011",,8:30p,123,Houston Rockets,,108,New Jersey Nets,N
+874,"18,717",Box Score,"Sat, Feb 26, 2011",,8:30p,75,Milwaukee Bucks,,83,Chicago Bulls,N
+875,"19,513",Box Score,"Sat, Feb 26, 2011",,10:30p,92,Los Angeles Clippers,,99,Boston Celtics,N
+876,"14,168",Box Score,"Sun, Feb 27, 2011",,12:00p,108,Indiana Pacers,OT,110,Phoenix Suns,N
+877,"18,203",Box Score,"Sun, Feb 27, 2011",,2:30p,87,Oklahoma City Thunder,,90,Los Angeles Lakers,N
+878,"19,882",Box Score,"Sun, Feb 27, 2011",,5:00p,91,Cleveland Cavaliers,,95,Philadelphia 76ers,N
+879,"16,021",Box Score,"Sun, Feb 27, 2011",,5:00p,126,Minnesota Timberwolves,,123,Golden State Warriors,N
+880,"18,846",Box Score,"Sun, Feb 27, 2011",,6:00p,100,Orlando Magic,,86,Charlotte Bobcats,N
+881,"16,827",Box Score,"Sun, Feb 27, 2011",,6:00p,96,Toronto Raptors,,114,Dallas Mavericks,N
+882,"17,466",Box Score,"Sun, Feb 27, 2011",,7:00p,89,New Orleans Hornets,,91,Houston Rockets,N
+883,"18,581",Box Score,"Sun, Feb 27, 2011",,7:00p,95,San Antonio Spurs,,88,Memphis Grizzlies,N
+884,"19,702",Box Score,"Sun, Feb 27, 2011",,8:00p,86,Miami Heat,,91,New York Knicks,N
+885,"20,642",Box Score,"Sun, Feb 27, 2011",,10:30p,83,Portland Trail Blazers,,90,Atlanta Hawks,N
+886,"15,836",Box Score,"Mon, Feb 28, 2011",,7:00p,103,New Jersey Nets,OT,104,Phoenix Suns,N
+887,"17,873",Box Score,"Mon, Feb 28, 2011",,7:00p,77,Washington Wizards,,105,Chicago Bulls,N
+888,"16,163",Box Score,"Mon, Feb 28, 2011",,9:00p,100,Denver Nuggets,,90,Atlanta Hawks,N
+889,"19,911",Box Score,"Mon, Feb 28, 2011",,9:00p,102,Utah Jazz,,107,Boston Celtics,N
+890,"17,317",Box Score,"Mon, Feb 28, 2011",,10:00p,105,Sacramento Kings,,99,Los Angeles Clippers,N
+891,"9,557",Box Score,"Tue, Mar 1, 2011",,7:00p,109,Indiana Pacers,,100,Golden State Warriors,N
+892,"19,131",Box Score,"Tue, Mar 1, 2011",,7:00p,116,Orlando Magic,,110,New York Knicks,N
+893,"13,509",Box Score,"Tue, Mar 1, 2011",,7:00p,93,Philadelphia 76ers,,101,Dallas Mavericks,N
+894,"14,704",Box Score,"Tue, Mar 1, 2011",,7:00p,96,Toronto Raptors,,90,New Orleans Hornets,N
+895,"13,480",Box Score,"Tue, Mar 1, 2011",,8:00p,109,Memphis Grizzlies,,93,San Antonio Spurs,N
+896,"11,364",Box Score,"Tue, Mar 1, 2011",,8:00p,92,Milwaukee Bucks,,90,Detroit Pistons,N
+897,"17,111",Box Score,"Tue, Mar 1, 2011",,8:00p,79,Minnesota Timberwolves,,90,Los Angeles Lakers,N
+898,"20,272",Box Score,"Tue, Mar 1, 2011",,10:00p,87,Portland Trail Blazers,,103,Houston Rockets,N
+899,"16,928",Box Score,"Wed, Mar 2, 2011",,7:00p,83,Atlanta Hawks,,80,Chicago Bulls,N
+900,"18,795",Box Score,"Wed, Mar 2, 2011",,7:00p,99,Cleveland Cavaliers,,109,San Antonio Spurs,N
+901,"17,865",Box Score,"Wed, Mar 2, 2011",,7:00p,102,Washington Wizards,,106,Golden State Warriors,N
+902,"18,624",Box Score,"Wed, Mar 2, 2011",,7:30p,115,Boston Celtics,,103,Phoenix Suns,N
+903,"13,122",Box Score,"Wed, Mar 2, 2011",,7:30p,105,Detroit Pistons,,116,Minnesota Timberwolves,N
+904,"19,763",Box Score,"Wed, Mar 2, 2011",,7:30p,107,New York Knicks,,88,New Orleans Hornets,N
+905,"18,203",Box Score,"Wed, Mar 2, 2011",,8:00p,113,Oklahoma City Thunder,,89,Indiana Pacers,N
+906,"14,255",Box Score,"Wed, Mar 2, 2011",,9:00p,120,Denver Nuggets,,80,Charlotte Bobcats,N
+907,"12,286",Box Score,"Wed, Mar 2, 2011",,10:00p,102,Sacramento Kings,,107,Portland Trail Blazers,N
+908,"19,060",Box Score,"Wed, Mar 2, 2011",,10:30p,106,Los Angeles Clippers,,103,Houston Rockets,N
+909,"19,600",Box Score,"Thu, Mar 3, 2011",,8:00p,96,Miami Heat,,99,Orlando Magic,N
+910,"19,524",Box Score,"Thu, Mar 3, 2011",,10:30p,101,Utah Jazz,,103,Denver Nuggets,N
+911,"18,689",Box Score,"Fri, Mar 4, 2011","at London, England",3:00p,116,New Jersey Nets,,103,Toronto Raptors,N
+912,"19,207",Box Score,"Fri, Mar 4, 2011",,7:00p,81,Orlando Magic,,89,Chicago Bulls,N
+913,"12,008",Box Score,"Fri, Mar 4, 2011",,7:00p,111,Philadelphia 76ers,,100,Minnesota Timberwolves,N
+914,"17,916",Box Score,"Fri, Mar 4, 2011",,7:30p,104,Atlanta Hawks,,111,Oklahoma City Thunder,N
+915,"18,624",Box Score,"Fri, Mar 4, 2011",,7:30p,107,Boston Celtics,,103,Golden State Warriors,N
+916,"19,763",Box Score,"Fri, Mar 4, 2011",,7:30p,115,New York Knicks,,119,Cleveland Cavaliers,N
+917,"15,367",Box Score,"Fri, Mar 4, 2011",,8:00p,91,Memphis Grizzlies,,98,New Orleans Hornets,N
+918,"20,385",Box Score,"Fri, Mar 4, 2011",,8:30p,116,Dallas Mavericks,,108,Indiana Pacers,N
+919,"15,011",Box Score,"Fri, Mar 4, 2011",,8:30p,88,Milwaukee Bucks,,102,Phoenix Suns,N
+920,"18,581",Box Score,"Fri, Mar 4, 2011",,9:30p,125,San Antonio Spurs,,95,Miami Heat,N
+921,"18,997",Box Score,"Fri, Mar 4, 2011",,10:30p,92,Los Angeles Lakers,,84,Charlotte Bobcats,N
+922,"18,689",Box Score,"Sat, Mar 5, 2011","at London, England",3:00p,137,New Jersey Nets,3OT,136,Toronto Raptors,N
+923,"18,216",Box Score,"Sat, Mar 5, 2011",,7:00p,103,Washington Wizards,,96,Minnesota Timberwolves,N
+924,"14,965",Box Score,"Sat, Mar 5, 2011",,8:30p,112,Houston Rockets,,95,Indiana Pacers,N
+925,"19,911",Box Score,"Sat, Mar 5, 2011",,9:00p,109,Utah Jazz,OT,102,Sacramento Kings,N
+926,"20,588",Box Score,"Sat, Mar 5, 2011",,10:00p,93,Portland Trail Blazers,,69,Charlotte Bobcats,N
+927,"19,060",Box Score,"Sat, Mar 5, 2011",,10:30p,100,Los Angeles Clippers,,94,Denver Nuggets,N
+928,"19,763",Box Score,"Sun, Mar 6, 2011",,1:00p,86,Miami Heat,,87,Chicago Bulls,N
+929,"18,996",Box Score,"Sun, Mar 6, 2011",,3:30p,83,San Antonio Spurs,,99,Los Angeles Lakers,N
+930,"17,506",Box Score,"Sun, Mar 6, 2011",,6:00p,113,Detroit Pistons,,102,Washington Wizards,N
+931,"11,294",Box Score,"Sun, Mar 6, 2011",,6:00p,125,Philadelphia 76ers,OT,117,Golden State Warriors,N
+932,"19,560",Box Score,"Sun, Mar 6, 2011",,6:30p,79,Atlanta Hawks,,92,New York Knicks,N
+933,"18,754",Box Score,"Sun, Mar 6, 2011",,6:30p,81,Cleveland Cavaliers,,96,New Orleans Hornets,N
+934,"18,203",Box Score,"Sun, Mar 6, 2011",,7:00p,122,Oklahoma City Thunder,OT,118,Phoenix Suns,N
+935,"20,102",Box Score,"Sun, Mar 6, 2011",,7:30p,103,Dallas Mavericks,,104,Memphis Grizzlies,N
+936,"16,110",Box Score,"Sun, Mar 6, 2011",,9:00p,83,Milwaukee Bucks,,89,Boston Celtics,N
+937,"16,438",Box Score,"Mon, Mar 7, 2011",,7:00p,87,Charlotte Bobcats,,92,Los Angeles Clippers,N
+938,"19,001",Box Score,"Mon, Mar 7, 2011",,7:00p,85,Orlando Magic,,89,Portland Trail Blazers,N
+939,"19,763",Box Score,"Mon, Mar 7, 2011",,7:30p,131,New York Knicks,,109,Utah Jazz,N
+940,"21,997",Box Score,"Mon, Mar 7, 2011",,8:00p,85,Chicago Bulls,,77,New Orleans Hornets,N
+941,"13,903",Box Score,"Mon, Mar 7, 2011",,8:00p,107,Memphis Grizzlies,,101,Oklahoma City Thunder,N
+942,"13,288",Box Score,"Mon, Mar 7, 2011",,8:00p,105,Minnesota Timberwolves,,108,Dallas Mavericks,N
+943,"12,561",Box Score,"Mon, Mar 7, 2011",,10:00p,101,Sacramento Kings,,123,Houston Rockets,N
+944,"19,890",Box Score,"Tue, Mar 8, 2011",,7:00p,87,Atlanta Hawks,,101,Los Angeles Lakers,N
+945,"19,919",Box Score,"Tue, Mar 8, 2011",,7:00p,85,Cleveland Cavaliers,,95,Golden State Warriors,N
+946,"9,466",Box Score,"Tue, Mar 8, 2011",,7:00p,100,Indiana Pacers,,110,Philadelphia 76ers,N
+947,"16,190",Box Score,"Tue, Mar 8, 2011",,7:00p,76,Washington Wizards,,95,Milwaukee Bucks,N
+948,"19,835",Box Score,"Tue, Mar 8, 2011",,7:30p,96,Miami Heat,,105,Portland Trail Blazers,N
+949,"17,363",Box Score,"Tue, Mar 8, 2011",,9:00p,113,Phoenix Suns,,110,Houston Rockets,N
+950,"15,286",Box Score,"Wed, Mar 9, 2011",,7:00p,84,Charlotte Bobcats,,101,Chicago Bulls,N
+951,"13,513",Box Score,"Wed, Mar 9, 2011",,7:00p,94,New Jersey Nets,,90,Golden State Warriors,N
+952,"19,283",Box Score,"Wed, Mar 9, 2011",,7:00p,105,Philadelphia 76ers,OT,110,Oklahoma City Thunder,N
+953,"14,425",Box Score,"Wed, Mar 9, 2011",,7:00p,94,Toronto Raptors,,96,Utah Jazz,N
+954,"18,624",Box Score,"Wed, Mar 9, 2011",,7:30p,103,Boston Celtics,,108,Los Angeles Clippers,N
+955,"17,512",Box Score,"Wed, Mar 9, 2011",,8:00p,108,Memphis Grizzlies,,110,New York Knicks,N
+956,"12,499",Box Score,"Wed, Mar 9, 2011",,8:00p,110,Milwaukee Bucks,,90,Cleveland Cavaliers,N
+957,"15,153",Box Score,"Wed, Mar 9, 2011",,8:00p,101,Minnesota Timberwolves,,75,Indiana Pacers,N
+958,"14,472",Box Score,"Wed, Mar 9, 2011",,8:00p,93,New Orleans Hornets,,92,Dallas Mavericks,N
+959,"18,581",Box Score,"Wed, Mar 9, 2011",,8:30p,111,San Antonio Spurs,,104,Detroit Pistons,N
+960,"12,728",Box Score,"Wed, Mar 9, 2011",,10:00p,102,Sacramento Kings,,106,Orlando Magic,N
+961,"19,986",Box Score,"Thu, Mar 10, 2011",,7:00p,94,Miami Heat,,88,Los Angeles Lakers,N
+962,"20,517",Box Score,"Thu, Mar 10, 2011",,9:30p,127,Dallas Mavericks,,109,New York Knicks,N
+963,"17,465",Box Score,"Thu, Mar 10, 2011",,10:30p,97,Phoenix Suns,,116,Denver Nuggets,N
+964,"18,176",Box Score,"Fri, Mar 11, 2011",,7:00p,97,Charlotte Bobcats,,92,Portland Trail Blazers,N
+965,"18,711",Box Score,"Fri, Mar 11, 2011",,7:00p,102,New Jersey Nets,OT,98,Los Angeles Clippers,N
+966,"20,614",Box Score,"Fri, Mar 11, 2011",,7:00p,89,Philadelphia 76ers,,86,Boston Celtics,N
+967,"14,726",Box Score,"Fri, Mar 11, 2011",,7:00p,108,Toronto Raptors,,98,Indiana Pacers,N
+968,"22,123",Box Score,"Fri, Mar 11, 2011",,8:00p,94,Chicago Bulls,,76,Atlanta Hawks,N
+969,"18,534",Box Score,"Fri, Mar 11, 2011",,8:00p,122,Minnesota Timberwolves,,101,Utah Jazz,N
+970,"18,203",Box Score,"Fri, Mar 11, 2011",,8:00p,104,Oklahoma City Thunder,,94,Detroit Pistons,N
+971,"18,712",Box Score,"Fri, Mar 11, 2011",,8:30p,108,San Antonio Spurs,,103,Sacramento Kings,N
+972,"19,596",Box Score,"Fri, Mar 11, 2011",,10:30p,123,Golden State Warriors,OT,120,Orlando Magic,N
+973,"19,600",Box Score,"Sat, Mar 12, 2011",,3:30p,118,Miami Heat,,85,Memphis Grizzlies,N
+974,"15,522",Box Score,"Sat, Mar 12, 2011",,7:00p,91,Atlanta Hawks,,82,Portland Trail Blazers,N
+975,"20,278",Box Score,"Sat, Mar 12, 2011",,7:00p,101,Washington Wizards,,122,Los Angeles Clippers,N
+976,"22,885",Box Score,"Sat, Mar 12, 2011",,8:00p,118,Chicago Bulls,,100,Utah Jazz,N
+977,"15,832",Box Score,"Sat, Mar 12, 2011",,8:00p,102,Milwaukee Bucks,,74,Philadelphia 76ers,N
+978,"15,530",Box Score,"Sat, Mar 12, 2011",,8:00p,115,New Orleans Hornets,,103,Sacramento Kings,N
+979,"18,245",Box Score,"Sat, Mar 12, 2011",,8:30p,107,Houston Rockets,,115,San Antonio Spurs,N
+980,"20,619",Box Score,"Sat, Mar 12, 2011",,9:00p,91,Dallas Mavericks,,96,Los Angeles Lakers,N
+981,"19,155",Box Score,"Sat, Mar 12, 2011",,9:00p,131,Denver Nuggets,,101,Detroit Pistons,N
+982,"19,811",Box Score,"Sun, Mar 13, 2011",,1:00p,75,Cleveland Cavaliers,,95,Oklahoma City Thunder,N
+983,"16,557",Box Score,"Sun, Mar 13, 2011",,1:00p,90,Toronto Raptors,,95,Charlotte Bobcats,N
+984,"18,091",Box Score,"Sun, Mar 13, 2011",,3:30p,88,Phoenix Suns,,111,Orlando Magic,N
+985,"18,624",Box Score,"Sun, Mar 13, 2011",,6:00p,87,Boston Celtics,,56,Milwaukee Bucks,N
+986,"19,763",Box Score,"Sun, Mar 13, 2011",,6:00p,93,New York Knicks,,106,Indiana Pacers,N
+987,"17,788",Box Score,"Sun, Mar 13, 2011",,9:00p,100,Golden State Warriors,,77,Minnesota Timberwolves,N
+988,"18,711",Box Score,"Mon, Mar 14, 2011",,7:00p,88,New Jersey Nets,,79,Boston Celtics,N
+989,"17,921",Box Score,"Mon, Mar 14, 2011",,7:00p,89,Washington Wizards,,116,Oklahoma City Thunder,N
+990,"15,989",Box Score,"Mon, Mar 14, 2011",,8:00p,105,Memphis Grizzlies,,82,Los Angeles Clippers,N
+991,"20,021",Box Score,"Mon, Mar 14, 2011",,8:00p,110,Miami Heat,,80,San Antonio Spurs,N
+992,"11,782",Box Score,"Mon, Mar 14, 2011",,8:00p,103,New Orleans Hornets,,114,Denver Nuggets,N
+993,"16,262",Box Score,"Mon, Mar 14, 2011",,8:30p,95,Houston Rockets,,93,Phoenix Suns,N
+994,"19,632",Box Score,"Mon, Mar 14, 2011",,9:00p,112,Utah Jazz,OT,107,Philadelphia 76ers,N
+995,"14,243",Box Score,"Mon, Mar 14, 2011",,10:00p,129,Sacramento Kings,,119,Golden State Warriors,N
+996,"18,997",Box Score,"Mon, Mar 14, 2011",,10:30p,97,Los Angeles Lakers,,84,Orlando Magic,N
+997,"13,590",Box Score,"Tue, Mar 15, 2011",,7:00p,110,Atlanta Hawks,,85,Milwaukee Bucks,N
+998,"14,164",Box Score,"Tue, Mar 15, 2011",,7:00p,119,Indiana Pacers,,117,New York Knicks,N
+999,"22,103",Box Score,"Tue, Mar 15, 2011",,8:00p,98,Chicago Bulls,,79,Washington Wizards,N
+1000,"20,631",Box Score,"Tue, Mar 15, 2011",,10:00p,104,Portland Trail Blazers,,101,Dallas Mavericks,N
+1001,"14,669",Box Score,"Wed, Mar 16, 2011",,7:00p,87,Atlanta Hawks,,102,Denver Nuggets,N
+1002,"18,624",Box Score,"Wed, Mar 16, 2011",,7:30p,92,Boston Celtics,,80,Indiana Pacers,N
+1003,"15,166",Box Score,"Wed, Mar 16, 2011",,7:30p,107,Detroit Pistons,,93,Toronto Raptors,N
+1004,"20,083",Box Score,"Wed, Mar 16, 2011",,8:00p,85,Miami Heat,,96,Oklahoma City Thunder,N
+1005,"13,831",Box Score,"Wed, Mar 16, 2011",,8:00p,89,Milwaukee Bucks,OT,93,Orlando Magic,N
+1006,"13,758",Box Score,"Wed, Mar 16, 2011",,8:00p,100,New Orleans Hornets,,95,Phoenix Suns,N
+1007,"14,822",Box Score,"Wed, Mar 16, 2011",,8:30p,94,Houston Rockets,,78,Charlotte Bobcats,N
+1008,"19,465",Box Score,"Wed, Mar 16, 2011",,9:00p,119,Utah Jazz,,104,Minnesota Timberwolves,N
+1009,"13,477",Box Score,"Wed, Mar 16, 2011",,10:00p,93,Sacramento Kings,,97,Cleveland Cavaliers,N
+1010,"19,596",Box Score,"Wed, Mar 16, 2011",,10:30p,106,Golden State Warriors,,112,Dallas Mavericks,N
+1011,"19,060",Box Score,"Wed, Mar 16, 2011",,10:30p,94,Los Angeles Clippers,,104,Philadelphia 76ers,N
+1012,"18,351",Box Score,"Thu, Mar 17, 2011",,7:00p,73,New Jersey Nets,,84,Chicago Bulls,N
+1013,"19,763",Box Score,"Thu, Mar 17, 2011",,7:30p,120,New York Knicks,,99,Memphis Grizzlies,N
+1014,"20,235",Box Score,"Thu, Mar 17, 2011",,10:00p,111,Portland Trail Blazers,,70,Cleveland Cavaliers,N
+1015,"18,165",Box Score,"Fri, Mar 18, 2011",,7:00p,115,Indiana Pacers,OT,108,Chicago Bulls,N
+1016,"19,113",Box Score,"Fri, Mar 18, 2011",,7:00p,85,Orlando Magic,,82,Denver Nuggets,N
+1017,"18,017",Box Score,"Fri, Mar 18, 2011",,7:00p,116,Toronto Raptors,,107,Washington Wizards,N
+1018,"20,024",Box Score,"Fri, Mar 18, 2011",,7:30p,85,Atlanta Hawks,,106,Miami Heat,N
+1019,"22,076",Box Score,"Fri, Mar 18, 2011",,7:30p,99,Detroit Pistons,,95,New York Knicks,N
+1020,"18,203",Box Score,"Fri, Mar 18, 2011",,8:00p,99,Oklahoma City Thunder,,82,Charlotte Bobcats,N
+1021,"20,614",Box Score,"Fri, Mar 18, 2011",,8:30p,91,Dallas Mavericks,,97,San Antonio Spurs,N
+1022,"18,412",Box Score,"Fri, Mar 18, 2011",,8:30p,93,Houston Rockets,,77,Boston Celtics,N
+1023,"14,563",Box Score,"Fri, Mar 18, 2011",,8:30p,110,Milwaukee Bucks,,95,New Jersey Nets,N
+1024,"18,422",Box Score,"Fri, Mar 18, 2011",,10:00p,108,Phoenix Suns,,97,Golden State Warriors,N
+1025,"15,373",Box Score,"Fri, Mar 18, 2011",,10:00p,80,Sacramento Kings,,102,Philadelphia 76ers,N
+1026,"18,997",Box Score,"Fri, Mar 18, 2011",,10:30p,106,Los Angeles Lakers,,98,Minnesota Timberwolves,N
+1027,"19,060",Box Score,"Sat, Mar 19, 2011",,3:30p,100,Los Angeles Clippers,,92,Cleveland Cavaliers,N
+1028,"19,600",Box Score,"Sat, Mar 19, 2011",,7:30p,103,Miami Heat,,98,Denver Nuggets,N
+1029,"17,013",Box Score,"Sat, Mar 19, 2011",,8:00p,99,Memphis Grizzlies,,78,Indiana Pacers,N
+1030,"18,018",Box Score,"Sat, Mar 19, 2011",,8:00p,85,New Orleans Hornets,,89,Boston Celtics,N
+1031,"19,075",Box Score,"Sat, Mar 19, 2011",,8:30p,109,San Antonio Spurs,,98,Charlotte Bobcats,N
+1032,"20,637",Box Score,"Sat, Mar 19, 2011",,10:00p,110,Portland Trail Blazers,,101,Philadelphia 76ers,N
+1033,"17,761",Box Score,"Sun, Mar 20, 2011",,1:00p,98,Washington Wizards,,92,New Jersey Nets,N
+1034,"17,580",Box Score,"Sun, Mar 20, 2011",,2:00p,104,Atlanta Hawks,,96,Detroit Pistons,N
+1035,"18,052",Box Score,"Sun, Mar 20, 2011",,3:00p,100,Milwaukee Bucks,,95,New York Knicks,N
+1036,"19,060",Box Score,"Sun, Mar 20, 2011",,3:30p,99,Los Angeles Clippers,,108,Phoenix Suns,N
+1037,"18,993",Box Score,"Sun, Mar 20, 2011",,3:30p,95,Minnesota Timberwolves,,127,Sacramento Kings,N
+1038,"14,459",Box Score,"Sun, Mar 20, 2011",,7:00p,110,Houston Rockets,,108,Utah Jazz,N
+1039,"18,203",Box Score,"Sun, Mar 20, 2011",,7:00p,93,Oklahoma City Thunder,,95,Toronto Raptors,N
+1040,"20,324",Box Score,"Sun, Mar 20, 2011",,7:30p,101,Dallas Mavericks,,73,Golden State Warriors,N
+1041,"18,997",Box Score,"Sun, Mar 20, 2011",,9:30p,84,Los Angeles Lakers,,80,Portland Trail Blazers,N
+1042,"19,343",Box Score,"Mon, Mar 21, 2011",,7:00p,86,Cleveland Cavaliers,,97,Orlando Magic,N
+1043,"13,792",Box Score,"Mon, Mar 21, 2011",,7:00p,98,New Jersey Nets,,102,Indiana Pacers,N
+1044,"19,763",Box Score,"Mon, Mar 21, 2011",,7:30p,86,New York Knicks,,96,Boston Celtics,N
+1045,"21,873",Box Score,"Mon, Mar 21, 2011",,8:00p,132,Chicago Bulls,,92,Sacramento Kings,N
+1046,"12,688",Box Score,"Mon, Mar 21, 2011",,8:00p,103,Memphis Grizzlies,,85,Utah Jazz,N
+1047,"18,443",Box Score,"Mon, Mar 21, 2011",,8:30p,111,San Antonio Spurs,,96,Golden State Warriors,N
+1048,"16,258",Box Score,"Mon, Mar 21, 2011",,9:00p,123,Denver Nuggets,,90,Toronto Raptors,N
+1049,"18,203",Box Score,"Tue, Mar 22, 2011",,8:00p,81,Atlanta Hawks,,114,Chicago Bulls,N
+1050,"20,624",Box Score,"Tue, Mar 22, 2011",,10:00p,111,Portland Trail Blazers,,76,Washington Wizards,N
+1051,"18,997",Box Score,"Tue, Mar 22, 2011",,10:30p,139,Los Angeles Lakers,3OT,137,Phoenix Suns,N
+1052,"14,703",Box Score,"Wed, Mar 23, 2011",,7:00p,88,Charlotte Bobcats,,111,Indiana Pacers,N
+1053,"18,923",Box Score,"Wed, Mar 23, 2011",,7:00p,94,Cleveland Cavaliers,OT,98,New Jersey Nets,N
+1054,"15,199",Box Score,"Wed, Mar 23, 2011",,7:00p,105,Philadelphia 76ers,,100,Atlanta Hawks,N
+1055,"18,624",Box Score,"Wed, Mar 23, 2011",,7:30p,87,Boston Celtics,,90,Memphis Grizzlies,N
+1056,"22,076",Box Score,"Wed, Mar 23, 2011",,7:30p,94,Detroit Pistons,,100,Miami Heat,N
+1057,"14,122",Box Score,"Wed, Mar 23, 2011",,8:00p,90,Milwaukee Bucks,,97,Sacramento Kings,N
+1058,"19,763",Box Score,"Wed, Mar 23, 2011",,8:00p,99,New York Knicks,,111,Orlando Magic,N
+1059,"18,203",Box Score,"Wed, Mar 23, 2011",,8:00p,106,Oklahoma City Thunder,,94,Utah Jazz,N
+1060,"16,623",Box Score,"Wed, Mar 23, 2011",,8:30p,131,Houston Rockets,,112,Golden State Warriors,N
+1061,"17,865",Box Score,"Wed, Mar 23, 2011",,10:00p,114,Phoenix Suns,,106,Toronto Raptors,N
+1062,"19,155",Box Score,"Wed, Mar 23, 2011",,10:30p,115,Denver Nuggets,,112,San Antonio Spurs,N
+1063,"19,060",Box Score,"Wed, Mar 23, 2011",,10:30p,127,Los Angeles Clippers,2OT,119,Washington Wizards,N
+1064,"20,296",Box Score,"Thu, Mar 24, 2011",,8:30p,104,Dallas Mavericks,,96,Minnesota Timberwolves,N
+1065,"18,840",Box Score,"Thu, Mar 24, 2011",,9:00p,117,Utah Jazz,OT,121,New Orleans Hornets,N
+1066,"13,813",Box Score,"Fri, Mar 25, 2011",,7:00p,93,Indiana Pacers,,110,Sacramento Kings,N
+1067,"19,087",Box Score,"Fri, Mar 25, 2011",,7:00p,95,Orlando Magic,,85,New Jersey Nets,N
+1068,"18,624",Box Score,"Fri, Mar 25, 2011",,7:30p,81,Boston Celtics,,83,Charlotte Bobcats,N
+1069,"19,907",Box Score,"Fri, Mar 25, 2011",,7:30p,97,Cleveland Cavaliers,,91,Detroit Pistons,N
+1070,"19,840",Box Score,"Fri, Mar 25, 2011",,7:30p,111,Miami Heat,,99,Philadelphia 76ers,N
+1071,"19,763",Box Score,"Fri, Mar 25, 2011",,7:30p,96,New York Knicks,,102,Milwaukee Bucks,N
+1072,"22,274",Box Score,"Fri, Mar 25, 2011",,8:00p,99,Chicago Bulls,,96,Memphis Grizzlies,N
+1073,"18,203",Box Score,"Fri, Mar 25, 2011",,8:00p,111,Oklahoma City Thunder,,103,Minnesota Timberwolves,N
+1074,"19,308",Box Score,"Fri, Mar 25, 2011",,9:00p,114,Denver Nuggets,,94,Washington Wizards,N
+1075,"18,422",Box Score,"Fri, Mar 25, 2011",,10:00p,100,Phoenix Suns,,106,New Orleans Hornets,N
+1076,"20,644",Box Score,"Fri, Mar 25, 2011",,10:00p,98,Portland Trail Blazers,,96,San Antonio Spurs,N
+1077,"17,504",Box Score,"Fri, Mar 25, 2011",,10:30p,138,Golden State Warriors,,100,Toronto Raptors,N
+1078,"18,997",Box Score,"Fri, Mar 25, 2011",,10:30p,112,Los Angeles Lakers,,104,Los Angeles Clippers,N
+1079,"17,093",Box Score,"Sat, Mar 26, 2011",,7:00p,98,Atlanta Hawks,,87,New Jersey Nets,N
+1080,"19,356",Box Score,"Sat, Mar 26, 2011",,7:00p,114,Charlotte Bobcats,,106,New York Knicks,N
+1081,"19,216",Box Score,"Sat, Mar 26, 2011",,7:30p,100,Detroit Pistons,,88,Indiana Pacers,N
+1082,"18,717",Box Score,"Sat, Mar 26, 2011",,8:30p,87,Milwaukee Bucks,,95,Chicago Bulls,N
+1083,"19,649",Box Score,"Sat, Mar 26, 2011",,9:00p,77,Utah Jazz,,94,Dallas Mavericks,N
+1084,"19,060",Box Score,"Sat, Mar 26, 2011",,10:30p,94,Los Angeles Clippers,,90,Toronto Raptors,N
+1085,"16,235",Box Score,"Sun, Mar 27, 2011",,12:00p,111,Philadelphia 76ers,OT,114,Sacramento Kings,N
+1086,"20,226",Box Score,"Sun, Mar 27, 2011",,6:00p,83,Cleveland Cavaliers,,99,Atlanta Hawks,N
+1087,"17,098",Box Score,"Sun, Mar 27, 2011",,6:00p,111,Memphis Grizzlies,,104,San Antonio Spurs,N
+1088,"19,825",Box Score,"Sun, Mar 27, 2011",,6:00p,125,Miami Heat,,119,Houston Rockets,N
+1089,"19,178",Box Score,"Sun, Mar 27, 2011",,7:00p,82,Minnesota Timberwolves,,85,Boston Celtics,N
+1090,"18,203",Box Score,"Sun, Mar 27, 2011",,8:00p,99,Oklahoma City Thunder,,90,Portland Trail Blazers,N
+1091,"17,723",Box Score,"Sun, Mar 27, 2011",,9:00p,114,Golden State Warriors,,104,Washington Wizards,N
+1092,"18,997",Box Score,"Sun, Mar 27, 2011",,9:30p,102,Los Angeles Lakers,,84,New Orleans Hornets,N
+1093,"17,314",Box Score,"Sun, Mar 27, 2011",,10:30p,83,Phoenix Suns,,91,Dallas Mavericks,N
+1094,"12,368",Box Score,"Mon, Mar 28, 2011",,7:00p,87,Charlotte Bobcats,,86,Milwaukee Bucks,N
+1095,"15,932",Box Score,"Mon, Mar 28, 2011",,7:00p,107,Indiana Pacers,,100,Boston Celtics,N
+1096,"19,763",Box Score,"Mon, Mar 28, 2011",,7:30p,113,New York Knicks,OT,106,Orlando Magic,N
+1097,"22,210",Box Score,"Mon, Mar 28, 2011",,8:00p,85,Chicago Bulls,,97,Philadelphia 76ers,N
+1098,"18,583",Box Score,"Mon, Mar 28, 2011",,8:30p,92,San Antonio Spurs,,100,Portland Trail Blazers,N
+1099,"19,724",Box Score,"Mon, Mar 28, 2011",,9:00p,95,Utah Jazz,OT,100,Washington Wizards,N
+1100,"20,562",Box Score,"Tue, Mar 29, 2011",,7:00p,102,Cleveland Cavaliers,,90,Miami Heat,N
+1101,"13,866",Box Score,"Tue, Mar 29, 2011",,7:00p,87,New Jersey Nets,,112,Houston Rockets,N
+1102,"18,203",Box Score,"Tue, Mar 29, 2011",,8:00p,115,Oklahoma City Thunder,OT,114,Golden State Warriors,N
+1103,"13,774",Box Score,"Tue, Mar 29, 2011",,10:00p,116,Sacramento Kings,,113,Phoenix Suns,N
+1104,"15,114",Box Score,"Wed, Mar 30, 2011",,7:00p,85,Atlanta Hawks,,82,Orlando Magic,N
+1105,"12,584",Box Score,"Wed, Mar 30, 2011",,7:00p,98,Charlotte Bobcats,,97,Cleveland Cavaliers,N
+1106,"9,390",Box Score,"Wed, Mar 30, 2011",,7:00p,111,Indiana Pacers,,101,Detroit Pistons,N
+1107,"16,635",Box Score,"Wed, Mar 30, 2011",,7:00p,108,Philadelphia 76ers,,97,Houston Rockets,N
+1108,"15,906",Box Score,"Wed, Mar 30, 2011",,7:00p,98,Toronto Raptors,,104,Milwaukee Bucks,N
+1109,"18,916",Box Score,"Wed, Mar 30, 2011",,7:00p,107,Washington Wizards,,123,Miami Heat,N
+1110,"19,763",Box Score,"Wed, Mar 30, 2011",,7:30p,120,New York Knicks,,116,New Jersey Nets,N
+1111,"13,815",Box Score,"Wed, Mar 30, 2011",,8:00p,110,Memphis Grizzlies,,91,Golden State Warriors,N
+1112,"19,207",Box Score,"Wed, Mar 30, 2011",,8:00p,91,Minnesota Timberwolves,,108,Chicago Bulls,N
+1113,"12,575",Box Score,"Wed, Mar 30, 2011",,8:00p,95,New Orleans Hornets,,91,Portland Trail Blazers,N
+1114,"17,955",Box Score,"Wed, Mar 30, 2011",,9:00p,104,Denver Nuggets,,90,Sacramento Kings,N
+1115,"18,033",Box Score,"Wed, Mar 30, 2011",,10:00p,98,Phoenix Suns,,116,Oklahoma City Thunder,N
+1116,"19,060",Box Score,"Wed, Mar 30, 2011",,10:30p,100,Los Angeles Clippers,,106,Dallas Mavericks,N
+1117,"18,583",Box Score,"Thu, Mar 31, 2011",,8:00p,97,San Antonio Spurs,,107,Boston Celtics,N
+1118,"18,997",Box Score,"Thu, Mar 31, 2011",,10:30p,110,Los Angeles Lakers,,82,Dallas Mavericks,N
+1119,"11,177",Box Score,"Fri, Apr 1, 2011",,7:00p,89,Indiana Pacers,,88,Milwaukee Bucks,N
+1120,"18,969",Box Score,"Fri, Apr 1, 2011",,7:00p,89,Orlando Magic,,77,Charlotte Bobcats,N
+1121,"16,695",Box Score,"Fri, Apr 1, 2011",,7:00p,115,Philadelphia 76ers,,90,New Jersey Nets,N
+1122,"17,427",Box Score,"Fri, Apr 1, 2011",,7:00p,115,Washington Wizards,,107,Cleveland Cavaliers,N
+1123,"22,076",Box Score,"Fri, Apr 1, 2011",,7:30p,96,Detroit Pistons,,101,Chicago Bulls,N
+1124,"19,763",Box Score,"Fri, Apr 1, 2011",,8:00p,88,Atlanta Hawks,,83,Boston Celtics,N
+1125,"19,096",Box Score,"Fri, Apr 1, 2011",,8:00p,92,Minnesota Timberwolves,,111,Miami Heat,N
+1126,"16,561",Box Score,"Fri, Apr 1, 2011",,8:00p,81,New Orleans Hornets,,93,Memphis Grizzlies,N
+1127,"18,059",Box Score,"Fri, Apr 1, 2011",,8:30p,119,Houston Rockets,OT,114,San Antonio Spurs,N
+1128,"18,422",Box Score,"Fri, Apr 1, 2011",,10:00p,111,Phoenix Suns,,98,Los Angeles Clippers,N
+1129,"20,709",Box Score,"Fri, Apr 1, 2011",,10:00p,98,Portland Trail Blazers,,91,Oklahoma City Thunder,N
+1130,"15,871",Box Score,"Fri, Apr 1, 2011",,10:00p,90,Sacramento Kings,,99,Denver Nuggets,N
+1131,"19,911",Box Score,"Fri, Apr 1, 2011",,10:30p,85,Utah Jazz,,96,Los Angeles Lakers,N
+1132,"22,228",Box Score,"Sat, Apr 2, 2011",,8:00p,113,Chicago Bulls,,106,Toronto Raptors,N
+1133,"15,327",Box Score,"Sat, Apr 2, 2011",,8:00p,106,Memphis Grizzlies,,89,Minnesota Timberwolves,N
+1134,"17,079",Box Score,"Sat, Apr 2, 2011",,8:30p,93,Milwaukee Bucks,OT,87,Philadelphia 76ers,N
+1135,"18,128",Box Score,"Sat, Apr 2, 2011",,10:30p,99,Golden State Warriors,,92,Dallas Mavericks,N
+1136,"19,060",Box Score,"Sat, Apr 2, 2011",,10:30p,98,Los Angeles Clippers,,92,Oklahoma City Thunder,N
+1137,"18,581",Box Score,"Sun, Apr 3, 2011",,1:00p,114,San Antonio Spurs,,97,Phoenix Suns,N
+1138,"18,997",Box Score,"Sun, Apr 3, 2011",,3:30p,90,Los Angeles Lakers,,95,Denver Nuggets,N
+1139,"18,624",Box Score,"Sun, Apr 3, 2011",,6:00p,101,Boston Celtics,,90,Detroit Pistons,N
+1140,"16,444",Box Score,"Sun, Apr 3, 2011",,6:00p,91,Charlotte Bobcats,,97,Washington Wizards,N
+1141,"18,711",Box Score,"Sun, Apr 3, 2011",,6:00p,94,New Jersey Nets,,108,Miami Heat,N
+1142,"19,763",Box Score,"Sun, Apr 3, 2011",,6:00p,123,New York Knicks,,107,Cleveland Cavaliers,N
+1143,"17,215",Box Score,"Sun, Apr 3, 2011",,6:00p,106,Sacramento Kings,,97,Utah Jazz,N
+1144,"19,800",Box Score,"Sun, Apr 3, 2011",,6:00p,102,Toronto Raptors,,98,Orlando Magic,N
+1145,"15,993",Box Score,"Sun, Apr 3, 2011",,7:00p,114,Houston Rockets,,109,Atlanta Hawks,N
+1146,"13,898",Box Score,"Sun, Apr 3, 2011",,7:00p,108,New Orleans Hornets,,96,Indiana Pacers,N
+1147,"20,534",Box Score,"Sun, Apr 3, 2011",,9:00p,104,Portland Trail Blazers,,96,Dallas Mavericks,N
+1148,"17,277",Box Score,"Tue, Apr 5, 2011",,7:00p,90,Atlanta Hawks,,97,San Antonio Spurs,N
+1149,"19,835",Box Score,"Tue, Apr 5, 2011",,7:00p,99,Cleveland Cavaliers,,89,Charlotte Bobcats,N
+1150,"13,461",Box Score,"Tue, Apr 5, 2011",,7:00p,107,New Jersey Nets,,105,Minnesota Timberwolves,N
+1151,"18,996",Box Score,"Tue, Apr 5, 2011",,7:00p,78,Orlando Magic,,72,Milwaukee Bucks,N
+1152,"18,131",Box Score,"Tue, Apr 5, 2011",,7:00p,107,Washington Wizards,,105,Detroit Pistons,N
+1153,"18,624",Box Score,"Tue, Apr 5, 2011",,7:30p,99,Boston Celtics,,82,Philadelphia 76ers,N
+1154,"19,763",Box Score,"Tue, Apr 5, 2011",,7:30p,131,New York Knicks,,118,Toronto Raptors,N
+1155,"21,873",Box Score,"Tue, Apr 5, 2011",,8:00p,97,Chicago Bulls,,94,Phoenix Suns,N
+1156,"15,433",Box Score,"Tue, Apr 5, 2011",,8:00p,81,Memphis Grizzlies,,82,Los Angeles Clippers,N
+1157,"15,523",Box Score,"Tue, Apr 5, 2011",,8:30p,101,Houston Rockets,,104,Sacramento Kings,N
+1158,"18,203",Box Score,"Tue, Apr 5, 2011",,9:00p,94,Denver Nuggets,,101,Oklahoma City Thunder,N
+1159,"20,551",Box Score,"Tue, Apr 5, 2011",,10:00p,87,Portland Trail Blazers,,108,Golden State Warriors,N
+1160,"18,997",Box Score,"Tue, Apr 5, 2011",,10:30p,85,Los Angeles Lakers,,86,Utah Jazz,N
+1161,"16,234",Box Score,"Wed, Apr 6, 2011",,7:00p,102,Charlotte Bobcats,OT,111,Orlando Magic,N
+1162,"14,222",Box Score,"Wed, Apr 6, 2011",,7:00p,136,Indiana Pacers,,112,Washington Wizards,N
+1163,"18,375",Box Score,"Wed, Apr 6, 2011",,7:00p,92,Philadelphia 76ers,,97,New York Knicks,N
+1164,"14,886",Box Score,"Wed, Apr 6, 2011",,7:00p,96,Toronto Raptors,,104,Cleveland Cavaliers,N
+1165,"14,554",Box Score,"Wed, Apr 6, 2011",,7:30p,116,Detroit Pistons,,109,New Jersey Nets,N
+1166,"20,017",Box Score,"Wed, Apr 6, 2011",,8:00p,85,Miami Heat,,90,Milwaukee Bucks,N
+1167,"16,113",Box Score,"Wed, Apr 6, 2011",,8:00p,98,Minnesota Timberwolves,,108,Phoenix Suns,N
+1168,"12,728",Box Score,"Wed, Apr 6, 2011",,8:00p,101,New Orleans Hornets,,93,Houston Rockets,N
+1169,"18,203",Box Score,"Wed, Apr 6, 2011",,8:00p,112,Oklahoma City Thunder,,108,Los Angeles Clippers,N
+1170,"20,364",Box Score,"Wed, Apr 6, 2011",,8:30p,96,Dallas Mavericks,,104,Denver Nuggets,N
+1171,"18,590",Box Score,"Wed, Apr 6, 2011",,8:30p,124,San Antonio Spurs,,92,Sacramento Kings,N
+1172,"20,024",Box Score,"Wed, Apr 6, 2011",,10:30p,95,Golden State Warriors,,87,Los Angeles Lakers,N
+1173,"23,067",Box Score,"Thu, Apr 7, 2011",,8:00p,97,Chicago Bulls,,81,Boston Celtics,N
+1174,"18,831",Box Score,"Thu, Apr 7, 2011",,10:30p,87,Utah Jazz,,98,Portland Trail Blazers,N
+1175,"15,879",Box Score,"Fri, Apr 8, 2011",,7:00p,114,Indiana Pacers,,102,Atlanta Hawks,N
+1176,"18,023",Box Score,"Fri, Apr 8, 2011",,7:00p,93,New Jersey Nets,,116,New York Knicks,N
+1177,"16,362",Box Score,"Fri, Apr 8, 2011",,7:00p,98,Philadelphia 76ers,,93,Toronto Raptors,N
+1178,"18,624",Box Score,"Fri, Apr 8, 2011",,7:30p,104,Boston Celtics,,88,Washington Wizards,N
+1179,"20,562",Box Score,"Fri, Apr 8, 2011",,7:30p,82,Cleveland Cavaliers,,93,Chicago Bulls,N
+1180,"16,266",Box Score,"Fri, Apr 8, 2011",,7:30p,110,Detroit Pistons,,100,Milwaukee Bucks,N
+1181,"19,897",Box Score,"Fri, Apr 8, 2011",,7:30p,112,Miami Heat,,103,Charlotte Bobcats,N
+1182,"16,517",Box Score,"Fri, Apr 8, 2011",,8:00p,101,Memphis Grizzlies,,96,Sacramento Kings,N
+1183,"14,950",Box Score,"Fri, Apr 8, 2011",,8:00p,109,New Orleans Hornets,,97,Phoenix Suns,N
+1184,"18,203",Box Score,"Fri, Apr 8, 2011",,8:00p,104,Oklahoma City Thunder,,89,Denver Nuggets,N
+1185,"20,382",Box Score,"Fri, Apr 8, 2011",,8:30p,107,Dallas Mavericks,,96,Los Angeles Clippers,N
+1186,"20,697",Box Score,"Fri, Apr 8, 2011",,10:00p,93,Portland Trail Blazers,,86,Los Angeles Lakers,N
+1187,"19,771",Box Score,"Sat, Apr 9, 2011",,7:00p,115,Washington Wizards,,83,Atlanta Hawks,N
+1188,"18,089",Box Score,"Sat, Apr 9, 2011",,8:30p,99,Houston Rockets,,78,Los Angeles Clippers,N
+1189,"18,717",Box Score,"Sat, Apr 9, 2011",,8:30p,108,Milwaukee Bucks,,101,Cleveland Cavaliers,N
+1190,"18,802",Box Score,"Sat, Apr 9, 2011",,8:30p,111,San Antonio Spurs,,102,Utah Jazz,N
+1191,"19,155",Box Score,"Sat, Apr 9, 2011",,9:00p,130,Denver Nuggets,,106,Minnesota Timberwolves,N
+1192,"19,181",Box Score,"Sun, Apr 10, 2011",,1:00p,99,Orlando Magic,,102,Chicago Bulls,N
+1193,"19,766",Box Score,"Sun, Apr 10, 2011",,3:30p,100,Miami Heat,,77,Boston Celtics,N
+1194,"16,234",Box Score,"Sun, Apr 10, 2011",,6:00p,101,Charlotte Bobcats,,112,Detroit Pistons,N
+1195,"17,041",Box Score,"Sun, Apr 10, 2011",,6:00p,111,Memphis Grizzlies,,89,New Orleans Hornets,N
+1196,"17,755",Box Score,"Sun, Apr 10, 2011",,6:00p,99,Toronto Raptors,,92,New Jersey Nets,N
+1197,"13,542",Box Score,"Sun, Apr 10, 2011",,7:00p,109,Indiana Pacers,,110,New York Knicks,N
+1198,"20,355",Box Score,"Sun, Apr 10, 2011",,7:30p,115,Dallas Mavericks,,90,Phoenix Suns,N
+1199,"19,596",Box Score,"Sun, Apr 10, 2011",,9:00p,103,Golden State Warriors,,104,Sacramento Kings,N
+1200,"18,997",Box Score,"Sun, Apr 10, 2011",,9:30p,106,Los Angeles Lakers,,120,Oklahoma City Thunder,N
+1201,"18,529",Box Score,"Mon, Apr 11, 2011",,7:00p,90,Atlanta Hawks,,98,Miami Heat,N
+1202,"13,853",Box Score,"Mon, Apr 11, 2011",,7:00p,103,New Jersey Nets,,105,Charlotte Bobcats,N
+1203,"19,139",Box Score,"Mon, Apr 11, 2011",,7:00p,85,Philadelphia 76ers,,95,Orlando Magic,N
+1204,"17,787",Box Score,"Mon, Apr 11, 2011",,7:00p,95,Washington Wizards,OT,94,Boston Celtics,N
+1205,"15,589",Box Score,"Mon, Apr 11, 2011",,7:30p,101,Detroit Pistons,,110,Cleveland Cavaliers,N
+1206,"13,279",Box Score,"Mon, Apr 11, 2011",,8:00p,93,Milwaukee Bucks,,86,Toronto Raptors,N
+1207,"12,558",Box Score,"Mon, Apr 11, 2011",,8:00p,78,New Orleans Hornets,,90,Utah Jazz,N
+1208,"14,898",Box Score,"Mon, Apr 11, 2011",,8:30p,91,Houston Rockets,OT,98,Dallas Mavericks,N
+1209,"19,155",Box Score,"Mon, Apr 11, 2011",,9:00p,134,Denver Nuggets,,111,Golden State Warriors,N
+1210,"17,485",Box Score,"Mon, Apr 11, 2011",,10:00p,135,Phoenix Suns,OT,127,Minnesota Timberwolves,N
+1211,"15,683",Box Score,"Mon, Apr 11, 2011",,10:00p,112,Sacramento Kings,,120,Oklahoma City Thunder,N
+1212,"19,763",Box Score,"Tue, Apr 12, 2011",,8:00p,90,New York Knicks,,103,Chicago Bulls,N
+1213,"20,662",Box Score,"Tue, Apr 12, 2011",,10:00p,102,Portland Trail Blazers,,89,Memphis Grizzlies,N
+1214,"18,997",Box Score,"Tue, Apr 12, 2011",,10:30p,102,Los Angeles Lakers,,93,San Antonio Spurs,N
+1215,"18,624",Box Score,"Wed, Apr 13, 2011",,8:00p,112,Boston Celtics,,102,New York Knicks,N
+1216,"16,138",Box Score,"Wed, Apr 13, 2011",,8:00p,96,Charlotte Bobcats,,85,Atlanta Hawks,N
+1217,"22,420",Box Score,"Wed, Apr 13, 2011",,8:00p,97,Chicago Bulls,,92,New Jersey Nets,N
+1218,"20,562",Box Score,"Wed, Apr 13, 2011",,8:00p,100,Cleveland Cavaliers,,93,Washington Wizards,N
+1219,"20,366",Box Score,"Wed, Apr 13, 2011",,8:00p,121,Dallas Mavericks,,89,New Orleans Hornets,N
+1220,"17,101",Box Score,"Wed, Apr 13, 2011",,8:00p,102,Minnesota Timberwolves,,121,Houston Rockets,N
+1221,"18,203",Box Score,"Wed, Apr 13, 2011",,8:00p,106,Oklahoma City Thunder,OT,110,Milwaukee Bucks,N
+1222,"19,169",Box Score,"Wed, Apr 13, 2011",,8:00p,92,Orlando Magic,,74,Indiana Pacers,N
+1223,"13,760",Box Score,"Wed, Apr 13, 2011",,8:00p,100,Philadelphia 76ers,,104,Detroit Pistons,N
+1224,"20,108",Box Score,"Wed, Apr 13, 2011",,8:00p,79,Toronto Raptors,,97,Miami Heat,N
+1225,"19,051",Box Score,"Wed, Apr 13, 2011",,8:00p,107,Utah Jazz,,103,Denver Nuggets,N
+1226,"19,596",Box Score,"Wed, Apr 13, 2011",,10:30p,110,Golden State Warriors,,86,Portland Trail Blazers,N
+1227,"19,060",Box Score,"Wed, Apr 13, 2011",,10:30p,110,Los Angeles Clippers,,103,Memphis Grizzlies,N
+1228,"18,195",Box Score,"Wed, Apr 13, 2011",,10:30p,106,Phoenix Suns,,103,San Antonio Spurs,N
+1229,"17,641",Box Score,"Wed, Apr 13, 2011",,10:30p,108,Sacramento Kings,OT,116,Los Angeles Lakers,N
+1230,"22,986",Box Score,"Sat, Apr 16, 2011",,1:00p,104,Chicago Bulls,,99,Indiana Pacers,N
+1231,"19,600",Box Score,"Sat, Apr 16, 2011",,3:30p,97,Miami Heat,,89,Philadelphia 76ers,Y
+1232,"19,108",Box Score,"Sat, Apr 16, 2011",,7:00p,93,Orlando Magic,,103,Atlanta Hawks,Y
+1233,"20,541",Box Score,"Sat, Apr 16, 2011",,9:30p,89,Dallas Mavericks,,81,Portland Trail Blazers,Y
+1234,"18,581",Box Score,"Sun, Apr 17, 2011",,1:00p,98,San Antonio Spurs,,101,Memphis Grizzlies,Y
+1235,"18,997",Box Score,"Sun, Apr 17, 2011",,3:30p,100,Los Angeles Lakers,,109,New Orleans Hornets,Y
+1236,"18,624",Box Score,"Sun, Apr 17, 2011",,7:00p,87,Boston Celtics,,85,New York Knicks,Y
+1237,"18,203",Box Score,"Sun, Apr 17, 2011",,9:30p,107,Oklahoma City Thunder,,103,Denver Nuggets,Y
+1238,"20,204",Box Score,"Mon, Apr 18, 2011",,7:00p,94,Miami Heat,,73,Philadelphia 76ers,Y
+1239,"22,480",Box Score,"Mon, Apr 18, 2011",,9:30p,96,Chicago Bulls,,90,Indiana Pacers,Y
+1240,"18,624",Box Score,"Tue, Apr 19, 2011",,7:00p,96,Boston Celtics,,93,New York Knicks,Y
+1241,"19,160",Box Score,"Tue, Apr 19, 2011",,7:30p,88,Orlando Magic,,82,Atlanta Hawks,Y
+1242,"20,620",Box Score,"Tue, Apr 19, 2011",,9:30p,101,Dallas Mavericks,,89,Portland Trail Blazers,Y
+1243,"18,203",Box Score,"Wed, Apr 20, 2011",,8:00p,106,Oklahoma City Thunder,,89,Denver Nuggets,Y
+1244,"18,760",Box Score,"Wed, Apr 20, 2011",,8:30p,93,San Antonio Spurs,,87,Memphis Grizzlies,Y
+1245,"18,997",Box Score,"Wed, Apr 20, 2011",,10:30p,87,Los Angeles Lakers,,78,New Orleans Hornets,Y
+1246,"18,165",Box Score,"Thu, Apr 21, 2011",,7:00p,84,Indiana Pacers,,88,Chicago Bulls,Y
+1247,"20,404",Box Score,"Thu, Apr 21, 2011",,8:00p,94,Philadelphia 76ers,,100,Miami Heat,Y
+1248,"20,217",Box Score,"Thu, Apr 21, 2011",,10:30p,97,Portland Trail Blazers,,92,Dallas Mavericks,Y
+1249,"19,763",Box Score,"Fri, Apr 22, 2011",,7:00p,96,New York Knicks,,113,Boston Celtics,Y
+1250,"19,865",Box Score,"Fri, Apr 22, 2011",,8:00p,88,Atlanta Hawks,,84,Orlando Magic,Y
+1251,"18,340",Box Score,"Fri, Apr 22, 2011",,9:30p,86,New Orleans Hornets,,100,Los Angeles Lakers,Y
+1252,"18,165",Box Score,"Sat, Apr 23, 2011",,2:30p,89,Indiana Pacers,,84,Chicago Bulls,Y
+1253,"20,357",Box Score,"Sat, Apr 23, 2011",,5:00p,84,Portland Trail Blazers,,82,Dallas Mavericks,Y
+1254,"18,119",Box Score,"Sat, Apr 23, 2011",,7:30p,91,Memphis Grizzlies,,88,San Antonio Spurs,Y
+1255,"19,958",Box Score,"Sat, Apr 23, 2011",,10:00p,94,Denver Nuggets,,97,Oklahoma City Thunder,Y
+1256,"19,048",Box Score,"Sun, Apr 24, 2011",,1:00p,86,Philadelphia 76ers,,82,Miami Heat,Y
+1257,"19,763",Box Score,"Sun, Apr 24, 2011",,3:30p,89,New York Knicks,,101,Boston Celtics,Y
+1258,"19,490",Box Score,"Sun, Apr 24, 2011",,7:00p,88,Atlanta Hawks,,85,Orlando Magic,Y
+1259,"18,083",Box Score,"Sun, Apr 24, 2011",,9:30p,93,New Orleans Hornets,,88,Los Angeles Lakers,Y
+1260,"18,119",Box Score,"Mon, Apr 25, 2011",,8:00p,104,Memphis Grizzlies,,86,San Antonio Spurs,Y
+1261,"20,837",Box Score,"Mon, Apr 25, 2011",,8:30p,93,Dallas Mavericks,,82,Portland Trail Blazers,Y
+1262,"19,155",Box Score,"Mon, Apr 25, 2011",,10:30p,104,Denver Nuggets,,101,Oklahoma City Thunder,Y
+1263,"19,091",Box Score,"Tue, Apr 26, 2011",,7:30p,101,Orlando Magic,,76,Atlanta Hawks,Y
+1264,"22,822",Box Score,"Tue, Apr 26, 2011",,8:00p,116,Chicago Bulls,,89,Indiana Pacers,Y
+1265,"18,997",Box Score,"Tue, Apr 26, 2011",,10:30p,106,Los Angeles Lakers,,90,New Orleans Hornets,Y
+1266,"19,896",Box Score,"Wed, Apr 27, 2011",,7:00p,97,Miami Heat,,91,Philadelphia 76ers,Y
+1267,"18,581",Box Score,"Wed, Apr 27, 2011",,8:30p,110,San Antonio Spurs,OT,103,Memphis Grizzlies,Y
+1268,"18,203",Box Score,"Wed, Apr 27, 2011",,9:30p,100,Oklahoma City Thunder,,97,Denver Nuggets,Y
+1269,"19,282",Box Score,"Thu, Apr 28, 2011",,7:30p,84,Atlanta Hawks,,81,Orlando Magic,Y
+1270,"17,949",Box Score,"Thu, Apr 28, 2011",,8:00p,80,New Orleans Hornets,,98,Los Angeles Lakers,Y
+1271,"20,494",Box Score,"Thu, Apr 28, 2011",,10:30p,96,Portland Trail Blazers,,103,Dallas Mavericks,Y
+1272,"18,119",Box Score,"Fri, Apr 29, 2011",,9:00p,99,Memphis Grizzlies,,91,San Antonio Spurs,Y
+1273,"18,203",Box Score,"Sun, May 1, 2011",,1:00p,101,Oklahoma City Thunder,,114,Memphis Grizzlies,Y
+1274,"20,021",Box Score,"Sun, May 1, 2011",,3:30p,99,Miami Heat,,90,Boston Celtics,Y
+1275,"22,890",Box Score,"Mon, May 2, 2011",,8:00p,95,Chicago Bulls,,103,Atlanta Hawks,Y
+1276,"18,997",Box Score,"Mon, May 2, 2011",,10:30p,94,Los Angeles Lakers,,96,Dallas Mavericks,Y
+1277,"20,104",Box Score,"Tue, May 3, 2011",,7:00p,102,Miami Heat,,91,Boston Celtics,Y
+1278,"18,203",Box Score,"Tue, May 3, 2011",,9:30p,111,Oklahoma City Thunder,,102,Memphis Grizzlies,Y
+1279,"22,872",Box Score,"Wed, May 4, 2011",,8:00p,86,Chicago Bulls,,73,Atlanta Hawks,Y
+1280,"18,997",Box Score,"Wed, May 4, 2011",,10:30p,81,Los Angeles Lakers,,93,Dallas Mavericks,Y
+1281,"19,521",Box Score,"Fri, May 6, 2011",,7:00p,82,Atlanta Hawks,,99,Chicago Bulls,Y
+1282,"21,156",Box Score,"Fri, May 6, 2011",,9:30p,98,Dallas Mavericks,,92,Los Angeles Lakers,Y
+1283,"18,119",Box Score,"Sat, May 7, 2011",,5:00p,101,Memphis Grizzlies,OT,93,Oklahoma City Thunder,Y
+1284,"18,624",Box Score,"Sat, May 7, 2011",,8:00p,97,Boston Celtics,,81,Miami Heat,Y
+1285,"21,087",Box Score,"Sun, May 8, 2011",,3:30p,122,Dallas Mavericks,,86,Los Angeles Lakers,Y
+1286,"19,263",Box Score,"Sun, May 8, 2011",,8:00p,100,Atlanta Hawks,,88,Chicago Bulls,Y
+1287,"18,624",Box Score,"Mon, May 9, 2011",,7:00p,90,Boston Celtics,OT,98,Miami Heat,Y
+1288,"18,119",Box Score,"Mon, May 9, 2011",,9:30p,123,Memphis Grizzlies,3OT,133,Oklahoma City Thunder,Y
+1289,"22,980",Box Score,"Tue, May 10, 2011",,8:00p,95,Chicago Bulls,,83,Atlanta Hawks,Y
+1290,"20,208",Box Score,"Wed, May 11, 2011",,7:00p,97,Miami Heat,,87,Boston Celtics,Y
+1291,"18,203",Box Score,"Wed, May 11, 2011",,9:30p,99,Oklahoma City Thunder,,72,Memphis Grizzlies,Y
+1292,"19,378",Box Score,"Thu, May 12, 2011",,8:00p,73,Atlanta Hawks,,93,Chicago Bulls,Y
+1293,"18,119",Box Score,"Fri, May 13, 2011",,9:00p,95,Memphis Grizzlies,,83,Oklahoma City Thunder,Y
+1294,"18,203",Box Score,"Sun, May 15, 2011",,3:30p,105,Oklahoma City Thunder,,90,Memphis Grizzlies,Y
+1295,"22,874",Box Score,"Sun, May 15, 2011",,8:00p,103,Chicago Bulls,,82,Miami Heat,Y
+1296,"20,911",Box Score,"Tue, May 17, 2011",,9:00p,121,Dallas Mavericks,,112,Oklahoma City Thunder,Y
+1297,"23,007",Box Score,"Wed, May 18, 2011",,8:30p,75,Chicago Bulls,,85,Miami Heat,Y
+1298,"21,051",Box Score,"Thu, May 19, 2011",,9:00p,100,Dallas Mavericks,,106,Oklahoma City Thunder,Y
+1299,"18,203",Box Score,"Sat, May 21, 2011",,9:00p,87,Oklahoma City Thunder,,93,Dallas Mavericks,Y
+1300,"20,123",Box Score,"Sun, May 22, 2011",,8:30p,96,Miami Heat,,85,Chicago Bulls,Y
+1301,"18,203",Box Score,"Mon, May 23, 2011",,9:00p,105,Oklahoma City Thunder,OT,112,Dallas Mavericks,Y
+1302,"20,125",Box Score,"Tue, May 24, 2011",,8:30p,101,Miami Heat,OT,93,Chicago Bulls,Y
+1303,"21,092",Box Score,"Wed, May 25, 2011",,9:00p,100,Dallas Mavericks,,96,Oklahoma City Thunder,Y
+1304,"23,057",Box Score,"Thu, May 26, 2011",,8:30p,80,Chicago Bulls,,83,Miami Heat,Y
+1305,"20,003",Box Score,"Tue, May 31, 2011",,9:00p,92,Miami Heat,,84,Dallas Mavericks,Y
+1306,"20,003",Box Score,"Thu, Jun 2, 2011",,9:00p,93,Miami Heat,,95,Dallas Mavericks,Y
+1307,"20,340",Box Score,"Sun, Jun 5, 2011",,8:00p,86,Dallas Mavericks,,88,Miami Heat,Y
+1308,"20,430",Box Score,"Tue, Jun 7, 2011",,9:00p,86,Dallas Mavericks,,83,Miami Heat,Y
+1309,"20,433",Box Score,"Thu, Jun 9, 2011",,9:00p,112,Dallas Mavericks,,103,Miami Heat,Y
+1310,"20,003",Box Score,"Sun, Jun 12, 2011",,8:00p,95,Miami Heat,,105,Dallas Mavericks,Y

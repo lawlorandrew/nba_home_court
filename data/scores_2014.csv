@@ -1,0 +1,1320 @@
+,attendance,box_score_text,game_date,game_remarks,game_start_time,home_pts,home_team_name,overtimes,visitor_pts,visitor_team_name,playoffs
+0,"18,165",Box Score,"Tue, Oct 29, 2013",,7:00p,97,Indiana Pacers,,87,Orlando Magic,N
+1,"19,964",Box Score,"Tue, Oct 29, 2013",,8:00p,107,Miami Heat,,95,Chicago Bulls,N
+2,"18,997",Box Score,"Tue, Oct 29, 2013",,10:30p,116,Los Angeles Lakers,,103,Los Angeles Clippers,N
+3,"20,562",Box Score,"Wed, Oct 30, 2013",,7:00p,98,Cleveland Cavaliers,,94,Brooklyn Nets,N
+4,"20,155",Box Score,"Wed, Oct 30, 2013",,7:00p,93,Toronto Raptors,,87,Boston Celtics,N
+5,"19,523",Box Score,"Wed, Oct 30, 2013",,7:00p,114,Philadelphia 76ers,,110,Miami Heat,N
+6,"19,258",Box Score,"Wed, Oct 30, 2013",,7:30p,113,Detroit Pistons,,102,Washington Wizards,N
+7,"19,812",Box Score,"Wed, Oct 30, 2013",,7:30p,90,New York Knicks,,83,Milwaukee Bucks,N
+8,"17,803",Box Score,"Wed, Oct 30, 2013",,8:00p,90,New Orleans Pelicans,,95,Indiana Pacers,N
+9,"17,988",Box Score,"Wed, Oct 30, 2013",,8:00p,120,Minnesota Timberwolves,OT,115,Orlando Magic,N
+10,"18,083",Box Score,"Wed, Oct 30, 2013",,8:00p,96,Houston Rockets,,83,Charlotte Bobcats,N
+11,"18,581",Box Score,"Wed, Oct 30, 2013",,8:30p,101,San Antonio Spurs,,94,Memphis Grizzlies,N
+12,"19,834",Box Score,"Wed, Oct 30, 2013",,8:30p,118,Dallas Mavericks,,109,Atlanta Hawks,N
+13,"19,911",Box Score,"Wed, Oct 30, 2013",,9:00p,98,Utah Jazz,,101,Oklahoma City Thunder,N
+14,"17,208",Box Score,"Wed, Oct 30, 2013",,10:00p,104,Phoenix Suns,,91,Portland Trail Blazers,N
+15,"17,317",Box Score,"Wed, Oct 30, 2013",,10:00p,90,Sacramento Kings,,88,Denver Nuggets,N
+16,"19,596",Box Score,"Wed, Oct 30, 2013",,10:30p,125,Golden State Warriors,,94,Los Angeles Lakers,N
+17,"22,022",Box Score,"Thu, Oct 31, 2013",,8:00p,82,Chicago Bulls,,81,New York Knicks,N
+18,"19,060",Box Score,"Thu, Oct 31, 2013",,10:30p,126,Los Angeles Clippers,,115,Golden State Warriors,N
+19,"18,017",Box Score,"Fri, Nov 1, 2013",,7:00p,90,Charlotte Bobcats,,84,Cleveland Cavaliers,N
+20,"18,846",Box Score,"Fri, Nov 1, 2013",,7:00p,110,Orlando Magic,,90,New Orleans Pelicans,N
+21,"17,160",Box Score,"Fri, Nov 1, 2013",,7:00p,102,Washington Wizards,,109,Philadelphia 76ers,N
+22,"18,118",Box Score,"Fri, Nov 1, 2013",,7:30p,102,Atlanta Hawks,,95,Toronto Raptors,N
+23,"18,624",Box Score,"Fri, Nov 1, 2013",,7:30p,98,Boston Celtics,,105,Milwaukee Bucks,N
+24,"17,732",Box Score,"Fri, Nov 1, 2013",,8:00p,101,Brooklyn Nets,,100,Miami Heat,N
+25,"18,142",Box Score,"Fri, Nov 1, 2013",,8:00p,113,Houston Rockets,,105,Dallas Mavericks,N
+26,"18,119",Box Score,"Fri, Nov 1, 2013",,8:00p,111,Memphis Grizzlies,OT,108,Detroit Pistons,N
+27,"17,433",Box Score,"Fri, Nov 1, 2013",,8:00p,100,Minnesota Timberwolves,,81,Oklahoma City Thunder,N
+28,"19,155",Box Score,"Fri, Nov 1, 2013",,9:00p,98,Denver Nuggets,,113,Portland Trail Blazers,N
+29,"14,662",Box Score,"Fri, Nov 1, 2013",,10:00p,87,Phoenix Suns,,84,Utah Jazz,N
+30,"17,317",Box Score,"Fri, Nov 1, 2013",,10:00p,101,Sacramento Kings,,110,Los Angeles Clippers,N
+31,"18,997",Box Score,"Fri, Nov 1, 2013",,10:30p,85,Los Angeles Lakers,,91,San Antonio Spurs,N
+32,"16,242",Box Score,"Sat, Nov 2, 2013",,7:00p,89,Indiana Pacers,,74,Cleveland Cavaliers,N
+33,"15,782",Box Score,"Sat, Nov 2, 2013",,7:30p,107,Philadelphia 76ers,,104,Chicago Bulls,N
+34,"15,232",Box Score,"Sat, Nov 2, 2013",,8:00p,105,New Orleans Pelicans,,84,Charlotte Bobcats,N
+35,"20,262",Box Score,"Sat, Nov 2, 2013",,8:30p,111,Dallas Mavericks,,99,Memphis Grizzlies,N
+36,"16,046",Box Score,"Sat, Nov 2, 2013",,8:30p,90,Milwaukee Bucks,,97,Toronto Raptors,N
+37,"19,498",Box Score,"Sat, Nov 2, 2013",,9:00p,93,Utah Jazz,,104,Houston Rockets,N
+38,"20,028",Box Score,"Sat, Nov 2, 2013",,10:00p,115,Portland Trail Blazers,,105,San Antonio Spurs,N
+39,"19,596",Box Score,"Sat, Nov 2, 2013",,10:30p,98,Golden State Warriors,,87,Sacramento Kings,N
+40,"14,978",Box Score,"Sun, Nov 3, 2013",,6:00p,87,Detroit Pistons,,77,Boston Celtics,N
+41,"19,600",Box Score,"Sun, Nov 3, 2013",,6:00p,103,Miami Heat,,93,Washington Wizards,N
+42,"15,297",Box Score,"Sun, Nov 3, 2013",,6:00p,107,Orlando Magic,,86,Brooklyn Nets,N
+43,"18,203",Box Score,"Sun, Nov 3, 2013",,7:00p,103,Oklahoma City Thunder,,96,Phoenix Suns,N
+44,"19,812",Box Score,"Sun, Nov 3, 2013",,7:30p,100,New York Knicks,,109,Minnesota Timberwolves,N
+45,"18,997",Box Score,"Sun, Nov 3, 2013",,9:30p,105,Los Angeles Lakers,,103,Atlanta Hawks,N
+46,"17,892",Box Score,"Mon, Nov 4, 2013",,7:00p,93,Cleveland Cavaliers,,92,Minnesota Timberwolves,N
+47,"11,089",Box Score,"Mon, Nov 4, 2013",,7:00p,90,Philadelphia 76ers,,110,Golden State Warriors,N
+48,"15,872",Box Score,"Mon, Nov 4, 2013",,8:00p,95,Memphis Grizzlies,,88,Boston Celtics,N
+49,"19,404",Box Score,"Mon, Nov 4, 2013",,10:30p,137,Los Angeles Clippers,,118,Houston Rockets,N
+50,"18,470",Box Score,"Tue, Nov 5, 2013",,7:00p,95,Toronto Raptors,,104,Miami Heat,N
+51,"17,732",Box Score,"Tue, Nov 5, 2013",,7:30p,104,Brooklyn Nets,,88,Utah Jazz,N
+52,"13,401",Box Score,"Tue, Nov 5, 2013",,7:30p,91,Detroit Pistons,,99,Indiana Pacers,N
+53,"19,812",Box Score,"Tue, Nov 5, 2013",,7:30p,97,New York Knicks,,102,Charlotte Bobcats,N
+54,"13,404",Box Score,"Tue, Nov 5, 2013",,8:00p,98,New Orleans Pelicans,,104,Phoenix Suns,N
+55,"19,670",Box Score,"Tue, Nov 5, 2013",,8:30p,123,Dallas Mavericks,,104,Los Angeles Lakers,N
+56,"15,721",Box Score,"Tue, Nov 5, 2013",,9:00p,94,Denver Nuggets,,102,San Antonio Spurs,N
+57,"17,491",Box Score,"Tue, Nov 5, 2013",,10:00p,101,Portland Trail Blazers,,116,Houston Rockets,N
+58,"13,506",Box Score,"Tue, Nov 5, 2013",,10:00p,100,Sacramento Kings,,105,Atlanta Hawks,N
+59,"11,118",Box Score,"Wed, Nov 6, 2013",,7:00p,92,Charlotte Bobcats,,90,Toronto Raptors,N
+60,"18,165",Box Score,"Wed, Nov 6, 2013",,7:00p,97,Indiana Pacers,,80,Chicago Bulls,N
+61,"15,807",Box Score,"Wed, Nov 6, 2013",,7:00p,98,Orlando Magic,,90,Los Angeles Clippers,N
+62,"10,117",Box Score,"Wed, Nov 6, 2013",,7:00p,102,Philadelphia 76ers,,116,Washington Wizards,N
+63,"17,130",Box Score,"Wed, Nov 6, 2013",,7:30p,97,Boston Celtics,,87,Utah Jazz,N
+64,"15,209",Box Score,"Wed, Nov 6, 2013",,8:00p,84,Memphis Grizzlies,,99,New Orleans Pelicans,N
+65,"14,340",Box Score,"Wed, Nov 6, 2013",,8:00p,109,Milwaukee Bucks,,104,Cleveland Cavaliers,N
+66,"15,559",Box Score,"Wed, Nov 6, 2013",,8:00p,93,Minnesota Timberwolves,,106,Golden State Warriors,N
+67,"17,870",Box Score,"Wed, Nov 6, 2013",,8:30p,99,San Antonio Spurs,,96,Phoenix Suns,N
+68,"18,203",Box Score,"Wed, Nov 6, 2013",,9:30p,107,Oklahoma City Thunder,,93,Dallas Mavericks,N
+69,"19,600",Box Score,"Thu, Nov 7, 2013",,7:00p,102,Miami Heat,,97,Los Angeles Clippers,N
+70,"15,404",Box Score,"Thu, Nov 7, 2013",,9:00p,109,Denver Nuggets,,107,Atlanta Hawks,N
+71,"18,133",Box Score,"Thu, Nov 7, 2013",,9:30p,98,Houston Rockets,,99,Los Angeles Lakers,N
+72,"16,465",Box Score,"Fri, Nov 8, 2013",,7:00p,91,Charlotte Bobcats,,101,New York Knicks,N
+73,"13,316",Box Score,"Fri, Nov 8, 2013",,7:00p,91,Indiana Pacers,,84,Toronto Raptors,N
+74,"17,555",Box Score,"Fri, Nov 8, 2013",,7:00p,89,Orlando Magic,,91,Boston Celtics,N
+75,"15,219",Box Score,"Fri, Nov 8, 2013",,7:00p,94,Philadelphia 76ers,,79,Cleveland Cavaliers,N
+76,"17,215",Box Score,"Fri, Nov 8, 2013",,7:00p,112,Washington Wizards,OT,108,Brooklyn Nets,N
+77,"15,624",Box Score,"Fri, Nov 8, 2013",,7:30p,110,Detroit Pistons,,119,Oklahoma City Thunder,N
+78,"21,946",Box Score,"Fri, Nov 8, 2013",,8:00p,97,Chicago Bulls,,73,Utah Jazz,N
+79,"13,677",Box Score,"Fri, Nov 8, 2013",,8:00p,116,Minnesota Timberwolves,,108,Dallas Mavericks,N
+80,"18,209",Box Score,"Fri, Nov 8, 2013",,8:00p,96,New Orleans Pelicans,,85,Los Angeles Lakers,N
+81,"18,581",Box Score,"Fri, Nov 8, 2013",,8:30p,76,San Antonio Spurs,,74,Golden State Warriors,N
+82,"15,145",Box Score,"Fri, Nov 8, 2013",,9:00p,114,Phoenix Suns,,103,Denver Nuggets,N
+83,"17,627",Box Score,"Fri, Nov 8, 2013",,10:00p,104,Portland Trail Blazers,,91,Sacramento Kings,N
+84,"17,211",Box Score,"Sat, Nov 9, 2013",,7:00p,115,Toronto Raptors,,91,Utah Jazz,N
+85,"15,189",Box Score,"Sat, Nov 9, 2013",,7:30p,104,Atlanta Hawks,,94,Orlando Magic,N
+86,"17,732",Box Score,"Sat, Nov 9, 2013",,7:30p,91,Brooklyn Nets,,96,Indiana Pacers,N
+87,"20,562",Box Score,"Sat, Nov 9, 2013",,7:30p,127,Cleveland Cavaliers,2OT,125,Philadelphia 76ers,N
+88,"19,710",Box Score,"Sat, Nov 9, 2013",,7:30p,110,Miami Heat,,111,Boston Celtics,N
+89,"18,108",Box Score,"Sat, Nov 9, 2013",,8:00p,94,Houston Rockets,,107,Los Angeles Clippers,N
+90,"16,989",Box Score,"Sat, Nov 9, 2013",,8:00p,108,Memphis Grizzlies,,90,Golden State Warriors,N
+91,"16,448",Box Score,"Sat, Nov 9, 2013",,8:30p,83,Milwaukee Bucks,,91,Dallas Mavericks,N
+92,"15,482",Box Score,"Sat, Nov 9, 2013",,10:00p,85,Sacramento Kings,,96,Portland Trail Blazers,N
+93,"19,812",Box Score,"Sun, Nov 10, 2013",,12:00p,89,New York Knicks,,120,San Antonio Spurs,N
+94,"18,203",Box Score,"Sun, Nov 10, 2013",,7:00p,106,Oklahoma City Thunder,OT,105,Washington Wizards,N
+95,"13,154",Box Score,"Sun, Nov 10, 2013",,8:00p,101,Phoenix Suns,,94,New Orleans Pelicans,N
+96,"18,997",Box Score,"Sun, Nov 10, 2013",,9:30p,90,Los Angeles Lakers,,113,Minnesota Timberwolves,N
+97,"13,996",Box Score,"Mon, Nov 11, 2013",,7:00p,94,Charlotte Bobcats,,103,Atlanta Hawks,N
+98,"13,130",Box Score,"Mon, Nov 11, 2013",,7:00p,95,Indiana Pacers,,79,Memphis Grizzlies,N
+99,"12,424",Box Score,"Mon, Nov 11, 2013",,7:00p,85,Philadelphia 76ers,,109,San Antonio Spurs,N
+100,"18,624",Box Score,"Mon, Nov 11, 2013",,7:30p,120,Boston Celtics,,105,Orlando Magic,N
+101,"21,778",Box Score,"Mon, Nov 11, 2013",,8:00p,96,Chicago Bulls,,81,Cleveland Cavaliers,N
+102,"18,134",Box Score,"Mon, Nov 11, 2013",,8:00p,110,Houston Rockets,2OT,104,Toronto Raptors,N
+103,"16,866",Box Score,"Mon, Nov 11, 2013",,9:00p,81,Utah Jazz,,100,Denver Nuggets,N
+104,"18,834",Box Score,"Mon, Nov 11, 2013",,10:00p,109,Portland Trail Blazers,,103,Detroit Pistons,N
+105,"19,060",Box Score,"Mon, Nov 11, 2013",,10:30p,109,Los Angeles Clippers,,107,Minnesota Timberwolves,N
+106,"19,600",Box Score,"Tue, Nov 12, 2013",,7:30p,118,Miami Heat,,95,Milwaukee Bucks,N
+107,"19,627",Box Score,"Tue, Nov 12, 2013",,8:30p,105,Dallas Mavericks,,95,Washington Wizards,N
+108,"19,596",Box Score,"Tue, Nov 12, 2013",,10:30p,113,Golden State Warriors,,95,Detroit Pistons,N
+109,"18,426",Box Score,"Tue, Nov 12, 2013",,10:30p,116,Los Angeles Lakers,,95,New Orleans Pelicans,N
+110,"13,588",Box Score,"Wed, Nov 13, 2013",,7:00p,94,Orlando Magic,,91,Milwaukee Bucks,N
+111,"11,671",Box Score,"Wed, Nov 13, 2013",,7:00p,123,Philadelphia 76ers,OT,117,Houston Rockets,N
+112,"17,032",Box Score,"Wed, Nov 13, 2013",,7:30p,83,Boston Celtics,,89,Charlotte Bobcats,N
+113,"15,057",Box Score,"Wed, Nov 13, 2013",,8:00p,91,Atlanta Hawks,,95,New York Knicks,N
+114,"15,971",Box Score,"Wed, Nov 13, 2013",,8:00p,87,Memphis Grizzlies,,103,Toronto Raptors,N
+115,"14,978",Box Score,"Wed, Nov 13, 2013",,8:00p,124,Minnesota Timberwolves,,95,Cleveland Cavaliers,N
+116,"18,581",Box Score,"Wed, Nov 13, 2013",,8:30p,92,San Antonio Spurs,,79,Washington Wizards,N
+117,"17,824",Box Score,"Wed, Nov 13, 2013",,9:00p,111,Denver Nuggets,,99,Los Angeles Lakers,N
+118,"16,717",Box Score,"Wed, Nov 13, 2013",,9:00p,111,Utah Jazz,,105,New Orleans Pelicans,N
+119,"19,537",Box Score,"Wed, Nov 13, 2013",,10:00p,90,Portland Trail Blazers,,89,Phoenix Suns,N
+120,"15,122",Box Score,"Wed, Nov 13, 2013",,10:00p,107,Sacramento Kings,,86,Brooklyn Nets,N
+121,"19,273",Box Score,"Wed, Nov 13, 2013",,10:30p,111,Los Angeles Clippers,,103,Oklahoma City Thunder,N
+122,"19,812",Box Score,"Thu, Nov 14, 2013",,8:00p,106,New York Knicks,,109,Houston Rockets,N
+123,"19,596",Box Score,"Thu, Nov 14, 2013",,10:30p,116,Golden State Warriors,,115,Oklahoma City Thunder,N
+124,"16,202",Box Score,"Fri, Nov 15, 2013",,7:00p,104,Indiana Pacers,,77,Milwaukee Bucks,N
+125,"19,800",Box Score,"Fri, Nov 15, 2013",,7:00p,80,Toronto Raptors,,96,Chicago Bulls,N
+126,"12,070",Box Score,"Fri, Nov 15, 2013",,7:30p,113,Atlanta Hawks,,103,Philadelphia 76ers,N
+127,"18,624",Box Score,"Fri, Nov 15, 2013",,7:30p,96,Boston Celtics,,109,Portland Trail Blazers,N
+128,"18,679",Box Score,"Fri, Nov 15, 2013",,7:30p,80,Cleveland Cavaliers,,86,Charlotte Bobcats,N
+129,"19,772",Box Score,"Fri, Nov 15, 2013",,7:30p,110,Miami Heat,,104,Dallas Mavericks,N
+130,"17,142",Box Score,"Fri, Nov 15, 2013",,8:00p,117,Denver Nuggets,,113,Minnesota Timberwolves,N
+131,"15,984",Box Score,"Fri, Nov 15, 2013",,9:00p,98,Phoenix Suns,OT,100,Brooklyn Nets,N
+132,"17,530",Box Score,"Fri, Nov 15, 2013",,9:00p,82,Utah Jazz,,91,San Antonio Spurs,N
+133,"18,997",Box Score,"Fri, Nov 15, 2013",,10:30p,86,Los Angeles Lakers,,89,Memphis Grizzlies,N
+134,"17,317",Box Score,"Fri, Nov 15, 2013",,10:30p,90,Sacramento Kings,,97,Detroit Pistons,N
+135,"19,084",Box Score,"Sat, Nov 16, 2013",,7:00p,81,Charlotte Bobcats,,97,Miami Heat,N
+136,"15,039",Box Score,"Sat, Nov 16, 2013",,7:00p,100,Orlando Magic,,108,Dallas Mavericks,N
+137,"18,038",Box Score,"Sat, Nov 16, 2013",,7:00p,96,Washington Wizards,OT,103,Cleveland Cavaliers,N
+138,"19,812",Box Score,"Sat, Nov 16, 2013",,7:30p,90,New York Knicks,,110,Atlanta Hawks,N
+139,"22,158",Box Score,"Sat, Nov 16, 2013",,8:00p,110,Chicago Bulls,,94,Indiana Pacers,N
+140,"18,147",Box Score,"Sat, Nov 16, 2013",,8:00p,122,Houston Rockets,,111,Denver Nuggets,N
+141,"15,111",Box Score,"Sat, Nov 16, 2013",,8:00p,106,Minnesota Timberwolves,,88,Boston Celtics,N
+142,"16,659",Box Score,"Sat, Nov 16, 2013",,8:00p,135,New Orleans Pelicans,,98,Philadelphia 76ers,N
+143,"15,984",Box Score,"Sat, Nov 16, 2013",,8:30p,79,Milwaukee Bucks,,92,Oklahoma City Thunder,N
+144,"19,596",Box Score,"Sat, Nov 16, 2013",,10:30p,102,Golden State Warriors,,88,Utah Jazz,N
+145,"19,349",Box Score,"Sat, Nov 16, 2013",,10:30p,110,Los Angeles Clippers,,103,Brooklyn Nets,N
+146,"17,945",Box Score,"Sun, Nov 17, 2013",,1:00p,110,Toronto Raptors,OT,118,Portland Trail Blazers,N
+147,"15,630",Box Score,"Sun, Nov 17, 2013",,6:00p,86,Sacramento Kings,,97,Memphis Grizzlies,N
+148,"18,997",Box Score,"Sun, Nov 17, 2013",,9:30p,114,Los Angeles Lakers,,99,Detroit Pistons,N
+149,"17,732",Box Score,"Mon, Nov 18, 2013",,7:30p,98,Brooklyn Nets,,108,Portland Trail Blazers,N
+150,"21,628",Box Score,"Mon, Nov 18, 2013",,8:00p,86,Chicago Bulls,,81,Charlotte Bobcats,N
+151,"18,203",Box Score,"Mon, Nov 18, 2013",,8:00p,115,Oklahoma City Thunder,,113,Denver Nuggets,N
+152,"19,790",Box Score,"Mon, Nov 18, 2013",,8:30p,97,Dallas Mavericks,,94,Philadelphia 76ers,N
+153,"16,051",Box Score,"Mon, Nov 18, 2013",,9:00p,87,Utah Jazz,,98,Golden State Warriors,N
+154,"19,060",Box Score,"Mon, Nov 18, 2013",,10:30p,102,Los Angeles Clippers,,106,Memphis Grizzlies,N
+155,"14,804",Box Score,"Tue, Nov 19, 2013",,7:00p,104,Washington Wizards,,100,Minnesota Timberwolves,N
+156,"13,213",Box Score,"Tue, Nov 19, 2013",,7:30p,92,Detroit Pistons,,86,New York Knicks,N
+157,"19,600",Box Score,"Tue, Nov 19, 2013",,7:30p,104,Miami Heat,,88,Atlanta Hawks,N
+158,"18,232",Box Score,"Tue, Nov 19, 2013",,8:00p,109,Houston Rockets,,85,Boston Celtics,N
+159,"14,626",Box Score,"Tue, Nov 19, 2013",,10:00p,107,Sacramento Kings,,104,Phoenix Suns,N
+160,"13,843",Box Score,"Wed, Nov 20, 2013",,7:00p,95,Charlotte Bobcats,,91,Brooklyn Nets,N
+161,"16,189",Box Score,"Wed, Nov 20, 2013",,7:00p,91,Cleveland Cavaliers,,98,Washington Wizards,N
+162,"19,812",Box Score,"Wed, Nov 20, 2013",,7:00p,96,New York Knicks,OT,103,Indiana Pacers,N
+163,"17,256",Box Score,"Wed, Nov 20, 2013",,7:00p,92,Orlando Magic,,120,Miami Heat,N
+164,"10,787",Box Score,"Wed, Nov 20, 2013",,7:00p,98,Philadelphia 76ers,,108,Toronto Raptors,N
+165,"13,167",Box Score,"Wed, Nov 20, 2013",,7:30p,93,Atlanta Hawks,,85,Detroit Pistons,N
+166,"11,789",Box Score,"Wed, Nov 20, 2013",,8:00p,82,Milwaukee Bucks,,91,Portland Trail Blazers,N
+167,"13,101",Box Score,"Wed, Nov 20, 2013",,8:00p,98,Minnesota Timberwolves,,102,Los Angeles Clippers,N
+168,"13,203",Box Score,"Wed, Nov 20, 2013",,8:00p,105,New Orleans Pelicans,,98,Utah Jazz,N
+169,"18,581",Box Score,"Wed, Nov 20, 2013",,8:30p,104,San Antonio Spurs,,93,Boston Celtics,N
+170,"12,705",Box Score,"Wed, Nov 20, 2013",,9:00p,106,Phoenix Suns,,113,Sacramento Kings,N
+171,"20,045",Box Score,"Wed, Nov 20, 2013",,9:30p,123,Dallas Mavericks,,120,Houston Rockets,N
+172,"19,596",Box Score,"Wed, Nov 20, 2013",,10:30p,81,Golden State Warriors,OT,88,Memphis Grizzlies,N
+173,"18,203",Box Score,"Thu, Nov 21, 2013",,8:00p,105,Oklahoma City Thunder,,91,Los Angeles Clippers,N
+174,"18,423",Box Score,"Thu, Nov 21, 2013",,10:30p,97,Denver Nuggets,,87,Chicago Bulls,N
+175,"14,916",Box Score,"Fri, Nov 22, 2013",,7:00p,91,Charlotte Bobcats,,98,Phoenix Suns,N
+176,"13,588",Box Score,"Fri, Nov 22, 2013",,7:00p,115,Philadelphia 76ers,OT,107,Milwaukee Bucks,N
+177,"18,671",Box Score,"Fri, Nov 22, 2013",,7:00p,96,Toronto Raptors,,88,Washington Wizards,N
+178,"18,624",Box Score,"Fri, Nov 22, 2013",,7:30p,82,Boston Celtics,,97,Indiana Pacers,N
+179,"13,467",Box Score,"Fri, Nov 22, 2013",,7:30p,89,Detroit Pistons,,96,Atlanta Hawks,N
+180,"17,109",Box Score,"Fri, Nov 22, 2013",,8:00p,86,Memphis Grizzlies,,102,San Antonio Spurs,N
+181,"15,551",Box Score,"Fri, Nov 22, 2013",,8:00p,111,Minnesota Timberwolves,,81,Brooklyn Nets,N
+182,"15,186",Box Score,"Fri, Nov 22, 2013",,8:00p,104,New Orleans Pelicans,,100,Cleveland Cavaliers,N
+183,"19,781",Box Score,"Fri, Nov 22, 2013",,8:30p,103,Dallas Mavericks,,93,Utah Jazz,N
+184,"20,618",Box Score,"Fri, Nov 22, 2013",,10:00p,98,Portland Trail Blazers,,95,Chicago Bulls,N
+185,"18,997",Box Score,"Fri, Nov 22, 2013",,10:30p,102,Los Angeles Lakers,,95,Golden State Warriors,N
+186,"19,060",Box Score,"Sat, Nov 23, 2013",,3:30p,103,Los Angeles Clippers,,102,Sacramento Kings,N
+187,"18,165",Box Score,"Sat, Nov 23, 2013",,7:00p,106,Indiana Pacers,,98,Philadelphia 76ers,N
+188,"18,089",Box Score,"Sat, Nov 23, 2013",,7:00p,98,Washington Wizards,,89,New York Knicks,N
+189,"15,189",Box Score,"Sat, Nov 23, 2013",,7:30p,87,Atlanta Hawks,,94,Boston Celtics,N
+190,"19,647",Box Score,"Sat, Nov 23, 2013",,7:30p,101,Miami Heat,,99,Orlando Magic,N
+191,"18,196",Box Score,"Sat, Nov 23, 2013",,8:00p,112,Houston Rockets,,101,Minnesota Timberwolves,N
+192,"14,871",Box Score,"Sat, Nov 23, 2013",,8:30p,72,Milwaukee Bucks,,96,Charlotte Bobcats,N
+193,"18,581",Box Score,"Sat, Nov 23, 2013",,8:30p,126,San Antonio Spurs,,96,Cleveland Cavaliers,N
+194,"17,841",Box Score,"Sat, Nov 23, 2013",,9:00p,102,Denver Nuggets,,100,Dallas Mavericks,N
+195,"19,596",Box Score,"Sat, Nov 23, 2013",,10:30p,101,Golden State Warriors,,113,Portland Trail Blazers,N
+196,"17,732",Box Score,"Sun, Nov 24, 2013",,2:00p,97,Brooklyn Nets,,109,Detroit Pistons,N
+197,"19,245",Box Score,"Sun, Nov 24, 2013",,3:30p,121,Los Angeles Clippers,,82,Chicago Bulls,N
+198,"15,785",Box Score,"Sun, Nov 24, 2013",,6:00p,96,Orlando Magic,,104,Phoenix Suns,N
+199,"18,203",Box Score,"Sun, Nov 24, 2013",,7:00p,95,Oklahoma City Thunder,,73,Utah Jazz,N
+200,"18,997",Box Score,"Sun, Nov 24, 2013",,9:30p,100,Los Angeles Lakers,,86,Sacramento Kings,N
+201,"13,558",Box Score,"Mon, Nov 25, 2013",,7:00p,86,Charlotte Bobcats,,96,Boston Celtics,N
+202,"16,426",Box Score,"Mon, Nov 25, 2013",,7:00p,98,Indiana Pacers,,84,Minnesota Timberwolves,N
+203,"12,150",Box Score,"Mon, Nov 25, 2013",,7:30p,113,Detroit Pistons,,94,Milwaukee Bucks,N
+204,"19,758",Box Score,"Mon, Nov 25, 2013",,7:30p,107,Miami Heat,,92,Phoenix Suns,N
+205,"15,246",Box Score,"Mon, Nov 25, 2013",,8:00p,86,Memphis Grizzlies,,93,Houston Rockets,N
+206,"19,677",Box Score,"Mon, Nov 25, 2013",,8:30p,96,Dallas Mavericks,,110,Denver Nuggets,N
+207,"18,323",Box Score,"Mon, Nov 25, 2013",,8:30p,112,San Antonio Spurs,,93,New Orleans Pelicans,N
+208,"18,936",Box Score,"Mon, Nov 25, 2013",,9:00p,89,Utah Jazz,OT,83,Chicago Bulls,N
+209,"19,939",Box Score,"Mon, Nov 25, 2013",,10:00p,102,Portland Trail Blazers,,91,New York Knicks,N
+210,"16,421",Box Score,"Tue, Nov 26, 2013",,7:00p,100,Toronto Raptors,,102,Brooklyn Nets,N
+211,"19,204",Box Score,"Tue, Nov 26, 2013",,7:00p,116,Washington Wizards,,111,Los Angeles Lakers,N
+212,"13,164",Box Score,"Tue, Nov 26, 2013",,7:30p,92,Atlanta Hawks,,109,Orlando Magic,N
+213,"15,330",Box Score,"Tue, Nov 26, 2013",,8:00p,101,New Orleans Pelicans,,102,Golden State Warriors,N
+214,"15,170",Box Score,"Wed, Nov 27, 2013",,7:00p,74,Charlotte Bobcats,,99,Indiana Pacers,N
+215,"15,839",Box Score,"Wed, Nov 27, 2013",,7:00p,105,Orlando Magic,,94,Philadelphia 76ers,N
+216,"17,319",Box Score,"Wed, Nov 27, 2013",,7:30p,93,Boston Celtics,,100,Memphis Grizzlies,N
+217,"17,732",Box Score,"Wed, Nov 27, 2013",,7:30p,94,Brooklyn Nets,,99,Los Angeles Lakers,N
+218,"20,562",Box Score,"Wed, Nov 27, 2013",,7:30p,84,Cleveland Cavaliers,,95,Miami Heat,N
+219,"14,228",Box Score,"Wed, Nov 27, 2013",,7:30p,79,Detroit Pistons,,99,Chicago Bulls,N
+220,"18,051",Box Score,"Wed, Nov 27, 2013",,8:00p,113,Houston Rockets,,84,Atlanta Hawks,N
+221,"11,584",Box Score,"Wed, Nov 27, 2013",,8:00p,92,Milwaukee Bucks,OT,100,Washington Wizards,N
+222,"14,244",Box Score,"Wed, Nov 27, 2013",,8:00p,110,Minnesota Timberwolves,,117,Denver Nuggets,N
+223,"18,203",Box Score,"Wed, Nov 27, 2013",,8:00p,94,Oklahoma City Thunder,,88,San Antonio Spurs,N
+224,"20,211",Box Score,"Wed, Nov 27, 2013",,8:30p,103,Dallas Mavericks,,99,Golden State Warriors,N
+225,"12,731",Box Score,"Wed, Nov 27, 2013",,9:00p,120,Phoenix Suns,,106,Portland Trail Blazers,N
+226,"19,270",Box Score,"Wed, Nov 27, 2013",,10:30p,93,Los Angeles Clippers,,80,New York Knicks,N
+227,"15,081",Box Score,"Fri, Nov 29, 2013",,7:00p,92,Charlotte Bobcats,,76,Milwaukee Bucks,N
+228,"15,159",Box Score,"Fri, Nov 29, 2013",,7:00p,91,Orlando Magic,,109,San Antonio Spurs,N
+229,"18,290",Box Score,"Fri, Nov 29, 2013",,7:00p,83,Toronto Raptors,,90,Miami Heat,N
+230,"15,463",Box Score,"Fri, Nov 29, 2013",,7:30p,88,Atlanta Hawks,,87,Dallas Mavericks,N
+231,"17,685",Box Score,"Fri, Nov 29, 2013",,7:30p,103,Boston Celtics,,86,Cleveland Cavaliers,N
+232,"15,202",Box Score,"Fri, Nov 29, 2013",,7:30p,102,Detroit Pistons,,106,Los Angeles Lakers,N
+233,"18,138",Box Score,"Fri, Nov 29, 2013",,8:00p,114,Houston Rockets,,95,Brooklyn Nets,N
+234,"18,165",Box Score,"Fri, Nov 29, 2013",,8:00p,93,Indiana Pacers,,73,Washington Wizards,N
+235,"18,203",Box Score,"Fri, Nov 29, 2013",,8:00p,113,Oklahoma City Thunder,OT,112,Golden State Warriors,N
+236,"17,807",Box Score,"Fri, Nov 29, 2013",,8:00p,105,Philadelphia 76ers,,121,New Orleans Pelicans,N
+237,"19,155",Box Score,"Fri, Nov 29, 2013",,9:00p,97,Denver Nuggets,,95,New York Knicks,N
+238,"18,435",Box Score,"Fri, Nov 29, 2013",,9:00p,101,Utah Jazz,,112,Phoenix Suns,N
+239,"17,317",Box Score,"Fri, Nov 29, 2013",,10:00p,98,Sacramento Kings,OT,104,Los Angeles Clippers,N
+240,"14,280",Box Score,"Sat, Nov 30, 2013",,7:00p,108,Washington Wizards,,101,Atlanta Hawks,N
+241,"17,296",Box Score,"Sat, Nov 30, 2013",,7:30p,97,Cleveland Cavaliers,,93,Chicago Bulls,N
+242,"17,012",Box Score,"Sat, Nov 30, 2013",,8:00p,88,Memphis Grizzlies,,97,Brooklyn Nets,N
+243,"20,173",Box Score,"Sat, Nov 30, 2013",,8:30p,106,Dallas Mavericks,,112,Minnesota Timberwolves,N
+244,"18,581",Box Score,"Sat, Nov 30, 2013",,8:30p,106,San Antonio Spurs,,112,Houston Rockets,N
+245,"15,471",Box Score,"Sat, Nov 30, 2013",,9:00p,92,Milwaukee Bucks,,85,Boston Celtics,N
+246,"12,957",Box Score,"Sat, Nov 30, 2013",,9:00p,104,Phoenix Suns,,112,Utah Jazz,N
+247,"16,290",Box Score,"Sun, Dec 1, 2013",,1:00p,98,Toronto Raptors,,112,Denver Nuggets,N
+248,"14,107",Box Score,"Sun, Dec 1, 2013",,3:30p,115,Detroit Pistons,,100,Philadelphia 76ers,N
+249,"19,060",Box Score,"Sun, Dec 1, 2013",,3:30p,100,Los Angeles Clippers,,105,Indiana Pacers,N
+250,"19,617",Box Score,"Sun, Dec 1, 2013",,6:00p,99,Miami Heat,,98,Charlotte Bobcats,N
+251,"15,588",Box Score,"Sun, Dec 1, 2013",,6:00p,113,Sacramento Kings,,115,Golden State Warriors,N
+252,"18,203",Box Score,"Sun, Dec 1, 2013",,7:00p,113,Oklahoma City Thunder,,103,Minnesota Timberwolves,N
+253,"19,812",Box Score,"Sun, Dec 1, 2013",,7:30p,99,New York Knicks,,103,New Orleans Pelicans,N
+254,"18,997",Box Score,"Sun, Dec 1, 2013",,9:30p,108,Los Angeles Lakers,,114,Portland Trail Blazers,N
+255,"12,809",Box Score,"Mon, Dec 2, 2013",,7:00p,98,Washington Wizards,,80,Orlando Magic,N
+256,"21,615",Box Score,"Mon, Dec 2, 2013",,8:00p,128,Chicago Bulls,3OT,131,New Orleans Pelicans,N
+257,"17,318",Box Score,"Mon, Dec 2, 2013",,8:30p,102,San Antonio Spurs,,100,Atlanta Hawks,N
+258,"15,801",Box Score,"Mon, Dec 2, 2013",,9:00p,109,Utah Jazz,,103,Houston Rockets,N
+259,"19,023",Box Score,"Mon, Dec 2, 2013",,10:00p,106,Portland Trail Blazers,,102,Indiana Pacers,N
+260,"10,061",Box Score,"Tue, Dec 3, 2013",,7:00p,126,Philadelphia 76ers,2OT,125,Orlando Magic,N
+261,"16,649",Box Score,"Tue, Dec 3, 2013",,7:30p,108,Boston Celtics,,100,Milwaukee Bucks,N
+262,"17,732",Box Score,"Tue, Dec 3, 2013",,7:30p,87,Brooklyn Nets,,111,Denver Nuggets,N
+263,"19,741",Box Score,"Tue, Dec 3, 2013",,7:30p,97,Miami Heat,,107,Detroit Pistons,N
+264,"15,069",Box Score,"Tue, Dec 3, 2013",,8:00p,110,Memphis Grizzlies,,91,Phoenix Suns,N
+265,"19,612",Box Score,"Tue, Dec 3, 2013",,8:30p,89,Dallas Mavericks,,82,Charlotte Bobcats,N
+266,"15,089",Box Score,"Tue, Dec 3, 2013",,10:00p,95,Sacramento Kings,,97,Oklahoma City Thunder,N
+267,"19,596",Box Score,"Tue, Dec 3, 2013",,10:30p,112,Golden State Warriors,,103,Toronto Raptors,N
+268,"14,642",Box Score,"Wed, Dec 4, 2013",,7:00p,98,Cleveland Cavaliers,,88,Denver Nuggets,N
+269,"12,020",Box Score,"Wed, Dec 4, 2013",,7:30p,107,Atlanta Hawks,,97,Los Angeles Clippers,N
+270,"18,151",Box Score,"Wed, Dec 4, 2013",,8:00p,88,Houston Rockets,,97,Phoenix Suns,N
+271,"12,835",Box Score,"Wed, Dec 4, 2013",,8:00p,98,Milwaukee Bucks,,105,Detroit Pistons,N
+272,"14,524",Box Score,"Wed, Dec 4, 2013",,8:00p,97,New Orleans Pelicans,,100,Dallas Mavericks,N
+273,"15,519",Box Score,"Wed, Dec 4, 2013",,9:00p,86,Utah Jazz,,95,Indiana Pacers,N
+274,"18,950",Box Score,"Wed, Dec 4, 2013",,10:00p,111,Portland Trail Blazers,,104,Oklahoma City Thunder,N
+275,"17,732",Box Score,"Thu, Dec 5, 2013",,7:00p,83,Brooklyn Nets,,113,New York Knicks,N
+276,"15,112",Box Score,"Thu, Dec 5, 2013",,8:00p,81,Memphis Grizzlies,,101,Los Angeles Clippers,N
+277,"22,125",Box Score,"Thu, Dec 5, 2013",,9:30p,107,Chicago Bulls,,87,Miami Heat,N
+278,"14,088",Box Score,"Fri, Dec 6, 2013",,7:00p,105,Charlotte Bobcats,,88,Philadelphia 76ers,N
+279,"18,194",Box Score,"Fri, Dec 6, 2013",,7:00p,105,Washington Wizards,OT,109,Milwaukee Bucks,N
+280,"13,282",Box Score,"Fri, Dec 6, 2013",,7:30p,108,Atlanta Hawks,,89,Cleveland Cavaliers,N
+281,"17,263",Box Score,"Fri, Dec 6, 2013",,7:30p,106,Boston Celtics,,98,Denver Nuggets,N
+282,"19,812",Box Score,"Fri, Dec 6, 2013",,7:30p,121,New York Knicks,,83,Orlando Magic,N
+283,"18,145",Box Score,"Fri, Dec 6, 2013",,8:00p,105,Houston Rockets,,83,Golden State Warriors,N
+284,"17,694",Box Score,"Fri, Dec 6, 2013",,8:00p,95,New Orleans Pelicans,,109,Oklahoma City Thunder,N
+285,"12,672",Box Score,"Fri, Dec 6, 2013",,9:00p,106,Phoenix Suns,,97,Toronto Raptors,N
+286,"19,833",Box Score,"Fri, Dec 6, 2013",,10:00p,130,Portland Trail Blazers,,98,Utah Jazz,N
+287,"17,317",Box Score,"Fri, Dec 6, 2013",,10:00p,100,Sacramento Kings,,106,Los Angeles Lakers,N
+288,"13,113",Box Score,"Sat, Dec 7, 2013",,7:00p,92,Philadelphia 76ers,,103,Denver Nuggets,N
+289,"16,216",Box Score,"Sat, Dec 7, 2013",,7:30p,88,Cleveland Cavaliers,,82,Los Angeles Clippers,N
+290,"21,737",Box Score,"Sat, Dec 7, 2013",,8:00p,75,Chicago Bulls,,92,Detroit Pistons,N
+291,"15,088",Box Score,"Sat, Dec 7, 2013",,8:00p,82,Memphis Grizzlies,,108,Golden State Warriors,N
+292,"19,888",Box Score,"Sat, Dec 7, 2013",,8:00p,82,Minnesota Timberwolves,,103,Miami Heat,N
+293,"14,963",Box Score,"Sat, Dec 7, 2013",,8:30p,82,Milwaukee Bucks,,90,Brooklyn Nets,N
+294,"18,581",Box Score,"Sat, Dec 7, 2013",,8:30p,100,San Antonio Spurs,,111,Indiana Pacers,N
+295,"16,500",Box Score,"Sat, Dec 7, 2013",,9:00p,102,Utah Jazz,OT,112,Sacramento Kings,N
+296,"20,142",Box Score,"Sat, Dec 7, 2013",,10:00p,106,Portland Trail Blazers,,108,Dallas Mavericks,N
+297,"19,812",Box Score,"Sun, Dec 8, 2013",,12:00p,73,New York Knicks,,114,Boston Celtics,N
+298,"18,034",Box Score,"Sun, Dec 8, 2013",,6:00p,95,Detroit Pistons,,110,Miami Heat,N
+299,"16,407",Box Score,"Sun, Dec 8, 2013",,7:00p,98,Houston Rockets,,88,Orlando Magic,N
+300,"18,203",Box Score,"Sun, Dec 8, 2013",,7:00p,118,Oklahoma City Thunder,,94,Indiana Pacers,N
+301,"18,997",Box Score,"Sun, Dec 8, 2013",,9:30p,94,Los Angeles Lakers,,106,Toronto Raptors,N
+302,"13,129",Box Score,"Mon, Dec 9, 2013",,7:00p,115,Charlotte Bobcats,,111,Golden State Warriors,N
+303,"12,355",Box Score,"Mon, Dec 9, 2013",,7:00p,83,Philadelphia 76ers,,94,Los Angeles Clippers,N
+304,"13,293",Box Score,"Mon, Dec 9, 2013",,7:00p,74,Washington Wizards,,75,Denver Nuggets,N
+305,"13,511",Box Score,"Mon, Dec 9, 2013",,8:00p,94,Memphis Grizzlies,,85,Orlando Magic,N
+306,"17,555",Box Score,"Mon, Dec 9, 2013",,9:00p,94,Utah Jazz,,105,Portland Trail Blazers,N
+307,"15,329",Box Score,"Mon, Dec 9, 2013",,10:00p,112,Sacramento Kings,,97,Dallas Mavericks,N
+308,"14,580",Box Score,"Tue, Dec 10, 2013",,7:00p,109,Cleveland Cavaliers,,94,New York Knicks,N
+309,"18,165",Box Score,"Tue, Dec 10, 2013",,7:00p,90,Indiana Pacers,,84,Miami Heat,N
+310,"17,702",Box Score,"Tue, Dec 10, 2013",,7:00p,103,Toronto Raptors,,116,San Antonio Spurs,N
+311,"12,503",Box Score,"Tue, Dec 10, 2013",,7:30p,92,Atlanta Hawks,,101,Oklahoma City Thunder,N
+312,"15,738",Box Score,"Tue, Dec 10, 2013",,7:30p,104,Brooklyn Nets,,96,Boston Celtics,N
+313,"11,251",Box Score,"Tue, Dec 10, 2013",,7:30p,94,Detroit Pistons,,121,Minnesota Timberwolves,N
+314,"21,303",Box Score,"Tue, Dec 10, 2013",,8:00p,74,Chicago Bulls,,78,Milwaukee Bucks,N
+315,"18,997",Box Score,"Tue, Dec 10, 2013",,10:30p,108,Los Angeles Lakers,,114,Phoenix Suns,N
+316,"11,377",Box Score,"Wed, Dec 11, 2013",,7:00p,83,Charlotte Bobcats,,92,Orlando Magic,N
+317,"17,587",Box Score,"Wed, Dec 11, 2013",,7:30p,88,Boston Celtics,,96,Los Angeles Clippers,N
+318,"16,345",Box Score,"Wed, Dec 11, 2013",,8:00p,100,Memphis Grizzlies,,116,Oklahoma City Thunder,N
+319,"11,087",Box Score,"Wed, Dec 11, 2013",,8:00p,77,Milwaukee Bucks,,109,San Antonio Spurs,N
+320,"13,450",Box Score,"Wed, Dec 11, 2013",,8:00p,106,Minnesota Timberwolves,,99,Philadelphia 76ers,N
+321,"14,517",Box Score,"Wed, Dec 11, 2013",,8:00p,111,New Orleans Pelicans,OT,106,Detroit Pistons,N
+322,"19,812",Box Score,"Wed, Dec 11, 2013",,8:00p,83,New York Knicks,,78,Chicago Bulls,N
+323,"15,198",Box Score,"Wed, Dec 11, 2013",,10:00p,101,Sacramento Kings,,122,Utah Jazz,N
+324,"19,596",Box Score,"Wed, Dec 11, 2013",,10:30p,95,Golden State Warriors,,93,Dallas Mavericks,N
+325,"15,563",Box Score,"Thu, Dec 12, 2013",,8:00p,102,Brooklyn Nets,,93,Los Angeles Clippers,N
+326,"19,997",Box Score,"Thu, Dec 12, 2013",,10:30p,111,Portland Trail Blazers,,104,Houston Rockets,N
+327,"18,165",Box Score,"Fri, Dec 13, 2013",,7:00p,99,Indiana Pacers,,94,Charlotte Bobcats,N
+328,"16,119",Box Score,"Fri, Dec 13, 2013",,7:00p,100,Orlando Magic,,109,Cleveland Cavaliers,N
+329,"17,133",Box Score,"Fri, Dec 13, 2013",,7:00p,108,Toronto Raptors,,100,Philadelphia 76ers,N
+330,"11,251",Box Score,"Fri, Dec 13, 2013",,7:30p,101,Atlanta Hawks,OT,99,Washington Wizards,N
+331,"17,479",Box Score,"Fri, Dec 13, 2013",,7:30p,90,Boston Celtics,,86,New York Knicks,N
+332,"15,159",Box Score,"Fri, Dec 13, 2013",,7:30p,103,Detroit Pistons,,99,Brooklyn Nets,N
+333,"15,516",Box Score,"Fri, Dec 13, 2013",,8:00p,104,New Orleans Pelicans,,98,Memphis Grizzlies,N
+334,"18,203",Box Score,"Fri, Dec 13, 2013",,8:00p,122,Oklahoma City Thunder,,97,Los Angeles Lakers,N
+335,"15,219",Box Score,"Fri, Dec 13, 2013",,8:30p,90,Milwaukee Bucks,,91,Chicago Bulls,N
+336,"18,581",Box Score,"Fri, Dec 13, 2013",,8:30p,117,San Antonio Spurs,,110,Minnesota Timberwolves,N
+337,"15,616",Box Score,"Fri, Dec 13, 2013",,9:00p,93,Denver Nuggets,,103,Utah Jazz,N
+338,"14,128",Box Score,"Fri, Dec 13, 2013",,9:00p,116,Phoenix Suns,,107,Sacramento Kings,N
+339,"19,596",Box Score,"Fri, Dec 13, 2013",,10:30p,112,Golden State Warriors,,116,Houston Rockets,N
+340,"17,101",Box Score,"Sat, Dec 14, 2013",,7:00p,85,Charlotte Bobcats,,88,Los Angeles Lakers,N
+341,"16,509",Box Score,"Sat, Dec 14, 2013",,7:00p,97,Washington Wizards,,113,Los Angeles Clippers,N
+342,"19,656",Box Score,"Sat, Dec 14, 2013",,7:30p,114,Miami Heat,,107,Cleveland Cavaliers,N
+343,"19,812",Box Score,"Sat, Dec 14, 2013",,7:30p,111,New York Knicks,,106,Atlanta Hawks,N
+344,"21,386",Box Score,"Sat, Dec 14, 2013",,8:00p,77,Chicago Bulls,,99,Toronto Raptors,N
+345,"10,189",Box Score,"Sat, Dec 14, 2013",,8:00p,105,Philadelphia 76ers,,139,Portland Trail Blazers,N
+346,"19,973",Box Score,"Sat, Dec 14, 2013",,8:30p,106,Dallas Mavericks,,93,Milwaukee Bucks,N
+347,"19,330",Box Score,"Sat, Dec 14, 2013",,9:00p,84,Utah Jazz,,100,San Antonio Spurs,N
+348,"13,003",Box Score,"Sun, Dec 15, 2013",,6:00p,109,Detroit Pistons,OT,111,Portland Trail Blazers,N
+349,"15,417",Box Score,"Sun, Dec 15, 2013",,6:00p,93,Memphis Grizzlies,,101,Minnesota Timberwolves,N
+350,"15,606",Box Score,"Sun, Dec 15, 2013",,6:00p,106,Sacramento Kings,,91,Houston Rockets,N
+351,"18,203",Box Score,"Sun, Dec 15, 2013",,7:00p,101,Oklahoma City Thunder,,98,Orlando Magic,N
+352,"15,111",Box Score,"Sun, Dec 15, 2013",,8:00p,102,Denver Nuggets,,93,New Orleans Pelicans,N
+353,"14,393",Box Score,"Sun, Dec 15, 2013",,8:00p,106,Phoenix Suns,,102,Golden State Warriors,N
+354,"15,443",Box Score,"Mon, Dec 16, 2013",,7:00p,96,Indiana Pacers,,101,Detroit Pistons,N
+355,"15,146",Box Score,"Mon, Dec 16, 2013",,7:30p,114,Atlanta Hawks,,100,Los Angeles Lakers,N
+356,"17,071",Box Score,"Mon, Dec 16, 2013",,7:30p,101,Boston Celtics,,97,Minnesota Timberwolves,N
+357,"16,733",Box Score,"Mon, Dec 16, 2013",,7:30p,130,Brooklyn Nets,,94,Philadelphia 76ers,N
+358,"19,600",Box Score,"Mon, Dec 16, 2013",,7:30p,117,Miami Heat,,94,Utah Jazz,N
+359,"19,812",Box Score,"Mon, Dec 16, 2013",,7:30p,101,New York Knicks,,102,Washington Wizards,N
+360,"21,200",Box Score,"Mon, Dec 16, 2013",,8:00p,82,Chicago Bulls,,83,Orlando Magic,N
+361,"19,253",Box Score,"Mon, Dec 16, 2013",,10:30p,115,Los Angeles Clippers,,92,San Antonio Spurs,N
+362,"11,339",Box Score,"Tue, Dec 17, 2013",,7:00p,95,Charlotte Bobcats,,87,Sacramento Kings,N
+363,"15,689",Box Score,"Tue, Dec 17, 2013",,7:00p,116,Cleveland Cavaliers,,119,Portland Trail Blazers,N
+364,"17,217",Box Score,"Tue, Dec 17, 2013",,8:00p,92,Memphis Grizzlies,,96,Los Angeles Lakers,N
+365,"17,035",Box Score,"Tue, Dec 17, 2013",,9:00p,93,Denver Nuggets,,105,Oklahoma City Thunder,N
+366,"19,596",Box Score,"Tue, Dec 17, 2013",,10:30p,104,Golden State Warriors,,93,New Orleans Pelicans,N
+367,"19,898",Box Score,"Wed, Dec 18, 2013",,7:00p,97,Miami Heat,,94,Indiana Pacers,N
+368,"15,574",Box Score,"Wed, Dec 18, 2013",,7:00p,82,Orlando Magic,,86,Utah Jazz,N
+369,"15,201",Box Score,"Wed, Dec 18, 2013",,7:00p,102,Toronto Raptors,OT,104,Charlotte Bobcats,N
+370,"10,185",Box Score,"Wed, Dec 18, 2013",,7:30p,124,Atlanta Hawks,,107,Sacramento Kings,N
+371,"17,101",Box Score,"Wed, Dec 18, 2013",,7:30p,106,Boston Celtics,,107,Detroit Pistons,N
+372,"16,187",Box Score,"Wed, Dec 18, 2013",,7:30p,107,Brooklyn Nets,,113,Washington Wizards,N
+373,"11,869",Box Score,"Wed, Dec 18, 2013",,8:00p,101,Milwaukee Bucks,2OT,107,New York Knicks,N
+374,"13,776",Box Score,"Wed, Dec 18, 2013",,8:00p,120,Minnesota Timberwolves,,109,Portland Trail Blazers,N
+375,"19,425",Box Score,"Wed, Dec 18, 2013",,8:30p,105,Dallas Mavericks,,91,Memphis Grizzlies,N
+376,"13,661",Box Score,"Wed, Dec 18, 2013",,9:00p,101,Phoenix Suns,,108,San Antonio Spurs,N
+377,"18,242",Box Score,"Wed, Dec 18, 2013",,9:30p,109,Houston Rockets,,94,Chicago Bulls,N
+378,"19,060",Box Score,"Wed, Dec 18, 2013",,10:30p,108,Los Angeles Clippers,,95,New Orleans Pelicans,N
+379,"18,203",Box Score,"Thu, Dec 19, 2013",,8:00p,107,Oklahoma City Thunder,,95,Chicago Bulls,N
+380,"19,596",Box Score,"Thu, Dec 19, 2013",,10:30p,102,Golden State Warriors,,104,San Antonio Spurs,N
+381,"15,267",Box Score,"Fri, Dec 20, 2013",,7:00p,121,Philadelphia 76ers,OT,120,Brooklyn Nets,N
+382,"11,150",Box Score,"Fri, Dec 20, 2013",,7:30p,118,Atlanta Hawks,,85,Utah Jazz,N
+383,"19,058",Box Score,"Fri, Dec 20, 2013",,7:30p,114,Cleveland Cavaliers,OT,111,Milwaukee Bucks,N
+384,"12,453",Box Score,"Fri, Dec 20, 2013",,7:30p,106,Detroit Pistons,,116,Charlotte Bobcats,N
+385,"19,600",Box Score,"Fri, Dec 20, 2013",,7:30p,122,Miami Heat,,103,Sacramento Kings,N
+386,"18,165",Box Score,"Fri, Dec 20, 2013",,8:00p,114,Indiana Pacers,,81,Houston Rockets,N
+387,"19,406",Box Score,"Fri, Dec 20, 2013",,8:30p,108,Dallas Mavericks,OT,109,Toronto Raptors,N
+388,"15,974",Box Score,"Fri, Dec 20, 2013",,9:00p,99,Denver Nuggets,,103,Phoenix Suns,N
+389,"18,997",Box Score,"Fri, Dec 20, 2013",,10:30p,104,Los Angeles Lakers,,91,Minnesota Timberwolves,N
+390,"19,812",Box Score,"Sat, Dec 21, 2013",,12:00p,87,New York Knicks,,95,Memphis Grizzlies,N
+391,"18,169",Box Score,"Sat, Dec 21, 2013",,1:00p,99,Boston Celtics,,106,Washington Wizards,N
+392,"14,283",Box Score,"Sat, Dec 21, 2013",,7:00p,100,Orlando Magic,,105,Sacramento Kings,N
+393,"18,078",Box Score,"Sat, Dec 21, 2013",,7:30p,85,Charlotte Bobcats,,88,Utah Jazz,N
+394,"14,606",Box Score,"Sat, Dec 21, 2013",,7:30p,97,Detroit Pistons,,114,Houston Rockets,N
+395,"21,658",Box Score,"Sat, Dec 21, 2013",,8:00p,100,Chicago Bulls,,84,Cleveland Cavaliers,N
+396,"14,541",Box Score,"Sat, Dec 21, 2013",,8:30p,116,Milwaukee Bucks,,106,Philadelphia 76ers,N
+397,"18,581",Box Score,"Sat, Dec 21, 2013",,8:30p,100,San Antonio Spurs,,113,Oklahoma City Thunder,N
+398,"15,241",Box Score,"Sat, Dec 21, 2013",,9:00p,123,Phoenix Suns,,108,Dallas Mavericks,N
+399,"20,027",Box Score,"Sat, Dec 21, 2013",,10:00p,110,Portland Trail Blazers,,107,New Orleans Pelicans,N
+400,"19,596",Box Score,"Sat, Dec 21, 2013",,10:30p,102,Golden State Warriors,,83,Los Angeles Lakers,N
+401,"19,129",Box Score,"Sat, Dec 21, 2013",,10:30p,112,Los Angeles Clippers,,91,Denver Nuggets,N
+402,"18,165",Box Score,"Sun, Dec 22, 2013",,6:00p,106,Indiana Pacers,,79,Boston Celtics,N
+403,"18,203",Box Score,"Sun, Dec 22, 2013",,7:00p,98,Oklahoma City Thunder,,104,Toronto Raptors,N
+404,"19,304",Box Score,"Sun, Dec 22, 2013",,9:30p,120,Los Angeles Clippers,OT,116,Minnesota Timberwolves,N
+405,"13,534",Box Score,"Mon, Dec 23, 2013",,7:00p,111,Charlotte Bobcats,OT,110,Milwaukee Bucks,N
+406,"19,215",Box Score,"Mon, Dec 23, 2013",,7:00p,92,Cleveland Cavaliers,,115,Detroit Pistons,N
+407,"15,105",Box Score,"Mon, Dec 23, 2013",,7:00p,98,Orlando Magic,,103,New York Knicks,N
+408,"17,732",Box Score,"Mon, Dec 23, 2013",,7:30p,86,Brooklyn Nets,,103,Indiana Pacers,N
+409,"20,204",Box Score,"Mon, Dec 23, 2013",,7:30p,121,Miami Heat,OT,119,Atlanta Hawks,N
+410,"18,328",Box Score,"Mon, Dec 23, 2013",,8:00p,104,Houston Rockets,,111,Dallas Mavericks,N
+411,"16,665",Box Score,"Mon, Dec 23, 2013",,8:00p,104,Memphis Grizzlies,,94,Utah Jazz,N
+412,"18,581",Box Score,"Mon, Dec 23, 2013",,8:30p,112,San Antonio Spurs,,99,Toronto Raptors,N
+413,"18,551",Box Score,"Mon, Dec 23, 2013",,9:00p,81,Denver Nuggets,,89,Golden State Warriors,N
+414,"14,814",Box Score,"Mon, Dec 23, 2013",,9:00p,117,Phoenix Suns,,90,Los Angeles Lakers,N
+415,"17,317",Box Score,"Mon, Dec 23, 2013",,10:00p,100,Sacramento Kings,,113,New Orleans Pelicans,N
+416,"17,732",Box Score,"Wed, Dec 25, 2013",,12:00p,78,Brooklyn Nets,,95,Chicago Bulls,N
+417,"19,812",Box Score,"Wed, Dec 25, 2013",,2:30p,94,New York Knicks,,123,Oklahoma City Thunder,N
+418,"18,997",Box Score,"Wed, Dec 25, 2013",,5:00p,95,Los Angeles Lakers,,101,Miami Heat,N
+419,"18,581",Box Score,"Wed, Dec 25, 2013",,8:00p,98,San Antonio Spurs,,111,Houston Rockets,N
+420,"19,596",Box Score,"Wed, Dec 25, 2013",,10:30p,105,Golden State Warriors,,103,Los Angeles Clippers,N
+421,"18,682",Box Score,"Thu, Dec 26, 2013",,7:00p,125,Cleveland Cavaliers,2OT,127,Atlanta Hawks,N
+422,"18,201",Box Score,"Thu, Dec 26, 2013",,8:00p,100,Houston Rockets,,92,Memphis Grizzlies,N
+423,"20,305",Box Score,"Thu, Dec 26, 2013",,8:30p,107,Dallas Mavericks,,116,San Antonio Spurs,N
+424,"20,053",Box Score,"Thu, Dec 26, 2013",,10:30p,116,Portland Trail Blazers,OT,112,Los Angeles Clippers,N
+425,"18,129",Box Score,"Fri, Dec 27, 2013",,7:00p,85,Charlotte Bobcats,,89,Oklahoma City Thunder,N
+426,"16,464",Box Score,"Fri, Dec 27, 2013",,7:00p,109,Orlando Magic,,92,Detroit Pistons,N
+427,"17,732",Box Score,"Fri, Dec 27, 2013",,7:30p,104,Brooklyn Nets,,93,Milwaukee Bucks,N
+428,"19,812",Box Score,"Fri, Dec 27, 2013",,7:30p,83,New York Knicks,,95,Toronto Raptors,N
+429,"16,473",Box Score,"Fri, Dec 27, 2013",,8:00p,120,Minnesota Timberwolves,,98,Washington Wizards,N
+430,"18,089",Box Score,"Fri, Dec 27, 2013",,8:00p,105,New Orleans Pelicans,,89,Denver Nuggets,N
+431,"19,911",Box Score,"Fri, Dec 27, 2013",,9:00p,105,Utah Jazz,,103,Los Angeles Lakers,N
+432,"17,317",Box Score,"Fri, Dec 27, 2013",,10:00p,108,Sacramento Kings,OT,103,Miami Heat,N
+433,"19,596",Box Score,"Fri, Dec 27, 2013",,10:30p,115,Golden State Warriors,,86,Phoenix Suns,N
+434,"18,624",Box Score,"Sat, Dec 28, 2013",,1:00p,103,Boston Celtics,,100,Cleveland Cavaliers,N
+435,"18,165",Box Score,"Sat, Dec 28, 2013",,7:00p,105,Indiana Pacers,,91,Brooklyn Nets,N
+436,"19,800",Box Score,"Sat, Dec 28, 2013",,7:00p,115,Toronto Raptors,,100,New York Knicks,N
+437,"19,336",Box Score,"Sat, Dec 28, 2013",,7:00p,106,Washington Wizards,,82,Detroit Pistons,N
+438,"15,180",Box Score,"Sat, Dec 28, 2013",,7:30p,118,Atlanta Hawks,OT,116,Charlotte Bobcats,N
+439,"22,099",Box Score,"Sat, Dec 28, 2013",,8:00p,83,Chicago Bulls,,105,Dallas Mavericks,N
+440,"18,233",Box Score,"Sat, Dec 28, 2013",,8:00p,107,Houston Rockets,,98,New Orleans Pelicans,N
+441,"17,017",Box Score,"Sat, Dec 28, 2013",,8:00p,120,Memphis Grizzlies,,99,Denver Nuggets,N
+442,"14,971",Box Score,"Sat, Dec 28, 2013",,8:30p,95,Milwaukee Bucks,,117,Minnesota Timberwolves,N
+443,"15,623",Box Score,"Sat, Dec 28, 2013",,9:00p,115,Phoenix Suns,,101,Philadelphia 76ers,N
+444,"20,071",Box Score,"Sat, Dec 28, 2013",,10:00p,107,Portland Trail Blazers,,108,Miami Heat,N
+445,"19,278",Box Score,"Sat, Dec 28, 2013",,10:30p,98,Los Angeles Clippers,,90,Utah Jazz,N
+446,"19,384",Box Score,"Sun, Dec 29, 2013",,6:00p,104,Cleveland Cavaliers,OT,108,Golden State Warriors,N
+447,"15,415",Box Score,"Sun, Dec 29, 2013",,6:00p,109,Orlando Magic,,102,Atlanta Hawks,N
+448,"18,203",Box Score,"Sun, Dec 29, 2013",,7:00p,117,Oklahoma City Thunder,,86,Houston Rockets,N
+449,"18,581",Box Score,"Sun, Dec 29, 2013",,7:00p,112,San Antonio Spurs,,104,Sacramento Kings,N
+450,"18,997",Box Score,"Sun, Dec 29, 2013",,9:30p,104,Los Angeles Lakers,,111,Philadelphia 76ers,N
+451,"15,050",Box Score,"Mon, Dec 30, 2013",,7:30p,99,Detroit Pistons,,106,Washington Wizards,N
+452,"17,688",Box Score,"Mon, Dec 30, 2013",,8:00p,91,Memphis Grizzlies,,95,Chicago Bulls,N
+453,"16,111",Box Score,"Mon, Dec 30, 2013",,8:00p,98,Minnesota Timberwolves,,100,Dallas Mavericks,N
+454,"17,035",Box Score,"Mon, Dec 30, 2013",,8:00p,110,New Orleans Pelicans,,108,Portland Trail Blazers,N
+455,"19,155",Box Score,"Mon, Dec 30, 2013",,9:00p,94,Denver Nuggets,,97,Miami Heat,N
+456,"19,125",Box Score,"Mon, Dec 30, 2013",,9:00p,83,Utah Jazz,,80,Charlotte Bobcats,N
+457,"19,278",Box Score,"Mon, Dec 30, 2013",,10:30p,88,Los Angeles Clippers,,107,Phoenix Suns,N
+458,"18,624",Box Score,"Tue, Dec 31, 2013",,1:00p,91,Boston Celtics,,92,Atlanta Hawks,N
+459,"18,165",Box Score,"Tue, Dec 31, 2013",,3:00p,91,Indiana Pacers,,76,Cleveland Cavaliers,N
+460,"15,062",Box Score,"Tue, Dec 31, 2013",,5:00p,81,Orlando Magic,,94,Golden State Warriors,N
+461,"18,232",Box Score,"Tue, Dec 31, 2013",,7:00p,106,Houston Rockets,,110,Sacramento Kings,N
+462,"17,409",Box Score,"Tue, Dec 31, 2013",,7:00p,113,San Antonio Spurs,,92,Brooklyn Nets,N
+463,"21,507",Box Score,"Tue, Dec 31, 2013",,8:00p,79,Chicago Bulls,,85,Toronto Raptors,N
+464,"18,203",Box Score,"Tue, Dec 31, 2013",,8:00p,94,Oklahoma City Thunder,,98,Portland Trail Blazers,N
+465,"18,997",Box Score,"Tue, Dec 31, 2013",,10:30p,79,Los Angeles Lakers,,94,Milwaukee Bucks,N
+466,"15,713",Box Score,"Wed, Jan 1, 2014",,6:00p,78,Washington Wizards,,87,Dallas Mavericks,N
+467,"18,271",Box Score,"Wed, Jan 1, 2014",,7:00p,95,Toronto Raptors,,82,Indiana Pacers,N
+468,"14,002",Box Score,"Wed, Jan 1, 2014",,8:00p,124,Minnesota Timberwolves,,112,New Orleans Pelicans,N
+469,"16,006",Box Score,"Wed, Jan 1, 2014",,9:00p,102,Denver Nuggets,,114,Philadelphia 76ers,N
+470,"19,160",Box Score,"Wed, Jan 1, 2014",,9:30p,112,Los Angeles Clippers,,85,Charlotte Bobcats,N
+471,"14,248",Box Score,"Thu, Jan 2, 2014",,7:00p,87,Cleveland Cavaliers,OT,81,Orlando Magic,N
+472,"20,350",Box Score,"Thu, Jan 2, 2014",,7:30p,114,Miami Heat,,123,Golden State Warriors,N
+473,"21,721",Box Score,"Thu, Jan 2, 2014",,8:00p,94,Chicago Bulls,,82,Boston Celtics,N
+474,"18,203",Box Score,"Thu, Jan 2, 2014",,8:00p,93,Oklahoma City Thunder,,95,Brooklyn Nets,N
+475,"18,581",Box Score,"Thu, Jan 2, 2014",,8:30p,101,San Antonio Spurs,,105,New York Knicks,N
+476,"14,844",Box Score,"Thu, Jan 2, 2014",,9:00p,91,Phoenix Suns,,99,Memphis Grizzlies,N
+477,"16,012",Box Score,"Thu, Jan 2, 2014",,9:00p,96,Utah Jazz,,87,Milwaukee Bucks,N
+478,"20,014",Box Score,"Thu, Jan 2, 2014",,10:00p,134,Portland Trail Blazers,,104,Charlotte Bobcats,N
+479,"16,259",Box Score,"Thu, Jan 2, 2014",,10:00p,104,Sacramento Kings,,113,Philadelphia 76ers,N
+480,"14,940",Box Score,"Fri, Jan 3, 2014",,7:00p,88,Washington Wizards,,101,Toronto Raptors,N
+481,"15,210",Box Score,"Fri, Jan 3, 2014",,7:30p,100,Atlanta Hawks,,101,Golden State Warriors,N
+482,"18,624",Box Score,"Fri, Jan 3, 2014",,7:30p,92,Boston Celtics,,95,New Orleans Pelicans,N
+483,"18,304",Box Score,"Fri, Jan 3, 2014",,8:00p,102,Houston Rockets,,100,New York Knicks,N
+484,"20,187",Box Score,"Fri, Jan 3, 2014",,8:30p,112,Dallas Mavericks,,119,Los Angeles Clippers,N
+485,"17,608",Box Score,"Fri, Jan 3, 2014",,9:00p,111,Denver Nuggets,,108,Memphis Grizzlies,N
+486,"18,997",Box Score,"Fri, Jan 3, 2014",,10:30p,110,Los Angeles Lakers,,99,Utah Jazz,N
+487,"18,165",Box Score,"Sat, Jan 4, 2014",,7:00p,99,Indiana Pacers,,82,New Orleans Pelicans,N
+488,"18,846",Box Score,"Sat, Jan 4, 2014",,7:00p,94,Orlando Magic,,110,Miami Heat,N
+489,"17,732",Box Score,"Sat, Jan 4, 2014",,7:30p,89,Brooklyn Nets,,82,Cleveland Cavaliers,N
+490,"21,539",Box Score,"Sat, Jan 4, 2014",,8:00p,91,Chicago Bulls,,84,Atlanta Hawks,N
+491,"18,065",Box Score,"Sat, Jan 4, 2014",,8:00p,111,Minnesota Timberwolves,,115,Oklahoma City Thunder,N
+492,"18,581",Box Score,"Sat, Jan 4, 2014",,8:30p,116,San Antonio Spurs,,92,Los Angeles Clippers,N
+493,"14,344",Box Score,"Sat, Jan 4, 2014",,9:00p,116,Phoenix Suns,,100,Milwaukee Bucks,N
+494,"20,004",Box Score,"Sat, Jan 4, 2014",,10:00p,99,Portland Trail Blazers,,101,Philadelphia 76ers,N
+495,"16,410",Box Score,"Sat, Jan 4, 2014",,10:00p,103,Sacramento Kings,,113,Charlotte Bobcats,N
+496,"14,134",Box Score,"Sun, Jan 5, 2014",,1:00p,84,Detroit Pistons,,112,Memphis Grizzlies,N
+497,"17,502",Box Score,"Sun, Jan 5, 2014",,6:00p,78,Cleveland Cavaliers,,82,Indiana Pacers,N
+498,"20,020",Box Score,"Sun, Jan 5, 2014",,6:00p,102,Miami Heat,,97,Toronto Raptors,N
+499,"17,390",Box Score,"Sun, Jan 5, 2014",,6:00p,96,Washington Wizards,,112,Golden State Warriors,N
+500,"18,203",Box Score,"Sun, Jan 5, 2014",,7:00p,119,Oklahoma City Thunder,,96,Boston Celtics,N
+501,"19,892",Box Score,"Sun, Jan 5, 2014",,7:30p,80,Dallas Mavericks,,92,New York Knicks,N
+502,"18,997",Box Score,"Sun, Jan 5, 2014",,9:30p,115,Los Angeles Lakers,,137,Denver Nuggets,N
+503,"10,736",Box Score,"Mon, Jan 6, 2014",,7:00p,95,Philadelphia 76ers,,126,Minnesota Timberwolves,N
+504,"15,326",Box Score,"Mon, Jan 6, 2014",,7:30p,91,Brooklyn Nets,,86,Atlanta Hawks,N
+505,"19,060",Box Score,"Mon, Jan 6, 2014",,10:30p,101,Los Angeles Clippers,,81,Orlando Magic,N
+506,"12,079",Box Score,"Tue, Jan 7, 2014",,7:00p,83,Charlotte Bobcats,,97,Washington Wizards,N
+507,"13,344",Box Score,"Tue, Jan 7, 2014",,7:00p,111,Cleveland Cavaliers,,93,Philadelphia 76ers,N
+508,"16,147",Box Score,"Tue, Jan 7, 2014",,7:00p,86,Indiana Pacers,,79,Toronto Raptors,N
+509,"20,097",Box Score,"Tue, Jan 7, 2014",,7:30p,107,Miami Heat,,88,New Orleans Pelicans,N
+510,"19,812",Box Score,"Tue, Jan 7, 2014",,7:30p,89,New York Knicks,,85,Detroit Pistons,N
+511,"21,181",Box Score,"Tue, Jan 7, 2014",,8:00p,92,Chicago Bulls,,87,Phoenix Suns,N
+512,"15,916",Box Score,"Tue, Jan 7, 2014",,8:00p,108,Memphis Grizzlies,OT,110,San Antonio Spurs,N
+513,"11,739",Box Score,"Tue, Jan 7, 2014",,8:00p,80,Milwaukee Bucks,,101,Golden State Warriors,N
+514,"19,656",Box Score,"Tue, Jan 7, 2014",,8:30p,110,Dallas Mavericks,,97,Los Angeles Lakers,N
+515,"16,224",Box Score,"Tue, Jan 7, 2014",,9:00p,129,Denver Nuggets,,98,Boston Celtics,N
+516,"18,547",Box Score,"Tue, Jan 7, 2014",,9:00p,112,Utah Jazz,,101,Oklahoma City Thunder,N
+517,"15,518",Box Score,"Tue, Jan 7, 2014",,10:00p,123,Sacramento Kings,,119,Portland Trail Blazers,N
+518,"18,581",Box Score,"Wed, Jan 8, 2014",,7:00p,112,San Antonio Spurs,,90,Dallas Mavericks,N
+519,"16,194",Box Score,"Wed, Jan 8, 2014",,7:00p,112,Toronto Raptors,,91,Detroit Pistons,N
+520,"15,169",Box Score,"Wed, Jan 8, 2014",,7:30p,97,Atlanta Hawks,,87,Indiana Pacers,N
+521,"17,732",Box Score,"Wed, Jan 8, 2014",,7:30p,102,Brooklyn Nets,,98,Golden State Warriors,N
+522,"18,229",Box Score,"Wed, Jan 8, 2014",,8:00p,113,Houston Rockets,,99,Los Angeles Lakers,N
+523,"17,557",Box Score,"Wed, Jan 8, 2014",,8:00p,96,New Orleans Pelicans,,102,Washington Wizards,N
+524,"12,202",Box Score,"Wed, Jan 8, 2014",,9:30p,103,Minnesota Timberwolves,,104,Phoenix Suns,N
+525,"18,949",Box Score,"Wed, Jan 8, 2014",,10:00p,110,Portland Trail Blazers,,94,Orlando Magic,N
+526,"19,214",Box Score,"Wed, Jan 8, 2014",,10:30p,111,Los Angeles Clippers,,105,Boston Celtics,N
+527,"19,812",Box Score,"Thu, Jan 9, 2014",,8:00p,102,New York Knicks,,92,Miami Heat,N
+528,"17,315",Box Score,"Thu, Jan 9, 2014",,10:30p,101,Denver Nuggets,,88,Oklahoma City Thunder,N
+529,"18,165",Box Score,"Fri, Jan 10, 2014",,7:00p,93,Indiana Pacers,,66,Washington Wizards,N
+530,"13,742",Box Score,"Fri, Jan 10, 2014",,7:00p,104,Philadelphia 76ers,,114,Detroit Pistons,N
+531,"13,115",Box Score,"Fri, Jan 10, 2014",,7:30p,83,Atlanta Hawks,,80,Houston Rockets,N
+532,"17,732",Box Score,"Fri, Jan 10, 2014",,8:00p,104,Brooklyn Nets,2OT,95,Miami Heat,N
+533,"17,049",Box Score,"Fri, Jan 10, 2014",,8:00p,104,Memphis Grizzlies,,99,Phoenix Suns,N
+534,"13,767",Box Score,"Fri, Jan 10, 2014",,8:00p,119,Minnesota Timberwolves,,92,Charlotte Bobcats,N
+535,"16,533",Box Score,"Fri, Jan 10, 2014",,8:00p,90,New Orleans Pelicans,,107,Dallas Mavericks,N
+536,"15,148",Box Score,"Fri, Jan 10, 2014",,8:30p,72,Milwaukee Bucks,,81,Chicago Bulls,N
+537,"18,480",Box Score,"Fri, Jan 10, 2014",,9:00p,102,Utah Jazz,,113,Cleveland Cavaliers,N
+538,"15,694",Box Score,"Fri, Jan 10, 2014",,10:00p,103,Sacramento Kings,,83,Orlando Magic,N
+539,"19,596",Box Score,"Fri, Jan 10, 2014",,10:30p,99,Golden State Warriors,,97,Boston Celtics,N
+540,"19,316",Box Score,"Fri, Jan 10, 2014",,10:30p,123,Los Angeles Clippers,,87,Los Angeles Lakers,N
+541,"19,800",Box Score,"Sat, Jan 11, 2014",,7:00p,96,Toronto Raptors,,80,Brooklyn Nets,N
+542,"17,454",Box Score,"Sat, Jan 11, 2014",,7:00p,107,Washington Wizards,,114,Houston Rockets,N
+543,"15,224",Box Score,"Sat, Jan 11, 2014",,7:30p,110,Detroit Pistons,,108,Phoenix Suns,N
+544,"16,278",Box Score,"Sat, Jan 11, 2014",,7:30p,92,Philadelphia 76ers,,102,New York Knicks,N
+545,"21,413",Box Score,"Sat, Jan 11, 2014",,8:00p,103,Chicago Bulls,,97,Charlotte Bobcats,N
+546,"18,203",Box Score,"Sat, Jan 11, 2014",,8:00p,101,Oklahoma City Thunder,,85,Milwaukee Bucks,N
+547,"20,116",Box Score,"Sat, Jan 11, 2014",,8:30p,110,Dallas Mavericks,,107,New Orleans Pelicans,N
+548,"17,947",Box Score,"Sat, Jan 11, 2014",,9:00p,120,Denver Nuggets,,94,Orlando Magic,N
+549,"20,011",Box Score,"Sat, Jan 11, 2014",,10:00p,112,Portland Trail Blazers,,104,Boston Celtics,N
+550,"16,841",Box Score,"Sun, Jan 12, 2014",,6:00p,108,Memphis Grizzlies,,101,Atlanta Hawks,N
+551,"16,072",Box Score,"Sun, Jan 12, 2014",,6:00p,124,Sacramento Kings,,80,Cleveland Cavaliers,N
+552,"18,098",Box Score,"Sun, Jan 12, 2014",,7:00p,104,San Antonio Spurs,,86,Minnesota Timberwolves,N
+553,"15,819",Box Score,"Mon, Jan 13, 2014",,7:00p,116,Toronto Raptors,,94,Milwaukee Bucks,N
+554,"17,750",Box Score,"Mon, Jan 13, 2014",,7:30p,92,Boston Celtics,,104,Houston Rockets,N
+555,"19,812",Box Score,"Mon, Jan 13, 2014",,7:30p,98,New York Knicks,OT,96,Phoenix Suns,N
+556,"21,287",Box Score,"Mon, Jan 13, 2014",,8:00p,88,Chicago Bulls,,102,Washington Wizards,N
+557,"15,552",Box Score,"Mon, Jan 13, 2014",,8:00p,95,New Orleans Pelicans,,101,San Antonio Spurs,N
+558,"19,695",Box Score,"Mon, Jan 13, 2014",,8:30p,107,Dallas Mavericks,,88,Orlando Magic,N
+559,"17,232",Box Score,"Mon, Jan 13, 2014",,9:00p,118,Utah Jazz,,103,Denver Nuggets,N
+560,"15,156",Box Score,"Tue, Jan 14, 2014",,7:00p,108,Charlotte Bobcats,,98,New York Knicks,N
+561,"17,530",Box Score,"Tue, Jan 14, 2014",,7:00p,116,Indiana Pacers,,92,Sacramento Kings,N
+562,"17,177",Box Score,"Tue, Jan 14, 2014",,8:00p,90,Memphis Grizzlies,,87,Oklahoma City Thunder,N
+563,"18,997",Box Score,"Tue, Jan 14, 2014",,10:30p,118,Los Angeles Lakers,,120,Cleveland Cavaliers,N
+564,"16,489",Box Score,"Wed, Jan 15, 2014",,7:00p,125,Orlando Magic,3OT,128,Chicago Bulls,N
+565,"10,106",Box Score,"Wed, Jan 15, 2014",,7:00p,95,Philadelphia 76ers,,92,Charlotte Bobcats,N
+566,"20,356",Box Score,"Wed, Jan 15, 2014",,7:00p,114,Washington Wizards,,97,Miami Heat,N
+567,"17,569",Box Score,"Wed, Jan 15, 2014",,7:30p,88,Boston Celtics,,83,Toronto Raptors,N
+568,"11,379",Box Score,"Wed, Jan 15, 2014",,8:00p,77,Milwaukee Bucks,,82,Memphis Grizzlies,N
+569,"12,399",Box Score,"Wed, Jan 15, 2014",,8:00p,108,Minnesota Timberwolves,,111,Sacramento Kings,N
+570,"15,918",Box Score,"Wed, Jan 15, 2014",,8:00p,100,New Orleans Pelicans,,103,Houston Rockets,N
+571,"17,917",Box Score,"Wed, Jan 15, 2014",,8:00p,109,San Antonio Spurs,,105,Utah Jazz,N
+572,"16,022",Box Score,"Wed, Jan 15, 2014",,9:00p,121,Phoenix Suns,,114,Los Angeles Lakers,N
+573,"19,998",Box Score,"Wed, Jan 15, 2014",,10:00p,108,Portland Trail Blazers,,96,Cleveland Cavaliers,N
+574,"19,596",Box Score,"Wed, Jan 15, 2014",,10:30p,116,Golden State Warriors,,123,Denver Nuggets,N
+575,"19,208",Box Score,"Wed, Jan 15, 2014",,10:30p,129,Los Angeles Clippers,,127,Dallas Mavericks,N
+576,"18,689",Box Score,"Thu, Jan 16, 2014","at London, England",3:00p,110,Atlanta Hawks,,127,Brooklyn Nets,N
+577,"18,165",Box Score,"Thu, Jan 16, 2014",,7:00p,117,Indiana Pacers,,89,New York Knicks,N
+578,"18,231",Box Score,"Thu, Jan 16, 2014",,9:30p,92,Houston Rockets,,104,Oklahoma City Thunder,N
+579,"19,812",Box Score,"Fri, Jan 17, 2014",,7:00p,95,New York Knicks,,109,Los Angeles Clippers,N
+580,"16,164",Box Score,"Fri, Jan 17, 2014",,7:00p,101,Orlando Magic,,111,Charlotte Bobcats,N
+581,"19,286",Box Score,"Fri, Jan 17, 2014",,7:00p,86,Philadelphia 76ers,,101,Miami Heat,N
+582,"19,800",Box Score,"Fri, Jan 17, 2014",,7:00p,94,Toronto Raptors,,89,Minnesota Timberwolves,N
+583,"17,005",Box Score,"Fri, Jan 17, 2014",,7:00p,96,Washington Wizards,,93,Chicago Bulls,N
+584,"18,624",Box Score,"Fri, Jan 17, 2014",,7:30p,104,Boston Celtics,,107,Los Angeles Lakers,N
+585,"18,528",Box Score,"Fri, Jan 17, 2014",,7:30p,89,Detroit Pistons,,110,Utah Jazz,N
+586,"17,212",Box Score,"Fri, Jan 17, 2014",,8:00p,91,Memphis Grizzlies,,90,Sacramento Kings,N
+587,"18,581",Box Score,"Fri, Jan 17, 2014",,8:30p,100,San Antonio Spurs,,109,Portland Trail Blazers,N
+588,"18,486",Box Score,"Fri, Jan 17, 2014",,9:00p,109,Denver Nuggets,,117,Cleveland Cavaliers,N
+589,"16,486",Box Score,"Fri, Jan 17, 2014",,9:00p,107,Phoenix Suns,,110,Dallas Mavericks,N
+590,"18,203",Box Score,"Fri, Jan 17, 2014",,9:30p,127,Oklahoma City Thunder,,121,Golden State Warriors,N
+591,"18,165",Box Score,"Sat, Jan 18, 2014",,7:00p,106,Indiana Pacers,,92,Los Angeles Clippers,N
+592,"17,039",Box Score,"Sat, Jan 18, 2014",,7:00p,98,Washington Wizards,,104,Detroit Pistons,N
+593,"19,631",Box Score,"Sat, Jan 18, 2014",,7:30p,96,Charlotte Bobcats,OT,104,Miami Heat,N
+594,"21,710",Box Score,"Sat, Jan 18, 2014",,8:00p,103,Chicago Bulls,,78,Philadelphia 76ers,N
+595,"18,082",Box Score,"Sat, Jan 18, 2014",,8:00p,114,Houston Rockets,,104,Milwaukee Bucks,N
+596,"17,111",Box Score,"Sat, Jan 18, 2014",,8:00p,98,Minnesota Timberwolves,,72,Utah Jazz,N
+597,"18,045",Box Score,"Sat, Jan 18, 2014",,8:00p,87,New Orleans Pelicans,,97,Golden State Warriors,N
+598,"20,375",Box Score,"Sat, Jan 18, 2014",,8:30p,111,Dallas Mavericks,,127,Portland Trail Blazers,N
+599,"17,706",Box Score,"Sun, Jan 19, 2014",,1:00p,106,Toronto Raptors,,112,Los Angeles Lakers,N
+600,"17,548",Box Score,"Sun, Jan 19, 2014",,6:00p,93,Orlando Magic,,91,Boston Celtics,N
+601,"18,203",Box Score,"Sun, Jan 19, 2014",,7:00p,108,Oklahoma City Thunder,,93,Sacramento Kings,N
+602,"18,096",Box Score,"Sun, Jan 19, 2014",,7:00p,110,San Antonio Spurs,,82,Milwaukee Bucks,N
+603,"16,211",Box Score,"Sun, Jan 19, 2014",,8:00p,117,Phoenix Suns,,103,Denver Nuggets,N
+604,"18,762",Box Score,"Mon, Jan 20, 2014",,1:00p,97,Cleveland Cavaliers,,102,Dallas Mavericks,N
+605,"17,417",Box Score,"Mon, Jan 20, 2014",,1:00p,103,Detroit Pistons,,112,Los Angeles Clippers,N
+606,"14,929",Box Score,"Mon, Jan 20, 2014",,2:00p,100,Charlotte Bobcats,,95,Toronto Raptors,N
+607,"18,650",Box Score,"Mon, Jan 20, 2014",,2:00p,107,Washington Wizards,,99,Philadelphia 76ers,N
+608,"19,812",Box Score,"Mon, Jan 20, 2014",,2:30p,80,New York Knicks,,103,Brooklyn Nets,N
+609,"17,485",Box Score,"Mon, Jan 20, 2014",,5:00p,92,Memphis Grizzlies,,95,New Orleans Pelicans,N
+610,"19,262",Box Score,"Mon, Jan 20, 2014",,5:30p,121,Atlanta Hawks,,114,Miami Heat,N
+611,"21,626",Box Score,"Mon, Jan 20, 2014",,8:00p,102,Chicago Bulls,OT,100,Los Angeles Lakers,N
+612,"18,135",Box Score,"Mon, Jan 20, 2014",,8:00p,126,Houston Rockets,,113,Portland Trail Blazers,N
+613,"19,596",Box Score,"Mon, Jan 20, 2014",,10:30p,94,Golden State Warriors,,102,Indiana Pacers,N
+614,"15,482",Box Score,"Tue, Jan 21, 2014",,7:30p,101,Brooklyn Nets,,90,Orlando Magic,N
+615,"19,619",Box Score,"Tue, Jan 21, 2014",,7:30p,93,Miami Heat,,86,Boston Celtics,N
+616,"16,459",Box Score,"Tue, Jan 21, 2014",,8:00p,97,New Orleans Pelicans,,114,Sacramento Kings,N
+617,"18,203",Box Score,"Tue, Jan 21, 2014",,8:00p,105,Oklahoma City Thunder,,97,Portland Trail Blazers,N
+618,"16,387",Box Score,"Tue, Jan 21, 2014",,9:00p,97,Utah Jazz,,112,Minnesota Timberwolves,N
+619,"14,760",Box Score,"Wed, Jan 22, 2014",,7:00p,95,Charlotte Bobcats,,91,Los Angeles Clippers,N
+620,"16,890",Box Score,"Wed, Jan 22, 2014",,7:00p,87,Cleveland Cavaliers,,98,Chicago Bulls,N
+621,"16,713",Box Score,"Wed, Jan 22, 2014",,7:00p,109,Orlando Magic,,112,Atlanta Hawks,N
+622,"18,179",Box Score,"Wed, Jan 22, 2014",,7:00p,93,Toronto Raptors,,85,Dallas Mavericks,N
+623,"14,492",Box Score,"Wed, Jan 22, 2014",,7:00p,111,Washington Wizards,OT,113,Boston Celtics,N
+624,"19,812",Box Score,"Wed, Jan 22, 2014",,7:30p,106,New York Knicks,,110,Philadelphia 76ers,N
+625,"16,488",Box Score,"Wed, Jan 22, 2014",,8:00p,119,Houston Rockets,,98,Sacramento Kings,N
+626,"11,266",Box Score,"Wed, Jan 22, 2014",,8:00p,104,Milwaukee Bucks,,101,Detroit Pistons,N
+627,"18,581",Box Score,"Wed, Jan 22, 2014",,8:00p,105,San Antonio Spurs,,111,Oklahoma City Thunder,N
+628,"16,465",Box Score,"Wed, Jan 22, 2014",,10:30p,124,Phoenix Suns,,100,Indiana Pacers,N
+629,"19,608",Box Score,"Thu, Jan 23, 2014",,8:00p,109,Miami Heat,,102,Los Angeles Lakers,N
+630,"20,066",Box Score,"Thu, Jan 23, 2014",,10:30p,110,Portland Trail Blazers,,105,Denver Nuggets,N
+631,"16,101",Box Score,"Fri, Jan 24, 2014",,7:00p,114,Orlando Magic,,105,Los Angeles Lakers,N
+632,"11,489",Box Score,"Fri, Jan 24, 2014",,7:00p,95,Philadelphia 76ers,,104,Toronto Raptors,N
+633,"17,601",Box Score,"Fri, Jan 24, 2014",,7:30p,79,Atlanta Hawks,,105,San Antonio Spurs,N
+634,"18,624",Box Score,"Fri, Jan 24, 2014",,7:30p,83,Boston Celtics,,101,Oklahoma City Thunder,N
+635,"16,110",Box Score,"Fri, Jan 24, 2014",,7:30p,107,Brooklyn Nets,,106,Dallas Mavericks,N
+636,"17,147",Box Score,"Fri, Jan 24, 2014",,7:30p,93,Cleveland Cavaliers,,78,Milwaukee Bucks,N
+637,"14,107",Box Score,"Fri, Jan 24, 2014",,7:30p,101,Detroit Pistons,,103,New Orleans Pelicans,N
+638,"19,812",Box Score,"Fri, Jan 24, 2014",,7:30p,125,New York Knicks,,96,Charlotte Bobcats,N
+639,"21,755",Box Score,"Fri, Jan 24, 2014",,8:00p,95,Chicago Bulls,,112,Los Angeles Clippers,N
+640,"16,998",Box Score,"Fri, Jan 24, 2014",,8:00p,87,Houston Rockets,,88,Memphis Grizzlies,N
+641,"16,198",Box Score,"Fri, Jan 24, 2014",,9:00p,95,Phoenix Suns,,101,Washington Wizards,N
+642,"17,317",Box Score,"Fri, Jan 24, 2014",,10:00p,111,Sacramento Kings,OT,116,Indiana Pacers,N
+643,"19,596",Box Score,"Fri, Jan 24, 2014",,10:30p,120,Golden State Warriors,,121,Minnesota Timberwolves,N
+644,"18,252",Box Score,"Sat, Jan 25, 2014",,7:00p,87,Charlotte Bobcats,,89,Chicago Bulls,N
+645,"19,800",Box Score,"Sat, Jan 25, 2014",,7:00p,118,Toronto Raptors,,126,Los Angeles Clippers,N
+646,"19,217",Box Score,"Sat, Jan 25, 2014",,7:30p,91,Philadelphia 76ers,,103,Oklahoma City Thunder,N
+647,"17,512",Box Score,"Sat, Jan 25, 2014",,8:00p,99,Memphis Grizzlies,,81,Houston Rockets,N
+648,"15,879",Box Score,"Sat, Jan 25, 2014",,8:30p,87,Milwaukee Bucks,,112,Atlanta Hawks,N
+649,"19,155",Box Score,"Sat, Jan 25, 2014",,9:00p,109,Denver Nuggets,,96,Indiana Pacers,N
+650,"17,754",Box Score,"Sat, Jan 25, 2014",,9:00p,104,Utah Jazz,,101,Washington Wizards,N
+651,"20,006",Box Score,"Sat, Jan 25, 2014",,10:00p,115,Portland Trail Blazers,,104,Minnesota Timberwolves,N
+652,"19,683",Box Score,"Sun, Jan 26, 2014",,1:00p,113,Miami Heat,,101,San Antonio Spurs,N
+653,"19,812",Box Score,"Sun, Jan 26, 2014",,3:30p,110,New York Knicks,,103,Los Angeles Lakers,N
+654,"15,872",Box Score,"Sun, Jan 26, 2014",,6:00p,90,Cleveland Cavaliers,,99,Phoenix Suns,N
+655,"17,197",Box Score,"Sun, Jan 26, 2014",,6:00p,100,New Orleans Pelicans,,92,Orlando Magic,N
+656,"18,624",Box Score,"Sun, Jan 26, 2014",,6:30p,79,Boston Celtics,,85,Brooklyn Nets,N
+657,"19,662",Box Score,"Sun, Jan 26, 2014",,7:30p,116,Dallas Mavericks,,106,Detroit Pistons,N
+658,"19,596",Box Score,"Sun, Jan 26, 2014",,9:00p,103,Golden State Warriors,,88,Portland Trail Blazers,N
+659,"15,939",Box Score,"Sun, Jan 26, 2014",,9:00p,117,Sacramento Kings,,125,Denver Nuggets,N
+660,"10,793",Box Score,"Mon, Jan 27, 2014",,7:00p,113,Philadelphia 76ers,,124,Phoenix Suns,N
+661,"15,790",Box Score,"Mon, Jan 27, 2014",,7:30p,103,Brooklyn Nets,,104,Toronto Raptors,N
+662,"21,637",Box Score,"Mon, Jan 27, 2014",,8:00p,86,Chicago Bulls,,95,Minnesota Timberwolves,N
+663,"11,126",Box Score,"Mon, Jan 27, 2014",,8:00p,86,Milwaukee Bucks,,114,Los Angeles Clippers,N
+664,"18,203",Box Score,"Mon, Jan 27, 2014",,8:00p,111,Oklahoma City Thunder,,109,Atlanta Hawks,N
+665,"16,663",Box Score,"Mon, Jan 27, 2014",,9:00p,106,Utah Jazz,,99,Sacramento Kings,N
+666,"13,985",Box Score,"Tue, Jan 28, 2014",,7:00p,89,Cleveland Cavaliers,,100,New Orleans Pelicans,N
+667,"11,534",Box Score,"Tue, Jan 28, 2014",,7:30p,103,Detroit Pistons,,87,Orlando Magic,N
+668,"19,812",Box Score,"Tue, Jan 28, 2014",,7:30p,114,New York Knicks,,88,Boston Celtics,N
+669,"18,314",Box Score,"Tue, Jan 28, 2014",,8:00p,97,Houston Rockets,,90,San Antonio Spurs,N
+670,"19,385",Box Score,"Tue, Jan 28, 2014",,10:00p,81,Portland Trail Blazers,,98,Memphis Grizzlies,N
+671,"19,596",Box Score,"Tue, Jan 28, 2014",,10:30p,85,Golden State Warriors,,88,Washington Wizards,N
+672,"18,997",Box Score,"Tue, Jan 28, 2014",,10:30p,92,Los Angeles Lakers,,104,Indiana Pacers,N
+673,"19,673",Box Score,"Wed, Jan 29, 2014",,7:00p,95,Miami Heat,,112,Oklahoma City Thunder,N
+674,"17,694",Box Score,"Wed, Jan 29, 2014",,7:00p,98,Toronto Raptors,,83,Orlando Magic,N
+675,"18,624",Box Score,"Wed, Jan 29, 2014",,7:30p,94,Boston Celtics,,95,Philadelphia 76ers,N
+676,"11,175",Box Score,"Wed, Jan 29, 2014",,8:00p,117,Milwaukee Bucks,,126,Phoenix Suns,N
+677,"11,702",Box Score,"Wed, Jan 29, 2014",,8:00p,88,Minnesota Timberwolves,,77,New Orleans Pelicans,N
+678,"19,359",Box Score,"Wed, Jan 29, 2014",,8:30p,115,Dallas Mavericks,,117,Houston Rockets,N
+679,"16,151",Box Score,"Wed, Jan 29, 2014",,9:00p,98,Denver Nuggets,,101,Charlotte Bobcats,N
+680,"18,581",Box Score,"Wed, Jan 29, 2014",,9:30p,86,San Antonio Spurs,,96,Chicago Bulls,N
+681,"15,195",Box Score,"Wed, Jan 29, 2014",,10:00p,89,Sacramento Kings,,99,Memphis Grizzlies,N
+682,"19,060",Box Score,"Wed, Jan 29, 2014",,10:30p,110,Los Angeles Clippers,,103,Washington Wizards,N
+683,"16,541",Box Score,"Thu, Jan 30, 2014",,7:00p,94,Indiana Pacers,,102,Phoenix Suns,N
+684,"19,812",Box Score,"Thu, Jan 30, 2014",,8:00p,117,New York Knicks,,86,Cleveland Cavaliers,N
+685,"19,596",Box Score,"Thu, Jan 30, 2014",,10:30p,111,Golden State Warriors,,92,Los Angeles Clippers,N
+686,"17,292",Box Score,"Fri, Jan 31, 2014",,7:00p,113,Orlando Magic,,102,Milwaukee Bucks,N
+687,"14,702",Box Score,"Fri, Jan 31, 2014",,7:30p,99,Philadelphia 76ers,,125,Atlanta Hawks,N
+688,"17,732",Box Score,"Fri, Jan 31, 2014",,8:00p,95,Brooklyn Nets,,120,Oklahoma City Thunder,N
+689,"17,429",Box Score,"Fri, Jan 31, 2014",,8:00p,90,Minnesota Timberwolves,,94,Memphis Grizzlies,N
+690,"19,614",Box Score,"Fri, Jan 31, 2014",,8:30p,107,Dallas Mavericks,,103,Sacramento Kings,N
+691,"17,131",Box Score,"Fri, Jan 31, 2014",,9:00p,90,Denver Nuggets,,100,Toronto Raptors,N
+692,"18,997",Box Score,"Fri, Jan 31, 2014",,10:30p,100,Los Angeles Lakers,,110,Charlotte Bobcats,N
+693,"19,911",Box Score,"Fri, Jan 31, 2014",,10:30p,90,Utah Jazz,,95,Golden State Warriors,N
+694,"18,165",Box Score,"Sat, Feb 1, 2014",,7:00p,97,Indiana Pacers,,96,Brooklyn Nets,N
+695,"20,356",Box Score,"Sat, Feb 1, 2014",,7:00p,96,Washington Wizards,,81,Oklahoma City Thunder,N
+696,"13,018",Box Score,"Sat, Feb 1, 2014",,7:30p,120,Atlanta Hawks,,113,Minnesota Timberwolves,N
+697,"16,649",Box Score,"Sat, Feb 1, 2014",,7:30p,113,Detroit Pistons,,96,Philadelphia 76ers,N
+698,"18,309",Box Score,"Sat, Feb 1, 2014",,8:00p,106,Houston Rockets,,92,Cleveland Cavaliers,N
+699,"17,017",Box Score,"Sat, Feb 1, 2014",,8:00p,99,Memphis Grizzlies,,90,Milwaukee Bucks,N
+700,"17,799",Box Score,"Sat, Feb 1, 2014",,8:00p,88,New Orleans Pelicans,,79,Chicago Bulls,N
+701,"19,812",Box Score,"Sat, Feb 1, 2014",,8:30p,91,New York Knicks,,106,Miami Heat,N
+702,"18,581",Box Score,"Sat, Feb 1, 2014",,8:30p,95,San Antonio Spurs,,93,Sacramento Kings,N
+703,"16,248",Box Score,"Sat, Feb 1, 2014",,9:00p,105,Phoenix Suns,,95,Charlotte Bobcats,N
+704,"19,996",Box Score,"Sat, Feb 1, 2014",,10:00p,106,Portland Trail Blazers,,103,Toronto Raptors,N
+705,"19,060",Box Score,"Sat, Feb 1, 2014",,10:30p,102,Los Angeles Clippers,,87,Utah Jazz,N
+706,"18,624",Box Score,"Sun, Feb 2, 2014",,1:00p,96,Boston Celtics,,89,Orlando Magic,N
+707,"16,266",Box Score,"Mon, Feb 3, 2014",,7:00p,98,Indiana Pacers,,79,Orlando Magic,N
+708,"13,259",Box Score,"Mon, Feb 3, 2014",,7:00p,100,Washington Wizards,,90,Portland Trail Blazers,N
+709,"16,727",Box Score,"Mon, Feb 3, 2014",,7:30p,108,Brooklyn Nets,,102,Philadelphia 76ers,N
+710,"19,802",Box Score,"Mon, Feb 3, 2014",,7:30p,102,Miami Heat,,96,Detroit Pistons,N
+711,"11,147",Box Score,"Mon, Feb 3, 2014",,8:00p,101,Milwaukee Bucks,,98,New York Knicks,N
+712,"17,086",Box Score,"Mon, Feb 3, 2014",,8:00p,95,New Orleans Pelicans,,102,San Antonio Spurs,N
+713,"18,203",Box Score,"Mon, Feb 3, 2014",,8:00p,86,Oklahoma City Thunder,,77,Memphis Grizzlies,N
+714,"19,595",Box Score,"Mon, Feb 3, 2014",,8:30p,124,Dallas Mavericks,,107,Cleveland Cavaliers,N
+715,"16,567",Box Score,"Mon, Feb 3, 2014",,9:00p,116,Denver Nuggets,,115,Los Angeles Clippers,N
+716,"17,139",Box Score,"Mon, Feb 3, 2014",,9:00p,79,Utah Jazz,,94,Toronto Raptors,N
+717,"15,178",Box Score,"Mon, Feb 3, 2014",,10:00p,99,Sacramento Kings,,70,Chicago Bulls,N
+718,"15,374",Box Score,"Tue, Feb 4, 2014",,7:30p,85,Atlanta Hawks,,89,Indiana Pacers,N
+719,"12,559",Box Score,"Tue, Feb 4, 2014",,8:00p,109,Minnesota Timberwolves,,99,Los Angeles Lakers,N
+720,"16,636",Box Score,"Tue, Feb 4, 2014",,9:00p,92,Phoenix Suns,,101,Chicago Bulls,N
+721,"19,596",Box Score,"Tue, Feb 4, 2014",,10:30p,75,Golden State Warriors,,91,Charlotte Bobcats,N
+722,"15,205",Box Score,"Wed, Feb 5, 2014",,7:00p,108,Cleveland Cavaliers,,119,Los Angeles Lakers,N
+723,"15,166",Box Score,"Wed, Feb 5, 2014",,7:00p,112,Orlando Magic,,98,Detroit Pistons,N
+724,"10,267",Box Score,"Wed, Feb 5, 2014",,7:00p,108,Philadelphia 76ers,,114,Boston Celtics,N
+725,"15,791",Box Score,"Wed, Feb 5, 2014",,7:00p,118,Washington Wizards,2OT,125,San Antonio Spurs,N
+726,"18,217",Box Score,"Wed, Feb 5, 2014",,8:00p,122,Houston Rockets,,108,Phoenix Suns,N
+727,"16,188",Box Score,"Wed, Feb 5, 2014",,8:00p,96,Memphis Grizzlies,,110,Dallas Mavericks,N
+728,"16,232",Box Score,"Wed, Feb 5, 2014",,8:00p,105,New Orleans Pelicans,,100,Atlanta Hawks,N
+729,"19,812",Box Score,"Wed, Feb 5, 2014",,8:00p,90,New York Knicks,,94,Portland Trail Blazers,N
+730,"18,203",Box Score,"Wed, Feb 5, 2014",,8:00p,106,Oklahoma City Thunder,,97,Minnesota Timberwolves,N
+731,"15,122",Box Score,"Wed, Feb 5, 2014",,9:00p,110,Denver Nuggets,,100,Milwaukee Bucks,N
+732,"17,317",Box Score,"Wed, Feb 5, 2014",,10:00p,109,Sacramento Kings,,101,Toronto Raptors,N
+733,"19,672",Box Score,"Wed, Feb 5, 2014",,10:30p,112,Los Angeles Clippers,,116,Miami Heat,N
+734,"17,732",Box Score,"Thu, Feb 6, 2014",,8:00p,103,Brooklyn Nets,,89,San Antonio Spurs,N
+735,"19,596",Box Score,"Thu, Feb 6, 2014",,10:30p,102,Golden State Warriors,,87,Chicago Bulls,N
+736,"18,165",Box Score,"Fri, Feb 7, 2014",,7:00p,118,Indiana Pacers,OT,113,Portland Trail Blazers,N
+737,"15,595",Box Score,"Fri, Feb 7, 2014",,7:00p,103,Orlando Magic,,102,Oklahoma City Thunder,N
+738,"15,211",Box Score,"Fri, Feb 7, 2014",,7:00p,98,Philadelphia 76ers,,112,Los Angeles Lakers,N
+739,"16,294",Box Score,"Fri, Feb 7, 2014",,7:00p,113,Washington Wizards,,115,Cleveland Cavaliers,N
+740,"18,624",Box Score,"Fri, Feb 7, 2014",,7:30p,99,Boston Celtics,,89,Sacramento Kings,N
+741,"13,727",Box Score,"Fri, Feb 7, 2014",,7:30p,111,Detroit Pistons,,95,Brooklyn Nets,N
+742,"19,812",Box Score,"Fri, Feb 7, 2014",,7:30p,117,New York Knicks,,90,Denver Nuggets,N
+743,"19,928",Box Score,"Fri, Feb 7, 2014",,8:30p,103,Dallas Mavericks,,81,Utah Jazz,N
+744,"16,541",Box Score,"Fri, Feb 7, 2014",,9:30p,98,New Orleans Pelicans,,91,Minnesota Timberwolves,N
+745,"19,060",Box Score,"Fri, Feb 7, 2014",,10:30p,118,Los Angeles Clippers,,105,Toronto Raptors,N
+746,"19,084",Box Score,"Sat, Feb 8, 2014",,7:00p,100,Charlotte Bobcats,,104,San Antonio Spurs,N
+747,"15,190",Box Score,"Sat, Feb 8, 2014",,7:30p,76,Atlanta Hawks,,79,Memphis Grizzlies,N
+748,"15,870",Box Score,"Sat, Feb 8, 2014",,7:30p,126,Detroit Pistons,,109,Denver Nuggets,N
+749,"17,506",Box Score,"Sat, Feb 8, 2014",,8:00p,110,Minnesota Timberwolves,,117,Portland Trail Blazers,N
+750,"15,923",Box Score,"Sat, Feb 8, 2014",,8:30p,95,Milwaukee Bucks,,101,Houston Rockets,N
+751,"17,846",Box Score,"Sat, Feb 8, 2014",,9:00p,122,Phoenix Suns,,109,Golden State Warriors,N
+752,"19,911",Box Score,"Sat, Feb 8, 2014",,9:00p,94,Utah Jazz,,89,Miami Heat,N
+753,"18,203",Box Score,"Sun, Feb 9, 2014",,1:00p,112,Oklahoma City Thunder,,100,New York Knicks,N
+754,"18,997",Box Score,"Sun, Feb 9, 2014",,3:30p,86,Los Angeles Lakers,,92,Chicago Bulls,N
+755,"17,650",Box Score,"Sun, Feb 9, 2014",,6:00p,91,Boston Celtics,,102,Dallas Mavericks,N
+756,"17,732",Box Score,"Sun, Feb 9, 2014",,6:00p,93,Brooklyn Nets,,81,New Orleans Pelicans,N
+757,"16,484",Box Score,"Sun, Feb 9, 2014",,6:00p,91,Cleveland Cavaliers,OT,83,Memphis Grizzlies,N
+758,"16,366",Box Score,"Sun, Feb 9, 2014",,6:00p,93,Orlando Magic,,92,Indiana Pacers,N
+759,"18,173",Box Score,"Sun, Feb 9, 2014",,6:00p,93,Washington Wizards,,84,Sacramento Kings,N
+760,"19,157",Box Score,"Sun, Feb 9, 2014",,9:30p,123,Los Angeles Clippers,,78,Philadelphia 76ers,N
+761,"16,124",Box Score,"Mon, Feb 10, 2014",,7:00p,119,Indiana Pacers,,80,Denver Nuggets,N
+762,"17,596",Box Score,"Mon, Feb 10, 2014",,7:00p,108,Toronto Raptors,,101,New Orleans Pelicans,N
+763,"13,628",Box Score,"Mon, Feb 10, 2014",,7:30p,109,Detroit Pistons,,100,San Antonio Spurs,N
+764,"11,016",Box Score,"Mon, Feb 10, 2014",,8:00p,86,Milwaukee Bucks,,102,Boston Celtics,N
+765,"12,002",Box Score,"Mon, Feb 10, 2014",,8:00p,89,Minnesota Timberwolves,,107,Houston Rockets,N
+766,"19,596",Box Score,"Mon, Feb 10, 2014",,10:30p,123,Golden State Warriors,,80,Philadelphia 76ers,N
+767,"11,467",Box Score,"Tue, Feb 11, 2014",,7:00p,114,Charlotte Bobcats,,89,Dallas Mavericks,N
+768,"14,245",Box Score,"Tue, Feb 11, 2014",,7:00p,109,Cleveland Cavaliers,,99,Sacramento Kings,N
+769,"21,325",Box Score,"Tue, Feb 11, 2014",,8:00p,100,Chicago Bulls,,85,Atlanta Hawks,N
+770,"15,613",Box Score,"Tue, Feb 11, 2014",,8:00p,92,Memphis Grizzlies,,89,Washington Wizards,N
+771,"17,927",Box Score,"Tue, Feb 11, 2014",,9:00p,97,Phoenix Suns,,103,Miami Heat,N
+772,"20,018",Box Score,"Tue, Feb 11, 2014",,10:00p,95,Portland Trail Blazers,,98,Oklahoma City Thunder,N
+773,"18,209",Box Score,"Tue, Feb 11, 2014",,10:30p,79,Los Angeles Lakers,,96,Utah Jazz,N
+774,"17,663",Box Score,"Wed, Feb 12, 2014",,7:00p,73,Indiana Pacers,,81,Dallas Mavericks,N
+775,"15,310",Box Score,"Wed, Feb 12, 2014",,7:00p,81,Orlando Magic,,86,Memphis Grizzlies,N
+776,"17,121",Box Score,"Wed, Feb 12, 2014",,7:00p,104,Toronto Raptors,,83,Atlanta Hawks,N
+777,"17,922",Box Score,"Wed, Feb 12, 2014",,7:30p,92,Boston Celtics,,104,San Antonio Spurs,N
+778,"16,862",Box Score,"Wed, Feb 12, 2014",,7:30p,105,Brooklyn Nets,,89,Charlotte Bobcats,N
+779,"13,184",Box Score,"Wed, Feb 12, 2014",,7:30p,89,Detroit Pistons,,93,Cleveland Cavaliers,N
+780,"19,812",Box Score,"Wed, Feb 12, 2014",,7:30p,101,New York Knicks,OT,106,Sacramento Kings,N
+781,"18,314",Box Score,"Wed, Feb 12, 2014",,8:00p,113,Houston Rockets,,112,Washington Wizards,N
+782,"11,012",Box Score,"Wed, Feb 12, 2014",,8:00p,98,Milwaukee Bucks,,102,New Orleans Pelicans,N
+783,"12,139",Box Score,"Wed, Feb 12, 2014",,8:00p,117,Minnesota Timberwolves,,90,Denver Nuggets,N
+784,"19,368",Box Score,"Wed, Feb 12, 2014",,9:00p,105,Utah Jazz,,100,Philadelphia 76ers,N
+785,"19,596",Box Score,"Wed, Feb 12, 2014",,10:30p,110,Golden State Warriors,,111,Miami Heat,N
+786,"19,175",Box Score,"Wed, Feb 12, 2014",,10:30p,122,Los Angeles Clippers,,117,Portland Trail Blazers,N
+787,"21,500",Box Score,"Thu, Feb 13, 2014",,8:00p,92,Chicago Bulls,,76,Brooklyn Nets,N
+788,"18,997",Box Score,"Thu, Feb 13, 2014",,10:30p,103,Los Angeles Lakers,,107,Oklahoma City Thunder,N
+789,"18,165",Box Score,"Tue, Feb 18, 2014",,7:00p,108,Indiana Pacers,,98,Atlanta Hawks,N
+790,"12,904",Box Score,"Tue, Feb 18, 2014",,7:00p,85,Philadelphia 76ers,,114,Cleveland Cavaliers,N
+791,"15,624",Box Score,"Tue, Feb 18, 2014",,7:00p,93,Washington Wizards,,103,Toronto Raptors,N
+792,"11,285",Box Score,"Tue, Feb 18, 2014",,7:30p,96,Detroit Pistons,,108,Charlotte Bobcats,N
+793,"17,317",Box Score,"Tue, Feb 18, 2014",,8:00p,98,Memphis Grizzlies,,93,New York Knicks,N
+794,"11,106",Box Score,"Tue, Feb 18, 2014",,8:00p,104,Milwaukee Bucks,,100,Orlando Magic,N
+795,"20,461",Box Score,"Tue, Feb 18, 2014",,8:30p,106,Dallas Mavericks,,117,Miami Heat,N
+796,"16,461",Box Score,"Tue, Feb 18, 2014",,9:00p,107,Denver Nuggets,OT,112,Phoenix Suns,N
+797,"19,257",Box Score,"Tue, Feb 18, 2014",,10:30p,103,Los Angeles Clippers,,113,San Antonio Spurs,N
+798,"14,400",Box Score,"Wed, Feb 19, 2014",,7:00p,116,Charlotte Bobcats,,98,Detroit Pistons,N
+799,"16,539",Box Score,"Wed, Feb 19, 2014",,7:00p,101,Cleveland Cavaliers,,93,Orlando Magic,N
+800,"17,704",Box Score,"Wed, Feb 19, 2014",,7:00p,92,Toronto Raptors,,94,Chicago Bulls,N
+801,"13,529",Box Score,"Wed, Feb 19, 2014",,7:30p,97,Atlanta Hawks,,114,Washington Wizards,N
+802,"15,109",Box Score,"Wed, Feb 19, 2014",,8:00p,104,Minnesota Timberwolves,,91,Indiana Pacers,N
+803,"16,495",Box Score,"Wed, Feb 19, 2014",,8:00p,91,New Orleans Pelicans,,98,New York Knicks,N
+804,"16,135",Box Score,"Wed, Feb 19, 2014",,9:00p,100,Phoenix Suns,,94,Boston Celtics,N
+805,"17,386",Box Score,"Wed, Feb 19, 2014",,9:00p,99,Utah Jazz,,105,Brooklyn Nets,N
+806,"20,057",Box Score,"Wed, Feb 19, 2014",,10:00p,109,Portland Trail Blazers,,111,San Antonio Spurs,N
+807,"17,317",Box Score,"Wed, Feb 19, 2014",,10:00p,92,Sacramento Kings,,101,Golden State Warriors,N
+808,"18,997",Box Score,"Wed, Feb 19, 2014",,10:30p,108,Los Angeles Lakers,,134,Houston Rockets,N
+809,"11,186",Box Score,"Thu, Feb 20, 2014",,8:00p,90,Milwaukee Bucks,,101,Denver Nuggets,N
+810,"18,203",Box Score,"Thu, Feb 20, 2014",,8:00p,81,Oklahoma City Thunder,,103,Miami Heat,N
+811,"19,596",Box Score,"Thu, Feb 20, 2014",,10:30p,102,Golden State Warriors,OT,99,Houston Rockets,N
+812,"15,867",Box Score,"Fri, Feb 21, 2014",,7:00p,90,Charlotte Bobcats,,87,New Orleans Pelicans,N
+813,"16,498",Box Score,"Fri, Feb 21, 2014",,7:00p,129,Orlando Magic,2OT,121,New York Knicks,N
+814,"14,928",Box Score,"Fri, Feb 21, 2014",,7:00p,112,Philadelphia 76ers,,124,Dallas Mavericks,N
+815,"18,854",Box Score,"Fri, Feb 21, 2014",,7:00p,98,Toronto Raptors,,91,Cleveland Cavaliers,N
+816,"18,053",Box Score,"Fri, Feb 21, 2014",,7:30p,115,Detroit Pistons,,107,Atlanta Hawks,N
+817,"21,621",Box Score,"Fri, Feb 21, 2014",,8:00p,117,Chicago Bulls,,89,Denver Nuggets,N
+818,"17,963",Box Score,"Fri, Feb 21, 2014",,8:00p,102,Memphis Grizzlies,,96,Los Angeles Clippers,N
+819,"18,422",Box Score,"Fri, Feb 21, 2014",,9:00p,106,Phoenix Suns,,85,San Antonio Spurs,N
+820,"19,998",Box Score,"Fri, Feb 21, 2014",,10:00p,102,Portland Trail Blazers,,94,Utah Jazz,N
+821,"18,997",Box Score,"Fri, Feb 21, 2014",,10:30p,101,Los Angeles Lakers,,92,Boston Celtics,N
+822,"18,317",Box Score,"Sat, Feb 22, 2014",,7:00p,92,Charlotte Bobcats,,89,Memphis Grizzlies,N
+823,"18,385",Box Score,"Sat, Feb 22, 2014",,7:00p,94,Washington Wizards,,93,New Orleans Pelicans,N
+824,"19,045",Box Score,"Sat, Feb 22, 2014",,7:30p,107,Atlanta Hawks,,98,New York Knicks,N
+825,"15,213",Box Score,"Sat, Feb 22, 2014",,7:30p,102,Detroit Pistons,,113,Dallas Mavericks,N
+826,"17,165",Box Score,"Sat, Feb 22, 2014",,8:30p,100,Milwaukee Bucks,,110,Indiana Pacers,N
+827,"19,323",Box Score,"Sat, Feb 22, 2014",,9:00p,104,Utah Jazz,,121,Minnesota Timberwolves,N
+828,"17,317",Box Score,"Sat, Feb 22, 2014",,10:00p,105,Sacramento Kings,,98,Boston Celtics,N
+829,"19,596",Box Score,"Sat, Feb 22, 2014",,10:30p,93,Golden State Warriors,,86,Brooklyn Nets,N
+830,"18,203",Box Score,"Sun, Feb 23, 2014",,1:00p,117,Oklahoma City Thunder,,125,Los Angeles Clippers,N
+831,"19,848",Box Score,"Sun, Feb 23, 2014",,3:30p,93,Miami Heat,,79,Chicago Bulls,N
+832,"17,238",Box Score,"Sun, Feb 23, 2014",,6:00p,83,Cleveland Cavaliers,,96,Washington Wizards,N
+833,"17,435",Box Score,"Sun, Feb 23, 2014",,6:00p,105,Toronto Raptors,,90,Orlando Magic,N
+834,"16,263",Box Score,"Sun, Feb 23, 2014",,8:00p,95,Denver Nuggets,,109,Sacramento Kings,N
+835,"18,997",Box Score,"Sun, Feb 23, 2014",,9:00p,102,Los Angeles Lakers,,108,Brooklyn Nets,N
+836,"15,510",Box Score,"Sun, Feb 23, 2014",,9:00p,112,Phoenix Suns,,115,Houston Rockets,N
+837,"19,458",Box Score,"Sun, Feb 23, 2014",,9:00p,108,Portland Trail Blazers,,97,Minnesota Timberwolves,N
+838,"12,216",Box Score,"Mon, Feb 24, 2014",,7:00p,110,Philadelphia 76ers,,130,Milwaukee Bucks,N
+839,"14,071",Box Score,"Mon, Feb 24, 2014",,7:30p,96,Detroit Pistons,,104,Golden State Warriors,N
+840,"19,812",Box Score,"Mon, Feb 24, 2014",,7:30p,108,New York Knicks,,110,Dallas Mavericks,N
+841,"16,185",Box Score,"Mon, Feb 24, 2014",,8:00p,110,New Orleans Pelicans,,123,Los Angeles Clippers,N
+842,"17,130",Box Score,"Mon, Feb 24, 2014",,9:00p,110,Utah Jazz,,98,Boston Celtics,N
+843,"13,758",Box Score,"Tue, Feb 25, 2014",,7:00p,93,Cleveland Cavaliers,,99,Toronto Raptors,N
+844,"18,165",Box Score,"Tue, Feb 25, 2014",,7:00p,118,Indiana Pacers,,98,Los Angeles Lakers,N
+845,"13,306",Box Score,"Tue, Feb 25, 2014",,7:00p,115,Washington Wizards,,106,Orlando Magic,N
+846,"12,418",Box Score,"Tue, Feb 25, 2014",,7:30p,103,Atlanta Hawks,,107,Chicago Bulls,N
+847,"16,058",Box Score,"Tue, Feb 25, 2014",,9:00p,95,Denver Nuggets,,100,Portland Trail Blazers,N
+848,"16,273",Box Score,"Tue, Feb 25, 2014",,9:00p,101,Phoenix Suns,,110,Minnesota Timberwolves,N
+849,"16,057",Box Score,"Tue, Feb 25, 2014",,10:00p,103,Sacramento Kings,,129,Houston Rockets,N
+850,"12,817",Box Score,"Wed, Feb 26, 2014",,7:00p,90,Philadelphia 76ers,,101,Orlando Magic,N
+851,"16,605",Box Score,"Wed, Feb 26, 2014",,7:30p,115,Boston Celtics,,104,Atlanta Hawks,N
+852,"21,701",Box Score,"Wed, Feb 26, 2014",,8:00p,103,Chicago Bulls,,83,Golden State Warriors,N
+853,"19,729",Box Score,"Wed, Feb 26, 2014",,8:00p,108,Dallas Mavericks,,89,New Orleans Pelicans,N
+854,"16,989",Box Score,"Wed, Feb 26, 2014",,8:00p,108,Memphis Grizzlies,,103,Los Angeles Lakers,N
+855,"18,203",Box Score,"Wed, Feb 26, 2014",,8:00p,104,Oklahoma City Thunder,,114,Cleveland Cavaliers,N
+856,"18,581",Box Score,"Wed, Feb 26, 2014",,8:30p,120,San Antonio Spurs,,110,Detroit Pistons,N
+857,"19,639",Box Score,"Wed, Feb 26, 2014",,9:00p,109,Utah Jazz,,86,Phoenix Suns,N
+858,"20,015",Box Score,"Wed, Feb 26, 2014",,10:00p,124,Portland Trail Blazers,,80,Brooklyn Nets,N
+859,"19,258",Box Score,"Wed, Feb 26, 2014",,10:30p,101,Los Angeles Clippers,,93,Houston Rockets,N
+860,"17,892",Box Score,"Thu, Feb 27, 2014",,7:00p,101,Indiana Pacers,,96,Milwaukee Bucks,N
+861,"17,758",Box Score,"Thu, Feb 27, 2014",,7:00p,129,Toronto Raptors,3OT,134,Washington Wizards,N
+862,"19,634",Box Score,"Thu, Feb 27, 2014",,8:00p,108,Miami Heat,,82,New York Knicks,N
+863,"14,826",Box Score,"Thu, Feb 27, 2014",,10:30p,89,Denver Nuggets,,112,Brooklyn Nets,N
+864,"18,601",Box Score,"Fri, Feb 28, 2014",,7:30p,99,Cleveland Cavaliers,,79,Utah Jazz,N
+865,"19,812",Box Score,"Fri, Feb 28, 2014",,8:00p,103,New York Knicks,,126,Golden State Warriors,N
+866,"18,203",Box Score,"Fri, Feb 28, 2014",,8:00p,113,Oklahoma City Thunder,,107,Memphis Grizzlies,N
+867,"20,398",Box Score,"Fri, Feb 28, 2014",,8:30p,91,Dallas Mavericks,,100,Chicago Bulls,N
+868,"18,581",Box Score,"Fri, Feb 28, 2014",,8:30p,92,San Antonio Spurs,,82,Charlotte Bobcats,N
+869,"18,997",Box Score,"Fri, Feb 28, 2014",,10:30p,126,Los Angeles Lakers,,122,Sacramento Kings,N
+870,"16,578",Box Score,"Fri, Feb 28, 2014",,10:30p,116,Phoenix Suns,,104,New Orleans Pelicans,N
+871,"19,834",Box Score,"Sat, Mar 1, 2014",,7:30p,112,Miami Heat,,98,Orlando Magic,N
+872,"20,856",Box Score,"Sat, Mar 1, 2014",,7:30p,103,Philadelphia 76ers,,122,Washington Wizards,N
+873,"18,624",Box Score,"Sat, Mar 1, 2014",,8:00p,97,Boston Celtics,,102,Indiana Pacers,N
+874,"18,330",Box Score,"Sat, Mar 1, 2014",,8:00p,118,Houston Rockets,,110,Detroit Pistons,N
+875,"14,081",Box Score,"Sat, Mar 1, 2014",,8:30p,98,Milwaukee Bucks,,107,Brooklyn Nets,N
+876,"17,011",Box Score,"Sat, Mar 1, 2014",,9:00p,110,Memphis Grizzlies,,96,Cleveland Cavaliers,N
+877,"20,068",Box Score,"Sat, Mar 1, 2014",,10:00p,102,Portland Trail Blazers,,96,Denver Nuggets,N
+878,"17,085",Box Score,"Sat, Mar 1, 2014",,10:00p,97,Sacramento Kings,,108,Minnesota Timberwolves,N
+879,"19,060",Box Score,"Sat, Mar 1, 2014",,10:30p,108,Los Angeles Clippers,,76,New Orleans Pelicans,N
+880,"21,739",Box Score,"Sun, Mar 2, 2014",,1:00p,109,Chicago Bulls,,90,New York Knicks,N
+881,"18,658",Box Score,"Sun, Mar 2, 2014",,4:00p,104,Toronto Raptors,,98,Golden State Warriors,N
+882,"18,165",Box Score,"Sun, Mar 2, 2014",,6:00p,94,Indiana Pacers,,91,Utah Jazz,N
+883,"16,704",Box Score,"Sun, Mar 2, 2014",,6:00p,92,Orlando Magic,,81,Philadelphia 76ers,N
+884,"18,203",Box Score,"Sun, Mar 2, 2014",,7:00p,116,Oklahoma City Thunder,,99,Charlotte Bobcats,N
+885,"18,581",Box Score,"Sun, Mar 2, 2014",,7:00p,112,San Antonio Spurs,,106,Dallas Mavericks,N
+886,"16,759",Box Score,"Sun, Mar 2, 2014",,8:00p,129,Phoenix Suns,,120,Atlanta Hawks,N
+887,"14,065",Box Score,"Mon, Mar 3, 2014",,7:00p,104,Washington Wizards,,110,Memphis Grizzlies,N
+888,"17,732",Box Score,"Mon, Mar 3, 2014",,7:30p,96,Brooklyn Nets,,80,Chicago Bulls,N
+889,"14,742",Box Score,"Mon, Mar 3, 2014",,7:30p,96,Detroit Pistons,,85,New York Knicks,N
+890,"19,727",Box Score,"Mon, Mar 3, 2014",,7:30p,124,Miami Heat,,107,Charlotte Bobcats,N
+891,"10,022",Box Score,"Mon, Mar 3, 2014",,8:00p,114,Milwaukee Bucks,,88,Utah Jazz,N
+892,"15,240",Box Score,"Mon, Mar 3, 2014",,9:00p,128,Denver Nuggets,,132,Minnesota Timberwolves,N
+893,"20,013",Box Score,"Mon, Mar 3, 2014",,10:00p,106,Portland Trail Blazers,,107,Los Angeles Lakers,N
+894,"16,225",Box Score,"Mon, Mar 3, 2014",,10:00p,96,Sacramento Kings,,89,New Orleans Pelicans,N
+895,"17,966",Box Score,"Tue, Mar 4, 2014",,7:00p,101,Cleveland Cavaliers,,122,San Antonio Spurs,N
+896,"18,165",Box Score,"Tue, Mar 4, 2014",,7:00p,96,Indiana Pacers,,98,Golden State Warriors,N
+897,"18,523",Box Score,"Tue, Mar 4, 2014",,8:00p,106,Houston Rockets,,103,Miami Heat,N
+898,"18,203",Box Score,"Tue, Mar 4, 2014",,8:00p,125,Oklahoma City Thunder,,92,Philadelphia 76ers,N
+899,"15,068",Box Score,"Tue, Mar 4, 2014",,9:00p,96,Phoenix Suns,,104,Los Angeles Clippers,N
+900,"18,436",Box Score,"Tue, Mar 4, 2014",,10:30p,125,Los Angeles Lakers,,132,New Orleans Pelicans,N
+901,"15,372",Box Score,"Wed, Mar 5, 2014",,7:00p,109,Charlotte Bobcats,,87,Indiana Pacers,N
+902,"16,012",Box Score,"Wed, Mar 5, 2014",,7:00p,89,Orlando Magic,,101,Houston Rockets,N
+903,"13,911",Box Score,"Wed, Mar 5, 2014",,7:00p,104,Washington Wizards,,91,Utah Jazz,N
+904,"18,155",Box Score,"Wed, Mar 5, 2014",,7:30p,88,Boston Celtics,,108,Golden State Warriors,N
+905,"17,053",Box Score,"Wed, Mar 5, 2014",,7:30p,103,Brooklyn Nets,,94,Memphis Grizzlies,N
+906,"14,007",Box Score,"Wed, Mar 5, 2014",,7:30p,94,Detroit Pistons,,105,Chicago Bulls,N
+907,"14,541",Box Score,"Wed, Mar 5, 2014",,8:00p,115,Denver Nuggets,,110,Dallas Mavericks,N
+908,"11,079",Box Score,"Wed, Mar 5, 2014",,8:00p,102,Milwaukee Bucks,,116,Sacramento Kings,N
+909,"14,294",Box Score,"Wed, Mar 5, 2014",,8:00p,106,Minnesota Timberwolves,,118,New York Knicks,N
+910,"20,043",Box Score,"Wed, Mar 5, 2014",,10:30p,102,Portland Trail Blazers,,78,Atlanta Hawks,N
+911,"18,581",Box Score,"Thu, Mar 6, 2014",,8:00p,111,San Antonio Spurs,,87,Miami Heat,N
+912,"17,816",Box Score,"Thu, Mar 6, 2014",,9:00p,128,Phoenix Suns,,122,Oklahoma City Thunder,N
+913,"18,488",Box Score,"Thu, Mar 6, 2014",,10:30p,94,Los Angeles Lakers,,142,Los Angeles Clippers,N
+914,"15,688",Box Score,"Fri, Mar 7, 2014",,7:00p,101,Charlotte Bobcats,,92,Cleveland Cavaliers,N
+915,"21,318",Box Score,"Fri, Mar 7, 2014",,7:00p,77,Chicago Bulls,,85,Memphis Grizzlies,N
+916,"18,188",Box Score,"Fri, Mar 7, 2014",,7:00p,99,Toronto Raptors,,87,Sacramento Kings,N
+917,"18,195",Box Score,"Fri, Mar 7, 2014",,7:30p,91,Boston Celtics,,84,Brooklyn Nets,N
+918,"19,812",Box Score,"Fri, Mar 7, 2014",,7:30p,108,New York Knicks,,81,Utah Jazz,N
+919,"16,242",Box Score,"Fri, Mar 7, 2014",,8:00p,114,Minnesota Timberwolves,,101,Detroit Pistons,N
+920,"16,061",Box Score,"Fri, Mar 7, 2014",,8:00p,112,New Orleans Pelicans,,104,Milwaukee Bucks,N
+921,"20,251",Box Score,"Fri, Mar 7, 2014",,8:30p,103,Dallas Mavericks,,98,Portland Trail Blazers,N
+922,"18,248",Box Score,"Fri, Mar 7, 2014",,9:00p,134,Denver Nuggets,,126,Los Angeles Lakers,N
+923,"18,332",Box Score,"Fri, Mar 7, 2014",,9:30p,112,Houston Rockets,,86,Indiana Pacers,N
+924,"19,596",Box Score,"Fri, Mar 7, 2014",,10:30p,111,Golden State Warriors,,97,Atlanta Hawks,N
+925,"20,562",Box Score,"Sat, Mar 8, 2014",,7:30p,97,Cleveland Cavaliers,,107,New York Knicks,N
+926,"13,569",Box Score,"Sat, Mar 8, 2014",,7:30p,92,Philadelphia 76ers,,104,Utah Jazz,N
+927,"17,298",Box Score,"Sat, Mar 8, 2014",,8:00p,111,Memphis Grizzlies,,89,Charlotte Bobcats,N
+928,"18,581",Box Score,"Sat, Mar 8, 2014",,8:30p,121,San Antonio Spurs,,112,Orlando Magic,N
+929,"14,839",Box Score,"Sat, Mar 8, 2014",,9:00p,107,Milwaukee Bucks,,114,Washington Wizards,N
+930,"19,178",Box Score,"Sat, Mar 8, 2014",,10:30p,109,Los Angeles Clippers,,108,Atlanta Hawks,N
+931,"22,028",Box Score,"Sun, Mar 9, 2014",,1:00p,95,Chicago Bulls,OT,88,Miami Heat,N
+932,"18,997",Box Score,"Sun, Mar 9, 2014",,3:30p,114,Los Angeles Lakers,,110,Oklahoma City Thunder,N
+933,"18,624",Box Score,"Sun, Mar 9, 2014",,6:00p,118,Boston Celtics,,111,Detroit Pistons,N
+934,"17,732",Box Score,"Sun, Mar 9, 2014",,6:00p,104,Brooklyn Nets,,89,Sacramento Kings,N
+935,"17,115",Box Score,"Sun, Mar 9, 2014",,6:00p,111,New Orleans Pelicans,OT,107,Denver Nuggets,N
+936,"18,321",Box Score,"Sun, Mar 9, 2014",,7:00p,118,Houston Rockets,OT,113,Portland Trail Blazers,N
+937,"13,116",Box Score,"Sun, Mar 9, 2014",,7:00p,104,Minnesota Timberwolves,,111,Toronto Raptors,N
+938,"20,361",Box Score,"Sun, Mar 9, 2014",,7:30p,105,Dallas Mavericks,,94,Indiana Pacers,N
+939,"19,596",Box Score,"Sun, Mar 9, 2014",,9:00p,113,Golden State Warriors,,107,Phoenix Suns,N
+940,"14,312",Box Score,"Mon, Mar 10, 2014",,7:00p,105,Charlotte Bobcats,,98,Denver Nuggets,N
+941,"17,351",Box Score,"Mon, Mar 10, 2014",,7:30p,101,Brooklyn Nets,,97,Toronto Raptors,N
+942,"19,657",Box Score,"Mon, Mar 10, 2014",,7:30p,99,Miami Heat,,90,Washington Wizards,N
+943,"19,812",Box Score,"Mon, Mar 10, 2014",,7:30p,123,New York Knicks,,110,Philadelphia 76ers,N
+944,"10,114",Box Score,"Mon, Mar 10, 2014",,8:00p,105,Milwaukee Bucks,,98,Orlando Magic,N
+945,"17,774",Box Score,"Mon, Mar 10, 2014",,9:00p,110,Utah Jazz,,112,Atlanta Hawks,N
+946,"19,226",Box Score,"Mon, Mar 10, 2014",,10:30p,112,Los Angeles Clippers,,105,Phoenix Suns,N
+947,"18,165",Box Score,"Tue, Mar 11, 2014",,7:00p,94,Indiana Pacers,,83,Boston Celtics,N
+948,"15,234",Box Score,"Tue, Mar 11, 2014",,7:30p,99,Detroit Pistons,,89,Sacramento Kings,N
+949,"21,634",Box Score,"Tue, Mar 11, 2014",,8:00p,96,Chicago Bulls,,104,San Antonio Spurs,N
+950,"17,391",Box Score,"Tue, Mar 11, 2014",,8:00p,109,Memphis Grizzlies,,99,Portland Trail Blazers,N
+951,"12,473",Box Score,"Tue, Mar 11, 2014",,8:00p,112,Minnesota Timberwolves,,101,Milwaukee Bucks,N
+952,"18,203",Box Score,"Tue, Mar 11, 2014",,8:00p,106,Oklahoma City Thunder,,98,Houston Rockets,N
+953,"19,596",Box Score,"Tue, Mar 11, 2014",,10:30p,108,Golden State Warriors,,85,Dallas Mavericks,N
+954,"19,616",Box Score,"Wed, Mar 12, 2014",,7:00p,95,Miami Heat,,96,Brooklyn Nets,N
+955,"16,097",Box Score,"Wed, Mar 12, 2014",,7:00p,112,Orlando Magic,,120,Denver Nuggets,N
+956,"11,109",Box Score,"Wed, Mar 12, 2014",,7:00p,98,Philadelphia 76ers,,115,Sacramento Kings,N
+957,"18,247",Box Score,"Wed, Mar 12, 2014",,7:00p,101,Toronto Raptors,,87,Detroit Pistons,N
+958,"17,220",Box Score,"Wed, Mar 12, 2014",,7:00p,85,Washington Wizards,,98,Charlotte Bobcats,N
+959,"18,624",Box Score,"Wed, Mar 12, 2014",,7:30p,92,Boston Celtics,,116,New York Knicks,N
+960,"16,513",Box Score,"Wed, Mar 12, 2014",,8:00p,88,New Orleans Pelicans,,90,Memphis Grizzlies,N
+961,"17,982",Box Score,"Wed, Mar 12, 2014",,9:00p,101,Utah Jazz,,108,Dallas Mavericks,N
+962,"18,581",Box Score,"Wed, Mar 12, 2014",,9:30p,103,San Antonio Spurs,,90,Portland Trail Blazers,N
+963,"17,902",Box Score,"Wed, Mar 12, 2014",,10:00p,101,Phoenix Suns,,110,Cleveland Cavaliers,N
+964,"19,570",Box Score,"Wed, Mar 12, 2014",,10:30p,111,Los Angeles Clippers,,98,Golden State Warriors,N
+965,"21,747",Box Score,"Thu, Mar 13, 2014",,7:00p,111,Chicago Bulls,,87,Houston Rockets,N
+966,"12,554",Box Score,"Thu, Mar 13, 2014",,7:30p,102,Atlanta Hawks,,97,Milwaukee Bucks,N
+967,"18,203",Box Score,"Thu, Mar 13, 2014",,9:30p,131,Oklahoma City Thunder,,102,Los Angeles Lakers,N
+968,"16,983",Box Score,"Fri, Mar 14, 2014",,7:00p,105,Charlotte Bobcats,,93,Minnesota Timberwolves,N
+969,"16,011",Box Score,"Fri, Mar 14, 2014",,7:00p,101,Orlando Magic,OT,105,Washington Wizards,N
+970,"14,754",Box Score,"Fri, Mar 14, 2014",,7:00p,94,Philadelphia 76ers,,101,Indiana Pacers,N
+971,"18,465",Box Score,"Fri, Mar 14, 2014",,7:00p,99,Toronto Raptors,,86,Memphis Grizzlies,N
+972,"18,624",Box Score,"Fri, Mar 14, 2014",,7:30p,80,Boston Celtics,,87,Phoenix Suns,N
+973,"19,600",Box Score,"Fri, Mar 14, 2014",,7:30p,107,Miami Heat,,111,Denver Nuggets,N
+974,"16,913",Box Score,"Fri, Mar 14, 2014",,8:00p,103,New Orleans Pelicans,,111,Portland Trail Blazers,N
+975,"18,581",Box Score,"Fri, Mar 14, 2014",,8:30p,119,San Antonio Spurs,,85,Los Angeles Lakers,N
+976,"19,381",Box Score,"Fri, Mar 14, 2014",,9:00p,87,Utah Jazz,,96,Los Angeles Clippers,N
+977,"19,596",Box Score,"Fri, Mar 14, 2014",,10:30p,94,Golden State Warriors,,103,Cleveland Cavaliers,N
+978,"19,812",Box Score,"Sat, Mar 15, 2014",,12:00p,115,New York Knicks,,94,Milwaukee Bucks,N
+979,"20,356",Box Score,"Sat, Mar 15, 2014",,7:00p,101,Washington Wizards,,94,Brooklyn Nets,N
+980,"16,921",Box Score,"Sat, Mar 15, 2014",,7:30p,97,Atlanta Hawks,,92,Denver Nuggets,N
+981,"17,440",Box Score,"Sat, Mar 15, 2014",,7:30p,104,Detroit Pistons,OT,112,Indiana Pacers,N
+982,"15,164",Box Score,"Sat, Mar 15, 2014",,7:30p,77,Philadelphia 76ers,,103,Memphis Grizzlies,N
+983,"22,012",Box Score,"Sat, Mar 15, 2014",,8:00p,94,Chicago Bulls,,87,Sacramento Kings,N
+984,"14,536",Box Score,"Sun, Mar 16, 2014",,1:00p,92,Milwaukee Bucks,,101,Charlotte Bobcats,N
+985,"18,717",Box Score,"Sun, Mar 16, 2014",,1:00p,113,Toronto Raptors,,121,Phoenix Suns,N
+986,"19,666",Box Score,"Sun, Mar 16, 2014",,3:30p,113,Miami Heat,,104,Houston Rockets,N
+987,"17,050",Box Score,"Sun, Mar 16, 2014",,6:00p,121,New Orleans Pelicans,OT,120,Boston Celtics,N
+988,"13,171",Box Score,"Sun, Mar 16, 2014",,7:00p,104,Minnesota Timberwolves,,102,Sacramento Kings,N
+989,"18,203",Box Score,"Sun, Mar 16, 2014",,7:00p,86,Oklahoma City Thunder,,109,Dallas Mavericks,N
+990,"18,242",Box Score,"Sun, Mar 16, 2014",,7:00p,122,San Antonio Spurs,,104,Utah Jazz,N
+991,"20,063",Box Score,"Sun, Mar 16, 2014",,9:00p,112,Portland Trail Blazers,,113,Golden State Warriors,N
+992,"19,274",Box Score,"Sun, Mar 16, 2014",,9:30p,102,Los Angeles Clippers,,80,Cleveland Cavaliers,N
+993,"14,419",Box Score,"Mon, Mar 17, 2014",,7:00p,83,Charlotte Bobcats,,97,Atlanta Hawks,N
+994,"18,165",Box Score,"Mon, Mar 17, 2014",,7:00p,99,Indiana Pacers,,90,Philadelphia 76ers,N
+995,"17,401",Box Score,"Mon, Mar 17, 2014",,7:30p,108,Brooklyn Nets,,95,Phoenix Suns,N
+996,"22,261",Box Score,"Mon, Mar 17, 2014",,8:00p,85,Chicago Bulls,,97,Oklahoma City Thunder,N
+997,"18,156",Box Score,"Mon, Mar 17, 2014",,8:00p,124,Houston Rockets,,86,Utah Jazz,N
+998,"20,132",Box Score,"Mon, Mar 17, 2014",,8:30p,94,Dallas Mavericks,,89,Boston Celtics,N
+999,"16,553",Box Score,"Mon, Mar 17, 2014",,10:30p,110,Denver Nuggets,,100,Los Angeles Clippers,N
+1000,"20,562",Box Score,"Tue, Mar 18, 2014",,7:00p,96,Cleveland Cavaliers,,100,Miami Heat,N
+1001,"11,759",Box Score,"Tue, Mar 18, 2014",,7:30p,118,Atlanta Hawks,OT,113,Toronto Raptors,N
+1002,"19,572",Box Score,"Tue, Mar 18, 2014",,10:00p,120,Portland Trail Blazers,OT,115,Milwaukee Bucks,N
+1003,"16,084",Box Score,"Tue, Mar 18, 2014",,10:00p,117,Sacramento Kings,OT,111,Washington Wizards,N
+1004,"19,596",Box Score,"Tue, Mar 18, 2014",,10:30p,103,Golden State Warriors,,89,Orlando Magic,N
+1005,"13,222",Box Score,"Wed, Mar 19, 2014",,7:00p,94,Philadelphia 76ers,,102,Chicago Bulls,N
+1006,"18,624",Box Score,"Wed, Mar 19, 2014",,7:30p,101,Boston Celtics,,96,Miami Heat,N
+1007,"17,222",Box Score,"Wed, Mar 19, 2014",,7:30p,104,Brooklyn Nets,,99,Charlotte Bobcats,N
+1008,"17,011",Box Score,"Wed, Mar 19, 2014",,8:00p,96,Memphis Grizzlies,,86,Utah Jazz,N
+1009,"15,282",Box Score,"Wed, Mar 19, 2014",,8:00p,100,New Orleans Pelicans,,107,Toronto Raptors,N
+1010,"19,812",Box Score,"Wed, Mar 19, 2014",,8:00p,92,New York Knicks,,86,Indiana Pacers,N
+1011,"20,100",Box Score,"Wed, Mar 19, 2014",,8:30p,122,Dallas Mavericks,OT,123,Minnesota Timberwolves,N
+1012,"16,671",Box Score,"Wed, Mar 19, 2014",,9:00p,118,Denver Nuggets,,109,Detroit Pistons,N
+1013,"17,508",Box Score,"Wed, Mar 19, 2014",,10:00p,109,Phoenix Suns,,93,Orlando Magic,N
+1014,"18,997",Box Score,"Wed, Mar 19, 2014",,10:30p,109,Los Angeles Lakers,,125,San Antonio Spurs,N
+1015,"18,246",Box Score,"Thu, Mar 20, 2014",,7:00p,95,Cleveland Cavaliers,,102,Oklahoma City Thunder,N
+1016,"18,315",Box Score,"Thu, Mar 20, 2014",,8:00p,129,Houston Rockets,,106,Minnesota Timberwolves,N
+1017,"19,571",Box Score,"Thu, Mar 20, 2014",,10:00p,116,Portland Trail Blazers,,103,Washington Wizards,N
+1018,"19,596",Box Score,"Thu, Mar 20, 2014",,10:30p,115,Golden State Warriors,,110,Milwaukee Bucks,N
+1019,"18,165",Box Score,"Fri, Mar 21, 2014",,7:00p,91,Indiana Pacers,,79,Chicago Bulls,N
+1020,"12,745",Box Score,"Fri, Mar 21, 2014",,7:00p,92,Philadelphia 76ers,,93,New York Knicks,N
+1021,"19,800",Box Score,"Fri, Mar 21, 2014",,7:00p,118,Toronto Raptors,2OT,119,Oklahoma City Thunder,N
+1022,"15,476",Box Score,"Fri, Mar 21, 2014",,7:30p,105,Atlanta Hawks,,111,New Orleans Pelicans,N
+1023,"17,732",Box Score,"Fri, Mar 21, 2014",,7:30p,114,Brooklyn Nets,,98,Boston Celtics,N
+1024,"20,007",Box Score,"Fri, Mar 21, 2014",,7:30p,91,Miami Heat,,86,Memphis Grizzlies,N
+1025,"20,188",Box Score,"Fri, Mar 21, 2014",,8:30p,122,Dallas Mavericks,,106,Denver Nuggets,N
+1026,"18,422",Box Score,"Fri, Mar 21, 2014",,10:00p,98,Phoenix Suns,,92,Detroit Pistons,N
+1027,"17,317",Box Score,"Fri, Mar 21, 2014",,10:00p,79,Sacramento Kings,,99,San Antonio Spurs,N
+1028,"18,112",Box Score,"Fri, Mar 21, 2014",,10:30p,107,Los Angeles Lakers,,117,Washington Wizards,N
+1029,"18,706",Box Score,"Sat, Mar 22, 2014",,7:00p,124,Charlotte Bobcats,,94,Portland Trail Blazers,N
+1030,"19,058",Box Score,"Sat, Mar 22, 2014",,7:30p,111,Cleveland Cavaliers,,118,Houston Rockets,N
+1031,"21,799",Box Score,"Sat, Mar 22, 2014",,8:00p,91,Chicago Bulls,,81,Philadelphia 76ers,N
+1032,"18,119",Box Score,"Sat, Mar 22, 2014",,8:00p,82,Memphis Grizzlies,,71,Indiana Pacers,N
+1033,"18,185",Box Score,"Sat, Mar 22, 2014",,8:00p,105,New Orleans Pelicans,,95,Miami Heat,N
+1034,"19,228",Box Score,"Sat, Mar 22, 2014",,9:00p,89,Utah Jazz,,88,Orlando Magic,N
+1035,"19,596",Box Score,"Sat, Mar 22, 2014",,10:30p,90,Golden State Warriors,,99,San Antonio Spurs,N
+1036,"19,214",Box Score,"Sat, Mar 22, 2014",,10:30p,112,Los Angeles Clippers,,103,Detroit Pistons,N
+1037,"18,140",Box Score,"Sun, Mar 23, 2014",,1:00p,96,Toronto Raptors,,86,Atlanta Hawks,N
+1038,"17,866",Box Score,"Sun, Mar 23, 2014",,3:30p,120,Minnesota Timberwolves,,127,Phoenix Suns,N
+1039,"18,324",Box Score,"Sun, Mar 23, 2014",,5:00p,105,Denver Nuggets,,102,Washington Wizards,N
+1040,"16,341",Box Score,"Sun, Mar 23, 2014",,6:00p,124,Sacramento Kings,,107,Milwaukee Bucks,N
+1041,"19,603",Box Score,"Sun, Mar 23, 2014",,7:30p,104,Dallas Mavericks,OT,107,Brooklyn Nets,N
+1042,"19,812",Box Score,"Sun, Mar 23, 2014",,7:30p,100,New York Knicks,,106,Cleveland Cavaliers,N
+1043,"17,803",Box Score,"Sun, Mar 23, 2014",,9:30p,103,Los Angeles Lakers,,94,Orlando Magic,N
+1044,"15,511",Box Score,"Mon, Mar 24, 2014",,7:00p,89,Charlotte Bobcats,,100,Houston Rockets,N
+1045,"12,240",Box Score,"Mon, Mar 24, 2014",,7:30p,95,Atlanta Hawks,,102,Phoenix Suns,N
+1046,"20,030",Box Score,"Mon, Mar 24, 2014",,7:30p,93,Miami Heat,,91,Portland Trail Blazers,N
+1047,"21,803",Box Score,"Mon, Mar 24, 2014",,8:00p,89,Chicago Bulls,,77,Indiana Pacers,N
+1048,"17,784",Box Score,"Mon, Mar 24, 2014",,8:00p,109,Memphis Grizzlies,,92,Minnesota Timberwolves,N
+1049,"14,599",Box Score,"Mon, Mar 24, 2014",,8:00p,109,New Orleans Pelicans,OT,104,Brooklyn Nets,N
+1050,"18,203",Box Score,"Mon, Mar 24, 2014",,8:00p,117,Oklahoma City Thunder,,96,Denver Nuggets,N
+1051,"17,798",Box Score,"Mon, Mar 24, 2014",,8:30p,113,San Antonio Spurs,,91,Philadelphia 76ers,N
+1052,"17,595",Box Score,"Mon, Mar 24, 2014",,9:00p,94,Utah Jazz,,114,Detroit Pistons,N
+1053,"19,060",Box Score,"Mon, Mar 24, 2014",,10:30p,106,Los Angeles Clippers,,98,Milwaukee Bucks,N
+1054,"15,497",Box Score,"Tue, Mar 25, 2014",,7:00p,102,Cleveland Cavaliers,,100,Toronto Raptors,N
+1055,"17,896",Box Score,"Tue, Mar 25, 2014",,7:00p,95,Orlando Magic,,85,Portland Trail Blazers,N
+1056,"19,607",Box Score,"Tue, Mar 25, 2014",,8:00p,128,Dallas Mavericks,OT,119,Oklahoma City Thunder,N
+1057,"18,997",Box Score,"Tue, Mar 25, 2014",,10:30p,127,Los Angeles Lakers,,96,New York Knicks,N
+1058,"15,943",Box Score,"Wed, Mar 26, 2014",,7:00p,116,Charlotte Bobcats,OT,111,Brooklyn Nets,N
+1059,"18,805",Box Score,"Wed, Mar 26, 2014",,7:00p,93,Washington Wizards,,99,Phoenix Suns,N
+1060,"18,341",Box Score,"Wed, Mar 26, 2014",,7:30p,90,Boston Celtics,,99,Toronto Raptors,N
+1061,"15,979",Box Score,"Wed, Mar 26, 2014",,7:30p,96,Detroit Pistons,,97,Cleveland Cavaliers,N
+1062,"18,165",Box Score,"Wed, Mar 26, 2014",,8:00p,84,Indiana Pacers,,83,Miami Heat,N
+1063,"11,632",Box Score,"Wed, Mar 26, 2014",,8:00p,107,Minnesota Timberwolves,,83,Atlanta Hawks,N
+1064,"16,363",Box Score,"Wed, Mar 26, 2014",,8:00p,98,New Orleans Pelicans,,96,Los Angeles Clippers,N
+1065,"17,949",Box Score,"Wed, Mar 26, 2014",,8:30p,108,San Antonio Spurs,,103,Denver Nuggets,N
+1066,"15,594",Box Score,"Wed, Mar 26, 2014",,10:00p,99,Sacramento Kings,,107,New York Knicks,N
+1067,"19,081",Box Score,"Wed, Mar 26, 2014",,10:30p,87,Utah Jazz,,91,Memphis Grizzlies,N
+1068,"13,228",Box Score,"Thu, Mar 27, 2014",,7:30p,85,Atlanta Hawks,,100,Portland Trail Blazers,N
+1069,"18,334",Box Score,"Thu, Mar 27, 2014",,8:00p,120,Houston Rockets,,98,Philadelphia 76ers,N
+1070,"15,439",Box Score,"Thu, Mar 27, 2014",,8:00p,108,Milwaukee Bucks,,105,Los Angeles Lakers,N
+1071,"19,912",Box Score,"Thu, Mar 27, 2014",,8:30p,103,Dallas Mavericks,,109,Los Angeles Clippers,N
+1072,"16,003",Box Score,"Fri, Mar 28, 2014",,7:00p,110,Orlando Magic,OT,105,Charlotte Bobcats,N
+1073,"19,800",Box Score,"Fri, Mar 28, 2014",,7:00p,105,Toronto Raptors,,103,Boston Celtics,N
+1074,"19,708",Box Score,"Fri, Mar 28, 2014",,7:00p,91,Washington Wizards,,78,Indiana Pacers,N
+1075,"17,732",Box Score,"Fri, Mar 28, 2014",,7:30p,108,Brooklyn Nets,,97,Cleveland Cavaliers,N
+1076,"21,231",Box Score,"Fri, Mar 28, 2014",,7:30p,78,Detroit Pistons,,110,Miami Heat,N
+1077,"22,055",Box Score,"Fri, Mar 28, 2014",,8:00p,74,Chicago Bulls,,91,Portland Trail Blazers,N
+1078,"16,442",Box Score,"Fri, Mar 28, 2014",,8:00p,143,Minnesota Timberwolves,,107,Los Angeles Lakers,N
+1079,"17,699",Box Score,"Fri, Mar 28, 2014",,8:00p,102,New Orleans Pelicans,,95,Utah Jazz,N
+1080,"18,203",Box Score,"Fri, Mar 28, 2014",,8:00p,94,Oklahoma City Thunder,,81,Sacramento Kings,N
+1081,"19,155",Box Score,"Fri, Mar 28, 2014",,9:00p,102,Denver Nuggets,,133,San Antonio Spurs,N
+1082,"17,106",Box Score,"Fri, Mar 28, 2014",,10:00p,112,Phoenix Suns,,88,New York Knicks,N
+1083,"19,596",Box Score,"Fri, Mar 28, 2014",,10:30p,100,Golden State Warriors,,93,Memphis Grizzlies,N
+1084,"17,438",Box Score,"Sat, Mar 29, 2014",,7:30p,123,Philadelphia 76ers,,98,Detroit Pistons,N
+1085,"18,337",Box Score,"Sat, Mar 29, 2014",,8:00p,107,Houston Rockets,,118,Los Angeles Clippers,N
+1086,"17,996",Box Score,"Sat, Mar 29, 2014",,8:00p,101,Washington Wizards,,97,Atlanta Hawks,N
+1087,"20,210",Box Score,"Sat, Mar 29, 2014",,8:30p,103,Dallas Mavericks,,100,Sacramento Kings,N
+1088,"17,986",Box Score,"Sat, Mar 29, 2014",,8:30p,67,Milwaukee Bucks,,88,Miami Heat,N
+1089,"18,581",Box Score,"Sat, Mar 29, 2014",,8:30p,96,San Antonio Spurs,,80,New Orleans Pelicans,N
+1090,"17,147",Box Score,"Sun, Mar 30, 2014",,3:00p,90,Cleveland Cavaliers,,76,Indiana Pacers,N
+1091,"18,203",Box Score,"Sun, Mar 30, 2014",,3:00p,116,Oklahoma City Thunder,,96,Utah Jazz,N
+1092,"17,732",Box Score,"Sun, Mar 30, 2014",,6:00p,114,Brooklyn Nets,,99,Minnesota Timberwolves,N
+1093,"16,018",Box Score,"Sun, Mar 30, 2014",,6:00p,93,Orlando Magic,,98,Toronto Raptors,N
+1094,"18,624",Box Score,"Sun, Mar 30, 2014",,7:00p,102,Boston Celtics,,107,Chicago Bulls,N
+1095,"19,596",Box Score,"Sun, Mar 30, 2014",,9:00p,84,Golden State Warriors,,89,New York Knicks,N
+1096,"19,994",Box Score,"Sun, Mar 30, 2014",,9:00p,105,Portland Trail Blazers,,98,Memphis Grizzlies,N
+1097,"18,355",Box Score,"Sun, Mar 30, 2014",,9:30p,115,Los Angeles Lakers,,99,Phoenix Suns,N
+1098,"14,894",Box Score,"Mon, Mar 31, 2014",,7:00p,100,Charlotte Bobcats,,94,Washington Wizards,N
+1099,"18,165",Box Score,"Mon, Mar 31, 2014",,7:00p,77,Indiana Pacers,,103,San Antonio Spurs,N
+1100,"11,096",Box Score,"Mon, Mar 31, 2014",,7:30p,103,Atlanta Hawks,,95,Philadelphia 76ers,N
+1101,"13,062",Box Score,"Mon, Mar 31, 2014",,7:30p,116,Detroit Pistons,,111,Milwaukee Bucks,N
+1102,"19,831",Box Score,"Mon, Mar 31, 2014",,7:30p,93,Miami Heat,,83,Toronto Raptors,N
+1103,"21,494",Box Score,"Mon, Mar 31, 2014",,8:00p,94,Chicago Bulls,,80,Boston Celtics,N
+1104,"12,172",Box Score,"Mon, Mar 31, 2014",,8:00p,104,Minnesota Timberwolves,,114,Los Angeles Clippers,N
+1105,"15,548",Box Score,"Mon, Mar 31, 2014",,8:00p,97,New Orleans Pelicans,,102,Sacramento Kings,N
+1106,"14,570",Box Score,"Mon, Mar 31, 2014",,9:00p,92,Denver Nuggets,,94,Memphis Grizzlies,N
+1107,"18,653",Box Score,"Mon, Mar 31, 2014",,9:00p,83,Utah Jazz,,92,New York Knicks,N
+1108,"17,732",Box Score,"Tue, Apr 1, 2014",,8:00p,105,Brooklyn Nets,,96,Houston Rockets,N
+1109,"20,423",Box Score,"Tue, Apr 1, 2014",,8:30p,120,Dallas Mavericks,OT,122,Golden State Warriors,N
+1110,"18,110",Box Score,"Tue, Apr 1, 2014",,10:30p,112,Los Angeles Lakers,,124,Portland Trail Blazers,N
+1111,"18,165",Box Score,"Wed, Apr 2, 2014",,7:00p,101,Indiana Pacers,,94,Detroit Pistons,N
+1112,"19,812",Box Score,"Wed, Apr 2, 2014",,7:00p,110,New York Knicks,,81,Brooklyn Nets,N
+1113,"16,092",Box Score,"Wed, Apr 2, 2014",,7:00p,98,Orlando Magic,,119,Cleveland Cavaliers,N
+1114,"12,136",Box Score,"Wed, Apr 2, 2014",,7:00p,93,Philadelphia 76ers,,123,Charlotte Bobcats,N
+1115,"18,294",Box Score,"Wed, Apr 2, 2014",,7:00p,107,Toronto Raptors,,103,Houston Rockets,N
+1116,"17,770",Box Score,"Wed, Apr 2, 2014",,7:00p,118,Washington Wizards,,92,Boston Celtics,N
+1117,"17,029",Box Score,"Wed, Apr 2, 2014",,7:30p,92,Atlanta Hawks,,105,Chicago Bulls,N
+1118,"19,609",Box Score,"Wed, Apr 2, 2014",,7:30p,96,Miami Heat,,77,Milwaukee Bucks,N
+1119,"12,009",Box Score,"Wed, Apr 2, 2014",,8:00p,102,Minnesota Timberwolves,,88,Memphis Grizzlies,N
+1120,"18,581",Box Score,"Wed, Apr 2, 2014",,8:30p,111,San Antonio Spurs,,90,Golden State Warriors,N
+1121,"14,783",Box Score,"Wed, Apr 2, 2014",,9:00p,137,Denver Nuggets,,107,New Orleans Pelicans,N
+1122,"16,091",Box Score,"Wed, Apr 2, 2014",,10:00p,108,Phoenix Suns,,112,Los Angeles Clippers,N
+1123,"17,317",Box Score,"Wed, Apr 2, 2014",,10:00p,107,Sacramento Kings,,102,Los Angeles Lakers,N
+1124,"18,203",Box Score,"Thu, Apr 3, 2014",,8:00p,106,Oklahoma City Thunder,,94,San Antonio Spurs,N
+1125,"19,222",Box Score,"Thu, Apr 3, 2014",,10:30p,107,Los Angeles Clippers,,113,Dallas Mavericks,N
+1126,"17,708",Box Score,"Fri, Apr 4, 2014",,7:00p,91,Charlotte Bobcats,,80,Orlando Magic,N
+1127,"17,011",Box Score,"Fri, Apr 4, 2014",,7:00p,100,Memphis Grizzlies,,92,Denver Nuggets,N
+1128,"19,800",Box Score,"Fri, Apr 4, 2014",,7:00p,102,Toronto Raptors,,94,Indiana Pacers,N
+1129,"16,210",Box Score,"Fri, Apr 4, 2014",,7:30p,117,Atlanta Hawks,,98,Cleveland Cavaliers,N
+1130,"18,624",Box Score,"Fri, Apr 4, 2014",,7:30p,102,Boston Celtics,,111,Philadelphia 76ers,N
+1131,"16,754",Box Score,"Fri, Apr 4, 2014",,7:30p,116,Brooklyn Nets,,104,Detroit Pistons,N
+1132,"19,661",Box Score,"Fri, Apr 4, 2014",,7:30p,121,Miami Heat,2OT,122,Minnesota Timberwolves,N
+1133,"19,812",Box Score,"Fri, Apr 4, 2014",,7:30p,89,New York Knicks,,90,Washington Wizards,N
+1134,"21,996",Box Score,"Fri, Apr 4, 2014",,8:00p,102,Chicago Bulls,,90,Milwaukee Bucks,N
+1135,"19,681",Box Score,"Fri, Apr 4, 2014",,9:00p,100,Utah Jazz,,96,New Orleans Pelicans,N
+1136,"18,407",Box Score,"Fri, Apr 4, 2014",,9:30p,111,Houston Rockets,,107,Oklahoma City Thunder,N
+1137,"20,089",Box Score,"Fri, Apr 4, 2014",,10:00p,93,Portland Trail Blazers,,109,Phoenix Suns,N
+1138,"19,596",Box Score,"Fri, Apr 4, 2014",,10:30p,102,Golden State Warriors,,69,Sacramento Kings,N
+1139,"18,997",Box Score,"Fri, Apr 4, 2014",,10:30p,95,Los Angeles Lakers,,107,Dallas Mavericks,N
+1140,"16,992",Box Score,"Sat, Apr 5, 2014",,7:00p,100,Orlando Magic,,92,Minnesota Timberwolves,N
+1141,"19,661",Box Score,"Sat, Apr 5, 2014",,7:00p,78,Washington Wizards,,96,Chicago Bulls,N
+1142,"18,179",Box Score,"Sat, Apr 5, 2014",,7:30p,94,Cleveland Cavaliers,OT,96,Charlotte Bobcats,N
+1143,"19,558",Box Score,"Sat, Apr 5, 2014",,7:30p,115,Detroit Pistons,,111,Boston Celtics,N
+1144,"16,133",Box Score,"Sat, Apr 5, 2014",,7:30p,101,Philadelphia 76ers,,105,Brooklyn Nets,N
+1145,"16,310",Box Score,"Sat, Apr 5, 2014",,8:30p,98,Milwaukee Bucks,,102,Toronto Raptors,N
+1146,"19,647",Box Score,"Sun, Apr 6, 2014",,1:00p,102,Miami Heat,,91,New York Knicks,N
+1147,"19,239",Box Score,"Sun, Apr 6, 2014",,3:30p,120,Los Angeles Clippers,,97,Los Angeles Lakers,N
+1148,"18,165",Box Score,"Sun, Apr 6, 2014",,6:00p,88,Indiana Pacers,,107,Atlanta Hawks,N
+1149,"17,023",Box Score,"Sun, Apr 6, 2014",,6:00p,91,Sacramento Kings,,93,Dallas Mavericks,N
+1150,"18,325",Box Score,"Sun, Apr 6, 2014",,7:00p,130,Houston Rockets,OT,125,Denver Nuggets,N
+1151,"18,581",Box Score,"Sun, Apr 6, 2014",,7:00p,112,San Antonio Spurs,,92,Memphis Grizzlies,N
+1152,"19,596",Box Score,"Sun, Apr 6, 2014",,9:00p,130,Golden State Warriors,,102,Utah Jazz,N
+1153,"18,422",Box Score,"Sun, Apr 6, 2014",,9:00p,122,Phoenix Suns,,115,Oklahoma City Thunder,N
+1154,"20,036",Box Score,"Sun, Apr 6, 2014",,9:00p,100,Portland Trail Blazers,,94,New Orleans Pelicans,N
+1155,"10,587",Box Score,"Tue, Apr 8, 2014",,7:30p,95,Atlanta Hawks,,102,Detroit Pistons,N
+1156,"19,600",Box Score,"Tue, Apr 8, 2014",,8:00p,87,Miami Heat,,88,Brooklyn Nets,N
+1157,"10,117",Box Score,"Tue, Apr 8, 2014",,8:00p,110,Minnesota Timberwolves,,91,San Antonio Spurs,N
+1158,"18,102",Box Score,"Tue, Apr 8, 2014",,9:00p,83,Utah Jazz,,95,Dallas Mavericks,N
+1159,"16,696",Box Score,"Tue, Apr 8, 2014",,10:00p,92,Sacramento Kings,,107,Oklahoma City Thunder,N
+1160,"18,131",Box Score,"Tue, Apr 8, 2014",,10:30p,130,Los Angeles Lakers,,145,Houston Rockets,N
+1161,"15,979",Box Score,"Wed, Apr 9, 2014",,7:00p,122,Cleveland Cavaliers,,100,Detroit Pistons,N
+1162,"16,085",Box Score,"Wed, Apr 9, 2014",,7:00p,115,Orlando Magic,,111,Brooklyn Nets,N
+1163,"18,789",Box Score,"Wed, Apr 9, 2014",,7:00p,125,Toronto Raptors,,114,Philadelphia 76ers,N
+1164,"17,784",Box Score,"Wed, Apr 9, 2014",,7:00p,88,Washington Wizards,OT,94,Charlotte Bobcats,N
+1165,"13,868",Box Score,"Wed, Apr 9, 2014",,7:30p,105,Atlanta Hawks,,97,Boston Celtics,N
+1166,"18,119",Box Score,"Wed, Apr 9, 2014",,8:00p,107,Memphis Grizzlies,,102,Miami Heat,N
+1167,"13,139",Box Score,"Wed, Apr 9, 2014",,8:00p,102,Milwaukee Bucks,,104,Indiana Pacers,N
+1168,"13,447",Box Score,"Wed, Apr 9, 2014",,8:00p,87,Minnesota Timberwolves,,102,Chicago Bulls,N
+1169,"16,256",Box Score,"Wed, Apr 9, 2014",,8:00p,88,New Orleans Pelicans,,94,Phoenix Suns,N
+1170,"15,322",Box Score,"Wed, Apr 9, 2014",,9:00p,123,Denver Nuggets,,116,Houston Rockets,N
+1171,"20,002",Box Score,"Wed, Apr 9, 2014",,10:00p,100,Portland Trail Blazers,,99,Sacramento Kings,N
+1172,"19,459",Box Score,"Wed, Apr 9, 2014",,10:30p,101,Los Angeles Clippers,,107,Oklahoma City Thunder,N
+1173,"20,324",Box Score,"Thu, Apr 10, 2014",,8:00p,100,Dallas Mavericks,,109,San Antonio Spurs,N
+1174,"19,596",Box Score,"Thu, Apr 10, 2014",,10:30p,99,Golden State Warriors,,100,Denver Nuggets,N
+1175,"17,009",Box Score,"Fri, Apr 11, 2014",,7:00p,86,Orlando Magic,,96,Washington Wizards,N
+1176,"19,800",Box Score,"Fri, Apr 11, 2014",,7:00p,100,Toronto Raptors,,108,New York Knicks,N
+1177,"18,624",Box Score,"Fri, Apr 11, 2014",,7:30p,106,Boston Celtics,,103,Charlotte Bobcats,N
+1178,"17,732",Box Score,"Fri, Apr 11, 2014",,7:30p,88,Brooklyn Nets,,93,Atlanta Hawks,N
+1179,"20,300",Box Score,"Fri, Apr 11, 2014",,7:30p,98,Miami Heat,,86,Indiana Pacers,N
+1180,"22,219",Box Score,"Fri, Apr 11, 2014",,8:00p,106,Chicago Bulls,,98,Detroit Pistons,N
+1181,"17,456",Box Score,"Fri, Apr 11, 2014",,8:00p,117,Memphis Grizzlies,,95,Philadelphia 76ers,N
+1182,"16,689",Box Score,"Fri, Apr 11, 2014",,8:00p,112,Minnesota Timberwolves,,110,Houston Rockets,N
+1183,"18,203",Box Score,"Fri, Apr 11, 2014",,8:00p,116,Oklahoma City Thunder,,94,New Orleans Pelicans,N
+1184,"13,126",Box Score,"Fri, Apr 11, 2014",,8:30p,119,Milwaukee Bucks,,116,Cleveland Cavaliers,N
+1185,"18,581",Box Score,"Fri, Apr 11, 2014",,8:30p,112,San Antonio Spurs,,104,Phoenix Suns,N
+1186,"19,248",Box Score,"Fri, Apr 11, 2014",,9:00p,99,Utah Jazz,,111,Portland Trail Blazers,N
+1187,"18,997",Box Score,"Fri, Apr 11, 2014",,10:30p,95,Los Angeles Lakers,,112,Golden State Warriors,N
+1188,"19,060",Box Score,"Sat, Apr 12, 2014",,3:30p,117,Los Angeles Clippers,,101,Sacramento Kings,N
+1189,"17,140",Box Score,"Sat, Apr 12, 2014",,7:00p,111,Charlotte Bobcats,,105,Philadelphia 76ers,N
+1190,"17,278",Box Score,"Sat, Apr 12, 2014",,7:00p,104,Washington Wizards,,91,Milwaukee Bucks,N
+1191,"19,287",Box Score,"Sat, Apr 12, 2014",,7:30p,98,Atlanta Hawks,,85,Miami Heat,N
+1192,"18,456",Box Score,"Sat, Apr 12, 2014",,7:30p,99,Cleveland Cavaliers,,111,Boston Celtics,N
+1193,"18,372",Box Score,"Sat, Apr 12, 2014",,8:00p,111,Houston Rockets,,104,New Orleans Pelicans,N
+1194,"20,413",Box Score,"Sat, Apr 12, 2014",,8:30p,101,Dallas Mavericks,,98,Phoenix Suns,N
+1195,"18,832",Box Score,"Sat, Apr 12, 2014",,9:00p,101,Denver Nuggets,,94,Utah Jazz,N
+1196,"18,165",Box Score,"Sun, Apr 13, 2014",,1:00p,102,Indiana Pacers,,97,Oklahoma City Thunder,N
+1197,"16,944",Box Score,"Sun, Apr 13, 2014",,3:30p,107,Detroit Pistons,,116,Toronto Raptors,N
+1198,"17,732",Box Score,"Sun, Apr 13, 2014",,6:00p,97,Brooklyn Nets,,88,Orlando Magic,N
+1199,"19,812",Box Score,"Sun, Apr 13, 2014",,7:30p,100,New York Knicks,,89,Chicago Bulls,N
+1200,"19,995",Box Score,"Sun, Apr 13, 2014",,9:00p,119,Portland Trail Blazers,OT,117,Golden State Warriors,N
+1201,"16,965",Box Score,"Sun, Apr 13, 2014",,9:00p,106,Sacramento Kings,,103,Minnesota Timberwolves,N
+1202,"18,997",Box Score,"Sun, Apr 13, 2014",,9:30p,90,Los Angeles Lakers,,102,Memphis Grizzlies,N
+1203,"17,822",Box Score,"Mon, Apr 14, 2014",,7:00p,113,Philadelphia 76ers,,108,Boston Celtics,N
+1204,"18,821",Box Score,"Mon, Apr 14, 2014",,7:00p,110,Toronto Raptors,,100,Milwaukee Bucks,N
+1205,"20,356",Box Score,"Mon, Apr 14, 2014",,7:00p,114,Washington Wizards,,93,Miami Heat,N
+1206,"11,918",Box Score,"Mon, Apr 14, 2014",,7:30p,93,Atlanta Hawks,,95,Charlotte Bobcats,N
+1207,"22,087",Box Score,"Mon, Apr 14, 2014",,8:00p,108,Chicago Bulls,,95,Orlando Magic,N
+1208,"18,406",Box Score,"Mon, Apr 14, 2014",,8:00p,104,Houston Rockets,,98,San Antonio Spurs,N
+1209,"17,024",Box Score,"Mon, Apr 14, 2014",,8:00p,101,New Orleans Pelicans,,89,Oklahoma City Thunder,N
+1210,"19,911",Box Score,"Mon, Apr 14, 2014",,9:00p,104,Utah Jazz,,119,Los Angeles Lakers,N
+1211,"18,422",Box Score,"Mon, Apr 14, 2014",,10:00p,91,Phoenix Suns,,97,Memphis Grizzlies,N
+1212,"19,596",Box Score,"Mon, Apr 14, 2014",,10:30p,130,Golden State Warriors,,120,Minnesota Timberwolves,N
+1213,"17,732",Box Score,"Tue, Apr 15, 2014",,8:00p,98,Brooklyn Nets,,109,New York Knicks,N
+1214,"19,330",Box Score,"Tue, Apr 15, 2014",,10:30p,117,Los Angeles Clippers,,105,Denver Nuggets,N
+1215,"17,627",Box Score,"Wed, Apr 16, 2014",,7:00p,91,Charlotte Bobcats,OT,86,Chicago Bulls,N
+1216,"18,846",Box Score,"Wed, Apr 16, 2014",,7:00p,86,Orlando Magic,,101,Indiana Pacers,N
+1217,"18,624",Box Score,"Wed, Apr 16, 2014",,8:00p,102,Boston Celtics,,118,Washington Wizards,N
+1218,"19,842",Box Score,"Wed, Apr 16, 2014",,8:00p,114,Cleveland Cavaliers,,85,Brooklyn Nets,N
+1219,"17,323",Box Score,"Wed, Apr 16, 2014",,8:00p,106,Memphis Grizzlies,OT,105,Dallas Mavericks,N
+1220,"20,350",Box Score,"Wed, Apr 16, 2014",,8:00p,87,Miami Heat,,100,Philadelphia 76ers,N
+1221,"13,111",Box Score,"Wed, Apr 16, 2014",,8:00p,103,Milwaukee Bucks,,111,Atlanta Hawks,N
+1222,"14,155",Box Score,"Wed, Apr 16, 2014",,8:00p,130,Minnesota Timberwolves,2OT,136,Utah Jazz,N
+1223,"17,421",Box Score,"Wed, Apr 16, 2014",,8:00p,105,New Orleans Pelicans,,100,Houston Rockets,N
+1224,"19,812",Box Score,"Wed, Apr 16, 2014",,8:00p,95,New York Knicks,,92,Toronto Raptors,N
+1225,"18,203",Box Score,"Wed, Apr 16, 2014",,8:00p,112,Oklahoma City Thunder,,111,Detroit Pistons,N
+1226,"18,581",Box Score,"Wed, Apr 16, 2014",,8:00p,100,San Antonio Spurs,,113,Los Angeles Lakers,N
+1227,"17,232",Box Score,"Wed, Apr 16, 2014",,10:30p,112,Denver Nuggets,,116,Golden State Warriors,N
+1228,"20,021",Box Score,"Wed, Apr 16, 2014",,10:30p,110,Portland Trail Blazers,,104,Los Angeles Clippers,N
+1229,"17,317",Box Score,"Wed, Apr 16, 2014",,10:30p,99,Sacramento Kings,,104,Phoenix Suns,N
+1230,"19,800",Box Score,"Sat, Apr 19, 2014",,12:30p,87,Toronto Raptors,,94,Brooklyn Nets,N
+1231,"19,339",Box Score,"Sat, Apr 19, 2014",,3:30p,105,Los Angeles Clippers,,109,Golden State Warriors,Y
+1232,"18,165",Box Score,"Sat, Apr 19, 2014",,7:00p,93,Indiana Pacers,,101,Atlanta Hawks,Y
+1233,"18,203",Box Score,"Sat, Apr 19, 2014",,9:43p,100,Oklahoma City Thunder,,86,Memphis Grizzlies,Y
+1234,"18,581",Box Score,"Sun, Apr 20, 2014",,1:00p,90,San Antonio Spurs,,85,Dallas Mavericks,Y
+1235,"19,640",Box Score,"Sun, Apr 20, 2014",,3:30p,99,Miami Heat,,88,Charlotte Bobcats,Y
+1236,"21,694",Box Score,"Sun, Apr 20, 2014",,7:00p,93,Chicago Bulls,,102,Washington Wizards,Y
+1237,"18,240",Box Score,"Sun, Apr 20, 2014",,9:30p,120,Houston Rockets,OT,122,Portland Trail Blazers,Y
+1238,"18,203",Box Score,"Mon, Apr 21, 2014",,8:00p,105,Oklahoma City Thunder,OT,111,Memphis Grizzlies,Y
+1239,"19,570",Box Score,"Mon, Apr 21, 2014",,10:30p,138,Los Angeles Clippers,,98,Golden State Warriors,Y
+1240,"18,165",Box Score,"Tue, Apr 22, 2014",,7:00p,101,Indiana Pacers,,85,Atlanta Hawks,Y
+1241,"20,382",Box Score,"Tue, Apr 22, 2014",,7:30p,100,Toronto Raptors,,95,Brooklyn Nets,Y
+1242,"21,663",Box Score,"Tue, Apr 22, 2014",,9:30p,99,Chicago Bulls,OT,101,Washington Wizards,Y
+1243,"19,603",Box Score,"Wed, Apr 23, 2014",,7:00p,101,Miami Heat,,97,Charlotte Bobcats,Y
+1244,"18,581",Box Score,"Wed, Apr 23, 2014",,8:00p,92,San Antonio Spurs,,113,Dallas Mavericks,Y
+1245,"18,331",Box Score,"Wed, Apr 23, 2014",,9:30p,105,Houston Rockets,,112,Portland Trail Blazers,Y
+1246,"18,124",Box Score,"Thu, Apr 24, 2014",,7:00p,98,Atlanta Hawks,,85,Indiana Pacers,Y
+1247,"18,119",Box Score,"Thu, Apr 24, 2014",,8:00p,98,Memphis Grizzlies,OT,95,Oklahoma City Thunder,Y
+1248,"19,596",Box Score,"Thu, Apr 24, 2014",,10:30p,96,Golden State Warriors,,98,Los Angeles Clippers,Y
+1249,"17,732",Box Score,"Fri, Apr 25, 2014",,7:00p,102,Brooklyn Nets,,98,Toronto Raptors,Y
+1250,"20,356",Box Score,"Fri, Apr 25, 2014",,8:00p,97,Washington Wizards,,100,Chicago Bulls,Y
+1251,"20,302",Box Score,"Fri, Apr 25, 2014",,10:30p,116,Portland Trail Blazers,OT,121,Houston Rockets,Y
+1252,"19,043",Box Score,"Sat, Apr 26, 2014",,2:00p,88,Atlanta Hawks,,91,Indiana Pacers,Y
+1253,"20,636",Box Score,"Sat, Apr 26, 2014",,4:30p,109,Dallas Mavericks,,108,San Antonio Spurs,Y
+1254,"19,633",Box Score,"Sat, Apr 26, 2014",,7:00p,85,Charlotte Bobcats,,98,Miami Heat,Y
+1255,"18,119",Box Score,"Sat, Apr 26, 2014",,9:30p,89,Memphis Grizzlies,OT,92,Oklahoma City Thunder,Y
+1256,"20,356",Box Score,"Sun, Apr 27, 2014",,1:00p,98,Washington Wizards,,89,Chicago Bulls,Y
+1257,"19,596",Box Score,"Sun, Apr 27, 2014",,3:30p,118,Golden State Warriors,,97,Los Angeles Clippers,Y
+1258,"17,732",Box Score,"Sun, Apr 27, 2014",,7:00p,79,Brooklyn Nets,,87,Toronto Raptors,Y
+1259,"20,246",Box Score,"Sun, Apr 27, 2014",,9:30p,123,Portland Trail Blazers,OT,120,Houston Rockets,Y
+1260,"19,092",Box Score,"Mon, Apr 28, 2014",,7:00p,98,Charlotte Bobcats,,109,Miami Heat,Y
+1261,"18,165",Box Score,"Mon, Apr 28, 2014",,8:00p,97,Indiana Pacers,,107,Atlanta Hawks,Y
+1262,"20,796",Box Score,"Mon, Apr 28, 2014",,9:30p,89,Dallas Mavericks,,93,San Antonio Spurs,Y
+1263,"21,752",Box Score,"Tue, Apr 29, 2014",,8:00p,69,Chicago Bulls,,75,Washington Wizards,Y
+1264,"18,203",Box Score,"Tue, Apr 29, 2014",,9:00p,99,Oklahoma City Thunder,OT,100,Memphis Grizzlies,Y
+1265,"19,657",Box Score,"Tue, Apr 29, 2014",,10:30p,113,Los Angeles Clippers,,103,Golden State Warriors,Y
+1266,"18,581",Box Score,"Wed, Apr 30, 2014",,7:00p,109,San Antonio Spurs,,103,Dallas Mavericks,Y
+1267,"20,393",Box Score,"Wed, Apr 30, 2014",,7:30p,115,Toronto Raptors,,113,Brooklyn Nets,Y
+1268,"18,230",Box Score,"Wed, Apr 30, 2014",,9:30p,108,Houston Rockets,,98,Portland Trail Blazers,Y
+1269,"19,044",Box Score,"Thu, May 1, 2014",,7:00p,88,Atlanta Hawks,,95,Indiana Pacers,Y
+1270,"18,119",Box Score,"Thu, May 1, 2014",,8:00p,84,Memphis Grizzlies,,104,Oklahoma City Thunder,Y
+1271,"19,596",Box Score,"Thu, May 1, 2014",,10:30p,100,Golden State Warriors,,99,Los Angeles Clippers,Y
+1272,"17,732",Box Score,"Fri, May 2, 2014",,7:00p,97,Brooklyn Nets,,83,Toronto Raptors,Y
+1273,"20,799",Box Score,"Fri, May 2, 2014",,8:00p,113,Dallas Mavericks,,111,San Antonio Spurs,Y
+1274,"20,204",Box Score,"Fri, May 2, 2014",,10:30p,99,Portland Trail Blazers,,98,Houston Rockets,Y
+1275,"18,165",Box Score,"Sat, May 3, 2014",,5:30p,92,Indiana Pacers,,80,Atlanta Hawks,Y
+1276,"18,203",Box Score,"Sat, May 3, 2014",,8:00p,120,Oklahoma City Thunder,,109,Memphis Grizzlies,Y
+1277,"19,543",Box Score,"Sat, May 3, 2014",,10:30p,126,Los Angeles Clippers,,121,Golden State Warriors,Y
+1278,"20,457",Box Score,"Sun, May 4, 2014",,1:00p,103,Toronto Raptors,,104,Brooklyn Nets,Y
+1279,"18,581",Box Score,"Sun, May 4, 2014",,3:30p,119,San Antonio Spurs,,96,Dallas Mavericks,Y
+1280,"18,165",Box Score,"Mon, May 5, 2014",,7:00p,96,Indiana Pacers,,102,Washington Wizards,Y
+1281,"18,203",Box Score,"Mon, May 5, 2014",,9:42p,105,Oklahoma City Thunder,,122,Los Angeles Clippers,Y
+1282,"19,470",Box Score,"Tue, May 6, 2014",,7:00p,107,Miami Heat,,86,Brooklyn Nets,Y
+1283,"18,581",Box Score,"Tue, May 6, 2014",,9:30p,116,San Antonio Spurs,,92,Portland Trail Blazers,Y
+1284,"18,165",Box Score,"Wed, May 7, 2014",,7:00p,86,Indiana Pacers,,82,Washington Wizards,Y
+1285,"18,203",Box Score,"Wed, May 7, 2014",,9:30p,112,Oklahoma City Thunder,,101,Los Angeles Clippers,Y
+1286,"19,639",Box Score,"Thu, May 8, 2014",,7:00p,94,Miami Heat,,82,Brooklyn Nets,Y
+1287,"18,581",Box Score,"Thu, May 8, 2014",,9:30p,114,San Antonio Spurs,,97,Portland Trail Blazers,Y
+1288,"20,356",Box Score,"Fri, May 9, 2014",,8:00p,63,Washington Wizards,,85,Indiana Pacers,Y
+1289,"19,530",Box Score,"Fri, May 9, 2014",,10:30p,112,Los Angeles Clippers,,118,Oklahoma City Thunder,Y
+1290,"17,732",Box Score,"Sat, May 10, 2014",,8:00p,104,Brooklyn Nets,,90,Miami Heat,Y
+1291,"20,321",Box Score,"Sat, May 10, 2014",,10:30p,103,Portland Trail Blazers,,118,San Antonio Spurs,Y
+1292,"19,365",Box Score,"Sun, May 11, 2014",,3:30p,101,Los Angeles Clippers,,99,Oklahoma City Thunder,Y
+1293,"20,356",Box Score,"Sun, May 11, 2014",,8:00p,92,Washington Wizards,,95,Indiana Pacers,Y
+1294,"17,732",Box Score,"Mon, May 12, 2014",,8:00p,96,Brooklyn Nets,,102,Miami Heat,Y
+1295,"20,141",Box Score,"Mon, May 12, 2014",,10:30p,103,Portland Trail Blazers,,92,San Antonio Spurs,Y
+1296,"18,165",Box Score,"Tue, May 13, 2014",,7:00p,79,Indiana Pacers,,102,Washington Wizards,Y
+1297,"18,203",Box Score,"Tue, May 13, 2014",,9:30p,105,Oklahoma City Thunder,,104,Los Angeles Clippers,Y
+1298,"19,615",Box Score,"Wed, May 14, 2014",,7:00p,96,Miami Heat,,94,Brooklyn Nets,Y
+1299,"18,581",Box Score,"Wed, May 14, 2014",,9:30p,104,San Antonio Spurs,,82,Portland Trail Blazers,Y
+1300,"19,502",Box Score,"Thu, May 15, 2014",,8:00p,80,Washington Wizards,,93,Indiana Pacers,Y
+1301,"19,565",Box Score,"Thu, May 15, 2014",,10:30p,98,Los Angeles Clippers,,104,Oklahoma City Thunder,Y
+1302,"18,165",Box Score,"Sun, May 18, 2014",,3:30p,107,Indiana Pacers,,96,Miami Heat,Y
+1303,"18,581",Box Score,"Mon, May 19, 2014",,9:00p,122,San Antonio Spurs,,105,Oklahoma City Thunder,Y
+1304,"18,165",Box Score,"Tue, May 20, 2014",,8:30p,83,Indiana Pacers,,87,Miami Heat,Y
+1305,"18,581",Box Score,"Wed, May 21, 2014",,9:00p,112,San Antonio Spurs,,77,Oklahoma City Thunder,Y
+1306,"20,025",Box Score,"Sat, May 24, 2014",,8:30p,99,Miami Heat,,87,Indiana Pacers,Y
+1307,"18,203",Box Score,"Sun, May 25, 2014",,8:30p,106,Oklahoma City Thunder,,97,San Antonio Spurs,Y
+1308,"19,874",Box Score,"Mon, May 26, 2014",,8:30p,102,Miami Heat,,90,Indiana Pacers,Y
+1309,"18,203",Box Score,"Tue, May 27, 2014",,9:00p,105,Oklahoma City Thunder,,92,San Antonio Spurs,Y
+1310,"18,165",Box Score,"Wed, May 28, 2014",,8:30p,93,Indiana Pacers,,90,Miami Heat,Y
+1311,"18,581",Box Score,"Thu, May 29, 2014",,9:00p,117,San Antonio Spurs,,89,Oklahoma City Thunder,Y
+1312,"20,021",Box Score,"Fri, May 30, 2014",,8:30p,117,Miami Heat,,92,Indiana Pacers,Y
+1313,"18,203",Box Score,"Sat, May 31, 2014",,8:30p,107,Oklahoma City Thunder,OT,112,San Antonio Spurs,Y
+1314,"18,581",Box Score,"Thu, Jun 5, 2014",,9:00p,110,San Antonio Spurs,,95,Miami Heat,Y
+1315,"18,581",Box Score,"Sun, Jun 8, 2014",,8:00p,96,San Antonio Spurs,,98,Miami Heat,Y
+1316,"19,900",Box Score,"Tue, Jun 10, 2014",,9:00p,92,Miami Heat,,111,San Antonio Spurs,Y
+1317,"19,900",Box Score,"Thu, Jun 12, 2014",,9:00p,86,Miami Heat,,107,San Antonio Spurs,Y
+1318,"18,581",Box Score,"Sun, Jun 15, 2014",,8:00p,104,San Antonio Spurs,,87,Miami Heat,Y

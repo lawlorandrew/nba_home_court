@@ -1,0 +1,558 @@
+,attendance,box_score_text,game_date,game_remarks,game_start_time,home_pts,home_team_name,overtimes,visitor_pts,visitor_team_name,playoffs
+0,,Box Score,"Tue, Dec 22, 2020",,7:00p,125,Brooklyn Nets,,99,Golden State Warriors,N
+1,,Box Score,"Tue, Dec 22, 2020",,10:00p,109,Los Angeles Lakers,,116,Los Angeles Clippers,N
+2,300,Box Score,"Wed, Dec 23, 2020",,7:00p,121,Cleveland Cavaliers,,114,Charlotte Hornets,N
+3,0,Box Score,"Wed, Dec 23, 2020",,7:00p,121,Indiana Pacers,,107,New York Knicks,N
+4,"3,396",Box Score,"Wed, Dec 23, 2020",,7:00p,113,Orlando Magic,,107,Miami Heat,N
+5,0,Box Score,"Wed, Dec 23, 2020",,7:00p,113,Philadelphia 76ers,,107,Washington Wizards,N
+6,"3,800",Box Score,"Wed, Dec 23, 2020",,7:30p,99,Toronto Raptors,,113,New Orleans Pelicans,N
+7,0,Box Score,"Wed, Dec 23, 2020",,7:30p,122,Boston Celtics,,121,Milwaukee Bucks,N
+8,,Box Score,"Wed, Dec 23, 2020",,8:00p,104,Chicago Bulls,,124,Atlanta Hawks,N
+9,0,Box Score,"Wed, Dec 23, 2020",,8:00p,119,Memphis Grizzlies,,131,San Antonio Spurs,N
+10,,Box Score,"Wed, Dec 23, 2020",,8:00p,111,Minnesota Timberwolves,,101,Detroit Pistons,N
+11,,Box Score,"Wed, Dec 23, 2020",,9:00p,122,Denver Nuggets,OT,124,Sacramento Kings,N
+12,0,Box Score,"Wed, Dec 23, 2020",,10:00p,100,Portland Trail Blazers,,120,Utah Jazz,N
+13,0,Box Score,"Wed, Dec 23, 2020",,10:30p,106,Phoenix Suns,,102,Dallas Mavericks,N
+14,,Box Score,"Fri, Dec 25, 2020",,12:00p,111,Miami Heat,,98,New Orleans Pelicans,N
+15,,Box Score,"Fri, Dec 25, 2020",,2:30p,138,Milwaukee Bucks,,99,Golden State Warriors,N
+16,,Box Score,"Fri, Dec 25, 2020",,5:00p,95,Boston Celtics,,123,Brooklyn Nets,N
+17,,Box Score,"Fri, Dec 25, 2020",,8:00p,138,Los Angeles Lakers,,115,Dallas Mavericks,N
+18,,Box Score,"Fri, Dec 25, 2020",,10:30p,108,Denver Nuggets,,121,Los Angeles Clippers,N
+19,,Box Score,"Sat, Dec 26, 2020",,5:00p,112,Memphis Grizzlies,,122,Atlanta Hawks,N
+20,,Box Score,"Sat, Dec 26, 2020",,7:00p,107,Charlotte Hornets,,109,Oklahoma City Thunder,N
+21,,Box Score,"Sat, Dec 26, 2020",,7:00p,119,Detroit Pistons,2OT,128,Cleveland Cavaliers,N
+22,,Box Score,"Sat, Dec 26, 2020",,7:00p,120,Washington Wizards,,130,Orlando Magic,N
+23,,Box Score,"Sat, Dec 26, 2020",,7:30p,89,New York Knicks,,109,Philadelphia 76ers,N
+24,,Box Score,"Sat, Dec 26, 2020",,8:00p,106,Chicago Bulls,,125,Indiana Pacers,N
+25,,Box Score,"Sat, Dec 26, 2020",,8:30p,119,San Antonio Spurs,,114,Toronto Raptors,N
+26,"1,932",Box Score,"Sat, Dec 26, 2020",,9:00p,111,Utah Jazz,,116,Minnesota Timberwolves,N
+27,,Box Score,"Sat, Dec 26, 2020",,10:00p,128,Portland Trail Blazers,OT,126,Houston Rockets,N
+28,,Box Score,"Sat, Dec 26, 2020",,10:00p,106,Sacramento Kings,,103,Phoenix Suns,N
+29,,Box Score,"Sun, Dec 27, 2020",,3:30p,73,Los Angeles Clippers,,124,Dallas Mavericks,N
+30,750,Box Score,"Sun, Dec 27, 2020",,7:00p,98,New Orleans Pelicans,,95,San Antonio Spurs,N
+31,,Box Score,"Sun, Dec 27, 2020",,7:00p,113,Washington Wizards,,120,Orlando Magic,N
+32,,Box Score,"Sun, Dec 27, 2020",,7:00p,106,Charlotte Hornets,,104,Brooklyn Nets,N
+33,300,Box Score,"Sun, Dec 27, 2020",,7:30p,118,Cleveland Cavaliers,,94,Philadelphia 76ers,N
+34,,Box Score,"Sun, Dec 27, 2020",,7:30p,130,New York Knicks,,110,Milwaukee Bucks,N
+35,,Box Score,"Sun, Dec 27, 2020",,8:00p,108,Indiana Pacers,,107,Boston Celtics,N
+36,,Box Score,"Sun, Dec 27, 2020",,8:00p,128,Chicago Bulls,,129,Golden State Warriors,N
+37,,Box Score,"Sun, Dec 27, 2020",,9:00p,100,Sacramento Kings,,116,Phoenix Suns,N
+38,,Box Score,"Sun, Dec 27, 2020",,10:00p,127,Los Angeles Lakers,,91,Minnesota Timberwolves,N
+39,,Box Score,"Mon, Dec 28, 2020",,7:30p,111,Brooklyn Nets,OT,116,Memphis Grizzlies,N
+40,,Box Score,"Mon, Dec 28, 2020",,7:30p,128,Atlanta Hawks,,120,Detroit Pistons,N
+41,,Box Score,"Mon, Dec 28, 2020",,8:00p,109,Oklahoma City Thunder,,110,Utah Jazz,N
+42,,Box Score,"Mon, Dec 28, 2020",,9:00p,124,Denver Nuggets,,111,Houston Rockets,N
+43,,Box Score,"Mon, Dec 28, 2020",,10:00p,107,Los Angeles Lakers,,115,Portland Trail Blazers,N
+44,300,Box Score,"Tue, Dec 29, 2020",,7:00p,86,Cleveland Cavaliers,,95,New York Knicks,N
+45,,Box Score,"Tue, Dec 29, 2020",,7:00p,106,Detroit Pistons,,116,Golden State Warriors,N
+46,,Box Score,"Tue, Dec 29, 2020",,7:00p,111,Indiana Pacers,,116,Boston Celtics,N
+47,,Box Score,"Tue, Dec 29, 2020",,7:00p,107,Washington Wizards,,115,Chicago Bulls,N
+48,,Box Score,"Tue, Dec 29, 2020",,7:00p,100,Philadelphia 76ers,,93,Toronto Raptors,N
+49,,Box Score,"Tue, Dec 29, 2020",,7:30p,97,Miami Heat,,144,Milwaukee Bucks,N
+50,,Box Score,"Tue, Dec 29, 2020",,8:00p,107,Oklahoma City Thunder,,118,Orlando Magic,N
+51,,Box Score,"Tue, Dec 29, 2020",,10:00p,111,Phoenix Suns,,86,New Orleans Pelicans,N
+52,,Box Score,"Tue, Dec 29, 2020",,10:00p,125,Sacramento Kings,,115,Denver Nuggets,N
+53,,Box Score,"Tue, Dec 29, 2020",,10:00p,124,Los Angeles Clippers,,101,Minnesota Timberwolves,N
+54,,Box Score,"Wed, Dec 30, 2020",,7:30p,119,Miami Heat,,108,Milwaukee Bucks,N
+55,,Box Score,"Wed, Dec 30, 2020",,7:30p,145,Brooklyn Nets,,141,Atlanta Hawks,N
+56,,Box Score,"Wed, Dec 30, 2020",,7:30p,126,Boston Celtics,,107,Memphis Grizzlies,N
+57,,Box Score,"Wed, Dec 30, 2020",,8:30p,99,Dallas Mavericks,,118,Charlotte Hornets,N
+58,,Box Score,"Wed, Dec 30, 2020",,8:30p,107,San Antonio Spurs,,121,Los Angeles Lakers,N
+59,,Box Score,"Wed, Dec 30, 2020",,10:00p,128,Los Angeles Clippers,,105,Portland Trail Blazers,N
+60,,Box Score,"Thu, Dec 31, 2020",,3:00p,119,Indiana Pacers,,99,Cleveland Cavaliers,N
+61,,Box Score,"Thu, Dec 31, 2020",,5:00p,130,Washington Wizards,,133,Chicago Bulls,N
+62,"3,247",Box Score,"Thu, Dec 31, 2020",,6:30p,92,Orlando Magic,,116,Philadelphia 76ers,N
+63,"3,247",Box Score,"Thu, Dec 31, 2020",,7:00p,122,Houston Rockets,,119,Sacramento Kings,N
+64,"3,449",Box Score,"Thu, Dec 31, 2020",,7:30p,100,Toronto Raptors,,83,New York Knicks,N
+65,,Box Score,"Thu, Dec 31, 2020",,8:00p,80,Oklahoma City Thunder,,113,New Orleans Pelicans,N
+66,"1,932",Box Score,"Thu, Dec 31, 2020",,9:00p,95,Utah Jazz,,106,Phoenix Suns,N
+67,0,Box Score,"Fri, Jan 1, 2021",,7:00p,93,Charlotte Hornets,,108,Memphis Grizzlies,N
+68,0,Box Score,"Fri, Jan 1, 2021",,7:00p,93,Dallas Mavericks,,83,Miami Heat,N
+69,0,Box Score,"Fri, Jan 1, 2021",,7:00p,96,Detroit Pistons,,93,Boston Celtics,N
+70,0,Box Score,"Fri, Jan 1, 2021",,7:30p,96,Brooklyn Nets,,114,Atlanta Hawks,N
+71,0,Box Score,"Fri, Jan 1, 2021",,8:00p,126,Milwaukee Bucks,,96,Chicago Bulls,N
+72,0,Box Score,"Fri, Jan 1, 2021",,8:00p,109,Minnesota Timberwolves,,130,Washington Wizards,N
+73,0,Box Score,"Fri, Jan 1, 2021",,8:00p,103,San Antonio Spurs,,109,Los Angeles Lakers,N
+74,0,Box Score,"Fri, Jan 1, 2021",,9:00p,103,Denver Nuggets,,106,Phoenix Suns,N
+75,"1,932",Box Score,"Fri, Jan 1, 2021",,9:00p,106,Utah Jazz,,100,Los Angeles Clippers,N
+76,0,Box Score,"Fri, Jan 1, 2021",,10:30p,98,Golden State Warriors,,123,Portland Trail Blazers,N
+77,"3,065",Box Score,"Sat, Jan 2, 2021",,5:00p,102,Houston Rockets,,94,Sacramento Kings,N
+78,0,Box Score,"Sat, Jan 2, 2021",,7:00p,102,Indiana Pacers,,106,New York Knicks,N
+79,"3,339",Box Score,"Sat, Jan 2, 2021",,7:00p,99,Orlando Magic,,108,Oklahoma City Thunder,N
+80,0,Box Score,"Sat, Jan 2, 2021",,7:00p,127,Philadelphia 76ers,,112,Charlotte Hornets,N
+81,0,Box Score,"Sat, Jan 2, 2021",,7:30p,91,Atlanta Hawks,,96,Cleveland Cavaliers,N
+82,750,Box Score,"Sat, Jan 2, 2021",,7:30p,120,New Orleans Pelicans,,116,Toronto Raptors,N
+83,,Box Score,"Sun, Jan 3, 2021",,3:00p,120,Detroit Pistons,,122,Boston Celtics,N
+84,,Box Score,"Sun, Jan 3, 2021",,6:00p,122,Brooklyn Nets,,123,Washington Wizards,N
+85,,Box Score,"Sun, Jan 3, 2021",,6:00p,94,Memphis Grizzlies,,108,Los Angeles Lakers,N
+86,,Box Score,"Sun, Jan 3, 2021",,7:00p,109,Minnesota Timberwolves,,124,Denver Nuggets,N
+87,,Box Score,"Sun, Jan 3, 2021",,7:00p,109,San Antonio Spurs,,130,Utah Jazz,N
+88,,Box Score,"Sun, Jan 3, 2021",,8:00p,118,Chicago Bulls,,108,Dallas Mavericks,N
+89,,Box Score,"Sun, Jan 3, 2021",,8:00p,107,Phoenix Suns,,112,Los Angeles Clippers,N
+90,,Box Score,"Sun, Jan 3, 2021",,8:30p,137,Golden State Warriors,,122,Portland Trail Blazers,N
+91,,,"Mon, Jan 4, 2021",,7:00p,,Orlando Magic,,,Cleveland Cavaliers,N
+92,,,"Mon, Jan 4, 2021",,7:00p,,Philadelphia 76ers,,,Charlotte Hornets,N
+93,,,"Mon, Jan 4, 2021",,7:30p,,Atlanta Hawks,,,New York Knicks,N
+94,,,"Mon, Jan 4, 2021",,7:30p,,Miami Heat,,,Oklahoma City Thunder,N
+95,,,"Mon, Jan 4, 2021",,7:30p,,Toronto Raptors,,,Boston Celtics,N
+96,,,"Mon, Jan 4, 2021",,8:00p,,Houston Rockets,,,Dallas Mavericks,N
+97,,,"Mon, Jan 4, 2021",,8:00p,,Milwaukee Bucks,,,Detroit Pistons,N
+98,,,"Mon, Jan 4, 2021",,8:00p,,New Orleans Pelicans,,,Indiana Pacers,N
+99,,,"Mon, Jan 4, 2021",,10:00p,,Golden State Warriors,,,Sacramento Kings,N
+100,,,"Tue, Jan 5, 2021",,7:30p,,Brooklyn Nets,,,Utah Jazz,N
+101,,,"Tue, Jan 5, 2021",,8:00p,,Memphis Grizzlies,,,Los Angeles Lakers,N
+102,,,"Tue, Jan 5, 2021",,9:00p,,Denver Nuggets,,,Minnesota Timberwolves,N
+103,,,"Tue, Jan 5, 2021",,10:00p,,Los Angeles Clippers,,,San Antonio Spurs,N
+104,,,"Tue, Jan 5, 2021",,10:30p,,Portland Trail Blazers,,,Chicago Bulls,N
+105,,,"Wed, Jan 6, 2021",,7:00p,,Indiana Pacers,,,Houston Rockets,N
+106,,,"Wed, Jan 6, 2021",,7:00p,,Orlando Magic,,,Cleveland Cavaliers,N
+107,,,"Wed, Jan 6, 2021",,7:00p,,Philadelphia 76ers,,,Washington Wizards,N
+108,,,"Wed, Jan 6, 2021",,7:30p,,Atlanta Hawks,,,Charlotte Hornets,N
+109,,,"Wed, Jan 6, 2021",,7:30p,,Miami Heat,,,Boston Celtics,N
+110,,,"Wed, Jan 6, 2021",,7:30p,,New York Knicks,,,Utah Jazz,N
+111,,,"Wed, Jan 6, 2021",,8:00p,,Milwaukee Bucks,,,Detroit Pistons,N
+112,,,"Wed, Jan 6, 2021",,8:00p,,New Orleans Pelicans,,,Oklahoma City Thunder,N
+113,,,"Wed, Jan 6, 2021",,9:00p,,Phoenix Suns,,,Toronto Raptors,N
+114,,,"Wed, Jan 6, 2021",,10:00p,,Golden State Warriors,,,Los Angeles Clippers,N
+115,,,"Wed, Jan 6, 2021",,10:00p,,Sacramento Kings,,,Chicago Bulls,N
+116,,,"Thu, Jan 7, 2021",,7:30p,,Brooklyn Nets,,,Philadelphia 76ers,N
+117,,,"Thu, Jan 7, 2021",,8:00p,,Memphis Grizzlies,,,Cleveland Cavaliers,N
+118,,,"Thu, Jan 7, 2021",,10:00p,,Denver Nuggets,,,Dallas Mavericks,N
+119,,,"Thu, Jan 7, 2021",,10:00p,,Los Angeles Lakers,,,San Antonio Spurs,N
+120,,,"Thu, Jan 7, 2021",,10:00p,,Portland Trail Blazers,,,Minnesota Timberwolves,N
+121,,,"Fri, Jan 8, 2021",,7:00p,,Detroit Pistons,,,Phoenix Suns,N
+122,,,"Fri, Jan 8, 2021",,7:30p,,Boston Celtics,,,Washington Wizards,N
+123,,,"Fri, Jan 8, 2021",,7:30p,,New Orleans Pelicans,,,Charlotte Hornets,N
+124,,,"Fri, Jan 8, 2021",,7:30p,,New York Knicks,,,Oklahoma City Thunder,N
+125,,,"Fri, Jan 8, 2021",,8:00p,,Houston Rockets,,,Orlando Magic,N
+126,,,"Fri, Jan 8, 2021",,8:00p,,Memphis Grizzlies,,,Brooklyn Nets,N
+127,,,"Fri, Jan 8, 2021",,8:00p,,Milwaukee Bucks,,,Utah Jazz,N
+128,,,"Fri, Jan 8, 2021",,10:00p,,Golden State Warriors,,,Los Angeles Clippers,N
+129,,,"Fri, Jan 8, 2021",,10:00p,,Los Angeles Lakers,,,Chicago Bulls,N
+130,,,"Fri, Jan 8, 2021",,10:00p,,Sacramento Kings,,,Toronto Raptors,N
+131,,,"Sat, Jan 9, 2021",,3:00p,,Philadelphia 76ers,,,Denver Nuggets,N
+132,,,"Sat, Jan 9, 2021",,7:00p,,Charlotte Hornets,,,Atlanta Hawks,N
+133,,,"Sat, Jan 9, 2021",,7:00p,,Indiana Pacers,,,Phoenix Suns,N
+134,,,"Sat, Jan 9, 2021",,7:00p,,Washington Wizards,,,Miami Heat,N
+135,,,"Sat, Jan 9, 2021",,8:00p,,Milwaukee Bucks,,,Cleveland Cavaliers,N
+136,,,"Sat, Jan 9, 2021",,8:00p,,Minnesota Timberwolves,,,San Antonio Spurs,N
+137,,,"Sat, Jan 9, 2021",,8:30p,,Dallas Mavericks,,,Orlando Magic,N
+138,,,"Sat, Jan 9, 2021",,10:00p,,Sacramento Kings,,,Portland Trail Blazers,N
+139,,,"Sun, Jan 10, 2021",,3:00p,,Detroit Pistons,,,Utah Jazz,N
+140,,,"Sun, Jan 10, 2021",,4:00p,,Los Angeles Clippers,,,Chicago Bulls,N
+141,,,"Sun, Jan 10, 2021",,6:00p,,Brooklyn Nets,,,Oklahoma City Thunder,N
+142,,,"Sun, Jan 10, 2021",,6:00p,,New York Knicks,,,Denver Nuggets,N
+143,,,"Sun, Jan 10, 2021",,7:00p,,Boston Celtics,,,Miami Heat,N
+144,,,"Sun, Jan 10, 2021",,7:00p,,Houston Rockets,,,Los Angeles Lakers,N
+145,,,"Sun, Jan 10, 2021",,8:00p,,Minnesota Timberwolves,,,San Antonio Spurs,N
+146,,,"Sun, Jan 10, 2021",,8:30p,,Golden State Warriors,,,Toronto Raptors,N
+147,,,"Mon, Jan 11, 2021",,7:00p,,Charlotte Hornets,,,New York Knicks,N
+148,,,"Mon, Jan 11, 2021",,7:00p,,Cleveland Cavaliers,,,Memphis Grizzlies,N
+149,,,"Mon, Jan 11, 2021",,7:00p,,Orlando Magic,,,Milwaukee Bucks,N
+150,,,"Mon, Jan 11, 2021",,7:00p,,Washington Wizards,,,Phoenix Suns,N
+151,,,"Mon, Jan 11, 2021",,7:30p,,Atlanta Hawks,,,Philadelphia 76ers,N
+152,,,"Mon, Jan 11, 2021",,8:30p,,Dallas Mavericks,,,New Orleans Pelicans,N
+153,,,"Mon, Jan 11, 2021",,10:00p,,Portland Trail Blazers,,,Toronto Raptors,N
+154,,,"Mon, Jan 11, 2021",,10:00p,,Sacramento Kings,,,Indiana Pacers,N
+155,,,"Tue, Jan 12, 2021",,7:00p,,Philadelphia 76ers,,,Miami Heat,N
+156,,,"Tue, Jan 12, 2021",,7:30p,,Brooklyn Nets,,,Denver Nuggets,N
+157,,,"Tue, Jan 12, 2021",,7:30p,,Cleveland Cavaliers,,,Utah Jazz,N
+158,,,"Tue, Jan 12, 2021",,8:00p,,Chicago Bulls,,,Boston Celtics,N
+159,,,"Tue, Jan 12, 2021",,8:00p,,Houston Rockets,,,Los Angeles Lakers,N
+160,,,"Tue, Jan 12, 2021",,8:00p,,Oklahoma City Thunder,,,San Antonio Spurs,N
+161,,,"Tue, Jan 12, 2021",,10:30p,,Golden State Warriors,,,Indiana Pacers,N
+162,,,"Wed, Jan 13, 2021",,7:00p,,Charlotte Hornets,,,Dallas Mavericks,N
+163,,,"Wed, Jan 13, 2021",,7:00p,,Detroit Pistons,,,Milwaukee Bucks,N
+164,,,"Wed, Jan 13, 2021",,7:00p,,Washington Wizards,,,Utah Jazz,N
+165,,,"Wed, Jan 13, 2021",,7:30p,,Boston Celtics,,,Orlando Magic,N
+166,,,"Wed, Jan 13, 2021",,7:30p,,New York Knicks,,,Brooklyn Nets,N
+167,,,"Wed, Jan 13, 2021",,8:00p,,Minnesota Timberwolves,,,Memphis Grizzlies,N
+168,,,"Wed, Jan 13, 2021",,8:00p,,Oklahoma City Thunder,,,Los Angeles Lakers,N
+169,,,"Wed, Jan 13, 2021",,9:00p,,Phoenix Suns,,,Atlanta Hawks,N
+170,,,"Wed, Jan 13, 2021",,10:00p,,Los Angeles Clippers,,,New Orleans Pelicans,N
+171,,,"Wed, Jan 13, 2021",,10:00p,,Sacramento Kings,,,Portland Trail Blazers,N
+172,,,"Thu, Jan 14, 2021",,7:30p,,Philadelphia 76ers,,,Miami Heat,N
+173,,,"Thu, Jan 14, 2021",,7:30p,,Toronto Raptors,,,Charlotte Hornets,N
+174,,,"Thu, Jan 14, 2021",,8:30p,,San Antonio Spurs,,,Houston Rockets,N
+175,,,"Thu, Jan 14, 2021",,10:00p,,Denver Nuggets,,,Golden State Warriors,N
+176,,,"Thu, Jan 14, 2021",,10:00p,,Portland Trail Blazers,,,Indiana Pacers,N
+177,,,"Fri, Jan 15, 2021",,7:00p,,Detroit Pistons,,,Washington Wizards,N
+178,,,"Fri, Jan 15, 2021",,7:30p,,Boston Celtics,,,Orlando Magic,N
+179,,,"Fri, Jan 15, 2021",,7:30p,,Cleveland Cavaliers,,,New York Knicks,N
+180,,,"Fri, Jan 15, 2021",,7:30p,,Milwaukee Bucks,,,Dallas Mavericks,N
+181,,,"Fri, Jan 15, 2021",,8:00p,,Minnesota Timberwolves,,,Memphis Grizzlies,N
+182,,,"Fri, Jan 15, 2021",,8:00p,,Oklahoma City Thunder,,,Chicago Bulls,N
+183,,,"Fri, Jan 15, 2021",,9:00p,,Phoenix Suns,,,Golden State Warriors,N
+184,,,"Fri, Jan 15, 2021",,9:00p,,Utah Jazz,,,Atlanta Hawks,N
+185,,,"Fri, Jan 15, 2021",,10:00p,,Los Angeles Lakers,,,New Orleans Pelicans,N
+186,,,"Fri, Jan 15, 2021",,10:00p,,Sacramento Kings,,,Los Angeles Clippers,N
+187,,,"Sat, Jan 16, 2021",,5:00p,,San Antonio Spurs,,,Houston Rockets,N
+188,,,"Sat, Jan 16, 2021",,6:00p,,Brooklyn Nets,,,Orlando Magic,N
+189,,,"Sat, Jan 16, 2021",,7:30p,,Toronto Raptors,,,Charlotte Hornets,N
+190,,,"Sat, Jan 16, 2021",,8:00p,,Memphis Grizzlies,,,Philadelphia 76ers,N
+191,,,"Sat, Jan 16, 2021",,8:00p,,Miami Heat,,,Detroit Pistons,N
+192,,,"Sat, Jan 16, 2021",,9:00p,,Phoenix Suns,,,Indiana Pacers,N
+193,,,"Sat, Jan 16, 2021",,10:00p,,Portland Trail Blazers,,,Atlanta Hawks,N
+194,,,"Sun, Jan 17, 2021",,1:00p,,Boston Celtics,,,New York Knicks,N
+195,,,"Sun, Jan 17, 2021",,2:00p,,Washington Wizards,,,Cleveland Cavaliers,N
+196,,,"Sun, Jan 17, 2021",,3:00p,,Dallas Mavericks,,,Chicago Bulls,N
+197,,,"Sun, Jan 17, 2021",,7:00p,,Oklahoma City Thunder,,,Philadelphia 76ers,N
+198,,,"Sun, Jan 17, 2021",,8:00p,,Denver Nuggets,,,Utah Jazz,N
+199,,,"Sun, Jan 17, 2021",,9:00p,,Sacramento Kings,,,New Orleans Pelicans,N
+200,,,"Sun, Jan 17, 2021",,10:00p,,Los Angeles Clippers,,,Indiana Pacers,N
+201,,,"Mon, Jan 18, 2021",,12:00p,,New York Knicks,,,Orlando Magic,N
+202,,,"Mon, Jan 18, 2021",,2:00p,,Washington Wizards,,,Cleveland Cavaliers,N
+203,,,"Mon, Jan 18, 2021",,2:30p,,Atlanta Hawks,,,Minnesota Timberwolves,N
+204,,,"Mon, Jan 18, 2021",,3:00p,,Miami Heat,,,Detroit Pistons,N
+205,,,"Mon, Jan 18, 2021",,3:00p,,Portland Trail Blazers,,,San Antonio Spurs,N
+206,,,"Mon, Jan 18, 2021",,5:00p,,Memphis Grizzlies,,,Phoenix Suns,N
+207,,,"Mon, Jan 18, 2021",,7:30p,,Brooklyn Nets,,,Milwaukee Bucks,N
+208,,,"Mon, Jan 18, 2021",,7:30p,,Toronto Raptors,,,Dallas Mavericks,N
+209,,,"Mon, Jan 18, 2021",,8:00p,,Chicago Bulls,,,Houston Rockets,N
+210,,,"Mon, Jan 18, 2021",,10:00p,,Los Angeles Lakers,,,Golden State Warriors,N
+211,,,"Tue, Jan 19, 2021",,9:00p,,Denver Nuggets,,,Oklahoma City Thunder,N
+212,,,"Tue, Jan 19, 2021",,9:00p,,Utah Jazz,,,New Orleans Pelicans,N
+213,,,"Wed, Jan 20, 2021",,7:00p,,Charlotte Hornets,,,Washington Wizards,N
+214,,,"Wed, Jan 20, 2021",,7:00p,,Cleveland Cavaliers,,,Brooklyn Nets,N
+215,,,"Wed, Jan 20, 2021",,7:00p,,Indiana Pacers,,,Dallas Mavericks,N
+216,,,"Wed, Jan 20, 2021",,7:00p,,Philadelphia 76ers,,,Boston Celtics,N
+217,,,"Wed, Jan 20, 2021",,7:30p,,Atlanta Hawks,,,Detroit Pistons,N
+218,,,"Wed, Jan 20, 2021",,7:30p,,Toronto Raptors,,,Miami Heat,N
+219,,,"Wed, Jan 20, 2021",,8:00p,,Minnesota Timberwolves,,,Orlando Magic,N
+220,,,"Wed, Jan 20, 2021",,9:30p,,Houston Rockets,,,Phoenix Suns,N
+221,,,"Wed, Jan 20, 2021",,10:00p,,Golden State Warriors,,,San Antonio Spurs,N
+222,,,"Wed, Jan 20, 2021",,10:00p,,Los Angeles Clippers,,,Sacramento Kings,N
+223,,,"Wed, Jan 20, 2021",,10:00p,,Portland Trail Blazers,,,Memphis Grizzlies,N
+224,,,"Thu, Jan 21, 2021",,7:30p,,Milwaukee Bucks,,,Los Angeles Lakers,N
+225,,,"Thu, Jan 21, 2021",,10:00p,,Golden State Warriors,,,New York Knicks,N
+226,,,"Thu, Jan 21, 2021",,10:00p,,Utah Jazz,,,New Orleans Pelicans,N
+227,,,"Fri, Jan 22, 2021",,7:00p,,Charlotte Hornets,,,Chicago Bulls,N
+228,,,"Fri, Jan 22, 2021",,7:00p,,Detroit Pistons,,,Houston Rockets,N
+229,,,"Fri, Jan 22, 2021",,7:00p,,Indiana Pacers,,,Orlando Magic,N
+230,,,"Fri, Jan 22, 2021",,7:30p,,Cleveland Cavaliers,,,Brooklyn Nets,N
+231,,,"Fri, Jan 22, 2021",,7:30p,,Philadelphia 76ers,,,Boston Celtics,N
+232,,,"Fri, Jan 22, 2021",,7:30p,,Toronto Raptors,,,Miami Heat,N
+233,,,"Fri, Jan 22, 2021",,8:00p,,Milwaukee Bucks,,,Washington Wizards,N
+234,,,"Fri, Jan 22, 2021",,8:00p,,Minnesota Timberwolves,,,Atlanta Hawks,N
+235,,,"Fri, Jan 22, 2021",,8:30p,,San Antonio Spurs,,,Dallas Mavericks,N
+236,,,"Fri, Jan 22, 2021",,10:00p,,Los Angeles Clippers,,,Oklahoma City Thunder,N
+237,,,"Fri, Jan 22, 2021",,10:00p,,Phoenix Suns,,,Denver Nuggets,N
+238,,,"Fri, Jan 22, 2021",,10:00p,,Portland Trail Blazers,,,Memphis Grizzlies,N
+239,,,"Fri, Jan 22, 2021",,10:00p,,Sacramento Kings,,,New York Knicks,N
+240,,,"Sat, Jan 23, 2021",,5:00p,,Utah Jazz,,,Golden State Warriors,N
+241,,,"Sat, Jan 23, 2021",,7:00p,,Detroit Pistons,,,Philadelphia 76ers,N
+242,,,"Sat, Jan 23, 2021",,7:30p,,Brooklyn Nets,,,Miami Heat,N
+243,,,"Sat, Jan 23, 2021",,8:00p,,Chicago Bulls,,,Los Angeles Lakers,N
+244,,,"Sat, Jan 23, 2021",,8:00p,,Minnesota Timberwolves,,,New Orleans Pelicans,N
+245,,,"Sat, Jan 23, 2021",,8:30p,,Dallas Mavericks,,,Houston Rockets,N
+246,,,"Sat, Jan 23, 2021",,9:00p,,Phoenix Suns,,,Denver Nuggets,N
+247,,,"Sun, Jan 24, 2021",,3:30p,,Indiana Pacers,,,Toronto Raptors,N
+248,,,"Sun, Jan 24, 2021",,4:00p,,Boston Celtics,,,Cleveland Cavaliers,N
+249,,,"Sun, Jan 24, 2021",,4:00p,,Los Angeles Clippers,,,Oklahoma City Thunder,N
+250,,,"Sun, Jan 24, 2021",,6:00p,,Orlando Magic,,,Charlotte Hornets,N
+251,,,"Sun, Jan 24, 2021",,7:00p,,San Antonio Spurs,,,Washington Wizards,N
+252,,,"Sun, Jan 24, 2021",,7:30p,,Milwaukee Bucks,,,Atlanta Hawks,N
+253,,,"Sun, Jan 24, 2021",,8:00p,,Memphis Grizzlies,,,Sacramento Kings,N
+254,,,"Sun, Jan 24, 2021",,9:00p,,Portland Trail Blazers,,,New York Knicks,N
+255,,,"Mon, Jan 25, 2021",,7:00p,,Detroit Pistons,,,Philadelphia 76ers,N
+256,,,"Mon, Jan 25, 2021",,7:00p,,Indiana Pacers,,,Toronto Raptors,N
+257,,,"Mon, Jan 25, 2021",,7:00p,,Orlando Magic,,,Charlotte Hornets,N
+258,,,"Mon, Jan 25, 2021",,7:30p,,Brooklyn Nets,,,Miami Heat,N
+259,,,"Mon, Jan 25, 2021",,7:30p,,Cleveland Cavaliers,,,Los Angeles Lakers,N
+260,,,"Mon, Jan 25, 2021",,8:00p,,Chicago Bulls,,,Boston Celtics,N
+261,,,"Mon, Jan 25, 2021",,8:00p,,Memphis Grizzlies,,,Sacramento Kings,N
+262,,,"Mon, Jan 25, 2021",,8:00p,,New Orleans Pelicans,,,San Antonio Spurs,N
+263,,,"Mon, Jan 25, 2021",,8:30p,,Dallas Mavericks,,,Denver Nuggets,N
+264,,,"Mon, Jan 25, 2021",,10:00p,,Golden State Warriors,,,Minnesota Timberwolves,N
+265,,,"Mon, Jan 25, 2021",,10:00p,,Portland Trail Blazers,,,Oklahoma City Thunder,N
+266,,,"Tue, Jan 26, 2021",,7:30p,,Atlanta Hawks,,,Los Angeles Clippers,N
+267,,,"Tue, Jan 26, 2021",,8:00p,,Houston Rockets,,,Washington Wizards,N
+268,,,"Tue, Jan 26, 2021",,9:00p,,Utah Jazz,,,New York Knicks,N
+269,,,"Wed, Jan 27, 2021",,7:00p,,Charlotte Hornets,,,Indiana Pacers,N
+270,,,"Wed, Jan 27, 2021",,7:00p,,Cleveland Cavaliers,,,Detroit Pistons,N
+271,,,"Wed, Jan 27, 2021",,7:00p,,Orlando Magic,,,Sacramento Kings,N
+272,,,"Wed, Jan 27, 2021",,7:30p,,Atlanta Hawks,,,Brooklyn Nets,N
+273,,,"Wed, Jan 27, 2021",,7:30p,,Miami Heat,,,Denver Nuggets,N
+274,,,"Wed, Jan 27, 2021",,7:30p,,Philadelphia 76ers,,,Los Angeles Lakers,N
+275,,,"Wed, Jan 27, 2021",,7:30p,,Toronto Raptors,,,Milwaukee Bucks,N
+276,,,"Wed, Jan 27, 2021",,8:00p,,Memphis Grizzlies,,,Chicago Bulls,N
+277,,,"Wed, Jan 27, 2021",,8:00p,,New Orleans Pelicans,,,Washington Wizards,N
+278,,,"Wed, Jan 27, 2021",,8:30p,,San Antonio Spurs,,,Boston Celtics,N
+279,,,"Wed, Jan 27, 2021",,9:00p,,Phoenix Suns,,,Oklahoma City Thunder,N
+280,,,"Wed, Jan 27, 2021",,9:00p,,Utah Jazz,,,Dallas Mavericks,N
+281,,,"Wed, Jan 27, 2021",,10:00p,,Golden State Warriors,,,Minnesota Timberwolves,N
+282,,,"Thu, Jan 28, 2021",,7:00p,,Detroit Pistons,,,Los Angeles Lakers,N
+283,,,"Thu, Jan 28, 2021",,7:00p,,Miami Heat,,,Los Angeles Clippers,N
+284,,,"Thu, Jan 28, 2021",,9:00p,,Phoenix Suns,,,Golden State Warriors,N
+285,,,"Thu, Jan 28, 2021",,9:30p,,Houston Rockets,,,Portland Trail Blazers,N
+286,,,"Fri, Jan 29, 2021",,7:00p,,Charlotte Hornets,,,Indiana Pacers,N
+287,,,"Fri, Jan 29, 2021",,7:00p,,Orlando Magic,,,Los Angeles Clippers,N
+288,,,"Fri, Jan 29, 2021",,7:00p,,Washington Wizards,,,Atlanta Hawks,N
+289,,,"Fri, Jan 29, 2021",,7:30p,,New Orleans Pelicans,,,Milwaukee Bucks,N
+290,,,"Fri, Jan 29, 2021",,7:30p,,New York Knicks,,,Cleveland Cavaliers,N
+291,,,"Fri, Jan 29, 2021",,7:30p,,Toronto Raptors,,,Sacramento Kings,N
+292,,,"Fri, Jan 29, 2021",,8:00p,,Minnesota Timberwolves,,,Philadelphia 76ers,N
+293,,,"Fri, Jan 29, 2021",,8:00p,,Oklahoma City Thunder,,,Brooklyn Nets,N
+294,,,"Fri, Jan 29, 2021",,8:30p,,San Antonio Spurs,,,Denver Nuggets,N
+295,,,"Fri, Jan 29, 2021",,10:00p,,Utah Jazz,,,Dallas Mavericks,N
+296,,,"Sat, Jan 30, 2021",,5:00p,,Chicago Bulls,,,Portland Trail Blazers,N
+297,,,"Sat, Jan 30, 2021",,7:00p,,Charlotte Hornets,,,Milwaukee Bucks,N
+298,,,"Sat, Jan 30, 2021",,7:00p,,New Orleans Pelicans,,,Houston Rockets,N
+299,,,"Sat, Jan 30, 2021",,8:00p,,Miami Heat,,,Sacramento Kings,N
+300,,,"Sat, Jan 30, 2021",,8:30p,,Boston Celtics,,,Los Angeles Lakers,N
+301,,,"Sat, Jan 30, 2021",,8:30p,,Dallas Mavericks,,,Phoenix Suns,N
+302,,,"Sat, Jan 30, 2021",,8:30p,,Golden State Warriors,,,Detroit Pistons,N
+303,,,"Sat, Jan 30, 2021",,8:30p,,San Antonio Spurs,,,Memphis Grizzlies,N
+304,,,"Sun, Jan 31, 2021",,3:30p,,Denver Nuggets,,,Utah Jazz,N
+305,,,"Sun, Jan 31, 2021",,5:00p,,Indiana Pacers,,,Philadelphia 76ers,N
+306,,,"Sun, Jan 31, 2021",,5:00p,,New York Knicks,,,Los Angeles Clippers,N
+307,,,"Sun, Jan 31, 2021",,6:00p,,Toronto Raptors,,,Orlando Magic,N
+308,,,"Sun, Jan 31, 2021",,7:00p,,Washington Wizards,,,Brooklyn Nets,N
+309,,,"Sun, Jan 31, 2021",,7:30p,,Minnesota Timberwolves,,,Cleveland Cavaliers,N
+310,,,"Mon, Feb 1, 2021",,7:00p,,Cleveland Cavaliers,,,Minnesota Timberwolves,N
+311,,,"Mon, Feb 1, 2021",,7:30p,,Atlanta Hawks,,,Los Angeles Lakers,N
+312,,,"Mon, Feb 1, 2021",,7:30p,,Miami Heat,,,Charlotte Hornets,N
+313,,,"Mon, Feb 1, 2021",,8:00p,,Chicago Bulls,,,New York Knicks,N
+314,,,"Mon, Feb 1, 2021",,8:00p,,Milwaukee Bucks,,,Portland Trail Blazers,N
+315,,,"Mon, Feb 1, 2021",,8:00p,,New Orleans Pelicans,,,Sacramento Kings,N
+316,,,"Mon, Feb 1, 2021",,8:00p,,Oklahoma City Thunder,,,Houston Rockets,N
+317,,,"Mon, Feb 1, 2021",,8:30p,,Dallas Mavericks,,,Phoenix Suns,N
+318,,,"Mon, Feb 1, 2021",,8:30p,,San Antonio Spurs,,,Memphis Grizzlies,N
+319,,,"Mon, Feb 1, 2021",,9:00p,,Denver Nuggets,,,Detroit Pistons,N
+320,,,"Tue, Feb 2, 2021",,7:00p,,Indiana Pacers,,,Memphis Grizzlies,N
+321,,,"Tue, Feb 2, 2021",,7:00p,,Orlando Magic,,,Toronto Raptors,N
+322,,,"Tue, Feb 2, 2021",,7:30p,,Brooklyn Nets,,,Los Angeles Clippers,N
+323,,,"Tue, Feb 2, 2021",,9:00p,,Utah Jazz,,,Detroit Pistons,N
+324,,,"Tue, Feb 2, 2021",,10:00p,,Golden State Warriors,,,Boston Celtics,N
+325,,,"Wed, Feb 3, 2021",,7:00p,,Charlotte Hornets,,,Philadelphia 76ers,N
+326,,,"Wed, Feb 3, 2021",,7:00p,,Cleveland Cavaliers,,,Los Angeles Clippers,N
+327,,,"Wed, Feb 3, 2021",,7:00p,,Milwaukee Bucks,,,Indiana Pacers,N
+328,,,"Wed, Feb 3, 2021",,7:30p,,Atlanta Hawks,,,Dallas Mavericks,N
+329,,,"Wed, Feb 3, 2021",,7:30p,,Miami Heat,,,Washington Wizards,N
+330,,,"Wed, Feb 3, 2021",,8:00p,,Chicago Bulls,,,New York Knicks,N
+331,,,"Wed, Feb 3, 2021",,8:00p,,Oklahoma City Thunder,,,Houston Rockets,N
+332,,,"Wed, Feb 3, 2021",,8:30p,,San Antonio Spurs,,,Minnesota Timberwolves,N
+333,,,"Wed, Feb 3, 2021",,9:30p,,New Orleans Pelicans,,,Phoenix Suns,N
+334,,,"Wed, Feb 3, 2021",,10:00p,,Sacramento Kings,,,Boston Celtics,N
+335,,,"Thu, Feb 4, 2021",,7:00p,,Philadelphia 76ers,,,Portland Trail Blazers,N
+336,,,"Thu, Feb 4, 2021",,7:30p,,Atlanta Hawks,,,Utah Jazz,N
+337,,,"Thu, Feb 4, 2021",,7:30p,,Dallas Mavericks,,,Golden State Warriors,N
+338,,,"Thu, Feb 4, 2021",,8:00p,,Memphis Grizzlies,,,Houston Rockets,N
+339,,,"Thu, Feb 4, 2021",,10:00p,,Los Angeles Lakers,,,Denver Nuggets,N
+340,,,"Fri, Feb 5, 2021",,7:00p,,Charlotte Hornets,,,Utah Jazz,N
+341,,,"Fri, Feb 5, 2021",,7:00p,,Indiana Pacers,,,New Orleans Pelicans,N
+342,,,"Fri, Feb 5, 2021",,7:00p,,Orlando Magic,,,Chicago Bulls,N
+343,,,"Fri, Feb 5, 2021",,7:30p,,Brooklyn Nets,,,Toronto Raptors,N
+344,,,"Fri, Feb 5, 2021",,7:30p,,Cleveland Cavaliers,,,Milwaukee Bucks,N
+345,,,"Fri, Feb 5, 2021",,8:00p,,Miami Heat,,,Washington Wizards,N
+346,,,"Fri, Feb 5, 2021",,8:00p,,Oklahoma City Thunder,,,Minnesota Timberwolves,N
+347,,,"Fri, Feb 5, 2021",,9:00p,,Phoenix Suns,,,Detroit Pistons,N
+348,,,"Fri, Feb 5, 2021",,10:00p,,Los Angeles Clippers,,,Boston Celtics,N
+349,,,"Sat, Feb 6, 2021",,1:00p,,New York Knicks,,,Portland Trail Blazers,N
+350,,,"Sat, Feb 6, 2021",,5:00p,,Sacramento Kings,,,Denver Nuggets,N
+351,,,"Sat, Feb 6, 2021",,7:00p,,New Orleans Pelicans,,,Memphis Grizzlies,N
+352,,,"Sat, Feb 6, 2021",,7:00p,,Orlando Magic,,,Chicago Bulls,N
+353,,,"Sat, Feb 6, 2021",,7:00p,,Philadelphia 76ers,,,Brooklyn Nets,N
+354,,,"Sat, Feb 6, 2021",,7:30p,,Atlanta Hawks,,,Toronto Raptors,N
+355,,,"Sat, Feb 6, 2021",,8:00p,,Cleveland Cavaliers,,,Milwaukee Bucks,N
+356,,,"Sat, Feb 6, 2021",,8:00p,,Houston Rockets,,,San Antonio Spurs,N
+357,,,"Sat, Feb 6, 2021",,8:00p,,Oklahoma City Thunder,,,Minnesota Timberwolves,N
+358,,,"Sat, Feb 6, 2021",,8:30p,,Dallas Mavericks,,,Golden State Warriors,N
+359,,,"Sat, Feb 6, 2021",,10:00p,,Los Angeles Lakers,,,Detroit Pistons,N
+360,,,"Sun, Feb 7, 2021",,1:00p,,Charlotte Hornets,,,Portland Trail Blazers,N
+361,,,"Sun, Feb 7, 2021",,1:00p,,Indiana Pacers,,,Utah Jazz,N
+362,,,"Sun, Feb 7, 2021",,1:00p,,New York Knicks,,,Miami Heat,N
+363,,,"Sun, Feb 7, 2021",,2:00p,,Phoenix Suns,,,Boston Celtics,N
+364,,,"Sun, Feb 7, 2021",,3:00p,,Los Angeles Clippers,,,Sacramento Kings,N
+365,,,"Mon, Feb 8, 2021",,7:00p,,Charlotte Hornets,,,Houston Rockets,N
+366,,,"Mon, Feb 8, 2021",,8:00p,,Chicago Bulls,,,Washington Wizards,N
+367,,,"Mon, Feb 8, 2021",,8:00p,,Memphis Grizzlies,,,Toronto Raptors,N
+368,,,"Mon, Feb 8, 2021",,8:30p,,Dallas Mavericks,,,Minnesota Timberwolves,N
+369,,,"Mon, Feb 8, 2021",,8:30p,,San Antonio Spurs,,,Golden State Warriors,N
+370,,,"Mon, Feb 8, 2021",,9:00p,,Phoenix Suns,,,Cleveland Cavaliers,N
+371,,,"Mon, Feb 8, 2021",,9:30p,,Denver Nuggets,,,Milwaukee Bucks,N
+372,,,"Mon, Feb 8, 2021",,10:00p,,Los Angeles Lakers,,,Oklahoma City Thunder,N
+373,,,"Tue, Feb 9, 2021",,7:00p,,Detroit Pistons,,,Brooklyn Nets,N
+374,,,"Tue, Feb 9, 2021",,7:30p,,Miami Heat,,,New York Knicks,N
+375,,,"Tue, Feb 9, 2021",,7:30p,,New Orleans Pelicans,,,Houston Rockets,N
+376,,,"Tue, Feb 9, 2021",,8:30p,,San Antonio Spurs,,,Golden State Warriors,N
+377,,,"Tue, Feb 9, 2021",,10:00p,,Portland Trail Blazers,,,Orlando Magic,N
+378,,,"Tue, Feb 9, 2021",,10:00p,,Sacramento Kings,,,Philadelphia 76ers,N
+379,,,"Tue, Feb 9, 2021",,10:00p,,Utah Jazz,,,Boston Celtics,N
+380,,,"Wed, Feb 10, 2021",,7:00p,,Washington Wizards,,,Toronto Raptors,N
+381,,,"Wed, Feb 10, 2021",,7:30p,,Brooklyn Nets,,,Indiana Pacers,N
+382,,,"Wed, Feb 10, 2021",,7:30p,,Dallas Mavericks,,,Atlanta Hawks,N
+383,,,"Wed, Feb 10, 2021",,8:00p,,Chicago Bulls,,,New Orleans Pelicans,N
+384,,,"Wed, Feb 10, 2021",,8:00p,,Memphis Grizzlies,,,Charlotte Hornets,N
+385,,,"Wed, Feb 10, 2021",,8:00p,,Minnesota Timberwolves,,,Los Angeles Clippers,N
+386,,,"Wed, Feb 10, 2021",,9:00p,,Denver Nuggets,,,Cleveland Cavaliers,N
+387,,,"Wed, Feb 10, 2021",,10:00p,,Los Angeles Lakers,,,Oklahoma City Thunder,N
+388,,,"Wed, Feb 10, 2021",,10:00p,,Phoenix Suns,,,Milwaukee Bucks,N
+389,,,"Thu, Feb 11, 2021",,7:00p,,Detroit Pistons,,,Indiana Pacers,N
+390,,,"Thu, Feb 11, 2021",,7:30p,,Houston Rockets,,,Miami Heat,N
+391,,,"Thu, Feb 11, 2021",,10:00p,,Golden State Warriors,,,Orlando Magic,N
+392,,,"Thu, Feb 11, 2021",,10:00p,,Portland Trail Blazers,,,Philadelphia 76ers,N
+393,,,"Fri, Feb 12, 2021",,7:00p,,Charlotte Hornets,,,Minnesota Timberwolves,N
+394,,,"Fri, Feb 12, 2021",,7:00p,,Washington Wizards,,,New York Knicks,N
+395,,,"Fri, Feb 12, 2021",,7:30p,,Atlanta Hawks,,,San Antonio Spurs,N
+396,,,"Fri, Feb 12, 2021",,7:30p,,Boston Celtics,,,Toronto Raptors,N
+397,,,"Fri, Feb 12, 2021",,7:30p,,Dallas Mavericks,,,New Orleans Pelicans,N
+398,,,"Fri, Feb 12, 2021",,8:00p,,Chicago Bulls,,,Los Angeles Clippers,N
+399,,,"Fri, Feb 12, 2021",,9:00p,,Denver Nuggets,,,Oklahoma City Thunder,N
+400,,,"Fri, Feb 12, 2021",,9:00p,,Utah Jazz,,,Milwaukee Bucks,N
+401,,,"Fri, Feb 12, 2021",,10:00p,,Los Angeles Lakers,,,Memphis Grizzlies,N
+402,,,"Fri, Feb 12, 2021",,10:00p,,Portland Trail Blazers,,,Cleveland Cavaliers,N
+403,,,"Fri, Feb 12, 2021",,10:00p,,Sacramento Kings,,,Orlando Magic,N
+404,,,"Sat, Feb 13, 2021",,5:00p,,Phoenix Suns,,,Philadelphia 76ers,N
+405,,,"Sat, Feb 13, 2021",,7:30p,,Atlanta Hawks,,,Indiana Pacers,N
+406,,,"Sat, Feb 13, 2021",,7:30p,,New York Knicks,,,Houston Rockets,N
+407,,,"Sat, Feb 13, 2021",,8:30p,,Golden State Warriors,,,Brooklyn Nets,N
+408,,,"Sat, Feb 13, 2021",,9:00p,,Utah Jazz,,,Miami Heat,N
+409,,,"Sun, Feb 14, 2021",,3:30p,,Dallas Mavericks,,,Portland Trail Blazers,N
+410,,,"Sun, Feb 14, 2021",,6:00p,,Boston Celtics,,,Detroit Pistons,N
+411,,,"Sun, Feb 14, 2021",,6:00p,,Toronto Raptors,,,Minnesota Timberwolves,N
+412,,,"Sun, Feb 14, 2021",,7:00p,,Charlotte Hornets,,,San Antonio Spurs,N
+413,,,"Sun, Feb 14, 2021",,7:00p,,Oklahoma City Thunder,,,Milwaukee Bucks,N
+414,,,"Sun, Feb 14, 2021",,7:30p,,Denver Nuggets,,,Los Angeles Lakers,N
+415,,,"Sun, Feb 14, 2021",,8:00p,,Phoenix Suns,,,Orlando Magic,N
+416,,,"Sun, Feb 14, 2021",,9:00p,,Sacramento Kings,,,Memphis Grizzlies,N
+417,,,"Sun, Feb 14, 2021",,10:00p,,Los Angeles Clippers,,,Cleveland Cavaliers,N
+418,,,"Mon, Feb 15, 2021",,7:00p,,Indiana Pacers,,,Chicago Bulls,N
+419,,,"Mon, Feb 15, 2021",,7:00p,,Washington Wizards,,,Houston Rockets,N
+420,,,"Mon, Feb 15, 2021",,7:30p,,New York Knicks,,,Atlanta Hawks,N
+421,,,"Mon, Feb 15, 2021",,9:00p,,Utah Jazz,,,Philadelphia 76ers,N
+422,,,"Mon, Feb 15, 2021",,10:00p,,Golden State Warriors,,,Cleveland Cavaliers,N
+423,,,"Mon, Feb 15, 2021",,10:00p,,Los Angeles Clippers,,,Miami Heat,N
+424,,,"Mon, Feb 15, 2021",,10:00p,,Sacramento Kings,,,Brooklyn Nets,N
+425,,,"Tue, Feb 16, 2021",,7:00p,,Boston Celtics,,,Denver Nuggets,N
+426,,,"Tue, Feb 16, 2021",,7:00p,,Detroit Pistons,,,San Antonio Spurs,N
+427,,,"Tue, Feb 16, 2021",,7:30p,,Memphis Grizzlies,,,New Orleans Pelicans,N
+428,,,"Tue, Feb 16, 2021",,8:00p,,Milwaukee Bucks,,,Toronto Raptors,N
+429,,,"Tue, Feb 16, 2021",,8:00p,,Minnesota Timberwolves,,,Los Angeles Lakers,N
+430,,,"Tue, Feb 16, 2021",,8:00p,,Oklahoma City Thunder,,,Portland Trail Blazers,N
+431,,,"Tue, Feb 16, 2021",,10:00p,,Phoenix Suns,,,Brooklyn Nets,N
+432,,,"Wed, Feb 17, 2021",,7:00p,,Charlotte Hornets,,,Chicago Bulls,N
+433,,,"Wed, Feb 17, 2021",,7:00p,,Cleveland Cavaliers,,,San Antonio Spurs,N
+434,,,"Wed, Feb 17, 2021",,7:00p,,Orlando Magic,,,New York Knicks,N
+435,,,"Wed, Feb 17, 2021",,7:00p,,Washington Wizards,,,Denver Nuggets,N
+436,,,"Wed, Feb 17, 2021",,7:30p,,Boston Celtics,,,Atlanta Hawks,N
+437,,,"Wed, Feb 17, 2021",,7:30p,,Philadelphia 76ers,,,Houston Rockets,N
+438,,,"Wed, Feb 17, 2021",,8:00p,,Minnesota Timberwolves,,,Indiana Pacers,N
+439,,,"Wed, Feb 17, 2021",,8:00p,,New Orleans Pelicans,,,Portland Trail Blazers,N
+440,,,"Wed, Feb 17, 2021",,8:30p,,Dallas Mavericks,,,Detroit Pistons,N
+441,,,"Wed, Feb 17, 2021",,10:00p,,Golden State Warriors,,,Miami Heat,N
+442,,,"Wed, Feb 17, 2021",,10:00p,,Los Angeles Clippers,,,Utah Jazz,N
+443,,,"Thu, Feb 18, 2021",,7:30p,,Milwaukee Bucks,,,Toronto Raptors,N
+444,,,"Thu, Feb 18, 2021",,10:00p,,Los Angeles Lakers,,,Brooklyn Nets,N
+445,,,"Thu, Feb 18, 2021",,10:00p,,Sacramento Kings,,,Miami Heat,N
+446,,,"Fri, Feb 19, 2021",,7:00p,,Charlotte Hornets,,,Denver Nuggets,N
+447,,,"Fri, Feb 19, 2021",,7:00p,,Orlando Magic,,,Golden State Warriors,N
+448,,,"Fri, Feb 19, 2021",,7:00p,,Philadelphia 76ers,,,Chicago Bulls,N
+449,,,"Fri, Feb 19, 2021",,7:30p,,Boston Celtics,,,Atlanta Hawks,N
+450,,,"Fri, Feb 19, 2021",,8:00p,,Memphis Grizzlies,,,Detroit Pistons,N
+451,,,"Fri, Feb 19, 2021",,8:00p,,Milwaukee Bucks,,,Oklahoma City Thunder,N
+452,,,"Fri, Feb 19, 2021",,8:00p,,Minnesota Timberwolves,,,Toronto Raptors,N
+453,,,"Fri, Feb 19, 2021",,8:00p,,New Orleans Pelicans,,,Phoenix Suns,N
+454,,,"Fri, Feb 19, 2021",,9:30p,,Houston Rockets,,,Dallas Mavericks,N
+455,,,"Fri, Feb 19, 2021",,10:00p,,Los Angeles Clippers,,,Utah Jazz,N
+456,,,"Sat, Feb 20, 2021",,5:00p,,New York Knicks,,,San Antonio Spurs,N
+457,,,"Sat, Feb 20, 2021",,7:00p,,Charlotte Hornets,,,Golden State Warriors,N
+458,,,"Sat, Feb 20, 2021",,8:00p,,Chicago Bulls,,,Sacramento Kings,N
+459,,,"Sat, Feb 20, 2021",,8:00p,,Houston Rockets,,,Indiana Pacers,N
+460,,,"Sat, Feb 20, 2021",,8:00p,,Memphis Grizzlies,,,Phoenix Suns,N
+461,,,"Sat, Feb 20, 2021",,8:30p,,Los Angeles Lakers,,,Miami Heat,N
+462,,,"Sat, Feb 20, 2021",,10:00p,,Portland Trail Blazers,,,Washington Wizards,N
+463,,,"Sun, Feb 21, 2021",,3:30p,,New Orleans Pelicans,,,Boston Celtics,N
+464,,,"Sun, Feb 21, 2021",,6:00p,,Cleveland Cavaliers,,,Oklahoma City Thunder,N
+465,,,"Sun, Feb 21, 2021",,6:00p,,Orlando Magic,,,Detroit Pistons,N
+466,,,"Sun, Feb 21, 2021",,6:00p,,Toronto Raptors,,,Philadelphia 76ers,N
+467,,,"Sun, Feb 21, 2021",,7:00p,,New York Knicks,,,Minnesota Timberwolves,N
+468,,,"Sun, Feb 21, 2021",,7:30p,,Atlanta Hawks,,,Denver Nuggets,N
+469,,,"Sun, Feb 21, 2021",,8:00p,,Los Angeles Clippers,,,Brooklyn Nets,N
+470,,,"Sun, Feb 21, 2021",,8:00p,,Milwaukee Bucks,,,Sacramento Kings,N
+471,,,"Mon, Feb 22, 2021",,7:00p,,Indiana Pacers,,,San Antonio Spurs,N
+472,,,"Mon, Feb 22, 2021",,8:00p,,Houston Rockets,,,Chicago Bulls,N
+473,,,"Mon, Feb 22, 2021",,8:00p,,Oklahoma City Thunder,,,Miami Heat,N
+474,,,"Mon, Feb 22, 2021",,8:30p,,Dallas Mavericks,,,Memphis Grizzlies,N
+475,,,"Mon, Feb 22, 2021",,9:00p,,Phoenix Suns,,,Portland Trail Blazers,N
+476,,,"Mon, Feb 22, 2021",,9:00p,,Utah Jazz,,,Charlotte Hornets,N
+477,,,"Mon, Feb 22, 2021",,10:00p,,Los Angeles Lakers,,,Washington Wizards,N
+478,,,"Tue, Feb 23, 2021",,7:00p,,Cleveland Cavaliers,,,Atlanta Hawks,N
+479,,,"Tue, Feb 23, 2021",,7:00p,,Orlando Magic,,,Detroit Pistons,N
+480,,,"Tue, Feb 23, 2021",,7:30p,,Brooklyn Nets,,,Sacramento Kings,N
+481,,,"Tue, Feb 23, 2021",,7:30p,,Dallas Mavericks,,,Boston Celtics,N
+482,,,"Tue, Feb 23, 2021",,7:30p,,New York Knicks,,,Golden State Warriors,N
+483,,,"Tue, Feb 23, 2021",,7:30p,,Toronto Raptors,,,Philadelphia 76ers,N
+484,,,"Tue, Feb 23, 2021",,8:00p,,Milwaukee Bucks,,,Minnesota Timberwolves,N
+485,,,"Tue, Feb 23, 2021",,10:00p,,Denver Nuggets,,,Portland Trail Blazers,N
+486,,,"Tue, Feb 23, 2021",,10:00p,,Los Angeles Clippers,,,Washington Wizards,N
+487,,,"Wed, Feb 24, 2021",,7:00p,,Indiana Pacers,,,Golden State Warriors,N
+488,,,"Wed, Feb 24, 2021",,7:30p,,Atlanta Hawks,,,Boston Celtics,N
+489,,,"Wed, Feb 24, 2021",,7:30p,,Cleveland Cavaliers,,,Houston Rockets,N
+490,,,"Wed, Feb 24, 2021",,7:30p,,Miami Heat,,,Toronto Raptors,N
+491,,,"Wed, Feb 24, 2021",,8:00p,,Chicago Bulls,,,Minnesota Timberwolves,N
+492,,,"Wed, Feb 24, 2021",,8:00p,,New Orleans Pelicans,,,Detroit Pistons,N
+493,,,"Wed, Feb 24, 2021",,8:00p,,Oklahoma City Thunder,,,San Antonio Spurs,N
+494,,,"Wed, Feb 24, 2021",,9:00p,,Phoenix Suns,,,Charlotte Hornets,N
+495,,,"Wed, Feb 24, 2021",,10:00p,,Utah Jazz,,,Los Angeles Lakers,N
+496,,,"Thu, Feb 25, 2021",,7:00p,,Philadelphia 76ers,,,Dallas Mavericks,N
+497,,,"Thu, Feb 25, 2021",,7:30p,,Brooklyn Nets,,,Orlando Magic,N
+498,,,"Thu, Feb 25, 2021",,7:30p,,New York Knicks,,,Sacramento Kings,N
+499,,,"Thu, Feb 25, 2021",,8:00p,,Memphis Grizzlies,,,Los Angeles Clippers,N
+500,,,"Thu, Feb 25, 2021",,9:00p,,Denver Nuggets,,,Washington Wizards,N
+501,,,"Thu, Feb 25, 2021",,9:30p,,Milwaukee Bucks,,,New Orleans Pelicans,N
+502,,,"Fri, Feb 26, 2021",,7:00p,,Detroit Pistons,,,Sacramento Kings,N
+503,,,"Fri, Feb 26, 2021",,7:30p,,Boston Celtics,,,Indiana Pacers,N
+504,,,"Fri, Feb 26, 2021",,7:30p,,Toronto Raptors,,,Houston Rockets,N
+505,,,"Fri, Feb 26, 2021",,8:00p,,Chicago Bulls,,,Phoenix Suns,N
+506,,,"Fri, Feb 26, 2021",,8:00p,,Memphis Grizzlies,,,Los Angeles Clippers,N
+507,,,"Fri, Feb 26, 2021",,8:00p,,Miami Heat,,,Utah Jazz,N
+508,,,"Fri, Feb 26, 2021",,8:00p,,Oklahoma City Thunder,,,Atlanta Hawks,N
+509,,,"Fri, Feb 26, 2021",,10:00p,,Golden State Warriors,,,Charlotte Hornets,N
+510,,,"Fri, Feb 26, 2021",,10:00p,,Los Angeles Lakers,,,Portland Trail Blazers,N
+511,,,"Sat, Feb 27, 2021",,3:00p,,Philadelphia 76ers,,,Cleveland Cavaliers,N
+512,,,"Sat, Feb 27, 2021",,6:00p,,San Antonio Spurs,,,New Orleans Pelicans,N
+513,,,"Sat, Feb 27, 2021",,7:00p,,New York Knicks,,,Indiana Pacers,N
+514,,,"Sat, Feb 27, 2021",,7:00p,,Orlando Magic,,,Utah Jazz,N
+515,,,"Sat, Feb 27, 2021",,7:00p,,Washington Wizards,,,Minnesota Timberwolves,N
+516,,,"Sat, Feb 27, 2021",,8:00p,,Oklahoma City Thunder,,,Denver Nuggets,N
+517,,,"Sat, Feb 27, 2021",,8:30p,,Brooklyn Nets,,,Dallas Mavericks,N
+518,,,"Sun, Feb 28, 2021",,3:30p,,Milwaukee Bucks,,,Los Angeles Clippers,N
+519,,,"Sun, Feb 28, 2021",,6:00p,,Detroit Pistons,,,New York Knicks,N
+520,,,"Sun, Feb 28, 2021",,6:00p,,Miami Heat,,,Atlanta Hawks,N
+521,,,"Sun, Feb 28, 2021",,6:00p,,Toronto Raptors,,,Chicago Bulls,N
+522,,,"Sun, Feb 28, 2021",,7:00p,,Boston Celtics,,,Washington Wizards,N
+523,,,"Sun, Feb 28, 2021",,7:00p,,Houston Rockets,,,Memphis Grizzlies,N
+524,,,"Sun, Feb 28, 2021",,8:00p,,Los Angeles Lakers,,,Golden State Warriors,N
+525,,,"Sun, Feb 28, 2021",,8:00p,,Minnesota Timberwolves,,,Phoenix Suns,N
+526,,,"Sun, Feb 28, 2021",,9:00p,,Sacramento Kings,,,Charlotte Hornets,N
+527,,,"Mon, Mar 1, 2021",,7:00p,,Orlando Magic,,,Dallas Mavericks,N
+528,,,"Mon, Mar 1, 2021",,7:00p,,Philadelphia 76ers,,,Indiana Pacers,N
+529,,,"Mon, Mar 1, 2021",,8:00p,,Houston Rockets,,,Cleveland Cavaliers,N
+530,,,"Mon, Mar 1, 2021",,8:00p,,New Orleans Pelicans,,,Utah Jazz,N
+531,,,"Mon, Mar 1, 2021",,8:00p,,Chicago Bulls,,,Denver Nuggets,N
+532,,,"Mon, Mar 1, 2021",,8:30p,,San Antonio Spurs,,,Brooklyn Nets,N
+533,,,"Mon, Mar 1, 2021",,10:30p,,Portland Trail Blazers,,,Charlotte Hornets,N
+534,,,"Tue, Mar 2, 2021",,7:00p,,Washington Wizards,,,Memphis Grizzlies,N
+535,,,"Tue, Mar 2, 2021",,7:30p,,Boston Celtics,,,Los Angeles Clippers,N
+536,,,"Tue, Mar 2, 2021",,7:30p,,Miami Heat,,,Atlanta Hawks,N
+537,,,"Tue, Mar 2, 2021",,7:30p,,Toronto Raptors,,,Detroit Pistons,N
+538,,,"Tue, Mar 2, 2021",,8:00p,,Milwaukee Bucks,,,Denver Nuggets,N
+539,,,"Tue, Mar 2, 2021",,8:30p,,San Antonio Spurs,,,New York Knicks,N
+540,,,"Tue, Mar 2, 2021",,10:00p,,Los Angeles Lakers,,,Phoenix Suns,N
+541,,,"Wed, Mar 3, 2021",,7:00p,,Cleveland Cavaliers,,,Indiana Pacers,N
+542,,,"Wed, Mar 3, 2021",,7:00p,,Orlando Magic,,,Atlanta Hawks,N
+543,,,"Wed, Mar 3, 2021",,7:00p,,Philadelphia 76ers,,,Utah Jazz,N
+544,,,"Wed, Mar 3, 2021",,7:30p,,Houston Rockets,,,Brooklyn Nets,N
+545,,,"Wed, Mar 3, 2021",,8:00p,,Minnesota Timberwolves,,,Charlotte Hornets,N
+546,,,"Wed, Mar 3, 2021",,8:00p,,New Orleans Pelicans,,,Chicago Bulls,N
+547,,,"Wed, Mar 3, 2021",,8:30p,,Dallas Mavericks,,,Oklahoma City Thunder,N
+548,,,"Wed, Mar 3, 2021",,10:00p,,Portland Trail Blazers,,,Golden State Warriors,N
+549,,,"Wed, Mar 3, 2021",,10:00p,,Sacramento Kings,,,Los Angeles Lakers,N
+550,,,"Thu, Mar 4, 2021",,7:00p,,Boston Celtics,,,Toronto Raptors,N
+551,,,"Thu, Mar 4, 2021",,7:00p,,Indiana Pacers,,,Denver Nuggets,N
+552,,,"Thu, Mar 4, 2021",,7:00p,,Washington Wizards,,,Los Angeles Clippers,N
+553,,,"Thu, Mar 4, 2021",,8:00p,,Memphis Grizzlies,,,Milwaukee Bucks,N
+554,,,"Thu, Mar 4, 2021",,8:30p,,San Antonio Spurs,,,Oklahoma City Thunder,N
+555,,,"Thu, Mar 4, 2021",,9:30p,,New Orleans Pelicans,,,Miami Heat,N
+556,,,"Thu, Mar 4, 2021",,10:00p,,Portland Trail Blazers,,,Sacramento Kings,N

@@ -1,0 +1,1313 @@
+,attendance,box_score_text,game_date,game_remarks,game_start_time,home_pts,home_team_name,overtimes,visitor_pts,visitor_team_name,playoffs
+0,"18,624",Box Score,"Tue, Oct 16, 2018",,8:00p,105,Boston Celtics,,87,Philadelphia 76ers,N
+1,"19,596",Box Score,"Tue, Oct 16, 2018",,10:30p,108,Golden State Warriors,,100,Oklahoma City Thunder,N
+2,"17,889",Box Score,"Wed, Oct 17, 2018",,7:00p,112,Charlotte Hornets,,113,Milwaukee Bucks,N
+3,"20,332",Box Score,"Wed, Oct 17, 2018",,7:00p,103,Detroit Pistons,,100,Brooklyn Nets,N
+4,"17,923",Box Score,"Wed, Oct 17, 2018",,7:00p,111,Indiana Pacers,,83,Memphis Grizzlies,N
+5,"19,191",Box Score,"Wed, Oct 17, 2018",,7:00p,104,Orlando Magic,,101,Miami Heat,N
+6,"18,249",Box Score,"Wed, Oct 17, 2018",,7:30p,126,New York Knicks,,107,Atlanta Hawks,N
+7,"19,915",Box Score,"Wed, Oct 17, 2018",,7:30p,116,Toronto Raptors,,104,Cleveland Cavaliers,N
+8,"18,055",Box Score,"Wed, Oct 17, 2018",,8:00p,112,Houston Rockets,,131,New Orleans Pelicans,N
+9,"18,354",Box Score,"Wed, Oct 17, 2018",,8:30p,112,San Antonio Spurs,,108,Minnesota Timberwolves,N
+10,"17,583",Box Score,"Wed, Oct 17, 2018",,10:00p,117,Sacramento Kings,,123,Utah Jazz,N
+11,"19,068",Box Score,"Wed, Oct 17, 2018",,10:30p,98,Los Angeles Clippers,,107,Denver Nuggets,N
+12,"18,055",Box Score,"Wed, Oct 17, 2018",,10:30p,121,Phoenix Suns,,100,Dallas Mavericks,N
+13,"20,302",Box Score,"Thu, Oct 18, 2018",,8:00p,127,Philadelphia 76ers,,108,Chicago Bulls,N
+14,"20,409",Box Score,"Thu, Oct 18, 2018",,8:00p,112,Washington Wizards,,113,Miami Heat,N
+15,"19,996",Box Score,"Thu, Oct 18, 2018",,10:30p,128,Portland Trail Blazers,,119,Los Angeles Lakers,N
+16,"17,668",Box Score,"Fri, Oct 19, 2018",,7:00p,88,Orlando Magic,,120,Charlotte Hornets,N
+17,"17,732",Box Score,"Fri, Oct 19, 2018",,7:30p,107,Brooklyn Nets,,105,New York Knicks,N
+18,"17,019",Box Score,"Fri, Oct 19, 2018",,8:00p,131,Memphis Grizzlies,,117,Atlanta Hawks,N
+19,"18,978",Box Score,"Fri, Oct 19, 2018",,8:00p,131,Minnesota Timberwolves,,123,Cleveland Cavaliers,N
+20,"18,337",Box Score,"Fri, Oct 19, 2018",,8:00p,149,New Orleans Pelicans,,129,Sacramento Kings,N
+21,"19,800",Box Score,"Fri, Oct 19, 2018",,8:00p,113,Toronto Raptors,,101,Boston Celtics,N
+22,"17,341",Box Score,"Fri, Oct 19, 2018",,8:30p,118,Milwaukee Bucks,,101,Indiana Pacers,N
+23,"14,816",Box Score,"Fri, Oct 19, 2018",,10:30p,108,Los Angeles Clippers,,92,Oklahoma City Thunder,N
+24,"18,306",Box Score,"Fri, Oct 19, 2018",,10:30p,123,Utah Jazz,,124,Golden State Warriors,N
+25,"17,007",Box Score,"Sat, Oct 20, 2018",,7:00p,132,Indiana Pacers,,112,Brooklyn Nets,N
+26,"16,185",Box Score,"Sat, Oct 20, 2018",,7:00p,113,Washington Wizards,,117,Toronto Raptors,N
+27,"19,427",Box Score,"Sat, Oct 20, 2018",,7:30p,101,New York Knicks,,103,Boston Celtics,N
+28,"20,300",Box Score,"Sat, Oct 20, 2018",,7:30p,116,Philadelphia 76ers,,115,Orlando Magic,N
+29,"21,289",Box Score,"Sat, Oct 20, 2018",,8:00p,116,Chicago Bulls,,118,Detroit Pistons,N
+30,"19,600",Box Score,"Sat, Oct 20, 2018",,8:00p,112,Miami Heat,,113,Charlotte Hornets,N
+31,"20,205",Box Score,"Sat, Oct 20, 2018",,8:30p,140,Dallas Mavericks,,136,Minnesota Timberwolves,N
+32,"19,592",Box Score,"Sat, Oct 20, 2018",,9:00p,119,Denver Nuggets,,91,Phoenix Suns,N
+33,"19,461",Box Score,"Sat, Oct 20, 2018",,10:00p,121,Portland Trail Blazers,,108,San Antonio Spurs,N
+34,"18,997",Box Score,"Sat, Oct 20, 2018",,10:30p,115,Los Angeles Lakers,,124,Houston Rockets,N
+35,"19,432",Box Score,"Sun, Oct 21, 2018",,6:00p,111,Cleveland Cavaliers,,133,Atlanta Hawks,N
+36,"18,203",Box Score,"Sun, Oct 21, 2018",,7:00p,120,Oklahoma City Thunder,,131,Sacramento Kings,N
+37,"19,520",Box Score,"Sun, Oct 21, 2018",,8:00p,100,Denver Nuggets,,98,Golden State Warriors,N
+38,"16,149",Box Score,"Sun, Oct 21, 2018",,9:00p,115,Los Angeles Clippers,,112,Houston Rockets,N
+39,"18,624",Box Score,"Mon, Oct 22, 2018",,7:30p,90,Boston Celtics,,93,Orlando Magic,N
+40,"19,800",Box Score,"Mon, Oct 22, 2018",,7:30p,127,Toronto Raptors,,106,Charlotte Hornets,N
+41,"16,228",Box Score,"Mon, Oct 22, 2018",,8:00p,124,Milwaukee Bucks,,113,New York Knicks,N
+42,"10,371",Box Score,"Mon, Oct 22, 2018",,8:00p,101,Minnesota Timberwolves,,91,Indiana Pacers,N
+43,"19,291",Box Score,"Mon, Oct 22, 2018",,8:30p,115,Dallas Mavericks,,109,Chicago Bulls,N
+44,"18,306",Box Score,"Mon, Oct 22, 2018",,9:00p,84,Utah Jazz,,92,Memphis Grizzlies,N
+45,"19,187",Box Score,"Mon, Oct 22, 2018",,10:00p,124,Portland Trail Blazers,OT,125,Washington Wizards,N
+46,"19,596",Box Score,"Mon, Oct 22, 2018",,10:30p,123,Golden State Warriors,,103,Phoenix Suns,N
+47,"18,997",Box Score,"Mon, Oct 22, 2018",,10:30p,142,Los Angeles Lakers,OT,143,San Antonio Spurs,N
+48,"14,418",Box Score,"Tue, Oct 23, 2018",,7:00p,133,Detroit Pistons,OT,132,Philadelphia 76ers,N
+49,"14,625",Box Score,"Tue, Oct 23, 2018",,8:00p,116,New Orleans Pelicans,,109,Los Angeles Clippers,N
+50,"13,214",Box Score,"Tue, Oct 23, 2018",,9:00p,126,Denver Nuggets,,112,Sacramento Kings,N
+51,"16,705",Box Score,"Wed, Oct 24, 2018",,7:00p,111,Atlanta Hawks,,104,Dallas Mavericks,N
+52,"19,432",Box Score,"Wed, Oct 24, 2018",,7:00p,86,Cleveland Cavaliers,,102,Brooklyn Nets,N
+53,"19,600",Box Score,"Wed, Oct 24, 2018",,7:30p,110,Miami Heat,,87,New York Knicks,N
+54,"19,800",Box Score,"Wed, Oct 24, 2018",,7:30p,112,Toronto Raptors,,105,Minnesota Timberwolves,N
+55,"19,170",Box Score,"Wed, Oct 24, 2018",,8:00p,112,Chicago Bulls,,110,Charlotte Hornets,N
+56,"18,055",Box Score,"Wed, Oct 24, 2018",,8:00p,89,Houston Rockets,,100,Utah Jazz,N
+57,"18,354",Box Score,"Wed, Oct 24, 2018",,8:30p,96,San Antonio Spurs,,116,Indiana Pacers,N
+58,"17,341",Box Score,"Wed, Oct 24, 2018",,9:30p,123,Milwaukee Bucks,,108,Philadelphia 76ers,N
+59,"18,055",Box Score,"Wed, Oct 24, 2018",,10:00p,113,Phoenix Suns,,131,Los Angeles Lakers,N
+60,"14,198",Box Score,"Wed, Oct 24, 2018",,10:00p,97,Sacramento Kings,,92,Memphis Grizzlies,N
+61,"19,596",Box Score,"Wed, Oct 24, 2018",,10:30p,144,Golden State Warriors,,122,Washington Wizards,N
+62,"15,896",Box Score,"Thu, Oct 25, 2018",,7:00p,110,Detroit Pistons,,103,Cleveland Cavaliers,N
+63,"15,114",Box Score,"Thu, Oct 25, 2018",,7:00p,114,Orlando Magic,,128,Portland Trail Blazers,N
+64,"18,203",Box Score,"Thu, Oct 25, 2018",,8:00p,95,Oklahoma City Thunder,,101,Boston Celtics,N
+65,"18,997",Box Score,"Thu, Oct 25, 2018",,10:30p,121,Los Angeles Lakers,,114,Denver Nuggets,N
+66,"15,220",Box Score,"Fri, Oct 26, 2018",,7:00p,135,Charlotte Hornets,,106,Chicago Bulls,N
+67,"19,812",Box Score,"Fri, Oct 26, 2018",,7:30p,100,New York Knicks,,128,Golden State Warriors,N
+68,"19,800",Box Score,"Fri, Oct 26, 2018",,7:30p,116,Toronto Raptors,,107,Dallas Mavericks,N
+69,"18,055",Box Score,"Fri, Oct 26, 2018",,8:00p,113,Houston Rockets,,133,Los Angeles Clippers,N
+70,"16,334",Box Score,"Fri, Oct 26, 2018",,8:00p,95,Minnesota Timberwolves,,125,Milwaukee Bucks,N
+71,"15,272",Box Score,"Fri, Oct 26, 2018",,8:00p,117,New Orleans Pelicans,,115,Brooklyn Nets,N
+72,"14,101",Box Score,"Fri, Oct 26, 2018",,10:00p,116,Sacramento Kings,,112,Washington Wizards,N
+73,"18,120",Box Score,"Sat, Oct 27, 2018",,7:00p,89,Detroit Pistons,,109,Boston Celtics,N
+74,"16,373",Box Score,"Sat, Oct 27, 2018",,7:00p,111,New Orleans Pelicans,,132,Utah Jazz,N
+75,"15,549",Box Score,"Sat, Oct 27, 2018",,7:30p,85,Atlanta Hawks,,97,Chicago Bulls,N
+76,"19,432",Box Score,"Sat, Oct 27, 2018",,7:30p,107,Cleveland Cavaliers,,119,Indiana Pacers,N
+77,"20,203",Box Score,"Sat, Oct 27, 2018",,7:30p,105,Philadelphia 76ers,,103,Charlotte Hornets,N
+78,"15,926",Box Score,"Sat, Oct 27, 2018",,8:00p,117,Memphis Grizzlies,,96,Phoenix Suns,N
+79,"19,600",Box Score,"Sat, Oct 27, 2018",,8:00p,120,Miami Heat,,111,Portland Trail Blazers,N
+80,"17,341",Box Score,"Sat, Oct 27, 2018",,8:30p,113,Milwaukee Bucks,,91,Orlando Magic,N
+81,"18,589",Box Score,"Sat, Oct 27, 2018",,8:30p,110,San Antonio Spurs,,106,Los Angeles Lakers,N
+82,"17,732",Box Score,"Sun, Oct 28, 2018",,5:00p,114,Brooklyn Nets,,120,Golden State Warriors,N
+83,"19,571",Box Score,"Sun, Oct 28, 2018",,7:00p,104,Dallas Mavericks,,113,Utah Jazz,N
+84,"18,203",Box Score,"Sun, Oct 28, 2018",,7:00p,117,Oklahoma City Thunder,,110,Phoenix Suns,N
+85,"16,491",Box Score,"Sun, Oct 28, 2018",,9:30p,136,Los Angeles Clippers,,104,Washington Wizards,N
+86,"15,788",Box Score,"Mon, Oct 29, 2018",,7:00p,93,Indiana Pacers,,103,Portland Trail Blazers,N
+87,"20,269",Box Score,"Mon, Oct 29, 2018",,7:00p,113,Philadelphia 76ers,,92,Atlanta Hawks,N
+88,"19,600",Box Score,"Mon, Oct 29, 2018",,7:30p,113,Miami Heat,,123,Sacramento Kings,N
+89,"19,221",Box Score,"Mon, Oct 29, 2018",,7:30p,115,New York Knicks,,96,Brooklyn Nets,N
+90,"21,076",Box Score,"Mon, Oct 29, 2018",,8:00p,124,Chicago Bulls,,149,Golden State Warriors,N
+91,"17,341",Box Score,"Mon, Oct 29, 2018",,8:00p,124,Milwaukee Bucks,,109,Toronto Raptors,N
+92,"18,978",Box Score,"Mon, Oct 29, 2018",,8:00p,124,Minnesota Timberwolves,,120,Los Angeles Lakers,N
+93,"18,354",Box Score,"Mon, Oct 29, 2018",,8:30p,113,San Antonio Spurs,OT,108,Dallas Mavericks,N
+94,"15,217",Box Score,"Mon, Oct 29, 2018",,9:00p,116,Denver Nuggets,,111,New Orleans Pelicans,N
+95,"14,117",Box Score,"Tue, Oct 30, 2018",,7:00p,125,Charlotte Hornets,,113,Miami Heat,N
+96,"19,432",Box Score,"Tue, Oct 30, 2018",,7:00p,136,Cleveland Cavaliers,,114,Atlanta Hawks,N
+97,"15,074",Box Score,"Tue, Oct 30, 2018",,7:00p,99,Orlando Magic,,107,Sacramento Kings,N
+98,"18,624",Box Score,"Tue, Oct 30, 2018",,7:30p,108,Boston Celtics,,105,Detroit Pistons,N
+99,"19,800",Box Score,"Tue, Oct 30, 2018",,7:30p,129,Toronto Raptors,,112,Philadelphia 76ers,N
+100,"18,055",Box Score,"Tue, Oct 30, 2018",,8:00p,85,Houston Rockets,,104,Portland Trail Blazers,N
+101,"14,106",Box Score,"Tue, Oct 30, 2018",,8:00p,107,Memphis Grizzlies,,95,Washington Wizards,N
+102,"18,203",Box Score,"Tue, Oct 30, 2018",,8:00p,128,Oklahoma City Thunder,,110,Los Angeles Clippers,N
+103,"12,862",Box Score,"Wed, Oct 31, 2018",,7:30p,120,Brooklyn Nets,OT,119,Detroit Pistons,N
+104,"19,027",Box Score,"Wed, Oct 31, 2018",,8:00p,107,Chicago Bulls,OT,108,Denver Nuggets,N
+105,"10,079",Box Score,"Wed, Oct 31, 2018",,8:00p,128,Minnesota Timberwolves,,125,Utah Jazz,N
+106,"18,295",Box Score,"Wed, Oct 31, 2018",,8:00p,101,New York Knicks,,107,Indiana Pacers,N
+107,"19,596",Box Score,"Wed, Oct 31, 2018",,10:30p,131,Golden State Warriors,,121,New Orleans Pelicans,N
+108,"18,997",Box Score,"Wed, Oct 31, 2018",,10:30p,114,Los Angeles Lakers,,113,Dallas Mavericks,N
+109,"12,328",Box Score,"Wed, Oct 31, 2018",,10:30p,90,Phoenix Suns,,120,San Antonio Spurs,N
+110,"14,583",Box Score,"Thu, Nov 1, 2018",,7:00p,107,Charlotte Hornets,,111,Oklahoma City Thunder,N
+111,"19,432",Box Score,"Thu, Nov 1, 2018",,7:00p,91,Cleveland Cavaliers,,110,Denver Nuggets,N
+112,"20,246",Box Score,"Thu, Nov 1, 2018",,7:00p,122,Philadelphia 76ers,,113,Los Angeles Clippers,N
+113,"12,095",Box Score,"Thu, Nov 1, 2018",,7:30p,115,Atlanta Hawks,,146,Sacramento Kings,N
+114,"18,624",Box Score,"Thu, Nov 1, 2018",,8:00p,117,Boston Celtics,,113,Milwaukee Bucks,N
+115,"18,921",Box Score,"Thu, Nov 1, 2018",,10:30p,132,Portland Trail Blazers,,119,New Orleans Pelicans,N
+116,"15,953",Box Score,"Fri, Nov 2, 2018",,7:00p,95,Orlando Magic,,120,Los Angeles Clippers,N
+117,"14,013",Box Score,"Fri, Nov 2, 2018",,7:30p,111,Brooklyn Nets,,119,Houston Rockets,N
+118,"19,704",Box Score,"Fri, Nov 2, 2018",,8:00p,105,Chicago Bulls,,107,Indiana Pacers,N
+119,"20,409",Box Score,"Fri, Nov 2, 2018",,8:00p,111,Washington Wizards,,134,Oklahoma City Thunder,N
+120,"20,008",Box Score,"Fri, Nov 2, 2018",,8:30p,106,Dallas Mavericks,,118,New York Knicks,N
+121,"18,306",Box Score,"Fri, Nov 2, 2018",,9:00p,100,Utah Jazz,,110,Memphis Grizzlies,N
+122,"15,843",Box Score,"Fri, Nov 2, 2018",,10:00p,98,Phoenix Suns,,107,Toronto Raptors,N
+123,"19,596",Box Score,"Fri, Nov 2, 2018",,10:30p,116,Golden State Warriors,,99,Minnesota Timberwolves,N
+124,"20,289",Box Score,"Sat, Nov 3, 2018",,1:00p,109,Philadelphia 76ers,,99,Detroit Pistons,N
+125,"16,221",Box Score,"Sat, Nov 3, 2018",,7:00p,126,Charlotte Hornets,,94,Cleveland Cavaliers,N
+126,"17,505",Box Score,"Sat, Nov 3, 2018",,7:00p,102,Indiana Pacers,,101,Boston Celtics,N
+127,"16,303",Box Score,"Sat, Nov 3, 2018",,7:30p,123,Atlanta Hawks,,118,Miami Heat,N
+128,"20,505",Box Score,"Sat, Nov 3, 2018",,8:00p,88,Chicago Bulls,,96,Houston Rockets,N
+129,"18,354",Box Score,"Sat, Nov 3, 2018",,8:30p,109,San Antonio Spurs,,95,New Orleans Pelicans,N
+130,"19,520",Box Score,"Sat, Nov 3, 2018",,9:00p,103,Denver Nuggets,,88,Utah Jazz,N
+131,"19,848",Box Score,"Sat, Nov 3, 2018",,10:00p,110,Portland Trail Blazers,,114,Los Angeles Lakers,N
+132,"17,341",Box Score,"Sun, Nov 4, 2018",,3:30p,144,Milwaukee Bucks,,109,Sacramento Kings,N
+133,"12,826",Box Score,"Sun, Nov 4, 2018",,6:00p,122,Brooklyn Nets,,97,Philadelphia 76ers,N
+134,"16,679",Box Score,"Sun, Nov 4, 2018",,6:00p,108,Washington Wizards,,95,New York Knicks,N
+135,"18,354",Box Score,"Sun, Nov 4, 2018",,7:00p,110,San Antonio Spurs,,117,Orlando Magic,N
+136,"13,074",Box Score,"Sun, Nov 4, 2018",,8:00p,102,Phoenix Suns,,100,Memphis Grizzlies,N
+137,"19,522",Box Score,"Sun, Nov 4, 2018",,9:00p,111,Portland Trail Blazers,,81,Minnesota Timberwolves,N
+138,"18,997",Box Score,"Sun, Nov 4, 2018",,9:30p,107,Los Angeles Lakers,,121,Toronto Raptors,N
+139,"14,148",Box Score,"Mon, Nov 5, 2018",,7:00p,115,Detroit Pistons,OT,120,Miami Heat,N
+140,"14,735",Box Score,"Mon, Nov 5, 2018",,7:00p,94,Indiana Pacers,,98,Houston Rockets,N
+141,"15,009",Box Score,"Mon, Nov 5, 2018",,7:00p,102,Orlando Magic,,100,Cleveland Cavaliers,N
+142,"19,812",Box Score,"Mon, Nov 5, 2018",,7:30p,115,New York Knicks,2OT,116,Chicago Bulls,N
+143,"18,203",Box Score,"Mon, Nov 5, 2018",,8:00p,122,Oklahoma City Thunder,,116,New Orleans Pelicans,N
+144,"19,520",Box Score,"Mon, Nov 5, 2018",,9:00p,115,Denver Nuggets,,107,Boston Celtics,N
+145,"18,306",Box Score,"Mon, Nov 5, 2018",,9:00p,111,Utah Jazz,,124,Toronto Raptors,N
+146,"19,596",Box Score,"Mon, Nov 5, 2018",,10:30p,117,Golden State Warriors,,101,Memphis Grizzlies,N
+147,"16,564",Box Score,"Mon, Nov 5, 2018",,10:30p,120,Los Angeles Clippers,,109,Minnesota Timberwolves,N
+148,"13,955",Box Score,"Tue, Nov 6, 2018",,7:00p,113,Charlotte Hornets,,102,Atlanta Hawks,N
+149,"19,234",Box Score,"Tue, Nov 6, 2018",,8:30p,119,Dallas Mavericks,,100,Washington Wizards,N
+150,"14,205",Box Score,"Tue, Nov 6, 2018",,9:00p,82,Phoenix Suns,,104,Brooklyn Nets,N
+151,"19,512",Box Score,"Tue, Nov 6, 2018",,10:00p,118,Portland Trail Blazers,,103,Milwaukee Bucks,N
+152,"19,432",Box Score,"Wed, Nov 7, 2018",,7:00p,86,Cleveland Cavaliers,,95,Oklahoma City Thunder,N
+153,"16,103",Box Score,"Wed, Nov 7, 2018",,7:00p,96,Orlando Magic,,103,Detroit Pistons,N
+154,"12,412",Box Score,"Wed, Nov 7, 2018",,7:30p,107,Atlanta Hawks,,112,New York Knicks,N
+155,"19,600",Box Score,"Wed, Nov 7, 2018",,7:30p,95,Miami Heat,,88,San Antonio Spurs,N
+156,"16,434",Box Score,"Wed, Nov 7, 2018",,8:00p,94,Indiana Pacers,,100,Philadelphia 76ers,N
+157,"15,832",Box Score,"Wed, Nov 7, 2018",,8:00p,89,Memphis Grizzlies,,87,Denver Nuggets,N
+158,"15,514",Box Score,"Wed, Nov 7, 2018",,8:00p,107,New Orleans Pelicans,,98,Chicago Bulls,N
+159,"18,306",Box Score,"Wed, Nov 7, 2018",,9:00p,117,Utah Jazz,,102,Dallas Mavericks,N
+160,"17,583",Box Score,"Wed, Nov 7, 2018",,10:00p,105,Sacramento Kings,,114,Toronto Raptors,N
+161,"18,997",Box Score,"Wed, Nov 7, 2018",,10:30p,114,Los Angeles Lakers,,110,Minnesota Timberwolves,N
+162,"18,203",Box Score,"Thu, Nov 8, 2018",,8:00p,98,Oklahoma City Thunder,,80,Houston Rockets,N
+163,"17,359",Box Score,"Thu, Nov 8, 2018",,9:00p,109,Phoenix Suns,OT,116,Boston Celtics,N
+164,"19,170",Box Score,"Thu, Nov 8, 2018",,10:00p,116,Portland Trail Blazers,,105,Los Angeles Clippers,N
+165,"19,596",Box Score,"Thu, Nov 8, 2018",,10:30p,111,Golden State Warriors,,134,Milwaukee Bucks,N
+166,"16,562",Box Score,"Fri, Nov 9, 2018",,7:00p,117,Orlando Magic,,108,Washington Wizards,N
+167,"20,424",Box Score,"Fri, Nov 9, 2018",,7:00p,133,Philadelphia 76ers,OT,132,Charlotte Hornets,N
+168,"14,759",Box Score,"Fri, Nov 9, 2018",,7:30p,109,Atlanta Hawks,,124,Detroit Pistons,N
+169,"19,600",Box Score,"Fri, Nov 9, 2018",,8:00p,102,Miami Heat,,110,Indiana Pacers,N
+170,"19,520",Box Score,"Fri, Nov 9, 2018",,9:00p,110,Denver Nuggets,,112,Brooklyn Nets,N
+171,"18,306",Box Score,"Fri, Nov 9, 2018",,9:30p,123,Utah Jazz,,115,Boston Celtics,N
+172,"17,583",Box Score,"Fri, Nov 9, 2018",,10:00p,121,Sacramento Kings,,110,Minnesota Timberwolves,N
+173,"19,800",Box Score,"Sat, Nov 10, 2018",,3:00p,128,Toronto Raptors,,112,New York Knicks,N
+174,"17,486",Box Score,"Sat, Nov 10, 2018",,3:30p,128,Los Angeles Clippers,OT,126,Milwaukee Bucks,N
+175,"15,222",Box Score,"Sat, Nov 10, 2018",,7:00p,119,New Orleans Pelicans,,99,Phoenix Suns,N
+176,"21,506",Box Score,"Sat, Nov 10, 2018",,8:00p,99,Chicago Bulls,,98,Cleveland Cavaliers,N
+177,"16,904",Box Score,"Sat, Nov 10, 2018",,8:00p,112,Memphis Grizzlies,OT,106,Philadelphia 76ers,N
+178,"19,600",Box Score,"Sat, Nov 10, 2018",,8:00p,110,Miami Heat,,116,Washington Wizards,N
+179,"19,596",Box Score,"Sat, Nov 10, 2018",,8:30p,116,Golden State Warriors,,100,Brooklyn Nets,N
+180,"18,354",Box Score,"Sat, Nov 10, 2018",,8:30p,96,San Antonio Spurs,,89,Houston Rockets,N
+181,"19,818",Box Score,"Sat, Nov 10, 2018",,9:00p,111,Dallas Mavericks,,96,Oklahoma City Thunder,N
+182,"17,583",Box Score,"Sat, Nov 10, 2018",,10:00p,86,Sacramento Kings,,101,Los Angeles Lakers,N
+183,"15,133",Box Score,"Sun, Nov 11, 2018",,3:30p,103,Detroit Pistons,,113,Charlotte Hornets,N
+184,"18,055",Box Score,"Sun, Nov 11, 2018",,7:00p,115,Houston Rockets,,103,Indiana Pacers,N
+185,"19,812",Box Score,"Sun, Nov 11, 2018",,7:30p,89,New York Knicks,,115,Orlando Magic,N
+186,"19,520",Box Score,"Sun, Nov 11, 2018",,8:00p,114,Denver Nuggets,,121,Milwaukee Bucks,N
+187,"19,712",Box Score,"Sun, Nov 11, 2018",,9:00p,100,Portland Trail Blazers,,94,Boston Celtics,N
+188,"18,997",Box Score,"Sun, Nov 11, 2018",,9:30p,107,Los Angeles Lakers,,106,Atlanta Hawks,N
+189,"15,346",Box Score,"Mon, Nov 12, 2018",,7:00p,117,Washington Wizards,,109,Orlando Magic,N
+190,"19,600",Box Score,"Mon, Nov 12, 2018",,7:30p,114,Miami Heat,,124,Philadelphia 76ers,N
+191,"19,800",Box Score,"Mon, Nov 12, 2018",,7:30p,110,Toronto Raptors,,126,New Orleans Pelicans,N
+192,"19,012",Box Score,"Mon, Nov 12, 2018",,8:00p,98,Chicago Bulls,,103,Dallas Mavericks,N
+193,"13,477",Box Score,"Mon, Nov 12, 2018",,8:00p,88,Memphis Grizzlies,,96,Utah Jazz,N
+194,"10,186",Box Score,"Mon, Nov 12, 2018",,8:00p,120,Minnesota Timberwolves,,113,Brooklyn Nets,N
+195,"18,203",Box Score,"Mon, Nov 12, 2018",,8:00p,118,Oklahoma City Thunder,,101,Phoenix Suns,N
+196,"15,500",Box Score,"Mon, Nov 12, 2018",,10:00p,104,Sacramento Kings,,99,San Antonio Spurs,N
+197,"19,068",Box Score,"Mon, Nov 12, 2018",,10:30p,121,Los Angeles Clippers,OT,116,Golden State Warriors,N
+198,"19,432",Box Score,"Tue, Nov 13, 2018",,7:00p,113,Cleveland Cavaliers,,89,Charlotte Hornets,N
+199,"16,741",Box Score,"Tue, Nov 13, 2018",,9:00p,99,Denver Nuggets,,109,Houston Rockets,N
+200,"19,596",Box Score,"Tue, Nov 13, 2018",,10:30p,110,Golden State Warriors,,103,Atlanta Hawks,N
+201,"15,921",Box Score,"Wed, Nov 14, 2018",,7:00p,111,Orlando Magic,,106,Philadelphia 76ers,N
+202,"14,537",Box Score,"Wed, Nov 14, 2018",,7:00p,119,Washington Wizards,,95,Cleveland Cavaliers,N
+203,"18,624",Box Score,"Wed, Nov 14, 2018",,7:30p,111,Boston Celtics,,82,Chicago Bulls,N
+204,"13,317",Box Score,"Wed, Nov 14, 2018",,7:30p,107,Brooklyn Nets,,120,Miami Heat,N
+205,"19,800",Box Score,"Wed, Nov 14, 2018",,7:30p,104,Toronto Raptors,,106,Detroit Pistons,N
+206,"16,817",Box Score,"Wed, Nov 14, 2018",,8:00p,113,Milwaukee Bucks,,116,Memphis Grizzlies,N
+207,"11,636",Box Score,"Wed, Nov 14, 2018",,8:00p,107,Minnesota Timberwolves,,100,New Orleans Pelicans,N
+208,"18,203",Box Score,"Wed, Nov 14, 2018",,8:00p,128,Oklahoma City Thunder,,103,New York Knicks,N
+209,"19,371",Box Score,"Wed, Nov 14, 2018",,8:30p,118,Dallas Mavericks,,68,Utah Jazz,N
+210,"14,532",Box Score,"Wed, Nov 14, 2018",,9:00p,116,Phoenix Suns,,96,San Antonio Spurs,N
+211,"18,997",Box Score,"Wed, Nov 14, 2018",,10:30p,126,Los Angeles Lakers,,117,Portland Trail Blazers,N
+212,"18,055",Box Score,"Thu, Nov 15, 2018",,8:00p,107,Houston Rockets,,86,Golden State Warriors,N
+213,"15,103",Box Score,"Thu, Nov 15, 2018",,9:00p,138,Denver Nuggets,,93,Atlanta Hawks,N
+214,"17,463",Box Score,"Thu, Nov 15, 2018",,10:30p,116,Los Angeles Clippers,,111,San Antonio Spurs,N
+215,"18,624",Box Score,"Fri, Nov 16, 2018",,7:00p,123,Boston Celtics,OT,116,Toronto Raptors,N
+216,"17,923",Box Score,"Fri, Nov 16, 2018",,7:00p,99,Indiana Pacers,,91,Miami Heat,N
+217,"20,485",Box Score,"Fri, Nov 16, 2018",,7:00p,113,Philadelphia 76ers,,107,Utah Jazz,N
+218,"15,102",Box Score,"Fri, Nov 16, 2018",,7:00p,104,Washington Wizards,,115,Brooklyn Nets,N
+219,"13,811",Box Score,"Fri, Nov 16, 2018",,8:00p,112,Memphis Grizzlies,,104,Sacramento Kings,N
+220,"18,978",Box Score,"Fri, Nov 16, 2018",,8:00p,112,Minnesota Timberwolves,,96,Portland Trail Blazers,N
+221,"14,717",Box Score,"Fri, Nov 16, 2018",,8:00p,129,New Orleans Pelicans,,124,New York Knicks,N
+222,"17,341",Box Score,"Fri, Nov 16, 2018",,9:30p,123,Milwaukee Bucks,,104,Chicago Bulls,N
+223,"12,944",Box Score,"Sat, Nov 17, 2018",,6:00p,119,Brooklyn Nets,,127,Los Angeles Clippers,N
+224,"19,426",Box Score,"Sat, Nov 17, 2018",,7:00p,119,Charlotte Hornets,OT,122,Philadelphia 76ers,N
+225,"17,491",Box Score,"Sat, Nov 17, 2018",,7:00p,97,Indiana Pacers,,89,Atlanta Hawks,N
+226,"15,408",Box Score,"Sat, Nov 17, 2018",,7:00p,125,New Orleans Pelicans,,115,Denver Nuggets,N
+227,"19,249",Box Score,"Sat, Nov 17, 2018",,7:00p,130,Orlando Magic,,117,Los Angeles Lakers,N
+228,"18,624",Box Score,"Sat, Nov 17, 2018",,7:30p,86,Boston Celtics,,98,Utah Jazz,N
+229,"21,263",Box Score,"Sat, Nov 17, 2018",,8:00p,83,Chicago Bulls,,122,Toronto Raptors,N
+230,"18,055",Box Score,"Sat, Nov 17, 2018",,8:00p,132,Houston Rockets,,112,Sacramento Kings,N
+231,"20,260",Box Score,"Sat, Nov 17, 2018",,8:30p,112,Dallas Mavericks,,109,Golden State Warriors,N
+232,"16,376",Box Score,"Sat, Nov 17, 2018",,9:00p,100,Phoenix Suns,,110,Oklahoma City Thunder,N
+233,"13,179",Box Score,"Sun, Nov 18, 2018",,3:30p,87,Minnesota Timberwolves,,100,Memphis Grizzlies,N
+234,"19,686",Box Score,"Sun, Nov 18, 2018",,6:00p,97,Miami Heat,,113,Los Angeles Lakers,N
+235,"15,898",Box Score,"Sun, Nov 18, 2018",,6:00p,131,Orlando Magic,,117,New York Knicks,N
+236,"16,647",Box Score,"Sun, Nov 18, 2018",,6:00p,109,Washington Wizards,,119,Portland Trail Blazers,N
+237,"18,354",Box Score,"Sun, Nov 18, 2018",,7:00p,104,San Antonio Spurs,,92,Golden State Warriors,N
+238,"18,040",Box Score,"Mon, Nov 19, 2018",,7:00p,117,Charlotte Hornets,,112,Boston Celtics,N
+239,"15,769",Box Score,"Mon, Nov 19, 2018",,7:00p,113,Detroit Pistons,,102,Cleveland Cavaliers,N
+240,"17,000",Box Score,"Mon, Nov 19, 2018",,7:00p,121,Indiana Pacers,,94,Utah Jazz,N
+241,"20,459",Box Score,"Mon, Nov 19, 2018",,7:00p,119,Philadelphia 76ers,,114,Phoenix Suns,N
+242,"14,323",Box Score,"Mon, Nov 19, 2018",,7:30p,119,Atlanta Hawks,,127,Los Angeles Clippers,N
+243,"15,997",Box Score,"Mon, Nov 19, 2018",,8:00p,98,Memphis Grizzlies,,88,Dallas Mavericks,N
+244,"17,341",Box Score,"Mon, Nov 19, 2018",,8:00p,104,Milwaukee Bucks,,98,Denver Nuggets,N
+245,"14,675",Box Score,"Mon, Nov 19, 2018",,8:00p,140,New Orleans Pelicans,,126,San Antonio Spurs,N
+246,"16,250",Box Score,"Mon, Nov 19, 2018",,10:00p,117,Sacramento Kings,,113,Oklahoma City Thunder,N
+247,"16,016",Box Score,"Tue, Nov 20, 2018",,7:00p,91,Orlando Magic,,93,Toronto Raptors,N
+248,"14,499",Box Score,"Tue, Nov 20, 2018",,7:00p,125,Washington Wizards,,118,Los Angeles Clippers,N
+249,"19,600",Box Score,"Tue, Nov 20, 2018",,7:30p,92,Miami Heat,,104,Brooklyn Nets,N
+250,"19,812",Box Score,"Tue, Nov 20, 2018",,7:30p,114,New York Knicks,,118,Portland Trail Blazers,N
+251,"15,913",Box Score,"Wed, Nov 21, 2018",,7:00p,127,Charlotte Hornets,,109,Indiana Pacers,N
+252,"20,352",Box Score,"Wed, Nov 21, 2018",,7:00p,121,Philadelphia 76ers,,120,New Orleans Pelicans,N
+253,"15,058",Box Score,"Wed, Nov 21, 2018",,7:30p,108,Atlanta Hawks,,124,Toronto Raptors,N
+254,"18,624",Box Score,"Wed, Nov 21, 2018",,7:30p,109,Boston Celtics,,117,New York Knicks,N
+255,"19,014",Box Score,"Wed, Nov 21, 2018",,8:00p,124,Chicago Bulls,,116,Phoenix Suns,N
+256,"19,432",Box Score,"Wed, Nov 21, 2018",,8:00p,105,Cleveland Cavaliers,,109,Los Angeles Lakers,N
+257,"18,055",Box Score,"Wed, Nov 21, 2018",,8:00p,126,Houston Rockets,,124,Detroit Pistons,N
+258,"17,591",Box Score,"Wed, Nov 21, 2018",,8:00p,143,Milwaukee Bucks,,100,Portland Trail Blazers,N
+259,"15,086",Box Score,"Wed, Nov 21, 2018",,8:00p,101,Minnesota Timberwolves,,103,Denver Nuggets,N
+260,"19,926",Box Score,"Wed, Nov 21, 2018",,8:30p,119,Dallas Mavericks,,113,Brooklyn Nets,N
+261,"18,354",Box Score,"Wed, Nov 21, 2018",,8:30p,103,San Antonio Spurs,,104,Memphis Grizzlies,N
+262,"18,306",Box Score,"Wed, Nov 21, 2018",,9:00p,110,Utah Jazz,,119,Sacramento Kings,N
+263,"19,596",Box Score,"Wed, Nov 21, 2018",,10:30p,95,Golden State Warriors,,123,Oklahoma City Thunder,N
+264,"12,814",Box Score,"Fri, Nov 23, 2018",,12:00p,102,Brooklyn Nets,,112,Minnesota Timberwolves,N
+265,"15,418",Box Score,"Fri, Nov 23, 2018",,3:30p,112,Los Angeles Clippers,OT,107,Memphis Grizzlies,N
+266,"17,268",Box Score,"Fri, Nov 23, 2018",,7:00p,116,Detroit Pistons,OT,111,Houston Rockets,N
+267,"15,017",Box Score,"Fri, Nov 23, 2018",,7:30p,96,Atlanta Hawks,,114,Boston Celtics,N
+268,"18,948",Box Score,"Fri, Nov 23, 2018",,7:30p,114,New York Knicks,,109,New Orleans Pelicans,N
+269,"20,524",Box Score,"Fri, Nov 23, 2018",,7:30p,112,Philadelphia 76ers,,121,Cleveland Cavaliers,N
+270,"19,800",Box Score,"Fri, Nov 23, 2018",,7:30p,125,Toronto Raptors,,107,Washington Wizards,N
+271,"20,935",Box Score,"Fri, Nov 23, 2018",,8:00p,96,Chicago Bulls,,103,Miami Heat,N
+272,"17,262",Box Score,"Fri, Nov 23, 2018",,8:00p,100,Indiana Pacers,,111,San Antonio Spurs,N
+273,"18,203",Box Score,"Fri, Nov 23, 2018",,8:00p,109,Oklahoma City Thunder,,104,Charlotte Hornets,N
+274,"17,852",Box Score,"Fri, Nov 23, 2018",,8:30p,114,Milwaukee Bucks,,116,Phoenix Suns,N
+275,"19,520",Box Score,"Fri, Nov 23, 2018",,9:00p,112,Denver Nuggets,,87,Orlando Magic,N
+276,"19,596",Box Score,"Fri, Nov 23, 2018",,10:30p,125,Golden State Warriors,,97,Portland Trail Blazers,N
+277,"18,997",Box Score,"Fri, Nov 23, 2018",,10:30p,90,Los Angeles Lakers,,83,Utah Jazz,N
+278,"19,432",Box Score,"Sat, Nov 24, 2018",,7:30p,117,Cleveland Cavaliers,,108,Houston Rockets,N
+279,"17,119",Box Score,"Sat, Nov 24, 2018",,8:00p,111,Minnesota Timberwolves,,96,Chicago Bulls,N
+280,"18,203",Box Score,"Sat, Nov 24, 2018",,8:00p,98,Oklahoma City Thunder,,105,Denver Nuggets,N
+281,"15,165",Box Score,"Sat, Nov 24, 2018",,8:00p,124,Washington Wizards,,114,New Orleans Pelicans,N
+282,"20,226",Box Score,"Sat, Nov 24, 2018",,8:30p,113,Dallas Mavericks,,104,Boston Celtics,N
+283,"19,596",Box Score,"Sat, Nov 24, 2018",,8:30p,117,Golden State Warriors,,116,Sacramento Kings,N
+284,"17,559",Box Score,"Sat, Nov 24, 2018",,8:30p,135,Milwaukee Bucks,,129,San Antonio Spurs,N
+285,"18,997",Box Score,"Sun, Nov 25, 2018",,3:30p,104,Los Angeles Lakers,,108,Orlando Magic,N
+286,"14,413",Box Score,"Sun, Nov 25, 2018",,4:00p,118,Detroit Pistons,,107,Phoenix Suns,N
+287,"12,977",Box Score,"Sun, Nov 25, 2018",,6:00p,124,Atlanta Hawks,,123,Charlotte Hornets,N
+288,"15,217",Box Score,"Sun, Nov 25, 2018",,6:00p,125,Brooklyn Nets,,127,Philadelphia 76ers,N
+289,"14,331",Box Score,"Sun, Nov 25, 2018",,6:00p,98,Memphis Grizzlies,,103,New York Knicks,N
+290,"19,800",Box Score,"Sun, Nov 25, 2018",,6:00p,125,Toronto Raptors,,115,Miami Heat,N
+291,"16,048",Box Score,"Sun, Nov 25, 2018",,8:00p,112,Sacramento Kings,,133,Utah Jazz,N
+292,"19,138",Box Score,"Sun, Nov 25, 2018",,9:00p,100,Portland Trail Blazers,,104,Los Angeles Clippers,N
+293,"13,805",Box Score,"Mon, Nov 26, 2018",,7:00p,110,Charlotte Hornets,,107,Milwaukee Bucks,N
+294,"19,432",Box Score,"Mon, Nov 26, 2018",,7:00p,95,Cleveland Cavaliers,,102,Minnesota Timberwolves,N
+295,"16,872",Box Score,"Mon, Nov 26, 2018",,7:00p,135,Washington Wizards,OT,131,Houston Rockets,N
+296,"19,006",Box Score,"Mon, Nov 26, 2018",,8:00p,107,Chicago Bulls,,108,San Antonio Spurs,N
+297,"15,189",Box Score,"Mon, Nov 26, 2018",,8:00p,107,New Orleans Pelicans,,124,Boston Celtics,N
+298,"18,306",Box Score,"Mon, Nov 26, 2018",,9:00p,88,Utah Jazz,,121,Indiana Pacers,N
+299,"19,596",Box Score,"Mon, Nov 26, 2018",,10:30p,116,Golden State Warriors,,110,Orlando Magic,N
+300,"13,935",Box Score,"Tue, Nov 27, 2018",,7:00p,115,Detroit Pistons,,108,New York Knicks,N
+301,"19,600",Box Score,"Tue, Nov 27, 2018",,7:30p,113,Miami Heat,,115,Atlanta Hawks,N
+302,"14,187",Box Score,"Tue, Nov 27, 2018",,8:00p,114,Memphis Grizzlies,,122,Toronto Raptors,N
+303,"19,583",Box Score,"Tue, Nov 27, 2018",,9:00p,117,Denver Nuggets,,85,Los Angeles Lakers,N
+304,"13,038",Box Score,"Tue, Nov 27, 2018",,9:00p,104,Phoenix Suns,,109,Indiana Pacers,N
+305,"12,971",Box Score,"Wed, Nov 28, 2018",,7:00p,108,Charlotte Hornets,,94,Atlanta Hawks,N
+306,"20,274",Box Score,"Wed, Nov 28, 2018",,7:00p,117,Philadelphia 76ers,,91,New York Knicks,N
+307,"12,928",Box Score,"Wed, Nov 28, 2018",,7:30p,91,Brooklyn Nets,,101,Utah Jazz,N
+308,"18,055",Box Score,"Wed, Nov 28, 2018",,8:00p,108,Houston Rockets,,128,Dallas Mavericks,N
+309,"16,660",Box Score,"Wed, Nov 28, 2018",,8:00p,116,Milwaukee Bucks,,113,Chicago Bulls,N
+310,"11,023",Box Score,"Wed, Nov 28, 2018",,8:00p,128,Minnesota Timberwolves,,89,San Antonio Spurs,N
+311,"13,570",Box Score,"Wed, Nov 28, 2018",,8:00p,125,New Orleans Pelicans,,104,Washington Wizards,N
+312,"18,203",Box Score,"Wed, Nov 28, 2018",,8:00p,100,Oklahoma City Thunder,,83,Cleveland Cavaliers,N
+313,"18,865",Box Score,"Wed, Nov 28, 2018",,10:00p,115,Portland Trail Blazers,,112,Orlando Magic,N
+314,"16,372",Box Score,"Wed, Nov 28, 2018",,10:30p,115,Los Angeles Clippers,,99,Phoenix Suns,N
+315,"20,073",Box Score,"Thu, Nov 29, 2018",,8:00p,131,Toronto Raptors,OT,128,Golden State Warriors,N
+316,"18,997",Box Score,"Thu, Nov 29, 2018",,10:30p,104,Los Angeles Lakers,,96,Indiana Pacers,N
+317,"17,583",Box Score,"Thu, Nov 29, 2018",,10:30p,121,Sacramento Kings,,133,Los Angeles Clippers,N
+318,"18,624",Box Score,"Fri, Nov 30, 2018",,7:00p,128,Boston Celtics,,95,Cleveland Cavaliers,N
+319,"15,812",Box Score,"Fri, Nov 30, 2018",,7:00p,111,Charlotte Hornets,,119,Utah Jazz,N
+320,"15,372",Box Score,"Fri, Nov 30, 2018",,7:00p,107,Detroit Pistons,,88,Chicago Bulls,N
+321,"20,400",Box Score,"Fri, Nov 30, 2018",,7:00p,123,Philadelphia 76ers,,98,Washington Wizards,N
+322,"12,983",Box Score,"Fri, Nov 30, 2018",,7:30p,125,Brooklyn Nets,2OT,131,Memphis Grizzlies,N
+323,"19,600",Box Score,"Fri, Nov 30, 2018",,8:00p,106,Miami Heat,,101,New Orleans Pelicans,N
+324,"18,203",Box Score,"Fri, Nov 30, 2018",,8:00p,124,Oklahoma City Thunder,,109,Atlanta Hawks,N
+325,"18,354",Box Score,"Fri, Nov 30, 2018",,8:00p,105,San Antonio Spurs,,136,Houston Rockets,N
+326,"13,228",Box Score,"Fri, Nov 30, 2018",,9:00p,85,Phoenix Suns,,99,Orlando Magic,N
+327,"18,997",Box Score,"Fri, Nov 30, 2018",,10:30p,114,Los Angeles Lakers,,103,Dallas Mavericks,N
+328,"19,459",Box Score,"Fri, Nov 30, 2018",,10:30p,112,Portland Trail Blazers,,113,Denver Nuggets,N
+329,"19,812",Box Score,"Sat, Dec 1, 2018",,5:00p,136,New York Knicks,OT,134,Milwaukee Bucks,N
+330,"20,332",Box Score,"Sat, Dec 1, 2018",,7:00p,111,Detroit Pistons,,102,Golden State Warriors,N
+331,"15,448",Box Score,"Sat, Dec 1, 2018",,7:00p,102,Washington Wizards,,88,Brooklyn Nets,N
+332,"19,432",Box Score,"Sat, Dec 1, 2018",,8:00p,95,Cleveland Cavaliers,,106,Toronto Raptors,N
+333,"18,055",Box Score,"Sat, Dec 1, 2018",,8:00p,121,Houston Rockets,,105,Chicago Bulls,N
+334,"17,663",Box Score,"Sat, Dec 1, 2018",,8:00p,109,Minnesota Timberwolves,,118,Boston Celtics,N
+335,"17,583",Box Score,"Sat, Dec 1, 2018",,10:00p,111,Sacramento Kings,,110,Indiana Pacers,N
+336,"18,997",Box Score,"Sun, Dec 2, 2018",,3:30p,120,Los Angeles Lakers,,96,Phoenix Suns,N
+337,"15,336",Box Score,"Sun, Dec 2, 2018",,5:00p,109,Charlotte Hornets,,119,New Orleans Pelicans,N
+338,"19,600",Box Score,"Sun, Dec 2, 2018",,6:00p,102,Miami Heat,,100,Utah Jazz,N
+339,"20,334",Box Score,"Sun, Dec 2, 2018",,6:00p,103,Philadelphia 76ers,,95,Memphis Grizzlies,N
+340,"19,551",Box Score,"Sun, Dec 2, 2018",,7:00p,114,Dallas Mavericks,,110,Los Angeles Clippers,N
+341,"18,354",Box Score,"Sun, Dec 2, 2018",,7:00p,131,San Antonio Spurs,,118,Portland Trail Blazers,N
+342,"14,372",Box Score,"Mon, Dec 3, 2018",,7:00p,83,Detroit Pistons,,110,Oklahoma City Thunder,N
+343,"16,631",Box Score,"Mon, Dec 3, 2018",,7:30p,111,Atlanta Hawks,,128,Golden State Warriors,N
+344,"10,983",Box Score,"Mon, Dec 3, 2018",,7:30p,97,Brooklyn Nets,,99,Cleveland Cavaliers,N
+345,"19,440",Box Score,"Mon, Dec 3, 2018",,7:30p,107,New York Knicks,,110,Washington Wizards,N
+346,"19,800",Box Score,"Mon, Dec 3, 2018",,7:30p,103,Toronto Raptors,,106,Denver Nuggets,N
+347,"13,834",Box Score,"Mon, Dec 3, 2018",,8:00p,103,Minnesota Timberwolves,,91,Houston Rockets,N
+348,"13,822",Box Score,"Mon, Dec 3, 2018",,8:00p,126,New Orleans Pelicans,,129,Los Angeles Clippers,N
+349,"16,446",Box Score,"Tue, Dec 4, 2018",,7:00p,96,Indiana Pacers,,90,Chicago Bulls,N
+350,"19,600",Box Score,"Tue, Dec 4, 2018",,7:30p,90,Miami Heat,,105,Orlando Magic,N
+351,"19,341",Box Score,"Tue, Dec 4, 2018",,8:30p,111,Dallas Mavericks,,102,Portland Trail Blazers,N
+352,"12,977",Box Score,"Tue, Dec 4, 2018",,9:00p,105,Phoenix Suns,,122,Sacramento Kings,N
+353,"18,306",Box Score,"Tue, Dec 4, 2018",,9:00p,139,Utah Jazz,,105,San Antonio Spurs,N
+354,"19,432",Box Score,"Wed, Dec 5, 2018",,7:00p,105,Cleveland Cavaliers,,129,Golden State Warriors,N
+355,"16,636",Box Score,"Wed, Dec 5, 2018",,7:00p,118,Orlando Magic,OT,124,Denver Nuggets,N
+356,"12,551",Box Score,"Wed, Dec 5, 2018",,7:30p,117,Atlanta Hawks,,131,Washington Wizards,N
+357,"13,161",Box Score,"Wed, Dec 5, 2018",,7:30p,112,Brooklyn Nets,,114,Oklahoma City Thunder,N
+358,"14,144",Box Score,"Wed, Dec 5, 2018",,8:00p,96,Memphis Grizzlies,,86,Los Angeles Clippers,N
+359,"16,541",Box Score,"Wed, Dec 5, 2018",,8:00p,115,Milwaukee Bucks,,92,Detroit Pistons,N
+360,"11,248",Box Score,"Wed, Dec 5, 2018",,8:00p,121,Minnesota Timberwolves,,104,Charlotte Hornets,N
+361,"14,810",Box Score,"Wed, Dec 5, 2018",,8:00p,132,New Orleans Pelicans,,106,Dallas Mavericks,N
+362,"19,800",Box Score,"Wed, Dec 5, 2018",,8:00p,113,Toronto Raptors,,102,Philadelphia 76ers,N
+363,"18,997",Box Score,"Wed, Dec 5, 2018",,10:30p,121,Los Angeles Lakers,,113,San Antonio Spurs,N
+364,"18,624",Box Score,"Thu, Dec 6, 2018",,8:00p,128,Boston Celtics,,100,New York Knicks,N
+365,"19,001",Box Score,"Thu, Dec 6, 2018",,10:00p,108,Portland Trail Blazers,,86,Phoenix Suns,N
+366,"18,306",Box Score,"Thu, Dec 6, 2018",,10:30p,118,Utah Jazz,,91,Houston Rockets,N
+367,"13,755",Box Score,"Fri, Dec 7, 2018",,7:00p,113,Charlotte Hornets,,107,Denver Nuggets,N
+368,"15,680",Box Score,"Fri, Dec 7, 2018",,7:00p,111,Detroit Pistons,,117,Philadelphia 76ers,N
+369,"17,214",Box Score,"Fri, Dec 7, 2018",,7:00p,90,Orlando Magic,,112,Indiana Pacers,N
+370,"14,035",Box Score,"Fri, Dec 7, 2018",,7:30p,106,Brooklyn Nets,OT,105,Toronto Raptors,N
+371,"19,432",Box Score,"Fri, Dec 7, 2018",,7:30p,110,Cleveland Cavaliers,,129,Sacramento Kings,N
+372,"19,842",Box Score,"Fri, Dec 7, 2018",,8:00p,114,Chicago Bulls,,112,Oklahoma City Thunder,N
+373,"18,447",Box Score,"Fri, Dec 7, 2018",,8:00p,103,New Orleans Pelicans,,107,Memphis Grizzlies,N
+374,"18,354",Box Score,"Fri, Dec 7, 2018",,8:30p,133,San Antonio Spurs,,120,Los Angeles Lakers,N
+375,"14,273",Box Score,"Fri, Dec 7, 2018",,9:00p,98,Phoenix Suns,,115,Miami Heat,N
+376,"17,852",Box Score,"Fri, Dec 7, 2018",,9:30p,95,Milwaukee Bucks,,105,Golden State Warriors,N
+377,"20,254",Box Score,"Sat, Dec 8, 2018",,6:00p,107,Dallas Mavericks,,104,Houston Rockets,N
+378,"16,867",Box Score,"Sat, Dec 8, 2018",,7:00p,107,Indiana Pacers,,97,Sacramento Kings,N
+379,"14,409",Box Score,"Sat, Dec 8, 2018",,7:30p,106,Atlanta Hawks,,98,Denver Nuggets,N
+380,"19,432",Box Score,"Sat, Dec 8, 2018",,7:30p,116,Cleveland Cavaliers,,101,Washington Wizards,N
+381,"18,662",Box Score,"Sat, Dec 8, 2018",,7:30p,104,New York Knicks,,112,Brooklyn Nets,N
+382,"20,923",Box Score,"Sat, Dec 8, 2018",,8:00p,77,Chicago Bulls,,133,Boston Celtics,N
+383,"17,794",Box Score,"Sat, Dec 8, 2018",,8:00p,88,Memphis Grizzlies,,111,Los Angeles Lakers,N
+384,"19,359",Box Score,"Sat, Dec 8, 2018",,10:00p,113,Portland Trail Blazers,,105,Minnesota Timberwolves,N
+385,"17,113",Box Score,"Sat, Dec 8, 2018",,10:30p,98,Los Angeles Clippers,,121,Miami Heat,N
+386,"14,705",Box Score,"Sun, Dec 9, 2018",,3:30p,108,Detroit Pistons,,116,New Orleans Pelicans,N
+387,"19,800",Box Score,"Sun, Dec 9, 2018",,6:00p,99,Toronto Raptors,,104,Milwaukee Bucks,N
+388,"17,834",Box Score,"Sun, Dec 9, 2018",,7:00p,110,San Antonio Spurs,,97,Utah Jazz,N
+389,"18,602",Box Score,"Sun, Dec 9, 2018",,7:30p,107,New York Knicks,,119,Charlotte Hornets,N
+390,"14,645",Box Score,"Mon, Dec 10, 2018",,7:00p,109,Indiana Pacers,,101,Washington Wizards,N
+391,"20,199",Box Score,"Mon, Dec 10, 2018",,7:00p,116,Philadelphia 76ers,,102,Detroit Pistons,N
+392,"18,624",Box Score,"Mon, Dec 10, 2018",,7:30p,113,Boston Celtics,,100,New Orleans Pelicans,N
+393,"18,164",Box Score,"Mon, Dec 10, 2018",,8:00p,89,Chicago Bulls,,108,Sacramento Kings,N
+394,"17,155",Box Score,"Mon, Dec 10, 2018",,8:00p,108,Milwaukee Bucks,,92,Cleveland Cavaliers,N
+395,"18,203",Box Score,"Mon, Dec 10, 2018",,8:00p,122,Oklahoma City Thunder,,113,Utah Jazz,N
+396,"19,334",Box Score,"Mon, Dec 10, 2018",,8:30p,101,Dallas Mavericks,,76,Orlando Magic,N
+397,"15,278",Box Score,"Mon, Dec 10, 2018",,9:00p,105,Denver Nuggets,,99,Memphis Grizzlies,N
+398,"12,088",Box Score,"Mon, Dec 10, 2018",,9:00p,119,Phoenix Suns,OT,123,Los Angeles Clippers,N
+399,"19,596",Box Score,"Mon, Dec 10, 2018",,10:30p,116,Golden State Warriors,,108,Minnesota Timberwolves,N
+400,"18,997",Box Score,"Mon, Dec 10, 2018",,10:30p,108,Los Angeles Lakers,,105,Miami Heat,N
+401,"18,055",Box Score,"Tue, Dec 11, 2018",,8:00p,111,Houston Rockets,,104,Portland Trail Blazers,N
+402,"17,676",Box Score,"Tue, Dec 11, 2018",,8:30p,111,San Antonio Spurs,,86,Phoenix Suns,N
+403,"17,812",Box Score,"Tue, Dec 11, 2018",,10:30p,99,Los Angeles Clippers,,123,Toronto Raptors,N
+404,"13,997",Box Score,"Wed, Dec 12, 2018",,7:00p,108,Charlotte Hornets,,107,Detroit Pistons,N
+405,"19,432",Box Score,"Wed, Dec 12, 2018",,7:00p,113,Cleveland Cavaliers,,106,New York Knicks,N
+406,"17,070",Box Score,"Wed, Dec 12, 2018",,7:00p,113,Indiana Pacers,,97,Milwaukee Bucks,N
+407,"20,376",Box Score,"Wed, Dec 12, 2018",,7:00p,124,Philadelphia 76ers,,127,Brooklyn Nets,N
+408,"20,409",Box Score,"Wed, Dec 12, 2018",,7:00p,125,Washington Wizards,OT,130,Boston Celtics,N
+409,"16,282",Box Score,"Wed, Dec 12, 2018",,8:00p,92,Memphis Grizzlies,,83,Portland Trail Blazers,N
+410,"14,450",Box Score,"Wed, Dec 12, 2018",,8:00p,118,New Orleans Pelicans,,114,Oklahoma City Thunder,N
+411,"19,643",Box Score,"Wed, Dec 12, 2018",,8:30p,114,Dallas Mavericks,,107,Atlanta Hawks,N
+412,"18,306",Box Score,"Wed, Dec 12, 2018",,9:00p,111,Utah Jazz,,84,Miami Heat,N
+413,"15,770",Box Score,"Wed, Dec 12, 2018",,10:00p,141,Sacramento Kings,,130,Minnesota Timberwolves,N
+414,"19,596",Box Score,"Wed, Dec 12, 2018",,10:30p,93,Golden State Warriors,,113,Toronto Raptors,N
+415,"18,055",Box Score,"Thu, Dec 13, 2018",,8:00p,126,Houston Rockets,,111,Los Angeles Lakers,N
+416,"18,354",Box Score,"Thu, Dec 13, 2018",,8:30p,125,San Antonio Spurs,,87,Los Angeles Clippers,N
+417,"20,201",Box Score,"Thu, Dec 13, 2018","at Mexico City, Mexico",9:30p,97,Orlando Magic,,91,Chicago Bulls,N
+418,"13,265",Box Score,"Thu, Dec 13, 2018",,10:30p,99,Phoenix Suns,,89,Dallas Mavericks,N
+419,"18,624",Box Score,"Fri, Dec 14, 2018",,7:00p,129,Boston Celtics,,108,Atlanta Hawks,N
+420,"17,622",Box Score,"Fri, Dec 14, 2018",,7:00p,124,Charlotte Hornets,OT,126,New York Knicks,N
+421,"13,232",Box Score,"Fri, Dec 14, 2018",,7:30p,125,Brooklyn Nets,,118,Washington Wizards,N
+422,"19,432",Box Score,"Fri, Dec 14, 2018",,7:30p,102,Cleveland Cavaliers,,114,Milwaukee Bucks,N
+423,"20,337",Box Score,"Fri, Dec 14, 2018",,7:30p,101,Philadelphia 76ers,,113,Indiana Pacers,N
+424,"16,313",Box Score,"Fri, Dec 14, 2018",,8:00p,97,Memphis Grizzlies,,100,Miami Heat,N
+425,"19,520",Box Score,"Fri, Dec 14, 2018",,10:00p,109,Denver Nuggets,,98,Oklahoma City Thunder,N
+426,"19,458",Box Score,"Fri, Dec 14, 2018",,10:00p,128,Portland Trail Blazers,,122,Toronto Raptors,N
+427,"17,583",Box Score,"Fri, Dec 14, 2018",,10:00p,125,Sacramento Kings,,130,Golden State Warriors,N
+428,"20,011",Box Score,"Sat, Dec 15, 2018","at Mexico City, Mexico",5:00p,96,Orlando Magic,,89,Utah Jazz,N
+429,"19,641",Box Score,"Sat, Dec 15, 2018",,7:00p,100,Charlotte Hornets,,128,Los Angeles Lakers,N
+430,"17,078",Box Score,"Sat, Dec 15, 2018",,7:00p,113,Detroit Pistons,,104,Boston Celtics,N
+431,"16,777",Box Score,"Sat, Dec 15, 2018",,8:00p,97,Memphis Grizzlies,,105,Houston Rockets,N
+432,"18,354",Box Score,"Sat, Dec 15, 2018",,8:30p,93,San Antonio Spurs,,98,Chicago Bulls,N
+433,"18,203",Box Score,"Sat, Dec 15, 2018",,9:00p,110,Oklahoma City Thunder,,104,Los Angeles Clippers,N
+434,"14,244",Box Score,"Sat, Dec 15, 2018",,9:00p,107,Phoenix Suns,,99,Minnesota Timberwolves,N
+435,"13,955",Box Score,"Sun, Dec 16, 2018",,3:00p,144,Brooklyn Nets,,127,Atlanta Hawks,N
+436,"19,432",Box Score,"Sun, Dec 16, 2018",,3:30p,105,Cleveland Cavaliers,,128,Philadelphia 76ers,N
+437,"16,646",Box Score,"Sun, Dec 16, 2018",,5:00p,110,Indiana Pacers,,99,New York Knicks,N
+438,"20,409",Box Score,"Sun, Dec 16, 2018",,6:00p,128,Washington Wizards,,110,Los Angeles Lakers,N
+439,"19,935",Box Score,"Sun, Dec 16, 2018",,7:00p,113,Dallas Mavericks,,120,Sacramento Kings,N
+440,"15,535",Box Score,"Sun, Dec 16, 2018",,7:00p,96,New Orleans Pelicans,,102,Miami Heat,N
+441,"19,520",Box Score,"Sun, Dec 16, 2018",,8:00p,95,Denver Nuggets,,86,Toronto Raptors,N
+442,"15,051",Box Score,"Mon, Dec 17, 2018",,7:00p,104,Detroit Pistons,,107,Milwaukee Bucks,N
+443,"18,437",Box Score,"Mon, Dec 17, 2018",,7:30p,110,New York Knicks,,128,Phoenix Suns,N
+444,"18,055",Box Score,"Mon, Dec 17, 2018",,8:00p,102,Houston Rockets,,97,Utah Jazz,N
+445,"12,417",Box Score,"Mon, Dec 17, 2018",,8:00p,132,Minnesota Timberwolves,,105,Sacramento Kings,N
+446,"18,203",Box Score,"Mon, Dec 17, 2018",,8:00p,121,Oklahoma City Thunder,,96,Chicago Bulls,N
+447,"17,486",Box Score,"Mon, Dec 17, 2018",,8:30p,123,San Antonio Spurs,,96,Philadelphia 76ers,N
+448,"19,596",Box Score,"Mon, Dec 17, 2018",,10:30p,110,Golden State Warriors,,93,Memphis Grizzlies,N
+449,"16,030",Box Score,"Mon, Dec 17, 2018",,10:30p,127,Los Angeles Clippers,,131,Portland Trail Blazers,N
+450,"15,630",Box Score,"Tue, Dec 18, 2018",,7:00p,91,Indiana Pacers,,92,Cleveland Cavaliers,N
+451,"16,489",Box Score,"Tue, Dec 18, 2018",,7:30p,118,Atlanta Hawks,,110,Washington Wizards,N
+452,"17,732",Box Score,"Tue, Dec 18, 2018",,7:30p,115,Brooklyn Nets,,110,Los Angeles Lakers,N
+453,"15,764",Box Score,"Tue, Dec 18, 2018",,9:00p,126,Denver Nuggets,,118,Dallas Mavericks,N
+454,"15,179",Box Score,"Wed, Dec 19, 2018",,7:00p,110,Charlotte Hornets,,99,Cleveland Cavaliers,N
+455,"17,138",Box Score,"Wed, Dec 19, 2018",,7:00p,90,Orlando Magic,,129,San Antonio Spurs,N
+456,"20,424",Box Score,"Wed, Dec 19, 2018",,7:00p,131,Philadelphia 76ers,,109,New York Knicks,N
+457,"18,624",Box Score,"Wed, Dec 19, 2018",,7:30p,103,Boston Celtics,,111,Phoenix Suns,N
+458,"19,800",Box Score,"Wed, Dec 19, 2018",,7:30p,99,Toronto Raptors,,96,Indiana Pacers,N
+459,"18,065",Box Score,"Wed, Dec 19, 2018",,8:00p,93,Chicago Bulls,,96,Brooklyn Nets,N
+460,"18,055",Box Score,"Wed, Dec 19, 2018",,8:00p,136,Houston Rockets,,118,Washington Wizards,N
+461,"17,341",Box Score,"Wed, Dec 19, 2018",,8:00p,123,Milwaukee Bucks,,115,New Orleans Pelicans,N
+462,"15,883",Box Score,"Wed, Dec 19, 2018",,8:00p,123,Minnesota Timberwolves,OT,129,Detroit Pistons,N
+463,"18,306",Box Score,"Wed, Dec 19, 2018",,9:00p,108,Utah Jazz,,103,Golden State Warriors,N
+464,"19,412",Box Score,"Wed, Dec 19, 2018",,10:00p,99,Portland Trail Blazers,,92,Memphis Grizzlies,N
+465,"17,583",Box Score,"Wed, Dec 19, 2018",,10:00p,113,Sacramento Kings,,132,Oklahoma City Thunder,N
+466,"19,600",Box Score,"Thu, Dec 20, 2018",,8:00p,101,Miami Heat,,99,Houston Rockets,N
+467,"17,528",Box Score,"Thu, Dec 20, 2018",,10:30p,125,Los Angeles Clippers,,121,Dallas Mavericks,N
+468,"15,812",Box Score,"Fri, Dec 21, 2018",,7:00p,98,Charlotte Hornets,,86,Detroit Pistons,N
+469,"19,800",Box Score,"Fri, Dec 21, 2018",,7:00p,126,Toronto Raptors,,110,Cleveland Cavaliers,N
+470,"13,302",Box Score,"Fri, Dec 21, 2018",,7:30p,106,Brooklyn Nets,,114,Indiana Pacers,N
+471,"19,080",Box Score,"Fri, Dec 21, 2018",,7:30p,107,New York Knicks,,114,Atlanta Hawks,N
+472,"18,624",Box Score,"Fri, Dec 21, 2018",,8:00p,107,Boston Celtics,,120,Milwaukee Bucks,N
+473,"20,436",Box Score,"Fri, Dec 21, 2018",,8:00p,90,Chicago Bulls,,80,Orlando Magic,N
+474,"17,708",Box Score,"Fri, Dec 21, 2018",,8:30p,124,San Antonio Spurs,,98,Minnesota Timberwolves,N
+475,"19,127",Box Score,"Fri, Dec 21, 2018",,10:00p,90,Portland Trail Blazers,,120,Utah Jazz,N
+476,"16,369",Box Score,"Fri, Dec 21, 2018",,10:00p,102,Sacramento Kings,,99,Memphis Grizzlies,N
+477,"18,997",Box Score,"Fri, Dec 21, 2018",,10:30p,112,Los Angeles Lakers,,104,New Orleans Pelicans,N
+478,"16,571",Box Score,"Sat, Dec 22, 2018",,5:00p,132,Los Angeles Clippers,,111,Denver Nuggets,N
+479,"16,571",Box Score,"Sat, Dec 22, 2018",,7:00p,149,Washington Wizards,3OT,146,Phoenix Suns,N
+480,"20,691",Box Score,"Sat, Dec 22, 2018",,7:30p,126,Philadelphia 76ers,,101,Toronto Raptors,N
+481,"18,055",Box Score,"Sat, Dec 22, 2018",,8:00p,108,Houston Rockets,,101,San Antonio Spurs,N
+482,"19,600",Box Score,"Sat, Dec 22, 2018",,8:00p,94,Miami Heat,,87,Milwaukee Bucks,N
+483,"19,596",Box Score,"Sat, Dec 22, 2018",,8:30p,120,Golden State Warriors,,116,Dallas Mavericks,N
+484,"18,306",Box Score,"Sat, Dec 22, 2018",,9:00p,106,Utah Jazz,,107,Oklahoma City Thunder,N
+485,"16,532",Box Score,"Sun, Dec 23, 2018",,4:00p,95,Detroit Pistons,,98,Atlanta Hawks,N
+486,"17,923",Box Score,"Sun, Dec 23, 2018",,5:00p,105,Indiana Pacers,,89,Washington Wizards,N
+487,"18,624",Box Score,"Sun, Dec 23, 2018",,6:00p,119,Boston Celtics,,103,Charlotte Hornets,N
+488,"15,310",Box Score,"Sun, Dec 23, 2018",,6:00p,111,Brooklyn Nets,,103,Phoenix Suns,N
+489,"19,432",Box Score,"Sun, Dec 23, 2018",,6:00p,92,Cleveland Cavaliers,,112,Chicago Bulls,N
+490,"18,846",Box Score,"Sun, Dec 23, 2018",,6:00p,91,Orlando Magic,,115,Miami Heat,N
+491,"16,643",Box Score,"Sun, Dec 23, 2018",,6:00p,122,Sacramento Kings,,117,New Orleans Pelicans,N
+492,"18,203",Box Score,"Sun, Dec 23, 2018",,8:00p,112,Oklahoma City Thunder,,114,Minnesota Timberwolves,N
+493,"19,596",Box Score,"Sun, Dec 23, 2018",,8:30p,129,Golden State Warriors,,127,Los Angeles Clippers,N
+494,"19,707",Box Score,"Sun, Dec 23, 2018",,9:00p,121,Portland Trail Blazers,OT,118,Dallas Mavericks,N
+495,"18,997",Box Score,"Sun, Dec 23, 2018",,9:30p,99,Los Angeles Lakers,,107,Memphis Grizzlies,N
+496,"19,812",Box Score,"Tue, Dec 25, 2018",,12:00p,95,New York Knicks,,109,Milwaukee Bucks,N
+497,"18,055",Box Score,"Tue, Dec 25, 2018",,3:00p,113,Houston Rockets,,109,Oklahoma City Thunder,N
+498,"18,624",Box Score,"Tue, Dec 25, 2018",,5:30p,121,Boston Celtics,OT,114,Philadelphia 76ers,N
+499,"19,596",Box Score,"Tue, Dec 25, 2018",,8:00p,101,Golden State Warriors,,127,Los Angeles Lakers,N
+500,"18,306",Box Score,"Tue, Dec 25, 2018",,10:30p,117,Utah Jazz,,96,Portland Trail Blazers,N
+501,"17,534",Box Score,"Wed, Dec 26, 2018",,7:00p,106,Detroit Pistons,,95,Washington Wizards,N
+502,"16,755",Box Score,"Wed, Dec 26, 2018",,7:00p,120,Orlando Magic,OT,122,Phoenix Suns,N
+503,"15,026",Box Score,"Wed, Dec 26, 2018",,7:30p,121,Atlanta Hawks,,129,Indiana Pacers,N
+504,"14,309",Box Score,"Wed, Dec 26, 2018",,7:30p,134,Brooklyn Nets,2OT,132,Charlotte Hornets,N
+505,"19,902",Box Score,"Wed, Dec 26, 2018",,7:30p,104,Miami Heat,,106,Toronto Raptors,N
+506,"21,852",Box Score,"Wed, Dec 26, 2018",,8:00p,94,Chicago Bulls,,119,Minnesota Timberwolves,N
+507,"16,424",Box Score,"Wed, Dec 26, 2018",,8:00p,95,Memphis Grizzlies,,87,Cleveland Cavaliers,N
+508,"20,340",Box Score,"Wed, Dec 26, 2018",,8:30p,122,Dallas Mavericks,,119,New Orleans Pelicans,N
+509,"18,408",Box Score,"Wed, Dec 26, 2018",,8:30p,111,San Antonio Spurs,,103,Denver Nuggets,N
+510,"19,068",Box Score,"Wed, Dec 26, 2018",,10:30p,127,Los Angeles Clippers,,118,Sacramento Kings,N
+511,"18,055",Box Score,"Thu, Dec 27, 2018",,8:00p,127,Houston Rockets,,113,Boston Celtics,N
+512,"18,058",Box Score,"Thu, Dec 27, 2018",,8:00p,112,Milwaukee Bucks,,96,New York Knicks,N
+513,"17,583",Box Score,"Thu, Dec 27, 2018",,10:00p,117,Sacramento Kings,,116,Los Angeles Lakers,N
+514,"19,596",Box Score,"Thu, Dec 27, 2018",,10:30p,109,Golden State Warriors,OT,110,Portland Trail Blazers,N
+515,"18,306",Box Score,"Thu, Dec 27, 2018",,10:30p,97,Utah Jazz,,114,Philadelphia 76ers,N
+516,"19,411",Box Score,"Fri, Dec 28, 2018",,7:00p,100,Charlotte Hornets,,87,Brooklyn Nets,N
+517,"17,923",Box Score,"Fri, Dec 28, 2018",,7:00p,125,Indiana Pacers,,88,Detroit Pistons,N
+518,"18,846",Box Score,"Fri, Dec 28, 2018",,7:00p,116,Orlando Magic,,87,Toronto Raptors,N
+519,"20,409",Box Score,"Fri, Dec 28, 2018",,7:00p,92,Washington Wizards,,101,Chicago Bulls,N
+520,"19,617",Box Score,"Fri, Dec 28, 2018",,8:00p,118,Miami Heat,,94,Cleveland Cavaliers,N
+521,"18,978",Box Score,"Fri, Dec 28, 2018",,8:00p,120,Minnesota Timberwolves,OT,123,Atlanta Hawks,N
+522,"18,364",Box Score,"Fri, Dec 28, 2018",,8:00p,114,New Orleans Pelicans,,112,Dallas Mavericks,N
+523,"20,076",Box Score,"Fri, Dec 28, 2018",,9:00p,102,Denver Nuggets,,99,San Antonio Spurs,N
+524,"18,055",Box Score,"Fri, Dec 28, 2018",,9:00p,102,Phoenix Suns,,118,Oklahoma City Thunder,N
+525,"18,997",Box Score,"Fri, Dec 28, 2018",,10:30p,107,Los Angeles Lakers,,118,Los Angeles Clippers,N
+526,"17,918",Box Score,"Sat, Dec 29, 2018",,5:00p,129,Milwaukee Bucks,,115,Brooklyn Nets,N
+527,"17,555",Box Score,"Sat, Dec 29, 2018",,7:00p,104,New Orleans Pelicans,,108,Houston Rockets,N
+528,"17,197",Box Score,"Sat, Dec 29, 2018",,7:00p,130,Washington Wizards,,126,Charlotte Hornets,N
+529,"16,460",Box Score,"Sat, Dec 29, 2018",,7:30p,111,Atlanta Hawks,,108,Cleveland Cavaliers,N
+530,"17,794",Box Score,"Sat, Dec 29, 2018",,8:00p,103,Memphis Grizzlies,,112,Boston Celtics,N
+531,"18,306",Box Score,"Sat, Dec 29, 2018",,8:00p,129,Utah Jazz,,97,New York Knicks,N
+532,"14,975",Box Score,"Sat, Dec 29, 2018",,9:00p,118,Phoenix Suns,,122,Denver Nuggets,N
+533,"19,797",Box Score,"Sat, Dec 29, 2018",,10:00p,105,Portland Trail Blazers,,115,Golden State Warriors,N
+534,"19,068",Box Score,"Sat, Dec 29, 2018",,10:30p,111,Los Angeles Clippers,,122,San Antonio Spurs,N
+535,"17,761",Box Score,"Sun, Dec 30, 2018",,3:30p,109,Orlando Magic,,107,Detroit Pistons,N
+536,"19,600",Box Score,"Sun, Dec 30, 2018",,6:00p,104,Miami Heat,,113,Minnesota Timberwolves,N
+537,"19,800",Box Score,"Sun, Dec 30, 2018",,6:00p,95,Toronto Raptors,,89,Chicago Bulls,N
+538,"20,380",Box Score,"Sun, Dec 30, 2018",,7:00p,105,Dallas Mavericks,,103,Oklahoma City Thunder,N
+539,"19,393",Box Score,"Sun, Dec 30, 2018",,9:00p,129,Portland Trail Blazers,,95,Philadelphia 76ers,N
+540,"18,997",Box Score,"Sun, Dec 30, 2018",,9:30p,121,Los Angeles Lakers,,114,Sacramento Kings,N
+541,"17,923",Box Score,"Mon, Dec 31, 2018",,3:00p,116,Indiana Pacers,,108,Atlanta Hawks,N
+542,"14,694",Box Score,"Mon, Dec 31, 2018",,6:00p,125,Charlotte Hornets,,100,Orlando Magic,N
+543,"18,055",Box Score,"Mon, Dec 31, 2018",,7:00p,113,Houston Rockets,,101,Memphis Grizzlies,N
+544,"18,354",Box Score,"Mon, Dec 31, 2018",,7:00p,120,San Antonio Spurs,,111,Boston Celtics,N
+545,"14,904",Box Score,"Mon, Dec 31, 2018",,8:00p,123,New Orleans Pelicans,,114,Minnesota Timberwolves,N
+546,"18,203",Box Score,"Mon, Dec 31, 2018",,8:00p,122,Oklahoma City Thunder,,102,Dallas Mavericks,N
+547,"16,906",Box Score,"Mon, Dec 31, 2018",,9:00p,109,Phoenix Suns,,132,Golden State Warriors,N
+548,"19,800",Box Score,"Tue, Jan 1, 2019",,7:30p,122,Toronto Raptors,,116,Utah Jazz,N
+549,"17,534",Box Score,"Tue, Jan 1, 2019",,8:00p,121,Milwaukee Bucks,,98,Detroit Pistons,N
+550,"19,520",Box Score,"Tue, Jan 1, 2019",,9:00p,115,Denver Nuggets,,108,New York Knicks,N
+551,"17,583",Box Score,"Tue, Jan 1, 2019",,9:00p,108,Sacramento Kings,OT,113,Portland Trail Blazers,N
+552,"17,868",Box Score,"Tue, Jan 1, 2019",,10:30p,113,Los Angeles Clippers,,119,Philadelphia 76ers,N
+553,"16,955",Box Score,"Wed, Jan 2, 2019",,7:00p,84,Charlotte Hornets,,122,Dallas Mavericks,N
+554,"19,432",Box Score,"Wed, Jan 2, 2019",,7:00p,92,Cleveland Cavaliers,,117,Miami Heat,N
+555,"15,324",Box Score,"Wed, Jan 2, 2019",,7:00p,114,Washington Wizards,,98,Atlanta Hawks,N
+556,"16,890",Box Score,"Wed, Jan 2, 2019",,7:30p,126,Brooklyn Nets,,121,New Orleans Pelicans,N
+557,"18,624",Box Score,"Wed, Jan 2, 2019",,8:00p,115,Boston Celtics,,102,Minnesota Timberwolves,N
+558,"19,013",Box Score,"Wed, Jan 2, 2019",,8:00p,84,Chicago Bulls,,112,Orlando Magic,N
+559,"14,109",Box Score,"Wed, Jan 2, 2019",,8:00p,94,Memphis Grizzlies,,101,Detroit Pistons,N
+560,"15,226",Box Score,"Wed, Jan 2, 2019",,9:00p,127,Phoenix Suns,,132,Philadelphia 76ers,N
+561,"18,997",Box Score,"Wed, Jan 2, 2019",,10:30p,100,Los Angeles Lakers,,107,Oklahoma City Thunder,N
+562,"18,354",Box Score,"Thu, Jan 3, 2019",,8:00p,125,San Antonio Spurs,,107,Toronto Raptors,N
+563,"17,583",Box Score,"Thu, Jan 3, 2019",,10:00p,113,Sacramento Kings,,117,Denver Nuggets,N
+564,"19,596",Box Score,"Thu, Jan 3, 2019",,10:30p,134,Golden State Warriors,OT,135,Houston Rockets,N
+565,"19,432",Box Score,"Fri, Jan 4, 2019",,7:30p,91,Cleveland Cavaliers,,117,Utah Jazz,N
+566,"18,624",Box Score,"Fri, Jan 4, 2019",,8:00p,114,Boston Celtics,,93,Dallas Mavericks,N
+567,"21,284",Box Score,"Fri, Jan 4, 2019",,8:00p,116,Chicago Bulls,OT,119,Indiana Pacers,N
+568,"16,683",Box Score,"Fri, Jan 4, 2019",,8:00p,100,Memphis Grizzlies,,109,Brooklyn Nets,N
+569,"19,600",Box Score,"Fri, Jan 4, 2019",,8:00p,115,Miami Heat,,109,Washington Wizards,N
+570,"14,355",Box Score,"Fri, Jan 4, 2019",,8:00p,120,Minnesota Timberwolves,,103,Orlando Magic,N
+571,"17,632",Box Score,"Fri, Jan 4, 2019",,8:30p,144,Milwaukee Bucks,,112,Atlanta Hawks,N
+572,"14,764",Box Score,"Fri, Jan 4, 2019",,9:00p,111,Phoenix Suns,,121,Los Angeles Clippers,N
+573,"18,997",Box Score,"Fri, Jan 4, 2019",,10:30p,112,Los Angeles Lakers,,119,New York Knicks,N
+574,"19,393",Box Score,"Fri, Jan 4, 2019",,10:30p,109,Portland Trail Blazers,,111,Oklahoma City Thunder,N
+575,"19,861",Box Score,"Sat, Jan 5, 2019",,5:00p,123,Denver Nuggets,,110,Charlotte Hornets,N
+576,"17,255",Box Score,"Sat, Jan 5, 2019",,7:00p,105,Detroit Pistons,,110,Utah Jazz,N
+577,"20,656",Box Score,"Sat, Jan 5, 2019",,7:30p,106,Philadelphia 76ers,,100,Dallas Mavericks,N
+578,"19,432",Box Score,"Sat, Jan 5, 2019",,8:00p,98,Cleveland Cavaliers,,133,New Orleans Pelicans,N
+579,"18,028",Box Score,"Sat, Jan 5, 2019",,8:30p,116,Milwaukee Bucks,,123,Toronto Raptors,N
+580,"18,354",Box Score,"Sat, Jan 5, 2019",,8:30p,108,San Antonio Spurs,,88,Memphis Grizzlies,N
+581,"19,577",Box Score,"Sat, Jan 5, 2019",,10:00p,110,Portland Trail Blazers,,101,Houston Rockets,N
+582,"17,583",Box Score,"Sat, Jan 5, 2019",,10:00p,123,Sacramento Kings,,127,Golden State Warriors,N
+583,"19,265",Box Score,"Sun, Jan 6, 2019",,3:30p,100,Chicago Bulls,,117,Brooklyn Nets,N
+584,"16,616",Box Score,"Sun, Jan 6, 2019",,3:30p,106,Los Angeles Clippers,,96,Orlando Magic,N
+585,"18,978",Box Score,"Sun, Jan 6, 2019",,3:30p,108,Minnesota Timberwolves,,86,Los Angeles Lakers,N
+586,"16,630",Box Score,"Sun, Jan 6, 2019",,6:00p,106,Atlanta Hawks,,82,Miami Heat,N
+587,"18,203",Box Score,"Sun, Jan 6, 2019",,7:00p,98,Oklahoma City Thunder,,116,Washington Wizards,N
+588,"19,800",Box Score,"Sun, Jan 6, 2019",,7:30p,121,Toronto Raptors,,105,Indiana Pacers,N
+589,"13,110",Box Score,"Sun, Jan 6, 2019",,8:00p,113,Phoenix Suns,,119,Charlotte Hornets,N
+590,"13,107",Box Score,"Mon, Jan 7, 2019",,7:00p,107,Detroit Pistons,,119,San Antonio Spurs,N
+591,"18,624",Box Score,"Mon, Jan 7, 2019",,7:30p,116,Boston Celtics,,95,Brooklyn Nets,N
+592,"18,055",Box Score,"Mon, Jan 7, 2019",,8:00p,125,Houston Rockets,,113,Denver Nuggets,N
+593,"17,341",Box Score,"Mon, Jan 7, 2019",,8:00p,114,Milwaukee Bucks,,102,Utah Jazz,N
+594,"14,624",Box Score,"Mon, Jan 7, 2019",,8:00p,114,New Orleans Pelicans,,95,Memphis Grizzlies,N
+595,"20,354",Box Score,"Mon, Jan 7, 2019",,8:30p,97,Dallas Mavericks,,107,Los Angeles Lakers,N
+596,"19,026",Box Score,"Mon, Jan 7, 2019",,10:00p,111,Portland Trail Blazers,,101,New York Knicks,N
+597,"15,724",Box Score,"Mon, Jan 7, 2019",,10:00p,111,Sacramento Kings,,95,Orlando Magic,N
+598,"19,432",Box Score,"Tue, Jan 8, 2019",,7:00p,115,Cleveland Cavaliers,,123,Indiana Pacers,N
+599,"20,446",Box Score,"Tue, Jan 8, 2019",,7:00p,132,Philadelphia 76ers,,115,Washington Wizards,N
+600,"19,600",Box Score,"Tue, Jan 8, 2019",,7:30p,99,Miami Heat,,103,Denver Nuggets,N
+601,"19,800",Box Score,"Tue, Jan 8, 2019",,7:30p,104,Toronto Raptors,,101,Atlanta Hawks,N
+602,"18,203",Box Score,"Tue, Jan 8, 2019",,8:00p,117,Oklahoma City Thunder,,119,Minnesota Timberwolves,N
+603,"13,977",Box Score,"Tue, Jan 8, 2019",,9:00p,115,Phoenix Suns,,111,Sacramento Kings,N
+604,"19,596",Box Score,"Tue, Jan 8, 2019",,10:30p,122,Golden State Warriors,,95,New York Knicks,N
+605,"15,275",Box Score,"Tue, Jan 8, 2019",,10:30p,128,Los Angeles Clippers,,109,Charlotte Hornets,N
+606,"18,624",Box Score,"Wed, Jan 9, 2019",,7:00p,135,Boston Celtics,,108,Indiana Pacers,N
+607,"18,039",Box Score,"Wed, Jan 9, 2019",,7:00p,123,Washington Wizards,,106,Philadelphia 76ers,N
+608,"14,531",Box Score,"Wed, Jan 9, 2019",,7:30p,116,Brooklyn Nets,,100,Atlanta Hawks,N
+609,"18,055",Box Score,"Wed, Jan 9, 2019",,8:00p,109,Houston Rockets,,116,Milwaukee Bucks,N
+610,"13,944",Box Score,"Wed, Jan 9, 2019",,8:00p,96,Memphis Grizzlies,,86,San Antonio Spurs,N
+611,"15,058",Box Score,"Wed, Jan 9, 2019",,8:00p,140,New Orleans Pelicans,,124,Cleveland Cavaliers,N
+612,"19,596",Box Score,"Wed, Jan 9, 2019",,8:30p,104,Dallas Mavericks,,94,Phoenix Suns,N
+613,"18,306",Box Score,"Wed, Jan 9, 2019",,9:00p,106,Utah Jazz,,93,Orlando Magic,N
+614,"19,393",Box Score,"Wed, Jan 9, 2019",,10:00p,124,Portland Trail Blazers,,112,Chicago Bulls,N
+615,"18,997",Box Score,"Wed, Jan 9, 2019",,10:30p,113,Los Angeles Lakers,,100,Detroit Pistons,N
+616,"19,600",Box Score,"Thu, Jan 10, 2019",,7:00p,115,Miami Heat,,99,Boston Celtics,N
+617,"15,742",Box Score,"Thu, Jan 10, 2019",,9:00p,121,Denver Nuggets,,100,Los Angeles Clippers,N
+618,"18,354",Box Score,"Thu, Jan 10, 2019",,9:30p,154,San Antonio Spurs,2OT,147,Oklahoma City Thunder,N
+619,"16,916",Box Score,"Thu, Jan 10, 2019",,10:00p,112,Sacramento Kings,,102,Detroit Pistons,N
+620,"20,487",Box Score,"Fri, Jan 11, 2019",,7:00p,121,Philadelphia 76ers,,123,Atlanta Hawks,N
+621,"17,996",Box Score,"Fri, Jan 11, 2019",,7:00p,113,Washington Wizards,,106,Milwaukee Bucks,N
+622,"19,812",Box Score,"Fri, Jan 11, 2019",,7:30p,106,New York Knicks,,121,Indiana Pacers,N
+623,"19,800",Box Score,"Fri, Jan 11, 2019",,7:30p,122,Toronto Raptors,,105,Brooklyn Nets,N
+624,"18,055",Box Score,"Fri, Jan 11, 2019",,8:00p,141,Houston Rockets,,113,Cleveland Cavaliers,N
+625,"18,978",Box Score,"Fri, Jan 11, 2019",,8:00p,115,Minnesota Timberwolves,,119,Dallas Mavericks,N
+626,"19,393",Box Score,"Fri, Jan 11, 2019",,10:00p,127,Portland Trail Blazers,,96,Charlotte Hornets,N
+627,"18,306",Box Score,"Fri, Jan 11, 2019",,10:00p,113,Utah Jazz,,95,Los Angeles Lakers,N
+628,"19,596",Box Score,"Fri, Jan 11, 2019",,10:30p,146,Golden State Warriors,,109,Chicago Bulls,N
+629,"16,540",Box Score,"Sat, Jan 12, 2019",,3:30p,104,Los Angeles Clippers,,109,Detroit Pistons,N
+630,"19,600",Box Score,"Sat, Jan 12, 2019",,5:00p,112,Miami Heat,,108,Memphis Grizzlies,N
+631,"18,846",Box Score,"Sat, Jan 12, 2019",,7:00p,105,Orlando Magic,,103,Boston Celtics,N
+632,"16,384",Box Score,"Sat, Jan 12, 2019",,8:00p,110,Minnesota Timberwolves,,106,New Orleans Pelicans,N
+633,"18,203",Box Score,"Sat, Jan 12, 2019",,8:00p,122,Oklahoma City Thunder,,112,San Antonio Spurs,N
+634,"15,246",Box Score,"Sat, Jan 12, 2019",,9:00p,102,Phoenix Suns,,93,Denver Nuggets,N
+635,"17,853",Box Score,"Sat, Jan 12, 2019",,10:00p,104,Sacramento Kings,,97,Charlotte Hornets,N
+636,"18,306",Box Score,"Sat, Jan 12, 2019",,10:00p,110,Utah Jazz,,102,Chicago Bulls,N
+637,"18,596",Box Score,"Sun, Jan 13, 2019",,1:00p,105,New York Knicks,,108,Philadelphia 76ers,N
+638,"16,919",Box Score,"Sun, Jan 13, 2019",,1:00p,138,Washington Wizards,2OT,140,Toronto Raptors,N
+639,"16,292",Box Score,"Sun, Jan 13, 2019",,3:30p,114,Atlanta Hawks,,133,Milwaukee Bucks,N
+640,"16,982",Box Score,"Sun, Jan 13, 2019",,6:00p,116,Orlando Magic,,109,Houston Rockets,N
+641,"20,340",Box Score,"Sun, Jan 13, 2019",,7:00p,114,Dallas Mavericks,,119,Golden State Warriors,N
+642,"19,520",Box Score,"Sun, Jan 13, 2019",,8:00p,116,Denver Nuggets,,113,Portland Trail Blazers,N
+643,"18,997",Box Score,"Sun, Jan 13, 2019",,9:30p,95,Los Angeles Lakers,,101,Cleveland Cavaliers,N
+644,"16,247",Box Score,"Mon, Jan 14, 2019",,7:30p,109,Brooklyn Nets,,102,Boston Celtics,N
+645,"18,055",Box Score,"Mon, Jan 14, 2019",,8:00p,112,Houston Rockets,,94,Memphis Grizzlies,N
+646,"18,354",Box Score,"Mon, Jan 14, 2019",,8:30p,93,San Antonio Spurs,,108,Charlotte Hornets,N
+647,"18,306",Box Score,"Mon, Jan 14, 2019",,9:00p,100,Utah Jazz,,94,Detroit Pistons,N
+648,"17,583",Box Score,"Mon, Jan 14, 2019",,10:00p,115,Sacramento Kings,,107,Portland Trail Blazers,N
+649,"15,283",Box Score,"Mon, Jan 14, 2019",,10:30p,117,Los Angeles Clippers,,121,New Orleans Pelicans,N
+650,"15,698",Box Score,"Tue, Jan 15, 2019",,7:00p,131,Indiana Pacers,,97,Phoenix Suns,N
+651,"20,265",Box Score,"Tue, Jan 15, 2019",,7:00p,149,Philadelphia 76ers,,107,Minnesota Timberwolves,N
+652,"15,045",Box Score,"Tue, Jan 15, 2019",,7:30p,142,Atlanta Hawks,,126,Oklahoma City Thunder,N
+653,"17,626",Box Score,"Tue, Jan 15, 2019",,8:00p,124,Milwaukee Bucks,,86,Miami Heat,N
+654,"19,896",Box Score,"Tue, Jan 15, 2019",,9:00p,111,Denver Nuggets,,142,Golden State Warriors,N
+655,"18,997",Box Score,"Tue, Jan 15, 2019",,10:30p,107,Los Angeles Lakers,,100,Chicago Bulls,N
+656,"14,019",Box Score,"Wed, Jan 16, 2019",,7:00p,120,Detroit Pistons,OT,115,Orlando Magic,N
+657,"18,624",Box Score,"Wed, Jan 16, 2019",,8:00p,117,Boston Celtics,,108,Toronto Raptors,N
+658,"18,055",Box Score,"Wed, Jan 16, 2019",,8:00p,142,Houston Rockets,OT,145,Brooklyn Nets,N
+659,"14,921",Box Score,"Wed, Jan 16, 2019",,8:00p,101,Memphis Grizzlies,,111,Milwaukee Bucks,N
+660,"20,214",Box Score,"Wed, Jan 16, 2019",,8:30p,101,Dallas Mavericks,,105,San Antonio Spurs,N
+661,"19,089",Box Score,"Wed, Jan 16, 2019",,10:00p,129,Portland Trail Blazers,,112,Cleveland Cavaliers,N
+662,"19,596",Box Score,"Wed, Jan 16, 2019",,10:30p,147,Golden State Warriors,,140,New Orleans Pelicans,N
+663,"15,535",Box Score,"Wed, Jan 16, 2019",,10:30p,109,Los Angeles Clippers,,129,Utah Jazz,N
+664,"19,078",Box Score,"Thu, Jan 17, 2019","at London, England",3:00p,101,Washington Wizards,,100,New York Knicks,N
+665,"15,431",Box Score,"Thu, Jan 17, 2019",,7:00p,114,Charlotte Hornets,,95,Sacramento Kings,N
+666,"16,007",Box Score,"Thu, Jan 17, 2019",,7:00p,96,Indiana Pacers,,120,Philadelphia 76ers,N
+667,"19,800",Box Score,"Thu, Jan 17, 2019",,7:30p,111,Toronto Raptors,,109,Phoenix Suns,N
+668,"17,289",Box Score,"Thu, Jan 17, 2019",,9:00p,135,Denver Nuggets,,105,Chicago Bulls,N
+669,"18,203",Box Score,"Thu, Jan 17, 2019",,9:30p,128,Oklahoma City Thunder,OT,138,Los Angeles Lakers,N
+670,"18,624",Box Score,"Fri, Jan 18, 2019",,7:00p,122,Boston Celtics,,116,Memphis Grizzlies,N
+671,"17,228",Box Score,"Fri, Jan 18, 2019",,7:00p,98,Detroit Pistons,,93,Miami Heat,N
+672,"17,840",Box Score,"Fri, Jan 18, 2019",,7:00p,115,Orlando Magic,,117,Brooklyn Nets,N
+673,"17,222",Box Score,"Fri, Jan 18, 2019",,8:00p,113,Minnesota Timberwolves,,116,San Antonio Spurs,N
+674,"18,306",Box Score,"Fri, Jan 18, 2019",,9:00p,115,Utah Jazz,,99,Cleveland Cavaliers,N
+675,"19,068",Box Score,"Fri, Jan 18, 2019",,10:30p,94,Los Angeles Clippers,,112,Golden State Warriors,N
+676,"19,598",Box Score,"Fri, Jan 18, 2019",,10:30p,128,Portland Trail Blazers,,112,New Orleans Pelicans,N
+677,"20,646",Box Score,"Sat, Jan 19, 2019",,3:30p,115,Philadelphia 76ers,,117,Oklahoma City Thunder,N
+678,"19,278",Box Score,"Sat, Jan 19, 2019",,5:00p,135,Charlotte Hornets,,115,Phoenix Suns,N
+679,"15,377",Box Score,"Sat, Jan 19, 2019",,7:00p,101,Detroit Pistons,,103,Sacramento Kings,N
+680,"17,508",Box Score,"Sat, Jan 19, 2019",,7:00p,111,Indiana Pacers,,99,Dallas Mavericks,N
+681,"18,846",Box Score,"Sat, Jan 19, 2019",,7:00p,108,Orlando Magic,,118,Milwaukee Bucks,N
+682,"16,626",Box Score,"Sat, Jan 19, 2019",,7:30p,105,Atlanta Hawks,,113,Boston Celtics,N
+683,"19,800",Box Score,"Sat, Jan 19, 2019",,7:30p,119,Toronto Raptors,,90,Memphis Grizzlies,N
+684,"20,926",Box Score,"Sat, Jan 19, 2019",,8:00p,103,Chicago Bulls,,117,Miami Heat,N
+685,"18,055",Box Score,"Sat, Jan 19, 2019",,8:30p,138,Houston Rockets,OT,134,Los Angeles Lakers,N
+686,"19,520",Box Score,"Sat, Jan 19, 2019",,10:00p,124,Denver Nuggets,,102,Cleveland Cavaliers,N
+687,"15,015",Box Score,"Sun, Jan 20, 2019",,6:00p,120,Indiana Pacers,,95,Charlotte Hornets,N
+688,"14,607",Box Score,"Sun, Jan 20, 2019",,7:00p,116,Minnesota Timberwolves,,114,Phoenix Suns,N
+689,"18,354",Box Score,"Sun, Jan 20, 2019",,7:00p,95,San Antonio Spurs,,103,Los Angeles Clippers,N
+690,"19,493",Box Score,"Mon, Jan 21, 2019",,12:30p,109,New York Knicks,,127,Oklahoma City Thunder,N
+691,"19,432",Box Score,"Mon, Jan 21, 2019",,1:00p,88,Cleveland Cavaliers,,104,Chicago Bulls,N
+692,"17,963",Box Score,"Mon, Jan 21, 2019",,2:00p,116,Milwaukee Bucks,,106,Dallas Mavericks,N
+693,"16,229",Box Score,"Mon, Jan 21, 2019",,2:00p,101,Washington Wizards,,87,Detroit Pistons,N
+694,"16,611",Box Score,"Mon, Jan 21, 2019",,3:00p,103,Atlanta Hawks,,122,Orlando Magic,N
+695,"14,233",Box Score,"Mon, Jan 21, 2019",,3:30p,123,Brooklyn Nets,,94,Sacramento Kings,N
+696,"17,794",Box Score,"Mon, Jan 21, 2019",,5:30p,85,Memphis Grizzlies,,105,New Orleans Pelicans,N
+697,"18,624",Box Score,"Mon, Jan 21, 2019",,6:00p,107,Boston Celtics,,99,Miami Heat,N
+698,"20,313",Box Score,"Mon, Jan 21, 2019",,8:00p,121,Philadelphia 76ers,,93,Houston Rockets,N
+699,"18,306",Box Score,"Mon, Jan 21, 2019",,9:00p,104,Utah Jazz,,109,Portland Trail Blazers,N
+700,"18,997",Box Score,"Mon, Jan 21, 2019",,10:30p,111,Los Angeles Lakers,,130,Golden State Warriors,N
+701,"19,800",Box Score,"Tue, Jan 22, 2019",,7:00p,120,Toronto Raptors,,105,Sacramento Kings,N
+702,"18,203",Box Score,"Tue, Jan 22, 2019",,8:00p,123,Oklahoma City Thunder,,114,Portland Trail Blazers,N
+703,"19,466",Box Score,"Tue, Jan 22, 2019",,8:30p,106,Dallas Mavericks,,98,Los Angeles Clippers,N
+704,"14,460",Box Score,"Tue, Jan 22, 2019",,9:00p,91,Phoenix Suns,,118,Minnesota Timberwolves,N
+705,"16,879",Box Score,"Wed, Jan 23, 2019",,7:00p,110,Indiana Pacers,,106,Toronto Raptors,N
+706,"18,624",Box Score,"Wed, Jan 23, 2019",,7:30p,123,Boston Celtics,,103,Cleveland Cavaliers,N
+707,"13,185",Box Score,"Wed, Jan 23, 2019",,7:30p,114,Brooklyn Nets,,110,Orlando Magic,N
+708,"19,600",Box Score,"Wed, Jan 23, 2019",,7:30p,99,Miami Heat,,111,Los Angeles Clippers,N
+709,"18,819",Box Score,"Wed, Jan 23, 2019",,7:30p,110,New York Knicks,,114,Houston Rockets,N
+710,"18,223",Box Score,"Wed, Jan 23, 2019",,8:00p,101,Chicago Bulls,,121,Atlanta Hawks,N
+711,"12,863",Box Score,"Wed, Jan 23, 2019",,8:00p,107,Memphis Grizzlies,,118,Charlotte Hornets,N
+712,"18,181",Box Score,"Wed, Jan 23, 2019",,8:00p,94,New Orleans Pelicans,,98,Detroit Pistons,N
+713,"20,339",Box Score,"Wed, Jan 23, 2019",,8:00p,122,Philadelphia 76ers,,120,San Antonio Spurs,N
+714,"18,306",Box Score,"Wed, Jan 23, 2019",,10:30p,114,Utah Jazz,,108,Denver Nuggets,N
+715,"18,203",Box Score,"Thu, Jan 24, 2019",,8:00p,122,Oklahoma City Thunder,,116,New Orleans Pelicans,N
+716,"20,409",Box Score,"Thu, Jan 24, 2019",,8:00p,118,Washington Wizards,,126,Golden State Warriors,N
+717,"15,441",Box Score,"Thu, Jan 24, 2019",,9:00p,106,Phoenix Suns,,120,Portland Trail Blazers,N
+718,"18,997",Box Score,"Thu, Jan 24, 2019",,10:30p,105,Los Angeles Lakers,,120,Minnesota Timberwolves,N
+719,"17,216",Box Score,"Fri, Jan 25, 2019",,7:00p,91,Orlando Magic,,95,Washington Wizards,N
+720,"17,033",Box Score,"Fri, Jan 25, 2019",,7:30p,109,Brooklyn Nets,,99,New York Knicks,N
+721,"19,432",Box Score,"Fri, Jan 25, 2019",,7:30p,94,Cleveland Cavaliers,,100,Miami Heat,N
+722,"19,354",Box Score,"Fri, Jan 25, 2019",,8:00p,101,Chicago Bulls,,106,Los Angeles Clippers,N
+723,"18,055",Box Score,"Fri, Jan 25, 2019",,8:00p,121,Houston Rockets,,119,Toronto Raptors,N
+724,"14,486",Box Score,"Fri, Jan 25, 2019",,8:00p,96,Memphis Grizzlies,,99,Sacramento Kings,N
+725,"20,327",Box Score,"Fri, Jan 25, 2019",,8:30p,106,Dallas Mavericks,,101,Detroit Pistons,N
+726,"17,803",Box Score,"Fri, Jan 25, 2019",,8:30p,108,Milwaukee Bucks,,99,Charlotte Hornets,N
+727,"17,425",Box Score,"Fri, Jan 25, 2019",,9:00p,132,Denver Nuggets,,95,Phoenix Suns,N
+728,"18,306",Box Score,"Fri, Jan 25, 2019",,9:00p,106,Utah Jazz,,102,Minnesota Timberwolves,N
+729,"17,724",Box Score,"Sat, Jan 26, 2019",,6:00p,114,New Orleans Pelicans,,126,San Antonio Spurs,N
+730,"14,486",Box Score,"Sat, Jan 26, 2019",,8:00p,106,Memphis Grizzlies,,103,Indiana Pacers,N
+731,"18,624",Box Score,"Sat, Jan 26, 2019",,8:30p,111,Boston Celtics,,115,Golden State Warriors,N
+732,"19,673",Box Score,"Sat, Jan 26, 2019",,9:00p,126,Denver Nuggets,,110,Philadelphia 76ers,N
+733,"19,629",Box Score,"Sat, Jan 26, 2019",,10:00p,120,Portland Trail Blazers,,111,Atlanta Hawks,N
+734,"19,675",Box Score,"Sun, Jan 27, 2019",,3:30p,101,Chicago Bulls,,104,Cleveland Cavaliers,N
+735,"19,068",Box Score,"Sun, Jan 27, 2019",,3:30p,122,Los Angeles Clippers,,108,Sacramento Kings,N
+736,"18,203",Box Score,"Sun, Jan 27, 2019",,6:00p,118,Oklahoma City Thunder,,112,Milwaukee Bucks,N
+737,"20,308",Box Score,"Sun, Jan 27, 2019",,7:00p,120,Dallas Mavericks,,123,Toronto Raptors,N
+738,"18,055",Box Score,"Sun, Jan 27, 2019",,7:00p,103,Houston Rockets,,98,Orlando Magic,N
+739,"14,542",Box Score,"Sun, Jan 27, 2019",,7:00p,111,Minnesota Timberwolves,,125,Utah Jazz,N
+740,"18,354",Box Score,"Sun, Jan 27, 2019",,7:00p,132,San Antonio Spurs,,119,Washington Wizards,N
+741,"18,852",Box Score,"Sun, Jan 27, 2019",,7:30p,97,New York Knicks,,106,Miami Heat,N
+742,"18,997",Box Score,"Sun, Jan 27, 2019",,9:30p,116,Los Angeles Lakers,,102,Phoenix Suns,N
+743,"13,963",Box Score,"Mon, Jan 28, 2019",,7:00p,101,Charlotte Hornets,,92,New York Knicks,N
+744,"17,923",Box Score,"Mon, Jan 28, 2019",,7:00p,100,Indiana Pacers,,132,Golden State Warriors,N
+745,"18,624",Box Score,"Mon, Jan 28, 2019",,7:30p,112,Boston Celtics,,104,Brooklyn Nets,N
+746,"12,917",Box Score,"Mon, Jan 28, 2019",,8:00p,92,Memphis Grizzlies,,95,Denver Nuggets,N
+747,"17,382",Box Score,"Mon, Jan 28, 2019",,10:30p,118,Los Angeles Clippers,,123,Atlanta Hawks,N
+748,"19,432",Box Score,"Tue, Jan 29, 2019",,7:00p,116,Cleveland Cavaliers,,113,Washington Wizards,N
+749,"14,187",Box Score,"Tue, Jan 29, 2019",,7:00p,105,Detroit Pistons,,115,Milwaukee Bucks,N
+750,"16,341",Box Score,"Tue, Jan 29, 2019",,7:00p,117,Orlando Magic,,126,Oklahoma City Thunder,N
+751,"12,726",Box Score,"Tue, Jan 29, 2019",,7:30p,122,Brooklyn Nets,,117,Chicago Bulls,N
+752,"18,055",Box Score,"Tue, Jan 29, 2019",,8:00p,116,Houston Rockets,,121,New Orleans Pelicans,N
+753,"18,121",Box Score,"Tue, Jan 29, 2019",,8:30p,126,San Antonio Spurs,,124,Phoenix Suns,N
+754,"18,997",Box Score,"Tue, Jan 29, 2019",,10:30p,105,Los Angeles Lakers,,121,Philadelphia 76ers,N
+755,"18,624",Box Score,"Wed, Jan 30, 2019",,7:30p,126,Boston Celtics,,94,Charlotte Hornets,N
+756,"19,600",Box Score,"Wed, Jan 30, 2019",,7:30p,89,Miami Heat,,105,Chicago Bulls,N
+757,"18,842",Box Score,"Wed, Jan 30, 2019",,7:30p,90,New York Knicks,,114,Dallas Mavericks,N
+758,"13,615",Box Score,"Wed, Jan 30, 2019",,8:00p,99,Minnesota Timberwolves,OT,97,Memphis Grizzlies,N
+759,"14,211",Box Score,"Wed, Jan 30, 2019",,8:00p,99,New Orleans Pelicans,,105,Denver Nuggets,N
+760,"15,354",Box Score,"Wed, Jan 30, 2019",,8:00p,107,Washington Wizards,,89,Indiana Pacers,N
+761,"17,583",Box Score,"Wed, Jan 30, 2019",,10:00p,135,Sacramento Kings,,113,Atlanta Hawks,N
+762,"19,393",Box Score,"Wed, Jan 30, 2019",,10:30p,132,Portland Trail Blazers,,105,Utah Jazz,N
+763,"14,075",Box Score,"Thu, Jan 31, 2019",,7:00p,93,Detroit Pistons,,89,Dallas Mavericks,N
+764,"16,625",Box Score,"Thu, Jan 31, 2019",,7:00p,107,Orlando Magic,,100,Indiana Pacers,N
+765,"19,800",Box Score,"Thu, Jan 31, 2019",,8:00p,92,Toronto Raptors,,105,Milwaukee Bucks,N
+766,"18,057",Box Score,"Thu, Jan 31, 2019",,8:30p,117,San Antonio Spurs,,114,Brooklyn Nets,N
+767,"19,596",Box Score,"Thu, Jan 31, 2019",,10:30p,104,Golden State Warriors,,113,Philadelphia 76ers,N
+768,"19,068",Box Score,"Thu, Jan 31, 2019",,10:30p,120,Los Angeles Clippers,OT,123,Los Angeles Lakers,N
+769,"15,387",Box Score,"Fri, Feb 1, 2019",,7:00p,100,Charlotte Hornets,,92,Memphis Grizzlies,N
+770,"18,343",Box Score,"Fri, Feb 1, 2019",,7:30p,99,New York Knicks,,113,Boston Celtics,N
+771,"19,600",Box Score,"Fri, Feb 1, 2019",,8:00p,102,Miami Heat,,118,Oklahoma City Thunder,N
+772,"18,306",Box Score,"Fri, Feb 1, 2019",,9:00p,128,Utah Jazz,,112,Atlanta Hawks,N
+773,"20,106",Box Score,"Fri, Feb 1, 2019",,10:00p,136,Denver Nuggets,,122,Houston Rockets,N
+774,"17,862",Box Score,"Sat, Feb 2, 2019",,5:00p,101,Detroit Pistons,,111,Los Angeles Clippers,N
+775,"19,114",Box Score,"Sat, Feb 2, 2019",,7:00p,125,Charlotte Hornets,,118,Chicago Bulls,N
+776,"17,385",Box Score,"Sat, Feb 2, 2019",,7:00p,102,Orlando Magic,,89,Brooklyn Nets,N
+777,"20,409",Box Score,"Sat, Feb 2, 2019",,7:00p,115,Washington Wizards,,131,Milwaukee Bucks,N
+778,"19,432",Box Score,"Sat, Feb 2, 2019",,7:30p,98,Cleveland Cavaliers,,111,Dallas Mavericks,N
+779,"19,600",Box Score,"Sat, Feb 2, 2019",,7:30p,88,Miami Heat,,95,Indiana Pacers,N
+780,"19,596",Box Score,"Sat, Feb 2, 2019",,8:30p,115,Golden State Warriors,,101,Los Angeles Lakers,N
+781,"18,354",Box Score,"Sat, Feb 2, 2019",,8:30p,113,San Antonio Spurs,,108,New Orleans Pelicans,N
+782,"17,208",Box Score,"Sat, Feb 2, 2019",,9:00p,106,Minnesota Timberwolves,,107,Denver Nuggets,N
+783,"15,534",Box Score,"Sat, Feb 2, 2019",,9:00p,112,Phoenix Suns,,118,Atlanta Hawks,N
+784,"18,306",Box Score,"Sat, Feb 2, 2019",,9:00p,98,Utah Jazz,,125,Houston Rockets,N
+785,"17,583",Box Score,"Sat, Feb 2, 2019",,10:00p,115,Sacramento Kings,,108,Philadelphia 76ers,N
+786,"17,025",Box Score,"Sun, Feb 3, 2019",,1:00p,84,New York Knicks,,96,Memphis Grizzlies,N
+787,"18,624",Box Score,"Sun, Feb 3, 2019",,2:00p,134,Boston Celtics,,129,Oklahoma City Thunder,N
+788,"19,800",Box Score,"Sun, Feb 3, 2019",,3:00p,121,Toronto Raptors,,103,Los Angeles Clippers,N
+789,"12,589",Box Score,"Mon, Feb 4, 2019",,7:00p,129,Detroit Pistons,,103,Denver Nuggets,N
+790,"15,025",Box Score,"Mon, Feb 4, 2019",,7:00p,129,Washington Wizards,,137,Atlanta Hawks,N
+791,"16,209",Box Score,"Mon, Feb 4, 2019",,7:30p,94,Brooklyn Nets,,113,Milwaukee Bucks,N
+792,"15,780",Box Score,"Mon, Feb 4, 2019",,8:00p,107,New Orleans Pelicans,,109,Indiana Pacers,N
+793,"15,740",Box Score,"Mon, Feb 4, 2019",,9:00p,110,Phoenix Suns,,118,Houston Rockets,N
+794,"16,245",Box Score,"Mon, Feb 4, 2019",,10:00p,127,Sacramento Kings,,112,San Antonio Spurs,N
+795,"14,300",Box Score,"Tue, Feb 5, 2019",,7:00p,115,Charlotte Hornets,,117,Los Angeles Clippers,N
+796,"19,432",Box Score,"Tue, Feb 5, 2019",,7:00p,96,Cleveland Cavaliers,,103,Boston Celtics,N
+797,"17,265",Box Score,"Tue, Feb 5, 2019",,7:00p,136,Indiana Pacers,,94,Los Angeles Lakers,N
+798,"17,853",Box Score,"Tue, Feb 5, 2019",,7:30p,92,New York Knicks,,105,Detroit Pistons,N
+799,"13,454",Box Score,"Tue, Feb 5, 2019",,8:00p,108,Memphis Grizzlies,,106,Minnesota Timberwolves,N
+800,"18,203",Box Score,"Tue, Feb 5, 2019",,8:00p,132,Oklahoma City Thunder,,122,Orlando Magic,N
+801,"20,472",Box Score,"Tue, Feb 5, 2019",,8:00p,107,Philadelphia 76ers,,119,Toronto Raptors,N
+802,"19,468",Box Score,"Tue, Feb 5, 2019",,10:30p,108,Portland Trail Blazers,,118,Miami Heat,N
+803,"14,516",Box Score,"Wed, Feb 6, 2019",,7:30p,135,Brooklyn Nets,,130,Denver Nuggets,N
+804,"18,116",Box Score,"Wed, Feb 6, 2019",,8:00p,120,Chicago Bulls,,125,New Orleans Pelicans,N
+805,"17,360",Box Score,"Wed, Feb 6, 2019",,8:00p,148,Milwaukee Bucks,,129,Washington Wizards,N
+806,"19,606",Box Score,"Wed, Feb 6, 2019",,8:30p,99,Dallas Mavericks,,93,Charlotte Hornets,N
+807,"18,306",Box Score,"Wed, Feb 6, 2019",,9:00p,116,Utah Jazz,,88,Phoenix Suns,N
+808,"17,583",Box Score,"Wed, Feb 6, 2019",,10:00p,101,Sacramento Kings,,127,Houston Rockets,N
+809,"19,596",Box Score,"Wed, Feb 6, 2019",,10:30p,141,Golden State Warriors,,102,San Antonio Spurs,N
+810,"15,756",Box Score,"Thu, Feb 7, 2019",,7:00p,116,Indiana Pacers,,92,Los Angeles Clippers,N
+811,"17,184",Box Score,"Thu, Feb 7, 2019",,7:00p,122,Orlando Magic,,112,Minnesota Timberwolves,N
+812,"16,036",Box Score,"Thu, Feb 7, 2019",,7:30p,101,Atlanta Hawks,,119,Toronto Raptors,N
+813,"18,624",Box Score,"Thu, Feb 7, 2019",,8:00p,128,Boston Celtics,,129,Los Angeles Lakers,N
+814,"18,203",Box Score,"Thu, Feb 7, 2019",,8:00p,117,Oklahoma City Thunder,,95,Memphis Grizzlies,N
+815,"19,393",Box Score,"Thu, Feb 7, 2019",,10:30p,127,Portland Trail Blazers,,118,San Antonio Spurs,N
+816,"14,430",Box Score,"Fri, Feb 8, 2019",,7:00p,120,Detroit Pistons,,103,New York Knicks,N
+817,"20,627",Box Score,"Fri, Feb 8, 2019",,7:00p,117,Philadelphia 76ers,,110,Denver Nuggets,N
+818,"16,682",Box Score,"Fri, Feb 8, 2019",,7:00p,119,Washington Wizards,,106,Cleveland Cavaliers,N
+819,"15,267",Box Score,"Fri, Feb 8, 2019",,7:30p,106,Brooklyn Nets,,125,Chicago Bulls,N
+820,"20,420",Box Score,"Fri, Feb 8, 2019",,8:30p,107,Dallas Mavericks,,122,Milwaukee Bucks,N
+821,"17,081",Box Score,"Fri, Feb 8, 2019",,9:00p,107,Phoenix Suns,,117,Golden State Warriors,N
+822,"16,980",Box Score,"Fri, Feb 8, 2019",,9:30p,122,New Orleans Pelicans,,117,Minnesota Timberwolves,N
+823,"17,583",Box Score,"Fri, Feb 8, 2019",,10:00p,102,Sacramento Kings,,96,Miami Heat,N
+824,"18,306",Box Score,"Sat, Feb 9, 2019",,5:00p,125,Utah Jazz,,105,San Antonio Spurs,N
+825,"17,923",Box Score,"Sat, Feb 9, 2019",,7:00p,105,Indiana Pacers,,90,Cleveland Cavaliers,N
+826,"15,048",Box Score,"Sat, Feb 9, 2019",,7:30p,120,Atlanta Hawks,,129,Charlotte Hornets,N
+827,"18,886",Box Score,"Sat, Feb 9, 2019",,7:30p,99,New York Knicks,,104,Toronto Raptors,N
+828,"18,624",Box Score,"Sat, Feb 9, 2019",,8:00p,112,Boston Celtics,,123,Los Angeles Clippers,N
+829,"19,942",Box Score,"Sat, Feb 9, 2019",,8:00p,125,Chicago Bulls,,134,Washington Wizards,N
+830,"16,841",Box Score,"Sat, Feb 9, 2019",,8:00p,99,Memphis Grizzlies,,90,New Orleans Pelicans,N
+831,"18,061",Box Score,"Sat, Feb 9, 2019",,8:30p,112,Houston Rockets,,117,Oklahoma City Thunder,N
+832,"17,812",Box Score,"Sat, Feb 9, 2019",,9:00p,83,Milwaukee Bucks,,103,Orlando Magic,N
+833,"20,340",Box Score,"Sun, Feb 10, 2019",,3:00p,102,Dallas Mavericks,,101,Portland Trail Blazers,N
+834,"20,683",Box Score,"Sun, Feb 10, 2019",,3:30p,143,Philadelphia 76ers,,120,Los Angeles Lakers,N
+835,"17,583",Box Score,"Sun, Feb 10, 2019",,6:00p,117,Sacramento Kings,,104,Phoenix Suns,N
+836,"13,370",Box Score,"Sun, Feb 10, 2019",,7:30p,108,Atlanta Hawks,,124,Orlando Magic,N
+837,"19,596",Box Score,"Sun, Feb 10, 2019",,8:30p,120,Golden State Warriors,,118,Miami Heat,N
+838,"19,432",Box Score,"Mon, Feb 11, 2019",,7:00p,107,Cleveland Cavaliers,,104,New York Knicks,N
+839,"15,246",Box Score,"Mon, Feb 11, 2019",,7:00p,121,Detroit Pistons,,112,Washington Wizards,N
+840,"15,734",Box Score,"Mon, Feb 11, 2019",,7:00p,99,Indiana Pacers,,90,Charlotte Hornets,N
+841,"19,800",Box Score,"Mon, Feb 11, 2019",,7:30p,127,Toronto Raptors,,125,Brooklyn Nets,N
+842,"18,833",Box Score,"Mon, Feb 11, 2019",,8:00p,99,Chicago Bulls,,112,Milwaukee Bucks,N
+843,"18,055",Box Score,"Mon, Feb 11, 2019",,8:00p,120,Houston Rockets,,104,Dallas Mavericks,N
+844,"13,782",Box Score,"Mon, Feb 11, 2019",,8:00p,130,Minnesota Timberwolves,,120,Los Angeles Clippers,N
+845,"18,203",Box Score,"Mon, Feb 11, 2019",,8:00p,120,Oklahoma City Thunder,,111,Portland Trail Blazers,N
+846,"18,378",Box Score,"Mon, Feb 11, 2019",,9:00p,103,Denver Nuggets,,87,Miami Heat,N
+847,"16,824",Box Score,"Tue, Feb 12, 2019",,7:30p,117,Atlanta Hawks,,113,Los Angeles Lakers,N
+848,"13,788",Box Score,"Tue, Feb 12, 2019",,8:00p,107,Memphis Grizzlies,,108,San Antonio Spurs,N
+849,"15,733",Box Score,"Tue, Feb 12, 2019",,8:00p,88,New Orleans Pelicans,,118,Orlando Magic,N
+850,"20,582",Box Score,"Tue, Feb 12, 2019",,8:00p,109,Philadelphia 76ers,,112,Boston Celtics,N
+851,"19,596",Box Score,"Tue, Feb 12, 2019",,10:30p,115,Golden State Warriors,,108,Utah Jazz,N
+852,"17,434",Box Score,"Wed, Feb 13, 2019",,7:00p,139,Cleveland Cavaliers,3OT,148,Brooklyn Nets,N
+853,"17,311",Box Score,"Wed, Feb 13, 2019",,7:00p,97,Indiana Pacers,,106,Milwaukee Bucks,N
+854,"18,624",Box Score,"Wed, Feb 13, 2019",,7:30p,118,Boston Celtics,,110,Detroit Pistons,N
+855,"18,983",Box Score,"Wed, Feb 13, 2019",,7:30p,111,New York Knicks,,126,Philadelphia 76ers,N
+856,"19,800",Box Score,"Wed, Feb 13, 2019",,7:30p,129,Toronto Raptors,,120,Washington Wizards,N
+857,"19,114",Box Score,"Wed, Feb 13, 2019",,8:00p,122,Chicago Bulls,,110,Memphis Grizzlies,N
+858,"15,131",Box Score,"Wed, Feb 13, 2019",,8:00p,121,Minnesota Timberwolves,,111,Houston Rockets,N
+859,"20,364",Box Score,"Wed, Feb 13, 2019",,8:30p,101,Dallas Mavericks,,112,Miami Heat,N
+860,"17,938",Box Score,"Wed, Feb 13, 2019",,9:00p,120,Denver Nuggets,,118,Sacramento Kings,N
+861,"17,703",Box Score,"Wed, Feb 13, 2019",,10:30p,134,Los Angeles Clippers,,107,Phoenix Suns,N
+862,"19,549",Box Score,"Wed, Feb 13, 2019",,10:30p,129,Portland Trail Blazers,,107,Golden State Warriors,N
+863,"18,846",Box Score,"Thu, Feb 14, 2019",,7:00p,127,Orlando Magic,,89,Charlotte Hornets,N
+864,"14,179",Box Score,"Thu, Feb 14, 2019",,7:30p,91,Atlanta Hawks,,106,New York Knicks,N
+865,"15,686",Box Score,"Thu, Feb 14, 2019",,8:00p,131,New Orleans Pelicans,,122,Oklahoma City Thunder,N
+866,"19,022",Box Score,"Thu, Feb 21, 2019",,7:00p,111,Cleveland Cavaliers,,98,Phoenix Suns,N
+867,"20,505",Box Score,"Thu, Feb 21, 2019",,7:00p,106,Philadelphia 76ers,,102,Miami Heat,N
+868,"17,732",Box Score,"Thu, Feb 21, 2019",,7:30p,99,Brooklyn Nets,,113,Portland Trail Blazers,N
+869,"17,926",Box Score,"Thu, Feb 21, 2019",,8:00p,98,Milwaukee Bucks,,97,Boston Celtics,N
+870,"19,596",Box Score,"Thu, Feb 21, 2019",,10:30p,125,Golden State Warriors,,123,Sacramento Kings,N
+871,"18,997",Box Score,"Thu, Feb 21, 2019",,10:30p,111,Los Angeles Lakers,,106,Houston Rockets,N
+872,"15,572",Box Score,"Fri, Feb 22, 2019",,7:00p,123,Charlotte Hornets,,110,Washington Wizards,N
+873,"16,962",Box Score,"Fri, Feb 22, 2019",,7:00p,126,Indiana Pacers,,111,New Orleans Pelicans,N
+874,"18,846",Box Score,"Fri, Feb 22, 2019",,7:00p,109,Orlando Magic,,110,Chicago Bulls,N
+875,"20,058",Box Score,"Fri, Feb 22, 2019",,7:00p,120,Toronto Raptors,,117,San Antonio Spurs,N
+876,"14,067",Box Score,"Fri, Feb 22, 2019",,7:30p,122,Atlanta Hawks,,125,Detroit Pistons,N
+877,"19,096",Box Score,"Fri, Feb 22, 2019",,7:30p,104,New York Knicks,,115,Minnesota Timberwolves,N
+878,"16,444",Box Score,"Fri, Feb 22, 2019",,8:00p,106,Memphis Grizzlies,,112,Los Angeles Clippers,N
+879,"20,382",Box Score,"Fri, Feb 22, 2019",,8:30p,104,Dallas Mavericks,,114,Denver Nuggets,N
+880,"18,203",Box Score,"Fri, Feb 22, 2019",,9:30p,148,Oklahoma City Thunder,2OT,147,Utah Jazz,N
+881,"20,619",Box Score,"Sat, Feb 23, 2019",,1:00p,115,Philadelphia 76ers,,130,Portland Trail Blazers,N
+882,"15,214",Box Score,"Sat, Feb 23, 2019",,7:00p,120,Atlanta Hawks,,112,Phoenix Suns,N
+883,"19,158",Box Score,"Sat, Feb 23, 2019",,7:00p,115,Charlotte Hornets,,117,Brooklyn Nets,N
+884,"19,432",Box Score,"Sat, Feb 23, 2019",,7:00p,112,Cleveland Cavaliers,,107,Memphis Grizzlies,N
+885,"18,626",Box Score,"Sat, Feb 23, 2019",,7:00p,128,New Orleans Pelicans,,115,Los Angeles Lakers,N
+886,"19,648",Box Score,"Sat, Feb 23, 2019",,7:00p,112,Washington Wizards,,119,Indiana Pacers,N
+887,"19,600",Box Score,"Sat, Feb 23, 2019",,7:30p,96,Miami Heat,,119,Detroit Pistons,N
+888,"21,295",Box Score,"Sat, Feb 23, 2019",,8:00p,126,Chicago Bulls,,116,Boston Celtics,N
+889,"18,203",Box Score,"Sat, Feb 23, 2019",,8:00p,116,Oklahoma City Thunder,,119,Sacramento Kings,N
+890,"19,596",Box Score,"Sat, Feb 23, 2019",,8:30p,112,Golden State Warriors,,118,Houston Rockets,N
+891,"17,972",Box Score,"Sat, Feb 23, 2019",,8:30p,140,Milwaukee Bucks,,128,Minnesota Timberwolves,N
+892,"18,306",Box Score,"Sat, Feb 23, 2019",,10:00p,125,Utah Jazz,,109,Dallas Mavericks,N
+893,"19,800",Box Score,"Sun, Feb 24, 2019",,3:30p,98,Toronto Raptors,,113,Orlando Magic,N
+894,"19,956",Box Score,"Sun, Feb 24, 2019",,5:00p,123,Denver Nuggets,,96,Los Angeles Clippers,N
+895,"18,019",Box Score,"Sun, Feb 24, 2019",,7:30p,130,New York Knicks,,118,San Antonio Spurs,N
+896,"19,419",Box Score,"Mon, Feb 25, 2019",,7:00p,110,Charlotte Hornets,,121,Golden State Warriors,N
+897,"19,432",Box Score,"Mon, Feb 25, 2019",,7:00p,110,Cleveland Cavaliers,,123,Portland Trail Blazers,N
+898,"15,321",Box Score,"Mon, Feb 25, 2019",,7:00p,113,Detroit Pistons,,109,Indiana Pacers,N
+899,"13,479",Box Score,"Mon, Feb 25, 2019",,7:30p,101,Brooklyn Nets,,85,San Antonio Spurs,N
+900,"19,600",Box Score,"Mon, Feb 25, 2019",,7:30p,121,Miami Heat,,124,Phoenix Suns,N
+901,"20,936",Box Score,"Mon, Feb 25, 2019",,8:00p,106,Chicago Bulls,,117,Milwaukee Bucks,N
+902,"18,055",Box Score,"Mon, Feb 25, 2019",,8:00p,119,Houston Rockets,,111,Atlanta Hawks,N
+903,"17,794",Box Score,"Mon, Feb 25, 2019",,8:00p,110,Memphis Grizzlies,,105,Los Angeles Lakers,N
+904,"13,691",Box Score,"Mon, Feb 25, 2019",,8:00p,112,Minnesota Timberwolves,,105,Sacramento Kings,N
+905,"17,194",Box Score,"Mon, Feb 25, 2019",,8:00p,110,New Orleans Pelicans,,111,Philadelphia 76ers,N
+906,"19,068",Box Score,"Mon, Feb 25, 2019",,10:30p,121,Los Angeles Clippers,,112,Dallas Mavericks,N
+907,"17,833",Box Score,"Tue, Feb 26, 2019",,7:30p,108,New York Knicks,,103,Orlando Magic,N
+908,"19,800",Box Score,"Tue, Feb 26, 2019",,8:00p,118,Toronto Raptors,,95,Boston Celtics,N
+909,"18,378",Box Score,"Tue, Feb 26, 2019",,10:30p,121,Denver Nuggets,,112,Oklahoma City Thunder,N
+910,"17,903",Box Score,"Wed, Feb 27, 2019",,7:00p,113,Charlotte Hornets,,118,Houston Rockets,N
+911,"14,101",Box Score,"Wed, Feb 27, 2019",,7:30p,131,Atlanta Hawks,OT,123,Minnesota Timberwolves,N
+912,"13,683",Box Score,"Wed, Feb 27, 2019",,7:30p,116,Brooklyn Nets,,125,Washington Wizards,N
+913,"19,647",Box Score,"Wed, Feb 27, 2019",,7:30p,126,Miami Heat,,125,Golden State Warriors,N
+914,"18,624",Box Score,"Wed, Feb 27, 2019",,8:00p,92,Boston Celtics,,97,Portland Trail Blazers,N
+915,"13,711",Box Score,"Wed, Feb 27, 2019",,8:00p,107,Memphis Grizzlies,,109,Chicago Bulls,N
+916,"19,978",Box Score,"Wed, Feb 27, 2019",,8:30p,110,Dallas Mavericks,,101,Indiana Pacers,N
+917,"18,354",Box Score,"Wed, Feb 27, 2019",,8:30p,105,San Antonio Spurs,,93,Detroit Pistons,N
+918,"18,306",Box Score,"Wed, Feb 27, 2019",,9:00p,111,Utah Jazz,,105,Los Angeles Clippers,N
+919,"17,583",Box Score,"Wed, Feb 27, 2019",,10:00p,140,Sacramento Kings,OT,141,Milwaukee Bucks,N
+920,"18,997",Box Score,"Wed, Feb 27, 2019",,10:30p,125,Los Angeles Lakers,,119,New Orleans Pelicans,N
+921,"17,003",Box Score,"Thu, Feb 28, 2019",,7:00p,122,Indiana Pacers,,115,Minnesota Timberwolves,N
+922,"18,846",Box Score,"Thu, Feb 28, 2019",,7:00p,103,Orlando Magic,,96,Golden State Warriors,N
+923,"17,573",Box Score,"Thu, Feb 28, 2019",,7:30p,118,New York Knicks,,125,Cleveland Cavaliers,N
+924,"18,119",Box Score,"Thu, Feb 28, 2019",,8:00p,121,Houston Rockets,,118,Miami Heat,N
+925,"18,203",Box Score,"Thu, Feb 28, 2019",,8:00p,104,Oklahoma City Thunder,,108,Philadelphia 76ers,N
+926,"19,520",Box Score,"Thu, Feb 28, 2019",,10:30p,104,Denver Nuggets,,111,Utah Jazz,N
+927,"15,267",Box Score,"Fri, Mar 1, 2019",,7:30p,161,Atlanta Hawks,4OT,168,Chicago Bulls,N
+928,"15,578",Box Score,"Fri, Mar 1, 2019",,7:30p,112,Brooklyn Nets,,123,Charlotte Hornets,N
+929,"18,624",Box Score,"Fri, Mar 1, 2019",,8:00p,107,Boston Celtics,,96,Washington Wizards,N
+930,"19,800",Box Score,"Fri, Mar 1, 2019",,8:00p,119,Toronto Raptors,,117,Portland Trail Blazers,N
+931,"14,123",Box Score,"Fri, Mar 1, 2019",,9:00p,116,Phoenix Suns,,130,New Orleans Pelicans,N
+932,"17,583",Box Score,"Fri, Mar 1, 2019",,10:00p,109,Sacramento Kings,,116,Los Angeles Clippers,N
+933,"18,997",Box Score,"Fri, Mar 1, 2019",,10:30p,120,Los Angeles Lakers,,131,Milwaukee Bucks,N
+934,"19,432",Box Score,"Sat, Mar 2, 2019",,5:00p,93,Cleveland Cavaliers,,129,Detroit Pistons,N
+935,"17,923",Box Score,"Sat, Mar 2, 2019",,7:00p,112,Indiana Pacers,,117,Orlando Magic,N
+936,"19,600",Box Score,"Sat, Mar 2, 2019",,7:30p,117,Miami Heat,,88,Brooklyn Nets,N
+937,"20,233",Box Score,"Sat, Mar 2, 2019",,8:30p,81,Dallas Mavericks,,111,Memphis Grizzlies,N
+938,"20,624",Box Score,"Sat, Mar 2, 2019",,8:30p,117,Philadelphia 76ers,,120,Golden State Warriors,N
+939,"18,439",Box Score,"Sat, Mar 2, 2019",,8:30p,116,San Antonio Spurs,,102,Oklahoma City Thunder,N
+940,"19,978",Box Score,"Sat, Mar 2, 2019",,9:00p,112,Denver Nuggets,,120,New Orleans Pelicans,N
+941,"18,055",Box Score,"Sat, Mar 2, 2019",,9:00p,118,Phoenix Suns,,109,Los Angeles Lakers,N
+942,"18,306",Box Score,"Sat, Mar 2, 2019",,9:00p,115,Utah Jazz,,111,Milwaukee Bucks,N
+943,"18,355",Box Score,"Sun, Mar 3, 2019",,1:00p,108,Charlotte Hornets,,118,Portland Trail Blazers,N
+944,"18,624",Box Score,"Sun, Mar 3, 2019",,3:30p,104,Boston Celtics,,115,Houston Rockets,N
+945,"20,526",Box Score,"Sun, Mar 3, 2019",,3:30p,118,Chicago Bulls,,123,Atlanta Hawks,N
+946,"19,068",Box Score,"Sun, Mar 3, 2019",,3:30p,128,Los Angeles Clippers,,107,New York Knicks,N
+947,"19,432",Box Score,"Sun, Mar 3, 2019",,6:00p,107,Cleveland Cavaliers,,93,Orlando Magic,N
+948,"19,161",Box Score,"Sun, Mar 3, 2019",,6:00p,112,Detroit Pistons,OT,107,Toronto Raptors,N
+949,"17,869",Box Score,"Sun, Mar 3, 2019",,6:00p,135,Washington Wizards,,121,Minnesota Timberwolves,N
+950,"18,203",Box Score,"Sun, Mar 3, 2019",,7:00p,99,Oklahoma City Thunder,,95,Memphis Grizzlies,N
+951,"17,064",Box Score,"Mon, Mar 4, 2019",,7:30p,127,Brooklyn Nets,,88,Dallas Mavericks,N
+952,"19,600",Box Score,"Mon, Mar 4, 2019",,7:30p,114,Miami Heat,,113,Atlanta Hawks,N
+953,"18,354",Box Score,"Mon, Mar 4, 2019",,8:30p,104,San Antonio Spurs,,103,Denver Nuggets,N
+954,"18,055",Box Score,"Mon, Mar 4, 2019",,9:00p,114,Phoenix Suns,,105,Milwaukee Bucks,N
+955,"18,306",Box Score,"Mon, Mar 4, 2019",,9:00p,112,Utah Jazz,,115,New Orleans Pelicans,N
+956,"17,034",Box Score,"Mon, Mar 4, 2019",,10:00p,115,Sacramento Kings,,108,New York Knicks,N
+957,"18,997",Box Score,"Mon, Mar 4, 2019",,10:30p,105,Los Angeles Lakers,,113,Los Angeles Clippers,N
+958,"15,753",Box Score,"Tue, Mar 5, 2019",,7:00p,105,Indiana Pacers,,96,Chicago Bulls,N
+959,"20,379",Box Score,"Tue, Mar 5, 2019",,7:00p,114,Philadelphia 76ers,,106,Orlando Magic,N
+960,"13,801",Box Score,"Tue, Mar 5, 2019",,8:00p,120,Memphis Grizzlies,,111,Portland Trail Blazers,N
+961,"15,728",Box Score,"Tue, Mar 5, 2019",,8:00p,131,Minnesota Timberwolves,,120,Oklahoma City Thunder,N
+962,"19,800",Box Score,"Tue, Mar 5, 2019",,8:00p,95,Toronto Raptors,,107,Houston Rockets,N
+963,"19,596",Box Score,"Tue, Mar 5, 2019",,10:30p,95,Golden State Warriors,,128,Boston Celtics,N
+964,"18,137",Box Score,"Wed, Mar 6, 2019",,7:00p,84,Charlotte Hornets,,91,Miami Heat,N
+965,"15,240",Box Score,"Wed, Mar 6, 2019",,7:00p,131,Detroit Pistons,,114,Minnesota Timberwolves,N
+966,"16,867",Box Score,"Wed, Mar 6, 2019",,7:00p,132,Washington Wizards,,123,Dallas Mavericks,N
+967,"15,208",Box Score,"Wed, Mar 6, 2019",,7:30p,104,Atlanta Hawks,,111,San Antonio Spurs,N
+968,"14,177",Box Score,"Wed, Mar 6, 2019",,7:30p,113,Brooklyn Nets,,107,Cleveland Cavaliers,N
+969,"19,927",Box Score,"Wed, Mar 6, 2019",,8:00p,108,Chicago Bulls,,107,Philadelphia 76ers,N
+970,"14,681",Box Score,"Wed, Mar 6, 2019",,8:00p,104,New Orleans Pelicans,,114,Utah Jazz,N
+971,"14,427",Box Score,"Wed, Mar 6, 2019",,9:00p,107,Phoenix Suns,,96,New York Knicks,N
+972,"17,583",Box Score,"Wed, Mar 6, 2019",,10:00p,109,Sacramento Kings,,111,Boston Celtics,N
+973,"18,997",Box Score,"Wed, Mar 6, 2019",,10:30p,99,Los Angeles Lakers,,115,Denver Nuggets,N
+974,"17,884",Box Score,"Thu, Mar 7, 2019",,8:00p,117,Milwaukee Bucks,,98,Indiana Pacers,N
+975,"20,037",Box Score,"Thu, Mar 7, 2019",,10:30p,121,Portland Trail Blazers,OT,129,Oklahoma City Thunder,N
+976,"18,144",Box Score,"Fri, Mar 8, 2019",,7:00p,112,Charlotte Hornets,,111,Washington Wizards,N
+977,"19,196",Box Score,"Fri, Mar 8, 2019",,7:00p,111,Orlando Magic,,106,Dallas Mavericks,N
+978,"21,048",Box Score,"Fri, Mar 8, 2019",,8:00p,104,Chicago Bulls,,112,Detroit Pistons,N
+979,"18,055",Box Score,"Fri, Mar 8, 2019",,8:00p,107,Houston Rockets,,91,Philadelphia 76ers,N
+980,"15,407",Box Score,"Fri, Mar 8, 2019",,8:00p,114,Memphis Grizzlies,,104,Utah Jazz,N
+981,"19,600",Box Score,"Fri, Mar 8, 2019",,8:00p,126,Miami Heat,,110,Cleveland Cavaliers,N
+982,"17,325",Box Score,"Fri, Mar 8, 2019",,8:00p,104,New Orleans Pelicans,,127,Toronto Raptors,N
+983,"19,596",Box Score,"Fri, Mar 8, 2019",,10:30p,122,Golden State Warriors,,105,Denver Nuggets,N
+984,"17,915",Box Score,"Fri, Mar 8, 2019",,10:30p,118,Los Angeles Clippers,,110,Oklahoma City Thunder,N
+985,"19,812",Box Score,"Sat, Mar 9, 2019",,12:00p,94,New York Knicks,,102,Sacramento Kings,N
+986,"16,527",Box Score,"Sat, Mar 9, 2019",,7:00p,112,Atlanta Hawks,,114,Brooklyn Nets,N
+987,"14,381",Box Score,"Sat, Mar 9, 2019",,8:00p,135,Minnesota Timberwolves,OT,130,Washington Wizards,N
+988,"18,997",Box Score,"Sat, Mar 9, 2019",,8:30p,107,Los Angeles Lakers,,120,Boston Celtics,N
+989,"17,996",Box Score,"Sat, Mar 9, 2019",,9:00p,131,Milwaukee Bucks,,114,Charlotte Hornets,N
+990,"19,851",Box Score,"Sat, Mar 9, 2019",,10:00p,127,Portland Trail Blazers,,120,Phoenix Suns,N
+991,"19,356",Box Score,"Sun, Mar 10, 2019",,12:00p,131,Detroit Pistons,,108,Chicago Bulls,N
+992,"19,600",Box Score,"Sun, Mar 10, 2019",,3:30p,104,Miami Heat,,125,Toronto Raptors,N
+993,"20,636",Box Score,"Sun, Mar 10, 2019",,3:30p,106,Philadelphia 76ers,,89,Indiana Pacers,N
+994,"14,337",Box Score,"Sun, Mar 10, 2019",,6:00p,128,Atlanta Hawks,,116,New Orleans Pelicans,N
+995,"16,627",Box Score,"Sun, Mar 10, 2019",,6:00p,105,Memphis Grizzlies,,97,Orlando Magic,N
+996,"20,423",Box Score,"Sun, Mar 10, 2019",,7:00p,93,Dallas Mavericks,,94,Houston Rockets,N
+997,"13,806",Box Score,"Sun, Mar 10, 2019",,8:00p,103,Minnesota Timberwolves,,92,New York Knicks,N
+998,"18,594",Box Score,"Sun, Mar 10, 2019",,8:00p,121,San Antonio Spurs,,114,Milwaukee Bucks,N
+999,"19,596",Box Score,"Sun, Mar 10, 2019",,8:30p,111,Golden State Warriors,,115,Phoenix Suns,N
+1000,"19,432",Box Score,"Mon, Mar 11, 2019",,7:00p,126,Cleveland Cavaliers,,101,Toronto Raptors,N
+1001,"15,012",Box Score,"Mon, Mar 11, 2019",,7:00p,121,Washington Wizards,,115,Sacramento Kings,N
+1002,"17,732",Box Score,"Mon, Mar 11, 2019",,7:30p,103,Brooklyn Nets,,75,Detroit Pistons,N
+1003,"18,055",Box Score,"Mon, Mar 11, 2019",,8:00p,118,Houston Rockets,,106,Charlotte Hornets,N
+1004,"18,306",Box Score,"Mon, Mar 11, 2019",,9:00p,89,Utah Jazz,,98,Oklahoma City Thunder,N
+1005,"19,068",Box Score,"Mon, Mar 11, 2019",,10:30p,140,Los Angeles Clippers,,115,Boston Celtics,N
+1006,"16,679",Box Score,"Tue, Mar 12, 2019",,7:00p,103,Indiana Pacers,,98,New York Knicks,N
+1007,"20,420",Box Score,"Tue, Mar 12, 2019",,7:00p,106,Philadelphia 76ers,,99,Cleveland Cavaliers,N
+1008,"21,359",Box Score,"Tue, Mar 12, 2019",,8:00p,107,Chicago Bulls,,123,Los Angeles Lakers,N
+1009,"20,366",Box Score,"Tue, Mar 12, 2019",,8:00p,105,Dallas Mavericks,,112,San Antonio Spurs,N
+1010,"15,562",Box Score,"Tue, Mar 12, 2019",,8:00p,113,New Orleans Pelicans,,130,Milwaukee Bucks,N
+1011,"16,874",Box Score,"Tue, Mar 12, 2019",,10:30p,133,Denver Nuggets,,107,Minnesota Timberwolves,N
+1012,"16,686",Box Score,"Tue, Mar 12, 2019",,10:30p,104,Los Angeles Clippers,,125,Portland Trail Blazers,N
+1013,"18,203",Box Score,"Wed, Mar 13, 2019",,7:00p,108,Oklahoma City Thunder,,96,Brooklyn Nets,N
+1014,"15,107",Box Score,"Wed, Mar 13, 2019",,7:00p,100,Washington Wizards,,90,Orlando Magic,N
+1015,"15,169",Box Score,"Wed, Mar 13, 2019",,7:30p,132,Atlanta Hawks,,111,Memphis Grizzlies,N
+1016,"19,600",Box Score,"Wed, Mar 13, 2019",,7:30p,108,Miami Heat,,74,Detroit Pistons,N
+1017,"18,122",Box Score,"Wed, Mar 13, 2019",,9:30p,104,Houston Rockets,,106,Golden State Warriors,N
+1018,"18,055",Box Score,"Wed, Mar 13, 2019",,10:00p,97,Phoenix Suns,,114,Utah Jazz,N
+1019,"16,656",Box Score,"Thu, Mar 14, 2019",,7:00p,108,Indiana Pacers,,106,Oklahoma City Thunder,N
+1020,"18,091",Box Score,"Thu, Mar 14, 2019",,7:00p,120,Orlando Magic,,91,Cleveland Cavaliers,N
+1021,"18,624",Box Score,"Thu, Mar 14, 2019",,7:30p,126,Boston Celtics,,120,Sacramento Kings,N
+1022,"19,962",Box Score,"Thu, Mar 14, 2019",,8:00p,111,Toronto Raptors,,98,Los Angeles Lakers,N
+1023,"18,306",Box Score,"Thu, Mar 14, 2019",,9:00p,120,Utah Jazz,,100,Minnesota Timberwolves,N
+1024,"19,520",Box Score,"Thu, Mar 14, 2019",,10:30p,100,Denver Nuggets,,99,Dallas Mavericks,N
+1025,"20,768",Box Score,"Fri, Mar 15, 2019",,7:00p,111,Detroit Pistons,,97,Los Angeles Lakers,N
+1026,"20,704",Box Score,"Fri, Mar 15, 2019",,7:00p,123,Philadelphia 76ers,,114,Sacramento Kings,N
+1027,"19,520",Box Score,"Fri, Mar 15, 2019",,7:00p,110,Washington Wizards,,116,Charlotte Hornets,N
+1028,"18,055",Box Score,"Fri, Mar 15, 2019",,8:00p,108,Houston Rockets,,102,Phoenix Suns,N
+1029,"19,600",Box Score,"Fri, Mar 15, 2019",,8:00p,98,Miami Heat,,113,Milwaukee Bucks,N
+1030,"16,117",Box Score,"Fri, Mar 15, 2019",,8:00p,110,New Orleans Pelicans,,122,Portland Trail Blazers,N
+1031,"18,354",Box Score,"Fri, Mar 15, 2019",,8:30p,109,San Antonio Spurs,,83,New York Knicks,N
+1032,"17,404",Box Score,"Fri, Mar 15, 2019",,10:30p,128,Los Angeles Clippers,,121,Chicago Bulls,N
+1033,"18,624",Box Score,"Sat, Mar 16, 2019",,12:30p,129,Boston Celtics,,120,Atlanta Hawks,N
+1034,"17,641",Box Score,"Sat, Mar 16, 2019",,7:00p,136,New Orleans Pelicans,OT,138,Phoenix Suns,N
+1035,"19,750",Box Score,"Sat, Mar 16, 2019",,7:00p,135,Washington Wizards,,128,Memphis Grizzlies,N
+1036,"20,347",Box Score,"Sat, Mar 16, 2019",,8:30p,121,Dallas Mavericks,,116,Cleveland Cavaliers,N
+1037,"18,203",Box Score,"Sat, Mar 16, 2019",,8:30p,88,Oklahoma City Thunder,,110,Golden State Warriors,N
+1038,"18,354",Box Score,"Sat, Mar 16, 2019",,8:30p,108,San Antonio Spurs,,103,Portland Trail Blazers,N
+1039,"19,856",Box Score,"Sat, Mar 16, 2019",,9:00p,102,Denver Nuggets,,100,Indiana Pacers,N
+1040,"18,306",Box Score,"Sat, Mar 16, 2019",,9:00p,114,Utah Jazz,,98,Brooklyn Nets,N
+1041,"19,812",Box Score,"Sun, Mar 17, 2019",,12:00p,124,New York Knicks,,123,Los Angeles Lakers,N
+1042,"19,600",Box Score,"Sun, Mar 17, 2019",,1:00p,93,Miami Heat,,75,Charlotte Hornets,N
+1043,"18,148",Box Score,"Sun, Mar 17, 2019",,3:30p,125,Milwaukee Bucks,,130,Philadelphia 76ers,N
+1044,"19,277",Box Score,"Sun, Mar 17, 2019",,4:00p,110,Detroit Pistons,,107,Toronto Raptors,N
+1045,"18,045",Box Score,"Sun, Mar 17, 2019",,6:00p,101,Orlando Magic,,91,Atlanta Hawks,N
+1046,"17,583",Box Score,"Sun, Mar 17, 2019",,6:00p,129,Sacramento Kings,,102,Chicago Bulls,N
+1047,"18,055",Box Score,"Sun, Mar 17, 2019",,9:00p,117,Houston Rockets,,102,Minnesota Timberwolves,N
+1048,"17,247",Box Score,"Sun, Mar 17, 2019",,9:00p,119,Los Angeles Clippers,,116,Brooklyn Nets,N
+1049,"18,465",Box Score,"Mon, Mar 18, 2019",,7:00p,126,Cleveland Cavaliers,,119,Detroit Pistons,N
+1050,"15,637",Box Score,"Mon, Mar 18, 2019",,7:00p,95,Washington Wizards,,116,Utah Jazz,N
+1051,"18,624",Box Score,"Mon, Mar 18, 2019",,7:30p,105,Boston Celtics,,114,Denver Nuggets,N
+1052,"19,800",Box Score,"Mon, Mar 18, 2019",,7:30p,128,Toronto Raptors,,92,New York Knicks,N
+1053,"18,203",Box Score,"Mon, Mar 18, 2019",,8:00p,107,Oklahoma City Thunder,,116,Miami Heat,N
+1054,"18,354",Box Score,"Mon, Mar 18, 2019",,8:00p,111,San Antonio Spurs,,105,Golden State Warriors,N
+1055,"20,276",Box Score,"Mon, Mar 18, 2019",,8:30p,125,Dallas Mavericks,OT,129,New Orleans Pelicans,N
+1056,"15,879",Box Score,"Mon, Mar 18, 2019",,10:00p,101,Phoenix Suns,,116,Chicago Bulls,N
+1057,"19,393",Box Score,"Mon, Mar 18, 2019",,10:30p,106,Portland Trail Blazers,,98,Indiana Pacers,N
+1058,"16,411",Box Score,"Tue, Mar 19, 2019",,7:00p,114,Charlotte Hornets,,118,Philadelphia 76ers,N
+1059,"16,293",Box Score,"Tue, Mar 19, 2019",,7:30p,105,Atlanta Hawks,,121,Houston Rockets,N
+1060,"17,879",Box Score,"Tue, Mar 19, 2019",,8:00p,115,Milwaukee Bucks,,101,Los Angeles Lakers,N
+1061,"17,964",Box Score,"Tue, Mar 19, 2019",,8:00p,107,Minnesota Timberwolves,,117,Golden State Warriors,N
+1062,"17,583",Box Score,"Tue, Mar 19, 2019",,10:00p,121,Sacramento Kings,,123,Brooklyn Nets,N
+1063,"16,043",Box Score,"Tue, Mar 19, 2019",,10:30p,115,Los Angeles Clippers,,109,Indiana Pacers,N
+1064,"19,432",Box Score,"Wed, Mar 20, 2019",,7:00p,107,Cleveland Cavaliers,,102,Milwaukee Bucks,N
+1065,"17,005",Box Score,"Wed, Mar 20, 2019",,7:00p,119,Orlando Magic,,96,New Orleans Pelicans,N
+1066,"20,606",Box Score,"Wed, Mar 20, 2019",,7:00p,118,Philadelphia 76ers,,115,Boston Celtics,N
+1067,"18,530",Box Score,"Wed, Mar 20, 2019",,7:30p,116,New York Knicks,,137,Utah Jazz,N
+1068,"19,470",Box Score,"Wed, Mar 20, 2019",,8:00p,126,Chicago Bulls,OT,120,Washington Wizards,N
+1069,"16,691",Box Score,"Wed, Mar 20, 2019",,8:00p,126,Memphis Grizzlies,OT,125,Houston Rockets,N
+1070,"18,354",Box Score,"Wed, Mar 20, 2019",,8:30p,105,San Antonio Spurs,,110,Miami Heat,N
+1071,"18,203",Box Score,"Wed, Mar 20, 2019",,9:30p,114,Oklahoma City Thunder,OT,123,Toronto Raptors,N
+1072,"19,803",Box Score,"Wed, Mar 20, 2019",,10:00p,126,Portland Trail Blazers,,118,Dallas Mavericks,N
+1073,"15,576",Box Score,"Thu, Mar 21, 2019",,7:00p,113,Charlotte Hornets,,106,Minnesota Timberwolves,N
+1074,"15,986",Box Score,"Thu, Mar 21, 2019",,7:00p,108,Washington Wizards,,113,Denver Nuggets,N
+1075,"15,569",Box Score,"Thu, Mar 21, 2019",,7:30p,117,Atlanta Hawks,,114,Utah Jazz,N
+1076,"16,066",Box Score,"Thu, Mar 21, 2019",,10:00p,98,Phoenix Suns,,118,Detroit Pistons,N
+1077,"17,583",Box Score,"Thu, Mar 21, 2019",,10:00p,116,Sacramento Kings,,100,Dallas Mavericks,N
+1078,"19,596",Box Score,"Thu, Mar 21, 2019",,10:30p,112,Golden State Warriors,,89,Indiana Pacers,N
+1079,"18,025",Box Score,"Fri, Mar 22, 2019",,7:00p,123,Orlando Magic,OT,119,Memphis Grizzlies,N
+1080,"19,432",Box Score,"Fri, Mar 22, 2019",,7:30p,108,Cleveland Cavaliers,,110,Los Angeles Clippers,N
+1081,"19,290",Box Score,"Fri, Mar 22, 2019",,7:30p,93,New York Knicks,,111,Denver Nuggets,N
+1082,"20,014",Box Score,"Fri, Mar 22, 2019",,7:30p,109,Toronto Raptors,,116,Oklahoma City Thunder,N
+1083,"18,055",Box Score,"Fri, Mar 22, 2019",,8:00p,111,Houston Rockets,,105,San Antonio Spurs,N
+1084,"18,094",Box Score,"Fri, Mar 22, 2019",,8:30p,116,Milwaukee Bucks,,87,Miami Heat,N
+1085,"18,997",Box Score,"Fri, Mar 22, 2019",,10:30p,106,Los Angeles Lakers,,111,Brooklyn Nets,N
+1086,"19,438",Box Score,"Sat, Mar 23, 2019",,6:00p,124,Charlotte Hornets,,117,Boston Celtics,N
+1087,"20,409",Box Score,"Sat, Mar 23, 2019",,7:00p,108,Washington Wizards,,113,Miami Heat,N
+1088,"16,640",Box Score,"Sat, Mar 23, 2019",,7:30p,129,Atlanta Hawks,,127,Philadelphia 76ers,N
+1089,"20,506",Box Score,"Sat, Mar 23, 2019",,8:00p,83,Chicago Bulls,,114,Utah Jazz,N
+1090,"16,977",Box Score,"Sat, Mar 23, 2019",,8:00p,99,Memphis Grizzlies,,112,Minnesota Timberwolves,N
+1091,"19,596",Box Score,"Sat, Mar 23, 2019",,8:30p,91,Golden State Warriors,,126,Dallas Mavericks,N
+1092,"19,815",Box Score,"Sat, Mar 23, 2019",,10:00p,117,Portland Trail Blazers,,112,Detroit Pistons,N
+1093,"17,583",Box Score,"Sat, Mar 23, 2019",,10:00p,112,Sacramento Kings,,103,Phoenix Suns,N
+1094,"18,263",Box Score,"Sun, Mar 24, 2019",,12:00p,113,New York Knicks,,124,Los Angeles Clippers,N
+1095,"17,930",Box Score,"Sun, Mar 24, 2019",,4:30p,127,Milwaukee Bucks,,105,Cleveland Cavaliers,N
+1096,"17,923",Box Score,"Sun, Mar 24, 2019",,5:00p,124,Indiana Pacers,,88,Denver Nuggets,N
+1097,"19,800",Box Score,"Sun, Mar 24, 2019",,6:00p,114,Toronto Raptors,,115,Charlotte Hornets,N
+1098,"17,048",Box Score,"Sun, Mar 24, 2019",,7:00p,90,New Orleans Pelicans,,113,Houston Rockets,N
+1099,"18,624",Box Score,"Sun, Mar 24, 2019",,7:30p,96,Boston Celtics,,115,San Antonio Spurs,N
+1100,"19,596",Box Score,"Sun, Mar 24, 2019",,8:30p,121,Golden State Warriors,,114,Detroit Pistons,N
+1101,"18,997",Box Score,"Sun, Mar 24, 2019",,9:30p,111,Los Angeles Lakers,,106,Sacramento Kings,N
+1102,"16,848",Box Score,"Mon, Mar 25, 2019",,7:00p,119,Orlando Magic,,98,Philadelphia 76ers,N
+1103,"15,144",Box Score,"Mon, Mar 25, 2019",,8:00p,115,Memphis Grizzlies,,103,Oklahoma City Thunder,N
+1104,"18,306",Box Score,"Mon, Mar 25, 2019",,9:00p,125,Utah Jazz,,92,Phoenix Suns,N
+1105,"20,188",Box Score,"Mon, Mar 25, 2019",,10:00p,148,Portland Trail Blazers,2OT,144,Brooklyn Nets,N
+1106,"14,227",Box Score,"Tue, Mar 26, 2019",,7:00p,125,Charlotte Hornets,OT,116,San Antonio Spurs,N
+1107,"19,432",Box Score,"Tue, Mar 26, 2019",,7:00p,106,Cleveland Cavaliers,,116,Boston Celtics,N
+1108,"19,704",Box Score,"Tue, Mar 26, 2019",,7:30p,99,Miami Heat,,104,Orlando Magic,N
+1109,"19,800",Box Score,"Tue, Mar 26, 2019",,7:30p,112,Toronto Raptors,,103,Chicago Bulls,N
+1110,"17,910",Box Score,"Tue, Mar 26, 2019",,8:00p,108,Milwaukee Bucks,,94,Houston Rockets,N
+1111,"13,176",Box Score,"Tue, Mar 26, 2019",,8:00p,111,Minnesota Timberwolves,,122,Los Angeles Clippers,N
+1112,"14,751",Box Score,"Tue, Mar 26, 2019",,8:00p,120,New Orleans Pelicans,,130,Atlanta Hawks,N
+1113,"20,168",Box Score,"Tue, Mar 26, 2019",,8:30p,121,Dallas Mavericks,,125,Sacramento Kings,N
+1114,"19,520",Box Score,"Tue, Mar 26, 2019",,9:00p,95,Denver Nuggets,,92,Detroit Pistons,N
+1115,"18,997",Box Score,"Tue, Mar 26, 2019",,10:30p,124,Los Angeles Lakers,,106,Washington Wizards,N
+1116,"20,227",Box Score,"Wed, Mar 27, 2019",,8:00p,98,Chicago Bulls,,118,Portland Trail Blazers,N
+1117,"17,794",Box Score,"Wed, Mar 27, 2019",,8:00p,103,Memphis Grizzlies,,118,Golden State Warriors,N
+1118,"18,203",Box Score,"Wed, Mar 27, 2019",,8:00p,107,Oklahoma City Thunder,,99,Indiana Pacers,N
+1119,"16,004",Box Score,"Wed, Mar 27, 2019",,10:00p,121,Phoenix Suns,,124,Washington Wizards,N
+1120,"18,306",Box Score,"Wed, Mar 27, 2019",,10:30p,115,Utah Jazz,,100,Los Angeles Lakers,N
+1121,"18,128",Box Score,"Thu, Mar 28, 2019",,7:00p,115,Detroit Pistons,,98,Orlando Magic,N
+1122,"20,547",Box Score,"Thu, Mar 28, 2019",,7:00p,123,Philadelphia 76ers,,110,Brooklyn Nets,N
+1123,"19,851",Box Score,"Thu, Mar 28, 2019",,7:30p,105,Miami Heat,,99,Dallas Mavericks,N
+1124,"19,812",Box Score,"Thu, Mar 28, 2019",,7:30p,92,New York Knicks,,117,Toronto Raptors,N
+1125,"18,055",Box Score,"Thu, Mar 28, 2019",,8:00p,112,Houston Rockets,,85,Denver Nuggets,N
+1126,"17,922",Box Score,"Thu, Mar 28, 2019",,8:00p,128,Milwaukee Bucks,,118,Los Angeles Clippers,N
+1127,"13,976",Box Score,"Thu, Mar 28, 2019",,8:00p,121,New Orleans Pelicans,,118,Sacramento Kings,N
+1128,"18,756",Box Score,"Thu, Mar 28, 2019",,8:30p,116,San Antonio Spurs,,110,Cleveland Cavaliers,N
+1129,"18,624",Box Score,"Fri, Mar 29, 2019",,7:00p,114,Boston Celtics,,112,Indiana Pacers,N
+1130,"16,182",Box Score,"Fri, Mar 29, 2019",,7:30p,98,Atlanta Hawks,,118,Portland Trail Blazers,N
+1131,"18,978",Box Score,"Fri, Mar 29, 2019",,8:00p,131,Minnesota Timberwolves,OT,130,Golden State Warriors,N
+1132,"18,203",Box Score,"Fri, Mar 29, 2019",,8:00p,105,Oklahoma City Thunder,,115,Denver Nuggets,N
+1133,"18,306",Box Score,"Fri, Mar 29, 2019",,9:00p,128,Utah Jazz,,124,Washington Wizards,N
+1134,"18,997",Box Score,"Fri, Mar 29, 2019",,10:30p,129,Los Angeles Lakers,,115,Charlotte Hornets,N
+1135,"16,439",Box Score,"Sat, Mar 30, 2019",,3:30p,132,Los Angeles Clippers,,108,Cleveland Cavaliers,N
+1136,"17,732",Box Score,"Sat, Mar 30, 2019",,6:00p,110,Brooklyn Nets,,96,Boston Celtics,N
+1137,"18,055",Box Score,"Sat, Mar 30, 2019",,6:00p,119,Houston Rockets,,108,Sacramento Kings,N
+1138,"18,592",Box Score,"Sat, Mar 30, 2019",,7:00p,99,Detroit Pistons,,90,Portland Trail Blazers,N
+1139,"17,923",Box Score,"Sat, Mar 30, 2019",,7:00p,116,Indiana Pacers,,121,Orlando Magic,N
+1140,"19,812",Box Score,"Sat, Mar 30, 2019",,7:30p,92,New York Knicks,,100,Miami Heat,N
+1141,"21,238",Box Score,"Sat, Mar 30, 2019",,8:00p,101,Chicago Bulls,,124,Toronto Raptors,N
+1142,"18,978",Box Score,"Sat, Mar 30, 2019",,8:00p,109,Minnesota Timberwolves,,118,Philadelphia 76ers,N
+1143,"16,647",Box Score,"Sat, Mar 30, 2019",,10:00p,115,Phoenix Suns,,120,Memphis Grizzlies,N
+1144,"16,660",Box Score,"Sun, Mar 31, 2019",,12:30p,136,Atlanta Hawks,OT,135,Milwaukee Bucks,N
+1145,"18,203",Box Score,"Sun, Mar 31, 2019",,3:30p,103,Oklahoma City Thunder,,106,Dallas Mavericks,N
+1146,"18,562",Box Score,"Sun, Mar 31, 2019",,6:00p,102,New Orleans Pelicans,,130,Los Angeles Lakers,N
+1147,"18,407",Box Score,"Sun, Mar 31, 2019",,7:00p,106,San Antonio Spurs,,113,Sacramento Kings,N
+1148,"17,356",Box Score,"Sun, Mar 31, 2019",,8:00p,90,Denver Nuggets,,95,Washington Wizards,N
+1149,"19,596",Box Score,"Sun, Mar 31, 2019",,8:30p,137,Golden State Warriors,,90,Charlotte Hornets,N
+1150,"16,740",Box Score,"Sun, Mar 31, 2019",,10:30p,113,Los Angeles Clippers,,96,Memphis Grizzlies,N
+1151,"15,760",Box Score,"Mon, Apr 1, 2019",,7:00p,111,Indiana Pacers,,102,Detroit Pistons,N
+1152,"18,624",Box Score,"Mon, Apr 1, 2019",,7:30p,110,Boston Celtics,,105,Miami Heat,N
+1153,"17,732",Box Score,"Mon, Apr 1, 2019",,7:30p,121,Brooklyn Nets,,131,Milwaukee Bucks,N
+1154,"18,874",Box Score,"Mon, Apr 1, 2019",,7:30p,113,New York Knicks,,105,Chicago Bulls,N
+1155,"19,800",Box Score,"Mon, Apr 1, 2019",,7:30p,121,Toronto Raptors,,109,Orlando Magic,N
+1156,"11,209",Box Score,"Mon, Apr 1, 2019",,8:00p,122,Minnesota Timberwolves,,132,Portland Trail Blazers,N
+1157,"19,645",Box Score,"Mon, Apr 1, 2019",,8:30p,122,Dallas Mavericks,,102,Philadelphia 76ers,N
+1158,"18,306",Box Score,"Mon, Apr 1, 2019",,9:00p,111,Utah Jazz,,102,Charlotte Hornets,N
+1159,"14,050",Box Score,"Mon, Apr 1, 2019",,10:00p,122,Phoenix Suns,,113,Cleveland Cavaliers,N
+1160,"18,203",Box Score,"Tue, Apr 2, 2019",,8:00p,119,Oklahoma City Thunder,,103,Los Angeles Lakers,N
+1161,"18,354",Box Score,"Tue, Apr 2, 2019",,8:30p,117,San Antonio Spurs,,111,Atlanta Hawks,N
+1162,"17,583",Box Score,"Tue, Apr 2, 2019",,10:00p,105,Sacramento Kings,,130,Houston Rockets,N
+1163,"19,596",Box Score,"Tue, Apr 2, 2019",,10:30p,116,Golden State Warriors,,102,Denver Nuggets,N
+1164,"18,984",Box Score,"Wed, Apr 3, 2019",,7:00p,89,Detroit Pistons,,108,Indiana Pacers,N
+1165,"18,846",Box Score,"Wed, Apr 3, 2019",,7:00p,114,Orlando Magic,,100,New York Knicks,N
+1166,"16,616",Box Score,"Wed, Apr 3, 2019",,7:00p,114,Washington Wizards,,115,Chicago Bulls,N
+1167,"16,638",Box Score,"Wed, Apr 3, 2019",,7:30p,130,Atlanta Hawks,,122,Philadelphia 76ers,N
+1168,"17,732",Box Score,"Wed, Apr 3, 2019",,7:30p,105,Brooklyn Nets,,115,Toronto Raptors,N
+1169,"19,904",Box Score,"Wed, Apr 3, 2019",,7:30p,102,Miami Heat,,112,Boston Celtics,N
+1170,"16,844",Box Score,"Wed, Apr 3, 2019",,8:00p,109,New Orleans Pelicans,,115,Charlotte Hornets,N
+1171,"19,576",Box Score,"Wed, Apr 3, 2019",,8:30p,108,Dallas Mavericks,,110,Minnesota Timberwolves,N
+1172,"17,643",Box Score,"Wed, Apr 3, 2019",,9:00p,113,Denver Nuggets,,85,San Antonio Spurs,N
+1173,"15,797",Box Score,"Wed, Apr 3, 2019",,10:00p,97,Phoenix Suns,,118,Utah Jazz,N
+1174,"19,608",Box Score,"Wed, Apr 3, 2019",,10:00p,116,Portland Trail Blazers,,89,Memphis Grizzlies,N
+1175,"17,593",Box Score,"Wed, Apr 3, 2019",,10:30p,103,Los Angeles Clippers,,135,Houston Rockets,N
+1176,"20,701",Box Score,"Thu, Apr 4, 2019",,8:00p,122,Philadelphia 76ers,,128,Milwaukee Bucks,N
+1177,"17,583",Box Score,"Thu, Apr 4, 2019",,10:00p,117,Sacramento Kings,,104,Cleveland Cavaliers,N
+1178,"18,997",Box Score,"Thu, Apr 4, 2019",,10:30p,90,Los Angeles Lakers,,108,Golden State Warriors,N
+1179,"18,684",Box Score,"Fri, Apr 5, 2019",,7:00p,113,Charlotte Hornets,,111,Toronto Raptors,N
+1180,"18,999",Box Score,"Fri, Apr 5, 2019",,7:00p,149,Orlando Magic,,113,Atlanta Hawks,N
+1181,"20,409",Box Score,"Fri, Apr 5, 2019",,7:00p,112,Washington Wizards,,129,San Antonio Spurs,N
+1182,"18,055",Box Score,"Fri, Apr 5, 2019",,8:00p,120,Houston Rockets,,96,New York Knicks,N
+1183,"17,371",Box Score,"Fri, Apr 5, 2019",,8:00p,97,Indiana Pacers,,117,Boston Celtics,N
+1184,"17,763",Box Score,"Fri, Apr 5, 2019",,8:00p,111,Minnesota Timberwolves,,109,Miami Heat,N
+1185,"18,203",Box Score,"Fri, Apr 5, 2019",,8:00p,123,Oklahoma City Thunder,,110,Detroit Pistons,N
+1186,"20,111",Box Score,"Fri, Apr 5, 2019",,8:30p,112,Dallas Mavericks,,122,Memphis Grizzlies,N
+1187,"18,306",Box Score,"Fri, Apr 5, 2019",,9:00p,119,Utah Jazz,,98,Sacramento Kings,N
+1188,"16,410",Box Score,"Fri, Apr 5, 2019",,10:00p,133,Phoenix Suns,OT,126,New Orleans Pelicans,N
+1189,"19,928",Box Score,"Fri, Apr 5, 2019",,10:30p,119,Denver Nuggets,,110,Portland Trail Blazers,N
+1190,"19,596",Box Score,"Fri, Apr 5, 2019",,10:30p,120,Golden State Warriors,,114,Cleveland Cavaliers,N
+1191,"17,910",Box Score,"Fri, Apr 5, 2019",,10:30p,117,Los Angeles Clippers,,122,Los Angeles Lakers,N
+1192,"18,116",Box Score,"Sat, Apr 6, 2019",,5:00p,128,Milwaukee Bucks,,133,Brooklyn Nets,N
+1193,"21,059",Box Score,"Sat, Apr 6, 2019",,8:00p,96,Chicago Bulls,,116,Philadelphia 76ers,N
+1194,"19,800",Box Score,"Sun, Apr 7, 2019",,12:00p,117,Toronto Raptors,OT,109,Miami Heat,N
+1195,"19,432",Box Score,"Sun, Apr 7, 2019",,3:00p,90,Cleveland Cavaliers,,112,San Antonio Spurs,N
+1196,"18,978",Box Score,"Sun, Apr 7, 2019",,3:30p,126,Minnesota Timberwolves,,132,Oklahoma City Thunder,N
+1197,"19,871",Box Score,"Sun, Apr 7, 2019",,4:00p,91,Detroit Pistons,,104,Charlotte Hornets,N
+1198,"16,197",Box Score,"Sun, Apr 7, 2019",,5:00p,96,Indiana Pacers,,108,Brooklyn Nets,N
+1199,"16,744",Box Score,"Sun, Apr 7, 2019",,6:00p,127,Memphis Grizzlies,OT,129,Dallas Mavericks,N
+1200,"18,055",Box Score,"Sun, Apr 7, 2019",,7:00p,149,Houston Rockets,,113,Phoenix Suns,N
+1201,"17,775",Box Score,"Sun, Apr 7, 2019",,7:00p,115,Milwaukee Bucks,,107,Atlanta Hawks,N
+1202,"18,624",Box Score,"Sun, Apr 7, 2019",,7:30p,108,Boston Celtics,,116,Orlando Magic,N
+1203,"19,812",Box Score,"Sun, Apr 7, 2019",,7:30p,113,New York Knicks,,110,Washington Wizards,N
+1204,"19,596",Box Score,"Sun, Apr 7, 2019",,8:30p,131,Golden State Warriors,,104,Los Angeles Clippers,N
+1205,"19,890",Box Score,"Sun, Apr 7, 2019",,9:00p,115,Portland Trail Blazers,,108,Denver Nuggets,N
+1206,"17,583",Box Score,"Sun, Apr 7, 2019",,9:00p,129,Sacramento Kings,,133,New Orleans Pelicans,N
+1207,"18,997",Box Score,"Sun, Apr 7, 2019",,9:30p,113,Los Angeles Lakers,,109,Utah Jazz,N
+1208,"19,432",Box Score,"Tue, Apr 9, 2019",,7:00p,97,Cleveland Cavaliers,,124,Charlotte Hornets,N
+1209,"19,802",Box Score,"Tue, Apr 9, 2019",,7:00p,100,Detroit Pistons,,93,Memphis Grizzlies,N
+1210,"20,409",Box Score,"Tue, Apr 9, 2019",,7:00p,110,Washington Wizards,,116,Boston Celtics,N
+1211,"20,153",Box Score,"Tue, Apr 9, 2019",,7:30p,122,Miami Heat,,99,Philadelphia 76ers,N
+1212,"21,350",Box Score,"Tue, Apr 9, 2019",,8:00p,86,Chicago Bulls,,96,New York Knicks,N
+1213,"16,119",Box Score,"Tue, Apr 9, 2019",,8:00p,100,Minnesota Timberwolves,,120,Toronto Raptors,N
+1214,"17,090",Box Score,"Tue, Apr 9, 2019",,8:00p,103,New Orleans Pelicans,,112,Golden State Warriors,N
+1215,"21,041",Box Score,"Tue, Apr 9, 2019",,8:30p,120,Dallas Mavericks,,109,Phoenix Suns,N
+1216,"18,306",Box Score,"Tue, Apr 9, 2019",,9:00p,118,Utah Jazz,,108,Denver Nuggets,N
+1217,"18,203",Box Score,"Tue, Apr 9, 2019",,9:30p,112,Oklahoma City Thunder,,111,Houston Rockets,N
+1218,"18,997",Box Score,"Tue, Apr 9, 2019",,10:30p,101,Los Angeles Lakers,,104,Portland Trail Blazers,N
+1219,"17,143",Box Score,"Wed, Apr 10, 2019",,8:00p,134,Atlanta Hawks,,135,Indiana Pacers,N
+1220,"17,732",Box Score,"Wed, Apr 10, 2019",,8:00p,113,Brooklyn Nets,,94,Miami Heat,N
+1221,"17,719",Box Score,"Wed, Apr 10, 2019",,8:00p,114,Charlotte Hornets,,122,Orlando Magic,N
+1222,"17,794",Box Score,"Wed, Apr 10, 2019",,8:00p,132,Memphis Grizzlies,,117,Golden State Warriors,N
+1223,"18,082",Box Score,"Wed, Apr 10, 2019",,8:00p,116,Milwaukee Bucks,,127,Oklahoma City Thunder,N
+1224,"19,812",Box Score,"Wed, Apr 10, 2019",,8:00p,89,New York Knicks,,115,Detroit Pistons,N
+1225,"20,197",Box Score,"Wed, Apr 10, 2019",,8:00p,125,Philadelphia 76ers,,109,Chicago Bulls,N
+1226,"18,629",Box Score,"Wed, Apr 10, 2019",,8:00p,105,San Antonio Spurs,,94,Dallas Mavericks,N
+1227,"16,332",Box Score,"Wed, Apr 10, 2019",,10:30p,99,Denver Nuggets,,95,Minnesota Timberwolves,N
+1228,"17,655",Box Score,"Wed, Apr 10, 2019",,10:30p,143,Los Angeles Clippers,OT,137,Utah Jazz,N
+1229,"19,814",Box Score,"Wed, Apr 10, 2019",,10:30p,136,Portland Trail Blazers,,131,Sacramento Kings,N
+1230,"20,437",Box Score,"Sat, Apr 13, 2019",,2:30p,102,Philadelphia 76ers,,111,Brooklyn Nets,N
+1231,"19,937",Box Score,"Sat, Apr 13, 2019",,5:00p,101,Toronto Raptors,,104,Orlando Magic,Y
+1232,"19,596",Box Score,"Sat, Apr 13, 2019",,8:00p,121,Golden State Warriors,,104,Los Angeles Clippers,Y
+1233,"19,520",Box Score,"Sat, Apr 13, 2019",,10:30p,96,Denver Nuggets,,101,San Antonio Spurs,Y
+1234,"18,624",Box Score,"Sun, Apr 14, 2019",,1:00p,84,Boston Celtics,,74,Indiana Pacers,Y
+1235,"19,886",Box Score,"Sun, Apr 14, 2019",,3:30p,104,Portland Trail Blazers,,99,Oklahoma City Thunder,Y
+1236,"17,529",Box Score,"Sun, Apr 14, 2019",,7:00p,121,Milwaukee Bucks,,86,Detroit Pistons,Y
+1237,"18,055",Box Score,"Sun, Apr 14, 2019",,9:30p,122,Houston Rockets,,90,Utah Jazz,Y
+1238,"20,591",Box Score,"Mon, Apr 15, 2019",,8:00p,145,Philadelphia 76ers,,123,Brooklyn Nets,Y
+1239,"19,596",Box Score,"Mon, Apr 15, 2019",,10:30p,131,Golden State Warriors,,135,Los Angeles Clippers,Y
+1240,"19,964",Box Score,"Tue, Apr 16, 2019",,8:00p,111,Toronto Raptors,,82,Orlando Magic,Y
+1241,"19,520",Box Score,"Tue, Apr 16, 2019",,9:00p,114,Denver Nuggets,,105,San Antonio Spurs,Y
+1242,"20,041",Box Score,"Tue, Apr 16, 2019",,10:30p,114,Portland Trail Blazers,,94,Oklahoma City Thunder,Y
+1243,"18,624",Box Score,"Wed, Apr 17, 2019",,7:00p,99,Boston Celtics,,91,Indiana Pacers,Y
+1244,"17,513",Box Score,"Wed, Apr 17, 2019",,8:00p,120,Milwaukee Bucks,,99,Detroit Pistons,Y
+1245,"18,055",Box Score,"Wed, Apr 17, 2019",,9:30p,118,Houston Rockets,,98,Utah Jazz,Y
+1246,"17,732",Box Score,"Thu, Apr 18, 2019",,8:00p,115,Brooklyn Nets,,131,Philadelphia 76ers,Y
+1247,"18,354",Box Score,"Thu, Apr 18, 2019",,9:00p,118,San Antonio Spurs,,108,Denver Nuggets,Y
+1248,"19,068",Box Score,"Thu, Apr 18, 2019",,10:30p,105,Los Angeles Clippers,,132,Golden State Warriors,Y
+1249,"19,367",Box Score,"Fri, Apr 19, 2019",,7:00p,93,Orlando Magic,,98,Toronto Raptors,Y
+1250,"17,923",Box Score,"Fri, Apr 19, 2019",,8:30p,96,Indiana Pacers,,104,Boston Celtics,Y
+1251,"18,203",Box Score,"Fri, Apr 19, 2019",,9:30p,120,Oklahoma City Thunder,,108,Portland Trail Blazers,Y
+1252,"17,732",Box Score,"Sat, Apr 20, 2019",,3:00p,108,Brooklyn Nets,,112,Philadelphia 76ers,Y
+1253,"18,354",Box Score,"Sat, Apr 20, 2019",,5:30p,103,San Antonio Spurs,,117,Denver Nuggets,Y
+1254,"20,520",Box Score,"Sat, Apr 20, 2019",,8:00p,103,Detroit Pistons,,119,Milwaukee Bucks,Y
+1255,"18,306",Box Score,"Sat, Apr 20, 2019",,10:30p,101,Utah Jazz,,104,Houston Rockets,Y
+1256,"17,923",Box Score,"Sun, Apr 21, 2019",,1:00p,106,Indiana Pacers,,110,Boston Celtics,Y
+1257,"19,068",Box Score,"Sun, Apr 21, 2019",,3:30p,105,Los Angeles Clippers,,113,Golden State Warriors,Y
+1258,"19,087",Box Score,"Sun, Apr 21, 2019",,7:00p,85,Orlando Magic,,107,Toronto Raptors,Y
+1259,"18,203",Box Score,"Sun, Apr 21, 2019",,9:30p,98,Oklahoma City Thunder,,111,Portland Trail Blazers,Y
+1260,"20,332",Box Score,"Mon, Apr 22, 2019",,8:00p,104,Detroit Pistons,,127,Milwaukee Bucks,Y
+1261,"18,306",Box Score,"Mon, Apr 22, 2019",,10:30p,107,Utah Jazz,,91,Houston Rockets,Y
+1262,"19,800",Box Score,"Tue, Apr 23, 2019",,7:00p,115,Toronto Raptors,,96,Orlando Magic,Y
+1263,"20,595",Box Score,"Tue, Apr 23, 2019",,8:00p,122,Philadelphia 76ers,,100,Brooklyn Nets,Y
+1264,"19,520",Box Score,"Tue, Apr 23, 2019",,9:30p,108,Denver Nuggets,,90,San Antonio Spurs,Y
+1265,"20,241",Box Score,"Tue, Apr 23, 2019",,10:30p,118,Portland Trail Blazers,,115,Oklahoma City Thunder,Y
+1266,"18,055",Box Score,"Wed, Apr 24, 2019",,8:00p,100,Houston Rockets,,93,Utah Jazz,Y
+1267,"19,596",Box Score,"Wed, Apr 24, 2019",,10:30p,121,Golden State Warriors,,129,Los Angeles Clippers,Y
+1268,"18,354",Box Score,"Thu, Apr 25, 2019",,8:00p,120,San Antonio Spurs,,103,Denver Nuggets,Y
+1269,"19,068",Box Score,"Fri, Apr 26, 2019",,10:00p,110,Los Angeles Clippers,,129,Golden State Warriors,Y
+1270,"19,800",Box Score,"Sat, Apr 27, 2019",,7:30p,108,Toronto Raptors,,95,Philadelphia 76ers,Y
+1271,"19,725",Box Score,"Sat, Apr 27, 2019",,10:00p,90,Denver Nuggets,,86,San Antonio Spurs,Y
+1272,"17,561",Box Score,"Sun, Apr 28, 2019",,1:00p,90,Milwaukee Bucks,,112,Boston Celtics,Y
+1273,"19,596",Box Score,"Sun, Apr 28, 2019",,3:30p,104,Golden State Warriors,,100,Houston Rockets,Y
+1274,"19,800",Box Score,"Mon, Apr 29, 2019",,8:00p,89,Toronto Raptors,,94,Philadelphia 76ers,Y
+1275,"19,520",Box Score,"Mon, Apr 29, 2019",,10:30p,121,Denver Nuggets,,113,Portland Trail Blazers,Y
+1276,"17,536",Box Score,"Tue, Apr 30, 2019",,8:00p,123,Milwaukee Bucks,,102,Boston Celtics,Y
+1277,"19,596",Box Score,"Tue, Apr 30, 2019",,10:30p,115,Golden State Warriors,,109,Houston Rockets,Y
+1278,"19,520",Box Score,"Wed, May 1, 2019",,9:00p,90,Denver Nuggets,,97,Portland Trail Blazers,Y
+1279,"20,658",Box Score,"Thu, May 2, 2019",,8:00p,116,Philadelphia 76ers,,95,Toronto Raptors,Y
+1280,"18,624",Box Score,"Fri, May 3, 2019",,8:00p,116,Boston Celtics,,123,Milwaukee Bucks,Y
+1281,"20,193",Box Score,"Fri, May 3, 2019",,10:30p,140,Portland Trail Blazers,4OT,137,Denver Nuggets,Y
+1282,"18,169",Box Score,"Sat, May 4, 2019",,8:30p,126,Houston Rockets,OT,121,Golden State Warriors,Y
+1283,"20,639",Box Score,"Sun, May 5, 2019",,3:30p,96,Philadelphia 76ers,,101,Toronto Raptors,Y
+1284,"20,146",Box Score,"Sun, May 5, 2019",,7:00p,112,Portland Trail Blazers,,116,Denver Nuggets,Y
+1285,"18,624",Box Score,"Mon, May 6, 2019",,7:00p,101,Boston Celtics,,113,Milwaukee Bucks,Y
+1286,"18,055",Box Score,"Mon, May 6, 2019",,9:30p,112,Houston Rockets,,108,Golden State Warriors,Y
+1287,"20,287",Box Score,"Tue, May 7, 2019",,8:00p,125,Toronto Raptors,,89,Philadelphia 76ers,Y
+1288,"19,520",Box Score,"Tue, May 7, 2019",,10:30p,124,Denver Nuggets,,98,Portland Trail Blazers,Y
+1289,"17,701",Box Score,"Wed, May 8, 2019",,8:00p,116,Milwaukee Bucks,,91,Boston Celtics,Y
+1290,"19,596",Box Score,"Wed, May 8, 2019",,10:30p,104,Golden State Warriors,,99,Houston Rockets,Y
+1291,"20,525",Box Score,"Thu, May 9, 2019",,8:00p,112,Philadelphia 76ers,,101,Toronto Raptors,Y
+1292,"20,022",Box Score,"Thu, May 9, 2019",,10:30p,119,Portland Trail Blazers,,108,Denver Nuggets,Y
+1293,"18,055",Box Score,"Fri, May 10, 2019",,9:00p,113,Houston Rockets,,118,Golden State Warriors,Y
+1294,"19,725",Box Score,"Sun, May 12, 2019",,3:30p,96,Denver Nuggets,,100,Portland Trail Blazers,Y
+1295,"20,917",Box Score,"Sun, May 12, 2019",,7:00p,92,Toronto Raptors,,90,Philadelphia 76ers,Y
+1296,"19,596",Box Score,"Tue, May 14, 2019",,9:00p,116,Golden State Warriors,,94,Portland Trail Blazers,Y
+1297,"17,345",Box Score,"Wed, May 15, 2019",,8:30p,108,Milwaukee Bucks,,100,Toronto Raptors,Y
+1298,"19,596",Box Score,"Thu, May 16, 2019",,9:00p,114,Golden State Warriors,,111,Portland Trail Blazers,Y
+1299,"17,570",Box Score,"Fri, May 17, 2019",,8:30p,125,Milwaukee Bucks,,103,Toronto Raptors,Y
+1300,"20,214",Box Score,"Sat, May 18, 2019",,9:00p,99,Portland Trail Blazers,,110,Golden State Warriors,Y
+1301,"19,923",Box Score,"Sun, May 19, 2019",,7:00p,118,Toronto Raptors,2OT,112,Milwaukee Bucks,Y
+1302,"20,064",Box Score,"Mon, May 20, 2019",,9:00p,117,Portland Trail Blazers,OT,119,Golden State Warriors,Y
+1303,"20,237",Box Score,"Tue, May 21, 2019",,8:30p,120,Toronto Raptors,,102,Milwaukee Bucks,Y
+1304,"17,384",Box Score,"Thu, May 23, 2019",,8:30p,99,Milwaukee Bucks,,105,Toronto Raptors,Y
+1305,"20,478",Box Score,"Sat, May 25, 2019",,8:30p,100,Toronto Raptors,,94,Milwaukee Bucks,Y
+1306,"19,983",Box Score,"Thu, May 30, 2019",,9:00p,118,Toronto Raptors,,109,Golden State Warriors,Y
+1307,"20,014",Box Score,"Sun, Jun 2, 2019",,8:00p,104,Toronto Raptors,,109,Golden State Warriors,Y
+1308,"19,596",Box Score,"Wed, Jun 5, 2019",,9:00p,109,Golden State Warriors,,123,Toronto Raptors,Y
+1309,"19,596",Box Score,"Fri, Jun 7, 2019",,9:00p,92,Golden State Warriors,,105,Toronto Raptors,Y
+1310,"20,144",Box Score,"Mon, Jun 10, 2019",,9:00p,105,Toronto Raptors,,106,Golden State Warriors,Y
+1311,"19,596",Box Score,"Thu, Jun 13, 2019",,9:00p,110,Golden State Warriors,,114,Toronto Raptors,Y
