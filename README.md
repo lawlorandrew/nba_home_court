@@ -7,3 +7,5 @@ To run
 3. Running python3 processors/process_games.py will process the games
 4. Running python3 home_court.py will run analysis and generate graphs
 5. Running python3 home_court_2021.py will run analysis for 2020-21-specific items like series, etc.
+
+Graphs available under /output
